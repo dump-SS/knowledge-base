@@ -12,13 +12,23 @@
 | `FEISHU_APP_SECRET` | `<YOUR_APP_SECRET>` | 自建应用 App Secret（运行时通过环境变量注入，不入库） |
 | `FEISHU_APP_TOKEN` | `O2RjbZumkaUSgnsIn1ycRBz9nxc` | wiki 节点 token，**可能不是真 app_token**（见下） |
 | `FEISHU_TABLE_ID` | `tblzknUXSe7iUfm9` | 数据表 ID |
-| `AGENT_NAME` | 必填，无默认值 | 本 agent 唯一名字，回写「负责Agent」字段用 |
+| `AGENT_NAME` | 必填，无默认值 | 本 agent 唯一名字，回写「负责Agent」字段用。命名规范：`agent-{学科拼音}-{两位序号}`，如 `agent-sx-01`、`agent-yw-02` |
+| `FEISHU_SUBJECT` | 空（不限定） | 可选，限定本 agent 只抢该学科任务，如 `高中数学`；多 agent 按学科分工时必填 |
 
-缺少 `AGENT_NAME` 时立即报错退出，不得使用随机名。
+缺少 `AGENT_NAME` 时立即报错退出，不得使用随机名；禁止两个 agent 使用同名，否则乐观锁校验会误判归属。
+
+# 多 Agent 按学科分工（推荐配置）
+
+多 agent 部署时，推荐按学科静态分区，从源头消除抢占冲突：
+
+1. 每个 agent 通过 `FEISHU_SUBJECT` 限定只抢自己学科的待执行任务（如 `agent-sx-01` 配 `高中数学`、`agent-yw-01` 配 `高中语文`）
+2. 学科划分必须**互斥且完备**：各 agent 学科无重叠，且覆盖全部要跑的学科
+3. 本 agent 学科任务耗尽时，睡眠 30 秒后继续等待，**禁止越界抢其他学科任务**
+4. 乐观锁（PUT→GET 校验）**必须保留**作为兜底：分工是软约束（靠配置与自觉），乐观锁是硬保证（防配置错误与行为偏差）
 
 # 第一步：换取真正的 app_token
 
-`FEISHU_APP_TOKEN` 若**不是 `bascn` 开头**，说明它是 wiki 节点 token，必须先调用知识库接口换取真正的多维表格 app_token：
+`FEISHU_APP_TOKEN` 前缀**不必是 `bascn`**，统一先调用知识库接口换取真正的多维表格 app_token：
 
 ```bash
 curl -s -X GET "https://open.feishu.cn/open-apis/wiki/v2/spaces/get_node?token=${FEISHU_APP_TOKEN}&obj_type=bitable" \
@@ -73,12 +83,14 @@ curl -s -X POST "https://open.feishu.cn/open-apis/bitable/v1/apps/${FEISHU_APP_T
     "filter": {
       "conjunction": "and",
       "conditions": [
-        {"field_name": "状态", "operator": "is", "value": ["待执行"]}
+        {"field_name": "状态", "operator": "is", "value": ["待执行"]},
+        {"field_name": "学科", "operator": "is", "value": ["${FEISHU_SUBJECT}"]}
       ]
     }
   }'
 ```
 
+- 若 `FEISHU_SUBJECT` 为空（单 agent 不限学科），省略「学科」条件；多 agent 按学科分工时**必须**带该条件。
 - 返回 `code=0`，`data.items` 为空数组 → 无待执行任务，走「睡眠 30 秒」。
 - 有数据 → 取第一条的 `record_id` 和 `fields`（重点是「学科」「模块」）。
   - 「学科」「模块」是**文本字段**，API 返回为数组，取首项的 `text` 得到真实字符串；禁止用示例值或默认值替代真实任务。
@@ -86,7 +98,7 @@ curl -s -X POST "https://open.feishu.cn/open-apis/bitable/v1/apps/${FEISHU_APP_T
 ## 4.2 PUT 抢占该记录
 
 ```bash
-NOW=$(date +%s000)   # 13 位毫秒时间戳，须是数字
+NOW=$(date +%s000)   # 13 位毫秒时间戳，文本字段写字符串
 curl -s -X PUT "https://open.feishu.cn/open-apis/bitable/v1/apps/${FEISHU_APP_TOKEN}/tables/${FEISHU_TABLE_ID}/records/${record_id}" \
   -H "Authorization: Bearer ${tenant_access_token}" \
   -H "Content-Type: application/json; charset=utf-8" \
@@ -94,7 +106,7 @@ curl -s -X PUT "https://open.feishu.cn/open-apis/bitable/v1/apps/${FEISHU_APP_TO
     "fields": {
       "状态": "执行中",
       "负责Agent": "'${AGENT_NAME}'",
-      "开始时间": '${NOW}'
+      "开始时间": "'${NOW}'"
     }
   }'
 ```
@@ -127,7 +139,7 @@ curl -s -X PUT "https://open.feishu.cn/open-apis/bitable/v1/apps/${FEISHU_APP_TO
   -d '{
     "fields": {
       "状态": "完成",
-      "结束时间": '${END}',
+      "结束时间": "'${END}'",
       "产出条数": 42,
       "校验结果": "待校验",
       "备注": "本单元生成 42 条知识点"
