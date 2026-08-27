@@ -57,13 +57,13 @@ def main():
         cur = cur[0]["text"] if isinstance(cur, list) else cur
         print(json.dumps({"responsible": cur, "match": cur == agent}, ensure_ascii=False))
     elif a == "writeback":
-        rid, count, fname = sys.argv[5], int(sys.argv[6]), sys.argv[7]
+        rid, count, fname, agent = sys.argv[5], int(sys.argv[6]), sys.argv[7], sys.argv[8]
         r = put(app, table, token, rid, {
             "状态": "完成",
             "结束时间": now_ms(),
             "产出条数": count,
             "校验结果": "通过",
-            "负责Agent": "agent-ls-01",
+            "负责Agent": agent,
             "备注": fname,
         })
         print(json.dumps(r, ensure_ascii=False))
