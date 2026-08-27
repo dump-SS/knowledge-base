@@ -2,7 +2,7 @@
   "module_path": "英语（外研版2019） 必修 第一册 Unit 4 Friends Forever",
   "l2_points": [
     {
-      "id": "YY_WY_G1_B4_U4_001",
+      "id": "YY_WY_G1_B1_U4_001",
       "name": "who 引导定语从句指人",
       "definition": "用关系代词 who 引导定语从句来修饰指人的先行词。",
       "explanation": "你描述一个人时可用 who 引导定语从句，who 在从句中作主语。比如 a friend who helps me 中 who 指人且作主语。后面直接接谓语动词，无人称变化。写朋友介绍时用 who 让描述更丰富，注意 who 前后的动词与被修饰主语要保持一致。",
@@ -24,7 +24,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B4_U4_002",
+      "id": "YY_WY_G1_B1_U4_002",
       "name": "whom 作宾语指人",
       "definition": "whom 引导定语从句并作从句宾语、修饰指人先行词的用法。",
       "explanation": "你描述一个被某动作针对的人时，若关系词在从句中作宾语，指人用 whom。比如 the friend whom you trust，whom 作 trust 的宾语。在正式书面语中作宾语常用 whom，口语中常省略或用 who 替代。写英语时你按从句动词是否缺宾语来判断用 whom 才更准确。",
@@ -43,12 +43,12 @@
         "关系代词"
       ],
       "prerequisites": [
-        "YY_WY_G1_B4_U4_001"
+        "YY_WY_G1_B1_U4_001"
       ],
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B4_U4_003",
+      "id": "YY_WY_G1_B1_U4_003",
       "name": "which 引导指物定语",
       "definition": "用 which 引导定语从句修饰先行词为事物的名词。",
       "explanation": "你描述一个物品或抽象事物时用 which，在从句中作主语或宾语。比如 a gift which I bought，which 作 bought 的宾语。作宾语时可省略，作主语不可省略。写友谊话题中的礼物等名词时搭配 which 引出描述，让句子信息更完整。注意指物才用 which。",
@@ -67,12 +67,12 @@
         "先行词"
       ],
       "prerequisites": [
-        "YY_WY_G1_B4_U4_001"
+        "YY_WY_G1_B1_U4_001"
       ],
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B4_U4_004",
+      "id": "YY_WY_G1_B1_U4_004",
       "name": "非限定性定语从句用法",
       "definition": "对先行词仅作补充说明、不限定范围的非限制性定语从句。",
       "explanation": "你写完主句后想补充说明某人或某物时用非限定性定语从句，用逗号隔开，去掉后句子仍完整。例如 My friend, who is kind, helps me a lot，这里 who 从句只是补充朋友善良。它不能用 that 引导，指物用 which，指人用 who。写高级作文用它可让句子更流畅有层次。",
@@ -91,12 +91,12 @@
         "that"
       ],
       "prerequisites": [
-        "YY_WY_G1_B4_U4_001"
+        "YY_WY_G1_B1_U4_001"
       ],
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B4_U4_005",
+      "id": "YY_WY_G1_B1_U4_005",
       "name": "which 与 who 的选择",
       "definition": "依据先行词指人或指物决定关系代词用 who 还是 which。",
       "explanation": "你遇到选 which 还是 who 的题时，关键是先看先行词指的是人还是物。指人填 who，指物填 which，再确认在从句中作主语还是宾语以决定是否可省略。综合判断时既要看指代对象，也要看从句成分。多练几道含人与物的对照题，你的直觉就会清晰起来。",
@@ -115,14 +115,14 @@
         "指人指物"
       ],
       "prerequisites": [
-        "YY_WY_G1_B4_U4_001",
-        "YY_WY_G1_B4_U4_002",
-        "YY_WY_G1_B4_U4_003"
+        "YY_WY_G1_B1_U4_001",
+        "YY_WY_G1_B1_U4_002",
+        "YY_WY_G1_B1_U4_003"
       ],
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B4_U4_006",
+      "id": "YY_WY_G1_B1_U4_006",
       "name": "时态在从句中的呼应",
       "definition": "主句与定语从句在时间逻辑下保持时态协调的用法。",
       "explanation": "你写含定语从句的长句时，要按时间逻辑决定主句和从句的时态。若主句用过去时描述过去事件，从句常与之呼应；若从句表示主动经常发生的动作也可用一般现在时。比如 The friend whom you met yesterday 中用过去时。你需要从时间状语与前后文判断，让两句时态相互协调不突兀。",
@@ -144,7 +144,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B4_U4_007",
+      "id": "YY_WY_G1_B1_U4_007",
       "name": "友谊主题核心词汇",
       "definition": "描述友谊与朋友相处关系的核心英语词汇。",
       "explanation": "你写友谊话题会遇到 loyal 忠诚的、trust 信任、honest 诚实的、share 分享等词。可以说 a loyal friend 一位忠诚的朋友，再谈 trust 彼此信任。作文表达友谊可贵时用这些词比泛泛而谈更有力量。记忆时把形容品格的形容词与表达行为的名词分组归类，写作调用更顺手。",
@@ -166,7 +166,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B4_U4_008",
+      "id": "YY_WY_G1_B1_U4_008",
       "name": "表示朋友关系的名词短语",
       "definition": "描述不同类别朋友关系及相处状态的名词短语表达。",
       "explanation": "你讨论朋友关系时可用 best friend 最好的朋友、close friend 亲密朋友、schoolmate 校友、companion 同伴等词。区分 the closest 亲密程度不同的朋友会让表达更精准。写友谊作文时用这类短语描述朋友类型，再搭配动词介绍朋友相处的情境，能提升描写的层次感。",
@@ -188,7 +188,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B4_U4_009",
+      "id": "YY_WY_G1_B1_U4_009",
       "name": "应对分歧的动词短语",
       "definition": "描述朋友间解决分歧与维持友谊的常用动词短语。",
       "explanation": "你讨论朋友偶有误会时用这些短语：make up 和好、forgive 原谅、get on well with 与相处融洽、work out 想通。可以说 They had a quarrel but soon made up 来表示吵架很快和好。写处理友情矛盾的作文时，用这些动词串联从争吵到和解的过程，表达就会自然流畅。",
@@ -210,7 +210,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B4_U4_010",
+      "id": "YY_WY_G1_B1_U4_010",
       "name": "表达支持与陪伴的动词",
       "definition": "描述朋友在困难时给予支持陪伴所用动词的用法。",
       "explanation": "你想要对方朋友支持与陪伴时可用 support、stand by 支持陪伴、encourage 鼓励、accompany 陪同等动词。比如 he always encourages me 表示他总是鼓励我。表示一直在你身边可说 stay by your side。写朋友间守望相助的表达时说 he offered me great support 更为地道自然。",
@@ -232,7 +232,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B4_U4_011",
+      "id": "YY_WY_G1_B1_U4_011",
       "name": "描述人物特征的形容位置",
       "definition": "多个形容词或从句修饰人时安排顺序与位置的用法。",
       "explanation": "你描述朋友时会把形容词和定语从句组合起来定位他的特点。单个形容词放名词前，定语从句紧跟名词之后，比如 a kind friend who always helps me。写长描写时注意定语从句要紧贴先行词，不要被中间成分隔开造成歧义。位置正确句子读起来才清晰顺畅。",
@@ -254,7 +254,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B4_U4_012",
+      "id": "YY_WY_G1_B1_U4_012",
       "name": "比较级表达关系深浅",
       "definition": "用比较级表达朋友之间关系亲密程度的相对差异。",
       "explanation": "你想比较朋友关系深浅时用比较级或最高级。比如 closer 更亲密、the closest 最亲密，还可说 like a brother to me 就像我兄弟。写作文时常说 she is the closest friend I've ever had 用最高级强调。注意比较级后接 than，最高级前用 the 且说明范围，位置别弄错。",

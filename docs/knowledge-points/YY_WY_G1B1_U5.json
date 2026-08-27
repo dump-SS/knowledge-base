@@ -2,7 +2,7 @@
   "module_path": "英语（外研版2019） 必修 第一册 Unit 5 Into the Wild",
   "l2_points": [
     {
-      "id": "YY_WY_G1_B5_U5_001",
+      "id": "YY_WY_G1_B1_U5_001",
       "name": "that 引导定语从句",
       "definition": "用关系代词 that 引导修饰人或物的定语从句。",
       "explanation": "你描述人或物都可用 that 作关系代词，可指人也可指物，比 who 或 which 适用范围更广。比如 an animal that lives in the forest 中 that 指动物作主语。that 在从句中既可作主语又可作宾语，作宾语时可省略。写自然主题描述动物时用 that 很方便。",
@@ -24,7 +24,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B5_U5_002",
+      "id": "YY_WY_G1_B1_U5_002",
       "name": "关系词作宾语可省略",
       "definition": "关系代词在定语从句中作宾语时省略的规则。",
       "explanation": "you 若关系词 that、which、whom 在定语从句中作宾语，可以省略不写。比如 the animal (that) we protect，that 作 protect 的宾语即可省。但作主语时绝不能省，因为句子的主语就靠它承担。做题时先判断关系词在从句中扮演主语还是宾语，再决定能否省略。",
@@ -43,12 +43,12 @@
         "定语从句"
       ],
       "prerequisites": [
-        "YY_WY_G1_B5_U5_001"
+        "YY_WY_G1_B1_U5_001"
       ],
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B5_U5_003",
+      "id": "YY_WY_G1_B1_U5_003",
       "name": "that 与 which 选词",
       "definition": "限定性定语从句中用 that 或 which 指物的选词依据。",
       "explanation": "你指物时可限定从句里用 that 或 which 均可，但一些固定情形下 that 更受青睐，如先行词被最高级、序数词或 everything、all 等词修饰时多用 that。而 which 常作补充或正式书面表达。做题时若看到先行词有这类前置修饰词，优先考虑 that 更稳妥合理。",
@@ -67,12 +67,12 @@
         "选词"
       ],
       "prerequisites": [
-        "YY_WY_G1_B5_U5_001"
+        "YY_WY_G1_B1_U5_001"
       ],
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B5_U5_004",
+      "id": "YY_WY_G1_B1_U5_004",
       "name": "关系副词 where 引导从句",
       "definition": "先行词表地点时用关系副词 where 引导定语从句。",
       "explanation": "你描述地点或场所时，若先行词表地点且关系词在从句中作地点状语，用 where 引导。比如 a forest where animals live 中 where 指在森林里。注意它作状语而非名词成分，与 which 等代词不同。写野外生境介绍时用 where 引出动物栖息地，表达会很自然。",
@@ -91,12 +91,12 @@
         "定语从句"
       ],
       "prerequisites": [
-        "YY_WY_G1_B5_U5_001"
+        "YY_WY_G1_B1_U5_001"
       ],
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B5_U5_005",
+      "id": "YY_WY_G1_B1_U5_005",
       "name": "关系词作主语的主谓一致",
       "definition": "关系词作主语时从句谓语须与先行词保持一致的规则。",
       "explanation": "当关系词在定语从句中作主语时，从句的谓语动词要与先行词的单复数保持一致。比如 The animal that lives here 中 lives 与单数 animal 匹配，若是复数 animals 则用 live。写描述性定语从句时要先看清先行词是单数还是复数，再决定从句谓语形式，这是常见的易错点。",
@@ -115,12 +115,12 @@
         "定语从句"
       ],
       "prerequisites": [
-        "YY_WY_G1_B5_U5_001"
+        "YY_WY_G1_B1_U5_001"
       ],
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B5_U5_006",
+      "id": "YY_WY_G1_B1_U5_006",
       "name": "人与自然的野外词汇",
       "definition": "描述野生动植物与其栖息环境的核心英语词汇。",
       "explanation": "你写自然野外主题会用到 wildlife 野生动物、habitat 栖息地、forest 森林、species 物种、wild 野生的等词。比如 the natural habitat 自然栖息地，protect rare species 保护珍稀物种。记忆时把表示动物、表示环境、表示保护的词分别归类，写作时准确调用单词会更有现场感。",
@@ -142,7 +142,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B5_U5_007",
+      "id": "YY_WY_G1_B1_U5_007",
       "name": "描述动物特点的词汇",
       "definition": "描述动物外形特征与生活习性的常用形容词词汇。",
       "explanation": "你描写动物时常用 golden 金色的、rapid 迅速的、fierce 凶猛的、friendly 友好的等形容词。可以说 a rapid runner 快速的奔跑者或 a fierce appearance 凶猛的外表。记忆时可把描述外表和描述习性的词分组记，写说明文介绍一种动物时可用这些词丰富细节。",
@@ -164,7 +164,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B5_U5_008",
+      "id": "YY_WY_G1_B1_U5_008",
       "name": "描述动物动作的动词短语",
       "definition": "描述动物活动与移动方式的常用动词及短语。",
       "explanation": "你介绍动物行为时常用 fly 飞行、hunt 捕猎、breed 繁殖、migrate 迁徙、hibernate 冬眠等动词。描述单只动物时注意动词加 s，比如 a bird migrates south in winter 表示鸟儿冬天南迁。记忆时可把进食、移动、繁衍动作分组，写动物习作时用起来更有条理。",
@@ -186,7 +186,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B5_U5_009",
+      "id": "YY_WY_G1_B1_U5_009",
       "name": "程度副词修饰形容词位置",
       "definition": "程度副词修饰形容词时摆放位置与搭配的用法。",
       "explanation": "你想强调动物特点程度时用 very、quite、extremely 等程度副词，放在形容词之前一起修饰名词。比如 extremely dangerous 极其危险。注意这些副词修饰形容词而非名词，别放错位置变成修饰名词。写描述时把握好数量和位置，语气就更有力度，表达也准确。",
@@ -208,7 +208,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B5_U5_010",
+      "id": "YY_WY_G1_B1_U5_010",
       "name": "一般现在时描述自然规律",
       "definition": "用一般现在时陈述自然现象与动物客观规律的方法。",
       "explanation": "你介绍自然规律或动物习性时用一般现在时，因为这类内容具有客观真理性。比如 Birds fly south in winter，用以表示客观迁徙规律，不因时间点改变。第三人称单数注意加 s。写科普说明文介绍动物习性时，用一般现在时整篇表达会更显客观可靠。",
@@ -230,7 +230,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B5_U5_011",
+      "id": "YY_WY_G1_B1_U5_011",
       "name": "保护动物的建议表达",
       "definition": "用情态建议句式表达保护动物的措施与建议。",
       "explanation": "你表达保护动物建议时通常用 We should 或 It is important to 等句型。比如 We should protect endangered animals 表示我们应该保护濒危动物。should 后接动词原形，这个句式既表达义务又语气得当。写环保类建议的作文时，用这类句式一条条提出措施逻辑清晰。",
@@ -252,7 +252,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B5_U5_012",
+      "id": "YY_WY_G1_B1_U5_012",
       "name": "定语从句与主句的衔接",
       "definition": "主句与定语从句连接时保持结构连贯的正确方法。",
       "explanation": "你把主句和定语从句连成长句时，要先把先行词找出来放在从句之前，再用关系词把从句与它相接。顺序是先写主句的核心，再顺势引出修饰成分。比如 The panda, which lives in China, is lovely 中先写主句再补充修饰。写长句时保持主句结构完整，从句紧扣先行词才连贯。",
@@ -271,7 +271,7 @@
         "先行词"
       ],
       "prerequisites": [
-        "YY_WY_G1_B5_U5_001"
+        "YY_WY_G1_B1_U5_001"
       ],
       "source_version": "外研版2019"
     }

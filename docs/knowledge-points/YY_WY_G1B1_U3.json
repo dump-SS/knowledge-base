@@ -2,7 +2,7 @@
   "module_path": "英语（外研版2019） 必修 第一册 Unit 3 Family Matters",
   "l2_points": [
     {
-      "id": "YY_WY_G1_B3_U3_001",
+      "id": "YY_WY_G1_B1_U3_001",
       "name": "should 表示建议",
       "definition": "用情态动词 should 提出建议或认为理应去做某事。",
       "explanation": "你向他人提出建议时用 should，意思是应该。它后接动词原形，无人称变化。比如 You should help your parents with housework 表示你应该帮父母做家务。写建议时可在句首加 You should 直接给出主张，语气既明确又不生硬，是建议类写作的高频句式。",
@@ -24,7 +24,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B3_U3_002",
+      "id": "YY_WY_G1_B1_U3_002",
       "name": "ought to 表义务建议",
       "definition": "用 ought to 表达理应、应当等建议或义务的用法。",
       "explanation": "you 要表达理应做什么，除 should 外还能用 ought to，语气稍正式。它固定带 to，后接动词原形。比如 You ought to be honest 意为你应该诚实。注意否定形式是 ought not to，不要把 to 丢掉。两种表达都表示义务，做题时依据固定搭配的完整性判断正误。",
@@ -43,12 +43,12 @@
         "否定形式"
       ],
       "prerequisites": [
-        "YY_WY_G1_B3_U3_001"
+        "YY_WY_G1_B1_U3_001"
       ],
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B3_U3_003",
+      "id": "YY_WY_G1_B1_U3_003",
       "name": "have to 表示客观义务",
       "definition": "用 have to 表达因客观情况不得不做某事的意思。",
       "explanation": "你表达因客观原因必须做某事时用 have to，强调外界要求而非主观自愿。第三人称单数要用 has to，过去要用 had to，这是它与无形态变化的情态动词的重要区别。比如 He has to attend the family gathering 表示他必须去。你按人称核对它的形式才不会出错。",
@@ -67,12 +67,12 @@
         "人称变化"
       ],
       "prerequisites": [
-        "YY_WY_G1_B3_U3_001"
+        "YY_WY_G1_B1_U3_001"
       ],
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B3_U3_004",
+      "id": "YY_WY_G1_B1_U3_004",
       "name": "should 与 must",
       "definition": "should 语气委婉与 must 语气强制的建议义务程度差异。",
       "explanation": "你表达必须的程度不同要用不同的词：must 表示强烈要求、别无选择，should 语气较弱，偏向建议。比如 You must finish the work 是必须，You should take a rest 是应当。写作文时根据事情的重要程度选词，慎重之处用 must，劝说建议用 should，语气拿捏得当你表达会更得当。",
@@ -91,12 +91,12 @@
         "义务"
       ],
       "prerequisites": [
-        "YY_WY_G1_B3_U3_001"
+        "YY_WY_G1_B1_U3_001"
       ],
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B3_U3_005",
+      "id": "YY_WY_G1_B1_U3_005",
       "name": "情态动词与行为动词连用",
       "definition": "情态动词后接行为动词原形构成复合谓语的规则。",
       "explanation": "你写含建议义务的句子时，情态动词 needn't 与行为动词同组成谓语，行为动词固定用原形，无论主语单复数。can、should、must 等都遵循此规则。同时 be 动词也要用原形 be。写句子前先识别情态动词，其后一律接原形，遇 be 就接 be，避免把原形扭曲为其他形式。",
@@ -115,15 +115,15 @@
         "复合谓语"
       ],
       "prerequisites": [
-        "YY_WY_G1_B3_U3_001",
-        "YY_WY_G1_B3_U3_002",
-        "YY_WY_G1_B3_U3_003",
-        "YY_WY_G1_B3_U3_004"
+        "YY_WY_G1_B1_U3_001",
+        "YY_WY_G1_B1_U3_002",
+        "YY_WY_G1_B1_U3_003",
+        "YY_WY_G1_B1_U3_004"
       ],
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B3_U3_006",
+      "id": "YY_WY_G1_B1_U3_006",
       "name": "家庭关系核心词汇",
       "definition": "描述家庭成员与亲属关系类型的核心英语词汇。",
       "explanation": "你写家庭话题要用到 relative 亲戚、support 支持、respect 尊重、harmony 和谐等词。表达家庭温馨可说 in harmony 关系和谐，可说 our family is full of care。记忆时把表示称呼的名词与表示情感态度的抽象名词分开归类，比如把 care 归情感类。作文表达亲情时用这些词更到位。",
@@ -145,7 +145,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B3_U3_007",
+      "id": "YY_WY_G1_B1_U3_007",
       "name": "描述亲情活动动词短语",
       "definition": "描述与家人共同活动的常用动词短语及搭配。",
       "explanation": "你介绍家庭相处时常用这些短语：get together 团聚、care about 关心、argue with 争吵、take care of 照顾。注意 care about 表示在意某人的感受，take care of 侧重照顾起居。写亲情作文时可用 These 描述你们时常团聚，家人互相关心，遇到分歧也会争论但很快和好。记忆时要区分每组动词短语的固定搭配与介词接法。",
@@ -167,7 +167,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B3_U3_008",
+      "id": "YY_WY_G1_B1_U3_008",
       "name": "表示代际关系的表达",
       "definition": "描述长辈与晚辈之间代际关系与相处的英语表达。",
       "explanation": "你讨论与祖父母相处时会用到 generation 代、the elderly 老人、obey 听从、teenager 青少年等词。可以说 respect the elders 尊重长辈来说明代际礼仪。写明家庭成员层级时可用 grandparents、parents、children 表示三代人。注意 the old 这类泛指老人的表达用法，别与具体的老人单复数混淆。",
@@ -189,7 +189,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B3_U3_009",
+      "id": "YY_WY_G1_B1_U3_009",
       "name": "形容词性物主代词表归属",
       "definition": "用形容词性物主代词表达与家庭成员的归属关系。",
       "explanation": "你表达某人是你的家庭成员时用形容词性物主代词 my、his、her 等，后接名词。比如 my father 我的父亲，his sister 他的姐姐。注意 your 对应对方，their 对应他们。这类代词不单独使用，后面必须跟名词。写句子时先确定所有者的单复数与性别，再选对应的物主代词。",
@@ -212,7 +212,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B3_U3_010",
+      "id": "YY_WY_G1_B1_U3_010",
       "name": "建议句式的多种表达",
       "definition": "表达建议可用的多种句型与情态词选用策略。",
       "explanation": "你写建议时可以根据对象与语境灵活选择句型：用 You should 直接建议，用 Why not 反问建议，用 It's better to 委婉建议，用 How about 提出想法。如向朋友建议可说 Why not join us? 语气亲切。综合运用这些句型，让建议表达不再单一，作文会更有说服力与层次。",
@@ -231,12 +231,12 @@
         "委婉"
       ],
       "prerequisites": [
-        "YY_WY_G1_B3_U3_001"
+        "YY_WY_G1_B1_U3_001"
       ],
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B3_U3_011",
+      "id": "YY_WY_G1_B1_U3_011",
       "name": "名词单复数与主谓一致",
       "definition": "根据名词单复数选择相应谓语形式保持一致性的规则。",
       "explanation": "你描述家庭成员时可数名词单复数变化要匹配谓语：单数主语用 is、has 等，复数主语用 are、have 等。比如 My brother is a student 中 brother 单数对 is。注意家庭成员作复数主语如 my parents are 时用复数。写句子前先确认主语的可数与单复数，再决定谓语的形式。",
@@ -258,7 +258,7 @@
       "source_version": "外研版2019"
     },
     {
-      "id": "YY_WY_G1_B3_U3_012",
+      "id": "YY_WY_G1_B1_U3_012",
       "name": "一般现在时表习惯与家庭日常",
       "definition": "用一般现在时描述家庭成员的日常习惯与常态活动。",
       "explanation": "你介绍家人时描述其常态习惯用一般现在时。比如 My mother often cooks dinner 表示妈妈常做晚饭，he goes to work 表示他上班。与 always、often、usually 连用强调频率，第三人称单数注意动词加 s。写介绍家人的作文时通篇可用一般现在时，让内容稳定而清晰。",
