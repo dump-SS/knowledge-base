@@ -1,0 +1,239 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第一册 Unit 5 Working the Land",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B4_U5_001",
+      "name": "动名词作主语的表达",
+      "definition": "用动词-ing 形式置于句首作主语，谓语动词用单数的结构。",
+      "explanation": "你把动作或活动表达成主语时用动名词：Working the land is his passion，Cultivating crops takes effort。谓语动词与动名词搭配选单数。判断先找作主语的动词，改成 -ing 形式提句首，再定谓语用单数。它与现在分词不同，这里充当名词性成分。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "作主语的动名词漏 -ing 用原形",
+        "动名词主语后谓语误用复数",
+        "把动名词与现在分词分不清",
+        "主语位置至 be 连用混乱"
+      ],
+      "example": "[仿题]______ (farm) scientifically is the key to yield.\n解析：填 Farming，动名词作主语谓语用单数 is。",
+      "keywords": ["动名词主语", "V-ing", "谓语单数", "农业活动", "非谓语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U5_002",
+      "name": "不定式作主语表愿望",
+      "definition": "用不定式 to do 作主语表达目标，为平衡用 it 作形式主语的句子。",
+      "explanation": "你表示目标作主语可用不定式，往往用 it 作形式主语后置不定式。如 It is important to grow more food、To be a farmer needs patience。判断动词是否想表达不定式抽象目标，再定用 it+be+to do 结构。写作中多用 it is...to do 使句子更平稳。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "不定式作主语漏 to",
+        "it 形式主语与真正主语呼应错",
+        "把不定式主语与动名词主语混用",
+        "形式主语后谓语单复数判断错"
+      ],
+      "example": "[仿题]It is vital ______ (protect) the farmland.\n解析：填 to protect，it 形式主语加不定式真主语。",
+      "keywords": ["不定式主语", "it 形式主语", "to do", "目标", "非谓语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U5_003",
+      "name": "非谓语作宾语补足语",
+      "definition": "在 make、see 等动词后用非谓语补充宾语。",
+      "explanation": "你判断宾语补足语时看触发动词与宾语关系：make/let 后接原形，see 表主动进行接 -ing，过被动接 -ed，have 使役后接原形。例如 They make the soil healthy，I saw him watering。判断先认触发动词再定 form。这是合成非谓语中最高频考点。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "make 后误加 to 直接用原形错",
+        "see 主动进行被误写成 -ed",
+        "have 使役后接 -ing 混淆",
+        "宾语补足语主被动关系判断反"
+      ],
+      "example": "[仿题]They make the crops ______ (grow) faster.\n解析：填 grow，make 后接不带 to 的原形。",
+      "keywords": ["宾语补足语", "make", "see", "have", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B4_U5_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U5_004",
+      "name": "have 使役与被动结构",
+      "definition": "用 have sth done 表示让某事被完成。",
+      "explanation": "你区分 have 两种使役：have sth done 表请人做或被做，如 have the field irrigated；have sb do 表让某人做，如 have them plant seeds。判断宾语是被动承受还是主动去做。写作时用 have 结构表达委托动作更地道，注意宾语与补足语的主动被动。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "have sth done 的 done 漏过去分词",
+        "have sb do 误加 to",
+        "主动被动使役结构相混",
+        "have 后宾语与补足语关系不明"
+      ],
+      "example": "[仿题]We had the machine ______ (repair) yesterday.\n解析：填 repaired，have sth done 使某物被修。",
+      "keywords": ["have 使役", "have sth done", "宾语补足语", "被动", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B4_U5_003"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U5_005",
+      "name": "农业与粮食核心词汇",
+      "definition": "与农业、种植、土壤、粮食生产相关的核心词汇及搭配。",
+      "explanation": "你认识农业词是读懂种植类文章的前提：crop 作物、yield 产量、soil 土壤、fertile 肥沃的、harvest 收获、irrigate 灌溉、pesticide 农药。记词带搭配，如 increase the yield、be fertile。做农业阅读先锁定生产词所在句把握过程。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "crop 与 crop 单复数的使用错误",
+        "yield 与 harvest 含义混淆",
+        "fertile 与 fertilizer 词类混用",
+        "irrigate 的拼写漏字母"
+      ],
+      "example": "[仿题]Fertile ______ (soil) supports healthy crops.\n解析：填 soil，肥沃的土壤，不可数用单数。",
+      "keywords": ["农业词汇", "crop", "yield", "soil", "harvest"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U5_006",
+      "name": "描述粮食增产的句式",
+      "definition": "用 increase、raise、boost 等表达提高产量与产量的句子。",
+      "explanation": "你表达增产用这些动词：increase the yield 提高产量、raise production 提升产量、boost output 推动产出、reduce waste 减少浪费。判断主被动与搭配。写作谈农业时用 increase/boost 配具体指标，再讲方法使论据有说服力。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "increase 与 make 搭配对象混淆",
+        "raise 与 rise 的主宾语用反",
+        "boost 的语义与搭配记错",
+        "产量与名词动词语义跳脱"
+      ],
+      "example": "[仿题]New methods raise crop ______ (yield) by 20%.\n解析：填 yield，产量，raise the yield 提高产量。",
+      "keywords": ["增产句式", "increase", "raise", "yield", "production"],
+      "prerequisites": ["YY_RJ_G1_B4_U5_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U5_007",
+      "name": "被动语态描述生产过程",
+      "definition": "用 be加过去分词描述作物种植与收获等被动的生产过程。",
+      "explanation": "你描述农业生产常用被动：be planted 被种植、be harvested 被收获、be irrigated 被灌溉、be grown 被种植。结构为 be+过去分词。判断主语是动作的承受者。写应用说明时用被动显得客观，先定主被动与时态再作变形。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "被动句漏 be 只剩过去分词",
+        "被动时态与时间语境不符",
+        "不规则过去分词形式记错",
+        "主动被动语义颠倒"
+      ],
+      "example": "[仿题]The rice is ______ (grow) in warm areas.\n解析：填 grown，被动被种植，用过去分词。",
+      "keywords": ["被动语态", "生产过程", "be planted", "过去分词", "农业"],
+      "prerequisites": ["YY_RJ_G1_B4_U5_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U5_008",
+      "name": "与-ing 搭配的动词短语",
+      "definition": "devote...to 等后接动词 -ing 的短语。",
+      "explanation": "你要记后接 -ing 的动词短语：devote...to 致力于、succeed in 成功、dedicate...to 奉献于、be used to 习惯于。例如 They devote their lives to feeding people。判断介词 to/in 后接名词或 -ing。做题先认该介词固定搭配，再接 -ing 形式。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "devote...to 后误接动词原形",
+        "succeed in 的 in 漏写",
+        "be used to doing 与 used to do 混淆",
+        "dedicate 后 to 接 -ing 写错"
+      ],
+      "example": "[仿题]She is used to ______ (work) outdoors.\n解析：填 working，be used to doing 习惯于做。",
+      "keywords": ["动词短语", "devote to", "succeed in", "be used to", "-ing"],
+      "prerequisites": ["YY_RJ_G1_B4_U5_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U5_009",
+      "name": "谈农业未来的情态动词",
+      "definition": "用 will、can、may 等情态动词讨论农业发展趋势的可能。",
+      "explanation": "你谈农业未来用情态动词：will 表示确定趋势、can 表可能、may 表不算确定、might 表不一定。例如 Modern farming can feed more people。判断语气确定与可能程度选对应情态动词。写作预测农业时用 will 表大趋势，用 can 表能力，用 may 表不确定。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "情态动词can与will的确定程度混用",
+        "情态动词后接动词原形写 -ing",
+        "语气区分不明致选择失误",
+        "未来语境误用现在时"
+      ],
+      "example": "[仿题]New technology ______ (can) reduce food waste.\n解析：填 can，can 表能力可能，后接原形 reduce。",
+      "keywords": ["情态动词", "农业未来", "will", "can", "可能性"],
+      "prerequisites": ["YY_RJ_G1_B4_U5_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U5_010",
+      "name": "粮食安全的议论文结构",
+      "definition": "按问题、原因、对策的结构论述粮食安全与耕地保护的要点。",
+      "explanation": "你写粮食安全议论文先点出问题，如人口增长导致粮食紧张，再分析耕地减少等成因，最后提对策如保护耕地、科学种植。用 however、therefore、also 衔接。写作先列问题成因对策三角，再填充例证，结构有层次。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "问题成因对策结构缺失",
+        "对策笼统缺具体方法",
+        "段与段间缺衔接词",
+        "只谈现象未点主线"
+      ],
+      "example": "[仿题]论粮食安全与耕地保护。\n解析：先点问题，分析耕地减少成因，最后提科学护田对策。",
+      "keywords": ["议论文", "粮食安全", "耕地", "问题对策", "写作"],
+      "prerequisites": ["YY_RJ_G1_B4_U5_006"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U5_011",
+      "name": "非谓语作主语补足语",
+      "definition": "在被动结构中用于补足主语的分词或不定式，说明主语的状态。",
+      "explanation": "你把句子变成被动后，原来的宾语补足语变为主语补足语。如 The crops were seen growing 由主动 seen the crops growing 变来，补足语不随主动被动变化。非谓语不变，单词 growing 仍表状态。判断主被动转换后补足语仍保留。是中等难度考点需辨析。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "被动后误把补足语改成完整谓语",
+        "主补与宾补转换时的形式混乱",
+        "补足语主动被动判断错误",
+        "see 后补足语形式未保留原样"
+      ],
+      "example": "[仿题]The farmers were seen ______ (plant) rice.\n解析：填 planting，被动后保留进行分作主补。",
+      "keywords": ["主语补足语", "被动转换", "非谓语", "see", "分词"],
+      "prerequisites": ["YY_RJ_G1_B4_U5_003"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U5_012",
+      "name": "农林话题的段落写作",
+      "definition": "用时间或逻辑顺序组织介绍农业技术或助农经历的段落。",
+      "explanation": "你写农业段落先定顺序：时间顺序讲过程，逻辑顺序讲成因对策。用 first、then、as a result 衔接。例如 First we prepared the soil，then we planted the seeds。写作列提纲按步骤推进，注意分词和非谓语补足语的自然融入。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "步骤顺序颠倒难读",
+        "衔接词不足叙事断裂",
+        "非谓语结构与时态主轴混线",
+        "段落缺少起承转合衔接"
+      ],
+      "example": "[仿题]描述一次田间播种。\n解析：按时序写整地、播种、灌溉、期待发芽的过程。",
+      "keywords": ["段落写作", "农林主题", "时序", "衔接词", "过程描述"],
+      "prerequisites": ["YY_RJ_G1_B4_U5_007"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U5_013",
+      "name": "非谓语在主宾语的整合",
+      "definition": "综合运用动名词、不定式及宾语补足语说明农业生产活动。",
+      "explanation": "你在农业语篇综合运用非谓语：作主语用动名词或不定式，作补足语按触发动词定形式。例如 Farming requires knowledge，It is vital to irrigate，They make crops grow。做题先把成分定位，再看主动被动与时态，选对应非谓语。写作用好使表达丰富又不超长。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "三种非谓语作主语补足语混位",
+        "主动被动形式判断失误",
+        "整合长句中非谓语与谓语相撞",
+        "补足语与主语非谓语混淆"
+      ],
+      "example": "[仿题]______ (irrigate) the fields in time is important.\n解析：填 Irrigating，动名词作主语，表及时灌溉重要。",
+      "keywords": ["非谓语整合", "动名词主语", "不定式主语", "补足语", "农业"],
+      "prerequisites": ["YY_RJ_G1_B4_U5_011"],
+      "source_version": "人教版2019"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "module_path": "英语（人教版2019） 必修 第三册 Unit 2 Morals and Virtues",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B3_U2_001",
+      "name": "过去分词作定语表被动完成",
+      "definition": "过去分词置于名词前后作定语，表示被动或已经完成的动作。",
+      "explanation": "你判断过去分词作定语时，看被修饰名词与动词的关系：名词被该动作作用即为被动，如 the damaged vase 被损坏的花瓶。过去分词也表完成，the fallen leaves 已落下的叶。它常与被动形态相关，与现在分词表主动相对。做题先看名词能否主动发出动作，不能即用过去分词作定语。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把被动的关系误用现在分词作定语",
+        "忽略过去分词表完成的语义",
+        "单个过去分词与后置短语的位置摆放错",
+        "把过去式误当作过去分词使用"
+      ],
+      "example": "[仿题]The ______ (break) window was repaired yesterday.\n解析：填 broken，窗户被打破，用过去分词。",
+      "keywords": ["过去分词", "作定语", "被动", "完成", "非谓语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U2_002",
+      "name": "过去分词作表语表状态",
+      "definition": "过去分词跟在系动词后作表语，表示主语处于某种状态。",
+      "explanation": "你识别系表结构时，be、seem、appear、get 后接过去分词多表状态而非被动动作。例如 They were surprised at the news，surprised 描述人的心理状态。判断时看它是否符合 be+adj 的模式，能把过去分词理解成描述主语状态的形容词即可。写作时用此类表语比单纯形容词更精确。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把 was surprised 误判成被动语态",
+        "get dressed 等固定表状态结构记错",
+        "表语位置误用过去式不加变成分词",
+        "混淆 surprised 与 surprising 的修饰对象"
+      ],
+      "example": "[仿题]The children were ______ (delight) with the gifts.\n解析：填 delighted，表示高兴的状态作表语。",
+      "keywords": ["过去分词", "作表语", "系动词", "状态", "非谓语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U2_003",
+      "name": "过去分词作宾语补足语",
+      "definition": "在 feel、see 等动词后用过去分词说明宾语被动。",
+      "explanation": "你掌握过去分词作宾语补足语的关键是记住触发词：see、hear、feel、make、keep、find 等。核心在宾语与补足语是被动关系，如 I found the window broken，窗被打破。判断时先看宾语能否自己发出动作，不能而在该动词后补充说明，就用过去分词。make oneself understood 是其经典用法。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "宾语是被动关系仍误用现在分词",
+        "make myself understood 的固定表达记错形式",
+        "补足语与宾语的主被动判断混乱",
+        "漏掉该动词后宾语补足语的结构连接"
+      ],
+      "example": "[仿题]I found the door ______ (lock) when I arrived.\n解析：填 locked，门被锁，作宾语补足语。",
+      "keywords": ["过去分词", "宾语补足语", "被动状态", "非谓语", "make understood"],
+      "prerequisites": ["YY_RJ_G1_B3_U2_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U2_004",
+      "name": "-ing/-ed 作定语的辨别",
+      "definition": "根据主动被动选择 -ing 或 -ed 形式作名词定语的规则。",
+      "explanation": "你分辨非谓语作定语时先判主被动：名词主动发出动作用 -ing，如 a moving story 感人的故事；名词被动被作用用 -ed，如 a moved audience 被感动的观众。active 找-ing，passive 找-ed 是从属原则。做填选题先标出名词与动词关系，再选对应形式，两个词并置时先看主要修饰关系。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "主动被动关系判断反导致选错形式",
+        "修饰人与修饰物时混淆 -ed 与 -ing",
+        "忽略 -ing 表伴随进行的一面",
+        "一个名词前多个非谓语层次混乱"
+      ],
+      "example": "[仿题]The ______ (convince) argument won the debate.\n解析：填 convincing，论点令人信服，主动，用 -ing。",
+      "keywords": ["非谓语", "作定语", "现在分词", "过去分词", "主被动"],
+      "prerequisites": ["YY_RJ_G1_B3_U2_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U2_005",
+      "name": "美德的英文词汇",
+      "definition": "与善良、正直、诚信等美德与品质相关的核心词汇。",
+      "explanation": "你认识并会用美德词是读懂品格类文章的基础：virtue 美德、honesty 诚实、integrity 正直、responsibility 责任、selflessness 无私、generosity 慷慨、patience 耐心。记词带搭配，如 show virtue、keep honesty、take responsibility。写作谈人物品质时先列此类词，再举事例印证。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "integrity 与 honesty 含义界限混淆",
+        "responsibility 常与 take 搭配却写成 make",
+        "virtue 与 value 含义混用",
+        "单词拼写丢字母导致失分"
+      ],
+      "example": "[仿题]She always takes ______ for her own mistakes.\n解析：填 responsibility，take responsibility 承担责任。",
+      "keywords": ["美德词汇", "诚实", "正直", "responsibility", "virtue"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U2_006",
+      "name": "表达道德抉择的句式",
+      "definition": "用 face a choice、weigh up 等表达两难处境与取舍的句式。",
+      "explanation": "你表达道德困境常用：face a moral dilemma 面对道德困境、make a choice 作选择、weigh up 权衡、give up 放弃、keep one's word 信守承诺。例如 She faced a tough choice between…and…。写作时先交代处境，再用 face、weigh up 讲取舍，最后用 decide、choose 收束，逻辑就完整。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "face 后直接用动词原形缺少宾语形式",
+        "weigh up 与 weigh 的搭配漏写 up",
+        "between...and... 结构缺 and",
+        "moral 与 moral 相关词的含义混淆"
+      ],
+      "example": "[仿题]She ______ (face) a dilemma between helping others and saving time.\n解析：填 faced，面对两难处境，注意时态。",
+      "keywords": ["道德抉择", "dilemma", "weigh up", "make a choice", "表达句式"],
+      "prerequisites": ["YY_RJ_G1_B3_U2_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U2_007",
+      "name": "前加否定前缀的形容词",
+      "definition": "honest、selfish 等词加 un、dis 等前缀构成反义形容词的规则。",
+      "explanation": "你记反义形容词时利用前缀能成倍扩词：honest→dishonest、selfish→unselfish、fair→unfair、kind→unkind。判断在语境中该填肯定还是否定形，由句意决定。做题先看句子是否表否定意义，再选带正确前缀的形容词。注意前缀选择要记熟，un- 与dis- 搭配不能乱换。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "honest 的反义词误用 un- 写成 unhonest",
+        "selfish 的反义前缀选错",
+        "记反了 un- 与 dis- 的搭配对象",
+        "只看前缀忽略句子实际含义"
+      ],
+      "example": "[仿题]It was ______ (honest) of him to lie about the result.\n解析：填 dishonest，表不诚实，用 dis 前缀。",
+      "keywords": ["否定前缀", "反义词", "honest", "unselfish", "构词法"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U2_008",
+      "name": "人物品质描写的句式",
+      "definition": "用 be known for 等描述人物品质与成就的句式。",
+      "explanation": "你描写人物品质常用：be known for 因…出名、be admired for 因…受人敬佩、be respected as 被尊为、a man of great virtue 品德高尚的人。例如 She is respected for her kindness。写作人物介绍时先点身份，再用 be known/admired for 讲品质，最后用具体事例支撑，结构完整。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "be known for 与 be known as 的搭配混用",
+        "be admired for 的介词写成 of",
+        "a man of great virtue 介词 of 漏掉",
+        "人物介绍段落缺具体事例支撑"
+      ],
+      "example": "[仿题]Dr Li is respected ______ his lifelong dedication.\n解析：填 for，be respected for 因…受人尊重。",
+      "keywords": ["人物描写", "be known for", "be admired for", "品质句式", "写作"],
+      "prerequisites": ["YY_RJ_G1_B3_U2_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U2_009",
+      "name": "非谓语作宾语的动名词",
+      "definition": "某些动词后只能接动词-ing 形式作宾语的搭配规则。",
+      "explanation": "你在品德语境中常遇到需接 -ing 的动词：avoid、finish、practise、keep、consider 等。比如 avoid hurting others、keep trying。判断时看到这些固定动词后接动作就变 -ing。与过去分词作定语无关，此处作宾语。做题先认出动词清单，再对后面的动词作 -ing 变形即可。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "avoid 后接动词原形漏写 -ing",
+        "consider doing 被误写成 consider to do",
+        "practise helping 的 -ing 变形出错",
+        "把动名词作宾语误用成不定式"
+      ],
+      "example": "[仿题]You should avoid ______ (hurt) others with your words.\n解析：填 hurting，avoid 后接 -ing 形式。",
+      "keywords": ["动名词", "作宾语", "avoid doing", "固定搭配", "非谓语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U2_010",
+      "name": "关系词在品质句中的使用",
+      "definition": "用 who、that、whose 引导定语从句修饰人物品质的规则。",
+      "explanation": "你描述人物时用关系词把事迹串成一句：指人用 who/that，表所属用 whose，指物用 which。例如 The doctor who saved the patient was selfless。判断关系词看先行词是人还是物、在从句中作何成分；whose 表所属常考。做题先划分从句，再选能代表先行词又能连接句子的关系代词。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "先行词是人却误用 which",
+        "whose 与 who 的用法混淆",
+        "关系词在从句中作宾语时误加 that",
+        "关系句与主句不分主次导致粘连"
+      ],
+      "example": "[仿题]The nurse ______ helped everyone was kind.\n解析：填 who，先行词是人作主语，用 who。",
+      "keywords": ["定语从句", "关系词", "who", "whose", "人物品质"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U2_011",
+      "name": "美德故事的叙事衔接",
+      "definition": "用衔接词把美德故事的时间、转折、结果连成完整叙事的表达。",
+      "explanation": "你写美德故事要会用衔接词：first 起初、then 接着、however 然而、finally 最终、therefore 因此、as a result 结果。先讲故事起因，用 however 转折，最后用 therefore 点寓意。段落里每条事件间加适当衔接，句子就不会孤立，阅卷老师能一眼看清叙事脉络。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "整段不用衔接词使事件各自孤立",
+        "however 与 therefore 的逻辑关系用反",
+        "衔接词堆砌显得句式生硬",
+        "叙事缺少结果或寓意收尾"
+      ],
+      "example": "[仿题]She helped him; ______, he never forgot her kindness.\n解析：填 therefore，表结果因此。",
+      "keywords": ["叙事衔接", "however", "therefore", "as a result", "写作"],
+      "prerequisites": ["YY_RJ_G1_B3_U2_006"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U2_012",
+      "name": "过去分词在主题语境的应用",
+      "definition": "综合运用过去分词描述人物经历与事件结果的表达能力。",
+      "explanation": "你在美德主题语篇中要灵活用过去分词：作定语修饰名词表被动完成，作表语描述状态，作补足语补充宾语。如 a heartbroken mother、She was moved、I found her encouraged。做题先看过去分词在句中充当的句法成分，再判主动被动。写作时活用过去分词能让句子更含蓄精炼。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "把过去分词在三种成分间用错位置",
+        "忽略表语与补足语的句法区分",
+        "该用现在分词却用过去分词导致语意反",
+        "综合句子中过去分词与谓语混淆"
+      ],
+      "example": "[仿题]______ (inspire) by her courage, he decided to go on.\n解析：填 Inspired，由…激励，作状语表被动。",
+      "keywords": ["过去分词", "主题语境", "综合运用", "非谓语", "人物经历"],
+      "prerequisites": ["YY_RJ_G1_B3_U2_003"],
+      "source_version": "人教版2019"
+    }
+  ]
+}

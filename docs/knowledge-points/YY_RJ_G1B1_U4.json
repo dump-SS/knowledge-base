@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 必修 第一册 Unit 4 Natural Disasters",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B1_U4_001",
+      "name": "关系代词引导限制性定语从句",
+      "definition": "掌握五个关系代词引导限制性定语从句的选用规则。",
+      "explanation": "限制性定语从句用来给名词下定义、缩小范围，是自然段里最常见的定语从句。你要根据先行词和它在从句里的角色选关系代词：指人作主语用 who，指人作宾语用 whom，指物用 which 或 that，表所属用 whose。比如 The people who live near the volcano 中 who 在从句里作主语。抓住指人还是指物、作主语还是宾语这两点就能选对。",
+      "difficulty": 2,
+      "frequency": 5,
+      "typical_errors": [
+        "先行词指人宾语误用 who 而不选 whom 作宾语",
+        "分不清关系代词在从句里作主语还是宾语",
+        "指物的先行词误用 who，写成 the book who"
+      ],
+      "example": "[仿题]填空：The girl ___ (who/whom) is crying needs help。\n解析：who 在从句作主语",
+      "keywords": ["定语从句", "关系代词", "that", "which", "who"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U4_002",
+      "name": "which 与 that 用法",
+      "definition": "掌握先行词指物时两个关系词的选用与必用情形。",
+      "explanation": "先行词指物时，which 和 that 大多可互换，但有固定情形必须用 that：先行词被序数词、最高级或不定代词修饰时，比如 the strongest earthquake that I have ever felt。你要记住这些必用 that 的规则，同时知道 which 前可接介词如 in which。分清一般情况选 both 都行、特殊情况强制 that。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "先行词为最高级时误用 which 而必须用 that",
+        "which 前加介词时把介词放错到 that 前",
+        "分不清什么时候 which 与 that 可互换"
+      ],
+      "example": "[仿题]填空：It was the biggest flood ___ (that/which) we had。\n解析：最大中心语必用 that",
+      "keywords": ["which", "that", "指物", "最高级", "定语从句"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U4_003",
+      "name": "who 作主语指人",
+      "definition": "掌握先行词指人且在从句中作主语时用 who 引导定语从句。",
+      "explanation": "当先行词是人，而这个人在从句里作主语时，关系代词用 who。比如 The workers who built the dam 中的 who 在从句里做主语。你要判断清楚这个人在从句里干的是什么动作，是谁做动作谁就是主语。别把先行词的搭配和 who 的角色混淆，先在从句里找到这个人的动词，再看他在动词前还是后。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把作主语的 who 误写成 whom",
+        "分不清 who 与 which 指人还是指物的区分",
+        "从句里重复出现人，写成 the man who he came"
+      ],
+      "example": "[仿题]填空：The man ___ (who/whom) saved the child is my friend。\n解析：who 作从句主语",
+      "keywords": ["who", "指人", "主语", "定语从句", "关系代词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U4_004",
+      "name": "whom 作宾语指人",
+      "definition": "掌握先行词指人且在从句中作宾语时用 whom 引导定语从句。",
+      "explanation": "当先行词是人，而这个人作从句中及物动词或介词的宾语时，用 whom。比如 The volunteer whom we helped 中 whom 作 helped 的宾语。在口语里你可以换成 who 或直接省略，但在正式写作中作宾语该用 whom，特别是介词前置时 the person with whom 必用 whom。你要先在从句里找动词和它的宾语，才能判断该用 whom。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "介词提前时误用 who，写成 the person with who",
+        "把作宾语的 whom 误当主语使用在动词前",
+        "区分不了 whom 与 whose 的指代对象"
+      ],
+      "example": "[仿题]填空：The boy ___ (whom/who) we found was lost。\n解析：whom 作 found 的宾语",
+      "keywords": ["whom", "宾语", "指人", "介词提前", "定语从句"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U4_005",
+      "name": "whose 表所属",
+      "definition": "掌握 whose 表示人或物的所属关系，在定语从句中作定语。",
+      "explanation": "whose 表示谁的，既可指人也可指物，在从句里作定语修饰名词。比如 The family whose house was destroyed 中的 whose 修饰 house，表明房屋被毁的家庭。你要注意 whose 后面必须直接接一个名词，指物的先行词也能用 of which 换着表达。判断是否该用 whose，就看从句里那个名词是不是属于前面的先行词。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "whose 后误接动词，本应接名词却写错",
+        "指物的所属误用 which 而不用 whose",
+        "分不清 whose 与 who's（who is）的拼写"
+      ],
+      "example": "[仿题]填空：The town ___ (whose/of which) street is gone needs help。\n解析：所属关系用 whose",
+      "keywords": ["whose", "所属", "of which", "定语从句", "作定语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U4_006",
+      "name": "非限制性定语从句特征",
+      "definition": "掌握用逗号隔开、补充说明先行词且不能用 that 的非限制性从句。",
+      "explanation": "非限制性定语从句用逗号与主句隔开，只做补充说明，去掉也不影响句意，比如 The typhoon，which hit the coast，caused great damage。它的关键特征是关系代词不能用 that，指人也通常不用 who 用 whom。你要根据是否加逗号判断句式，同时记住 which 在这里可指代整个句子，比如小明迟到了，这让大家很担心用 which。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "非限制性从句误用 that，加逗号仍写 which 之外",
+        "分不清逗号有无，把限制与非限制结构混淆",
+        "which 指代整句话时被误当作指代某名词"
+      ],
+      "example": "[仿题]填空：The dam，___ (which/that) was built in 1950，still works。\n解析：逗号后不用 that，用 which",
+      "keywords": ["非限制性", "逗号", "定语从句", "which", "that"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U4_007",
+      "name": "关系代词作宾语可省略",
+      "definition": "掌握限制性定语从句中关系代词作宾语时口语中可省略的规则。",
+      "explanation": "在限制性定语从句里，如果关系代词在从句中作宾语，它在口语中可以省略。比如 The shelter that we found 可说成 The shelter we found。你要注意两点：一是仅限制性从句且作宾语时才可省，作主语不能省；二是介词提前的 which 或 whom 不能省略。判断时先在从句里找动词，看关系代词是不是它后面的宾语。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "作主语的关系代词也被省略，造成成分残缺",
+        "介词提前时仍省略 which 或 whom",
+        "把非限制性从句中的关系代词错省略"
+      ],
+      "example": "[仿题]改错：The house (that) we stayed was big。\n解析：缺介词，须加 in which 等",
+      "keywords": ["省略", "作宾语", "限制性", "关系代词", "介词提前"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U4_008",
+      "name": "地震灾害词汇",
+      "definition": "掌握地震、震级、震中等地震相关的基础词汇。",
+      "explanation": "描述地震你常需要 earthquake 地震、magnitude 震级、epicentre 震中、aftermath 灾后等词。比如 The earthquake measured 7.2 magnitude。你要会搭配动词，表地震袭击某处常用 hit 或 strike。把震级、震中、灾后这些词放进一个地震句子里记，整条灾害表达的词汇链就顺了。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 magnitude 与 epicentre 两个震级、震中混淆",
+        "表地震袭击误用打击词，把 hit 记成 hit on",
+        "magnitude 单词拼写漏字母，写错形"
+      ],
+      "example": "[仿题]选词：此次地震震级为7.2，用 ___ (magnitude/epicentre)。\n解析：震级用 magnitude",
+      "keywords": ["earthquake", "magnitude", "epicentre", "震级", "地震"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U4_009",
+      "name": "洪水泥沙台风等灾害",
+      "definition": "掌握洪水、滑坡、台风等各类自然灾害的名称表达。",
+      "explanation": "你要记住 flood 洪水、landslide 山体滑坡、typhoon 台风、drought 干旱、tsunami 海啸等名称。比如 The typhoon brought heavy rain and caused floods。这些灾害名词常被 hit、strike 支配，表灾害爆发用 break out。把名称词和它的后果串进句子记忆，考试时就稳定。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 typhoon 台风误写成太简单或漏字母",
+        "混用 flood 洪水与 drought 干旱两个相反词",
+        "描述灾害爆发误用其他动词代替 break out"
+      ],
+      "example": "[仿题]选词：山体滑坡冲毁了道路（___：landslide/flood）。\n解析：滑坡用 landslide",
+      "keywords": ["flood", "typhoon", "landslide", "自然灾害", "break out"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U4_010",
+      "name": "strike 表灾害袭击",
+      "definition": "掌握 strike 表示袭击、使遭殃时后接地区或人的及物用法。",
+      "explanation": "表述灾害发生时，strike 是最地道的动词之一，意思是袭击、使遭受，直接及物后接对象。比如 A powerful earthquake struck the city at midnight，强震在午夜袭击了这座城市。你要注意 strike 是及物动词，后面直接接名词，不能再加介词 in 或 on；它的过去式是 struck，别拼错。把 strike 的搭配练熟，灾害报道的句子就写得顺畅了。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "strike 后误加介词，写成 struck on the city",
+        "过去式拼错，把 struck 误写成 striked",
+        "与 strike 同义替换时搭配不合，相混用"
+      ],
+      "example": "[仿题]改错：The flood struck on the village。\n解析：struck 后直接接宾语，删 on",
+      "keywords": ["strike", "袭击", "struck", "及物动词", "灾害"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U4_011",
+      "name": "幸存与救援词汇",
+      "definition": "掌握幸存、救援、幸存者等词的词形与用法。",
+      "explanation": "讲灾害后的求生，你要会用 survive 幸存、survivor 幸存者、rescue 救援、search for 搜寻。比如 The rescuers managed to save the survivors，救援人员设法救出了幸存者。你要分清 survive 是动词直接及物，survivor 是名词，rescue 可作动词也可作名词，搭配算好它们的词性和拼写，才不会在写作里用错词形。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "survive 误当名词，把 survivor 词性用错",
+        "rescue 作名词时误写成 rescue 前加 to",
+        "把 search for 误写成 search for 之外的搭配"
+      ],
+      "example": "[仿题]填空：救援队 ___ (rescue) 了被困的村民。\n解析：救援动词用 rescued",
+      "keywords": ["survive", "survivor", "rescue", "search for", "救援"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U4_012",
+      "name": "被动关系的定语从句",
+      "definition": "掌握定语从句中先行词作宾语时可简化为过去分词短语的用法",
+      "explanation": "当定语从句里的动作与先行词是被动关系时，你可以把它简化为过去分词短语。比如 The town destroyed by the earthquake 就来自 The town which was destroyed by the earthquake。你要判断这个简化的前提是从句含被动关系而且关系代词作宾语，删去主语和 be 动词，保留过去分词。能主动做这个简化，你的书面表达会简洁很多。",
+      "difficulty": 4,
+      "frequency": 2,
+      "typical_errors": [
+        "主动关系也删成过去分词，导致语态错",
+        "简化时误删主句成分，句意残缺",
+        "分词短语与从句结构混淆连接错误"
+      ],
+      "example": "[仿题]改写：The city which was damaged by floods。\n解析：省略 which was，写 The city damaged",
+      "keywords": ["过去分词", "被动", "定语从句简化", "damaged", "精简表达"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

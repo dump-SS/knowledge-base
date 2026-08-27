@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 必修 第二册 Unit 2 Wildlife Protection",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B2_U2_001",
+      "name": "现在进行时被动构成",
+      "definition": "掌握 am/is/are being done 表示正在被做的结构的构成与用法。",
+      "explanation": "现在进行时的被动语态由 am/is/are being 加过去分词构成，表示某个动作此刻正在被做。比如 The pandas are being protected by experts，熊猫此刻正被专家保护。你要抓好三个要点：一是 be 动词随主语变化，二是 being 不能缺少，三是带上过去分词。把这个结构拆成三段记牢，写句子就不容易错。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "漏写 being，把 are being done 写成 are done",
+        "be 动词与主语不匹配，写成 I are being",
+        "过去分词形式用错"
+      ],
+      "example": "[仿题]填空：The birds ___ (watch) by visitors now。\n解析：正在被看，用 are being watched",
+      "keywords": ["现在进行被动", "being done", "am/is/are", "被动语态", "过去分词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U2_002",
+      "name": "现在进行被动的适用场景",
+      "definition": "掌握正在发生且牵扯被动的事件中用现在进行被动语态。",
+      "explanation": "当某事此刻正在发生，而且它是在被动关系里被别的力量推动时，你就要用现在进行被动。比如 A new habitat is being built for the elephants，一个栖息地正在被建造。你要先判断事件是不是正在进行，再判断主语是承受者还是执行者。二者都满足，使用 am/is/are being 加过去分词，表达就规范。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "用一般现在被动代替正在进行的被动",
+        "主语是执行者时误用被动形式",
+        "在无进行语义的句中硬用 being"
+      ],
+      "example": "[仿题]填空：A survey ___ (conduct) about wolves now。\n解析：正在被进行用 is being",
+      "keywords": ["正在发生", "被动", "场景判断", "语境", "being done"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U2_003",
+      "name": "现在被动与一般被动的区别",
+      "definition": "区分一般被动与现在进行被动两种被动语态的语义差别。",
+      "explanation": "你现在是被动和正在被动要分清：一般被动 is/are done 强调当前状态或平常规律，比如 Pandas are protected；现在进行被动 are being done 强调此刻这一过程，比如 The wolves are being taken care of now。你要看有没有强调此时此刻的意思，有明显进行意味时才加 being。抓住时间状语和场景判断。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "有 now 等时间状语仍忘记用 being",
+        "把两者混用导致时态语义错误",
+        "分不清状态与正在发生的差别"
+      ],
+      "example": "[仿题]选词：Pandas ___ (are protected / are being protected) now。\n解析：此刻进行用 are being",
+      "keywords": ["一般被动", "现在进行被动", "区别", "now", "时态选择"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U2_004",
+      "name": "主动句变现在被动句",
+      "definition": "掌握把主动句转换成现在进行被动句的变换方法与步骤。",
+      "explanation": "主动变被动，你要先把宾语变主语，再把原动词改成 am/is/are being 加过去分词，原来的主语可作为 by 短语。比如 They are feeding the deer，宾语变成主语后写成 The deer are being fed by them。你要先找到动词和宾语，把时态原样搬到 are being done 上，别丢掉进行时的 being，也别漏掉原动词的过去分词。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "变换时遗漏 being，变成一般被动",
+        "时态拍不定，把进行时丢成一般被动态",
+        "宾语变主语后人称与 be 动词不配"
+      ],
+      "example": "[仿题]改写：They are repairing the fence。\n解析：The fence is being repaired",
+      "keywords": ["主动转被动", "变换步骤", "by 短语", "进行时被动", "时态转换"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U2_005",
+      "name": "含情态动词的被动形式",
+      "definition": "掌握 should、must 加 be done 表示应该被做或必须被做的用法。",
+      "explanation": "谈野生动物保护措施时，情态动词加被动很常用，结构是情态动词加 be 加过去分词，如 should be protected、must be stopped。比如 Wild animals should be protected by law，法律应保护野生动物。你要注意 be 紧跟情态动词固定不变，叙事或用 should 表示建议，must 表必须。把情态动词被动结构练熟，写保护建议很常用。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "漏写 be，把 should be done 写成 should done",
+        "情态动词后误接 being 而不是 be done",
+        "多个情态动词混用语义不清"
+      ],
+      "example": "[仿题]填空：Tigers ___ (should) protect。\n解析：should be protected，写 should be",
+      "keywords": ["情态动词", "被动", "should be done", "must be done", "be done"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U2_006",
+      "name": "濒危与灭绝词汇",
+      "definition": "掌握描述物种濒危与灭绝状态的常用词汇。",
+      "explanation": "谈论物种安危，你要会用 endangered 濒危的、extinct 灭绝的、die out 灭绝消失等词。比如 Many animals are in danger of becoming extinct。你要注意 endangered 修饰动物表濒危，extinct 表已经灭绝，动词短语 die out 表示渐渐灭绝。把濒危和灭绝两个词义分清，写野生动物现状时就不会用反。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "endangered 与 extinct 濒危灭绝混淆",
+        "把动词短语 die out 误当形容词",
+        "endangered 拼写漏字母"
+      ],
+      "example": "[仿题]选词：这种动物快要___（extinct/endangered）了。\n解析：灭绝状态用 extinct",
+      "keywords": ["endangered", "extinct", "die out", "濒危", "灭绝"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U2_007",
+      "name": "种群数量变化词汇",
+      "definition": "掌握描述物种群数量增减变化的常用词汇。",
+      "explanation": "描述物种数量变化你会用 population 种群、increase 增加、decline 下降、shrink 缩小等词。比如 The population of the whales has increased。你要注意 population 单用指群体数量，变化动词 increase 与 decline 是一对反义词。把这些数量词放进生态句里记，阅读图表和数据就流畅，写作的精准度也提高。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "increase 与 decline 增减反义混淆",
+        "population 前误加 a 而当作可数搭配",
+        "变化动词与主语数不匹配"
+      ],
+      "example": "[仿题]选词：候鸟数量 ___（decline) 迅速。\n解析：下降用 declines",
+      "keywords": ["population", "increase", "decline", "种群", "数量变化"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U2_008",
+      "name": "栖息地与保护区词汇",
+      "definition": "掌握栖息地与保护区类名词的识别与用法。",
+      "explanation": "谈论保护措施你会需要 habitat 栖息地、reserve 保护区、natural park 自然公园等词。比如 The area was turned into a wildlife reserve，这块区域被划为野生动物保护区。你要注意 habitat 是动物的天然栖息地，reserve 指划定的保护区域。把栖息地和保护区连起来记忆，描写生态保护措施时表达就专业了。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "habitat 与 habitat 单复数混淆",
+        "reserve 与 preserve 形近词混用",
+        "把 habitat 误当可数加 s 的错误"
+      ],
+      "example": "[仿题]填空：动物失去 ___（habitat）难以生存。\n解析：栖息地用 habitat 单数泛指",
+      "keywords": ["habitat", "reserve", "natural park", "栖息地", "保护区"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U2_009",
+      "name": "采取措施类动词短语",
+      "definition": "掌握为保护动物而采取措施的动词短语用法。",
+      "explanation": "呼吁保护行动你会用 take measures 采取措施、take action 采取行动等表达。比如 The government took strong measures to protect the pandas。注意 take measures 后接不定式表目的，take action 也是固定搭配表示采取行动。把这两类短语练熟，写保护倡议或报告才更有气势。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "measure 后误接从句而非不定式",
+        "混淆 take measures 与 take action 用法",
+        "漏掉表目的的 to 不定式"
+      ],
+      "example": "[仿题]填空：政府采取 ___（measure）保护野生大熊猫。\n解析：采取复数措施用 measures",
+      "keywords": ["take measures", "take action", "采取措施", "保护", "不定式目的"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U2_010",
+      "name": "处于危险与受威胁表达",
+      "definition": "掌握描述处于危险与受威胁状态的介词短语。",
+      "explanation": "形容动物处境，你会用 in danger 处于危险、in danger of 濒临、at risk 受威胁等短语。比如 The turtles are in danger of dying out，海龟正濒临灭绝。你要注意 in danger 表整体处境危险，in danger of 后接遭遇的坏事，at risk 表可能遭受祸害的状态。把处境的介词搭配记清，写生态问题才准确不混淆。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "in danger 与 in danger of 用法混淆",
+        "把 at risk 误写成 in risk",
+        "danger 后接名词时漏掉 of"
+      ],
+      "example": "[仿题]填空：青蛙处于灭绝的 ___（danger）中。\n解析：濒临用 in danger of",
+      "keywords": ["in danger", "in danger of", "at risk", "受威胁", "危险"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U2_011",
+      "name": "呼吁号召类表达",
+      "definition": "掌握 appeal to、call on 等号召人们保护动物的表达用法。",
+      "explanation": "写倡议呼吁大家保护动物，你会用 appeal to 恳求、call on 号召、urge 敦促等表达。比如 We appeal to people to protect the wildlife，我们呼吁人们保护野生动物。你要注意 appeal to 后接人再接不定式表示恳求某人做某事，call on 也有表示请求的含义。把号召类的动词接续结构练熟，号召性文章就动人有力。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "appeal to 后误接直接从句而不加不定式",
+        "call on 与 call 单用含义混淆",
+        "urge 后宾语接续形式错误"
+      ],
+      "example": "[仿题]填空：我们 ___（call）on people to care。\n解析：号召接 on 用 call on",
+      "keywords": ["appeal to", "call on", "urge", "号召", "保护呼吁"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U2_012",
+      "name": "保护成效描述词汇",
+      "definition": "掌握描述保护后种群恢复状态的常用词汇。",
+      "explanation": "描述保护效果，你会用 recover 恢复、survive 存活、flourish 兴旺繁盛等词。比如 Thanks to protection，the deer population has recovered。你要注意 recover 指数量或状态恢复，survive 强调幸存下来，flourish 表示繁荣发展。把这些成效词按从恢复到繁荣的层次记，写生态成效时用词有梯度更生动。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "recover 与 survive 厚度混淆",
+        "flourish 拼写漏字母",
+        "描述成效时选错了恢复程度的词"
+      ],
+      "example": "[仿题]选词：保护后种群 ___（recover/flourish）了。\n解析：恢复到原状用 recover",
+      "keywords": ["recover", "survive", "flourish", "恢复", "保护成效"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

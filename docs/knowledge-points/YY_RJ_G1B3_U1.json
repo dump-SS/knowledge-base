@@ -1,0 +1,234 @@
+{
+  "module_path": "英语（人教版2019） 必修 第三册 Unit 1 Festivals and Celebrations",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B3_U1_001",
+      "name": "现在分词作定语表主动进行",
+      "definition": "现在分词置于名词前或后作定语，表示主动或正在进行的动作。",
+      "explanation": "你看到 -ing 形式作定语时，要判断它与被修饰名词的关系。the rising sun 表示太阳自行升起，是主动关系；the sounds of people laughing 用 behind 位置表示当时正在进行的动作。区别在主动还是被动、进行还是完成。做选择题先看被修饰词能不能自己发出这个动作，能则用 -ing，这是作定语的核心判断依据。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把表主动的 -ing 与表被动的 -ed 定语混用",
+        "忽略形容词性 -ing 与被修饰词的主被动关系",
+        "在有逗号分隔短语时误判其为非谓语而写单独谓语"
+      ],
+      "example": "[仿题]The ______ (rise) sun looks beautiful over the sea.\n解析：填 rising，太阳主动升起，用现在分词。",
+      "keywords": ["现在分词", "作定语", "主动关系", "进行动作", "非谓语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U1_002",
+      "name": "现在分词作表语表性质",
+      "definition": "现在分词跟在系动词后作表语，表示事物引起某种感受的性质。",
+      "explanation": "你分辨作表语的 -ing 时，它描述的是事物的特征性质，如 The festival is exciting，意思是这个节日令人兴奋。判断要点：主语是事物、使人产生某种情绪时，用 -ing 表示事物的属性。它与 -ed 的区别在于 -ing 修饰物、-ed 修饰人，判断主语性质后再定形式，写作里不能互换。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把 exciting 与 excited 随意替换，不顾主语是物还是人",
+        "作表语的位置误用现在进行，丢掉 be 动词的系动性",
+        "分不清 -ing 表性质与表示正在进行的区别"
+      ],
+      "example": "[仿题]The parade at night is really ______ (amaze).\n解析：填 amazing，事物令人惊叹，修饰物作表语。",
+      "keywords": ["现在分词", "作表语", "事物性质", "系动词", "-ing"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U1_003",
+      "name": "现在分词作宾语补足语",
+      "definition": "在感官动词后，用现在分词补充说明宾语的主动进行状态。",
+      "explanation": "你掌握这个结构的关键是记住见感动词：see、hear、watch、notice 等。它们后面接宾语加 do 表主动，接 -ing 表正在主动进行。例如 I saw them dancing in the square，用 dancing 强调当时正在跳。判断看到宾语能不能主动做该动作且强调进行，能则用 -ing，这是作宾语补足语的选择依据。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "见感动词后应接 -ing 却写成动词原形",
+        "忽略 being done 强调被动进行的结构",
+        "把宾语和补足语误看成并列谓语，漏写关系"
+      ],
+      "example": "[仿题]I saw the children ______ (dance) around the bonfire.\n解析：填 dancing，强调正在主动跳，作宾语补足语。",
+      "keywords": ["宾语补足语", "现在分词", "见感动词", "正在进行", "非谓语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U1_004",
+      "name": "-ing 与 -ed 定语选择",
+      "definition": "根据主被动关系，选择 -ing 或 -ed 形式作名词定语。",
+      "explanation": "你判断用 -ing 还是 -ed 时，先找被修饰名词与动词的主被动。名词主动发出动作用 -ing，如 the exciting game；名词被该动作作用用 -ed，如 the excited spectators。man-made 表程度深常加 very。记住口诀：主动进行找 -ing，被动完成找 -ed，名词被动关系越明显越用 -ed。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "只记现成词不漏主被动关系，做题就猜",
+        "把主动用 -ing 写成 -ed，对象反了",
+        "两个动词并置作定语时层次混乱选错",
+        "把修饰人的 -ed 错接到物上"
+      ],
+      "example": "[仿题]The ______ (excite) crowd cheered for the acrobats.\n解析：填 excited，人群被感染而兴奋，用 -ed。",
+      "keywords": ["现在分词", "过去分词", "作定语", "主被动", "区别"],
+      "prerequisites": ["YY_RJ_G1_B3_U1_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U1_005",
+      "name": "与-ing 搭配的固定动词",
+      "definition": "enjoy、avoid 等动词后只能接动词-ing 形式作宾语。",
+      "explanation": "你要记牢一批后接动词 -ing 作宾语的动词：enjoy、finish、avoid、mind、practise 等。判断技巧是看到这批动词后面要接动作，一律变 -ing，例如 I enjoy celebrating festivals；个别动词 like remember 后接 -ing 或 to do 意义有别。做题先认出这类动词，再对后面的动作作 -ing 变形，准确率就能上来。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "enjoy 后接动词原形，漏写 -ing",
+        "把该接 -ing 的动词误接不定式",
+        "mind doing 的人称和形式写错",
+        "拼写 keep + 动词时漏掉 -ing"
+      ],
+      "example": "[仿题]People enjoy ______ (get) together on the festival.\n解析：填 getting，enjoy 后接 -ing 形式。",
+      "keywords": ["固定搭配", "-ing", "enjoy doing", "动词宾语", "非谓语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U1_006",
+      "name": "节日与庆祝活动词汇",
+      "definition": "与节日名称、传统活动和庆祝方式相关的核心词汇及搭配。",
+      "explanation": "你认识并会用节日话题词汇就能读懂文段：festival 节日、celebration 庆祝、lantern 灯笼、dragon boat 龙舟、firework 烟花、feast 盛宴、gathering 聚会。记词带搭配，如 celebrate the festival、hold a feast、set off fireworks。写作介绍节日时先列活动词，再套时间地点状语，内容就不空。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "celebrate 与 ceremony 混淆，含义搭错",
+        "set off fireworks 的固定搭配记漏介词",
+        "festival 与 festival's 所有格使用错误",
+        "拼写 celebration 漏写字母"
+      ],
+      "example": "[仿题]During Spring Festival we set ______ fireworks at midnight.\n解析：填 off，set off fireworks 为放烟花。",
+      "keywords": ["节日词汇", "庆祝活动", "festival", "firework", "feast"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U1_007",
+      "name": "描述节日习俗的表达",
+      "definition": "用 traditionally 等词表达节日风俗与习惯的句式。",
+      "explanation": "你描述节日习俗用固定结构：on this day 在这个日子、in honour of 为纪念、traditionally 传统上、be supposed to do 理应做。例如 People visit relatives traditionally。套用这些短语把仪式活动说清楚，写作时先定节日再写时间、活动、寓意三块，句子用被动或惯用搭配能让表达更地道。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "in honour of 的介词记错，误写成 in honor",
+        "be supposed to do 后误加 -ing",
+        "on this occasion 误用介词 in",
+        "描述习俗时不加时间状语使结构松散"
+      ],
+      "example": "[仿题]The festival is held ______ honour of the ancient poet.\n解析：填 in，in honour of 为纪念。",
+      "keywords": ["节日习俗", "in honour of", "traditionally", "be supposed to", "表达句式"],
+      "prerequisites": ["YY_RJ_G1_B3_U1_006"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U1_008",
+      "name": "表达节日感受的词汇",
+      "definition": "与节日气氛、欢乐与期待相关的情感与感受词汇。",
+      "explanation": "你表达节日里的感受时可用：joy 喜悦、happiness 幸福、excitement 兴奋、expectation 期待、warmth 温情、grateful 感恩的。再用 happy、joyful、relaxed 形容人的心情。写作文时用 feel a sense of joy 或 be filled with happiness 让表达更生动，比单用 happy 更显词汇量。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "joyful 与 joyful 系列拼写混乱",
+        "feel happy 与 feel a sense of joy 结构搭错",
+        "把 gratitude 与 grateful 混用词性",
+        "形容词作表语时漏 be 动词"
+      ],
+      "example": "[仿题]We were all filled ______ happiness during the dinner.\n解析：填 with，be filled with 充满。",
+      "keywords": ["情感词汇", "节日气氛", "joy", "grateful", "happiness"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U1_009",
+      "name": "介绍节日的写作句型",
+      "definition": "先用总述句再分述时间、活动、寓意来介绍节日的结构。",
+      "explanation": "你写介绍节日的段落时先总述 This festival is one of the most important，再写 when it takes place，接着写 what people do，最后写 its meaning。注意用衔接词 moreover、besides、as a result。先列提纲再成段，句子用简单句加少量复合句，自己读一遍检查主语谓语是否齐全。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "开头不点题直接讲活动，结构缺主次",
+        "段落缺衔接词，句子各自独立生硬",
+        "只写活动不写寓意，内容不完整",
+        "段落过长无层次，缺少分写标志"
+      ],
+      "example": "[仿题]以 Mid-Autumn Festival 为题写介绍。\n解析：总述重要性后写时间、吃月饼团圆、赏月的寓意。",
+      "keywords": ["写作句型", "介绍节日", "段落结构", "衔接词", "节日作文"],
+      "prerequisites": ["YY_RJ_G1_B3_U1_007"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U1_010",
+      "name": "非谓语作状语的-ing 形式",
+      "definition": "现在分词作状语表示伴随、原因等，逻辑主语与句子主语一致。",
+      "explanation": "你写 -ing 作状语时，它的逻辑主语必须是句子主语。比如 Singing songs, the kids walked home，唱歌的是 kids。表示伴随用 -ing，表原因也可用 -ing。若逻辑主语不一致就要用独立主格。先判断动作的逻辑主语与句子主语是否相同，相同才用 -ing 作状语。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "状语逻辑主语与句子主语不符仍用 -ing",
+        "把 -ing 状语误写成谓语，出现双谓语",
+        "表伴随与表原因的结构混用"
+      ],
+      "example": "[仿题]______ (sing) songs, the audience left the hall.\n解析：填 Singing，逻辑主语 the audience 一致，表伴随。",
+      "keywords": ["现在分词", "作状语", "逻辑主语", "伴随", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B3_U1_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U1_011",
+      "name": "节日日期与时间表达",
+      "definition": "用 on、at、during 等介词表达节日时间与场合的规则。",
+      "explanation": "你表达节日时间要注意介词：at Christmas、on Christmas Day、during the festival、in honour 后用特定搭配。具体某一天用 on，传统节日整体用 at 或 during。写句子先看点时间还是段时间，具体日期与某一天用 on，节日名称整体用 at、during 常见。把握这个原则介词就不易错。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "at Christmas 误写成 on Christmas 的情况不分",
+        "on 与 at 在节日整体与具体一天间用反",
+        "during 与 in 表示时间段时混用"
+      ],
+      "example": "[仿题]We have a big dinner ______ the New Year's Eve.\n解析：填 on，具体某天前用 on。",
+      "keywords": ["时间介词", "节日", "on", "at", "during"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U1_012",
+      "name": "节日文化意义探讨表达",
+      "definition": "用意义、象征与传承的句式谈论节日文化内涵。",
+      "explanation": "你谈论节日意义时可用：It symbolises 它象征、represent 代表、carry on 传承、pass down 流传、a sense of belonging 归属感。例如 The mooncake symbolises family reunion。写作议论时先提节日再点象征，再谈传承的意义，用 symbolise、stand for 这类动词让表达更有文化深度。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "symbolise 与 symbol 混用动词名词",
+        "carry on 与 carry out 含义混淆",
+        "a sense of belonging 遗漏介词 of",
+        "讨论意义时主语与动词单复数不一致"
+      ],
+      "example": "[仿题]The lantern symbolises ______ (wish) for good luck.\n解析：填 wishes 或 a wish，象征祝愿，注意单数表达。",
+      "keywords": ["文化意义", "象征", "symbolise", "传承", "belonging"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U1_013",
+      "name": "非谓语在主题语境的应用",
+      "definition": "综合运用 -ing 与 -ed 形式描述节日场景的适用能力。",
+      "explanation": "你在节日主题语篇中要综合运用非谓语，用 -ing 描述主动进行的场景，用 -ed 描述被动完成的状态。比如 a dancing performance 主动的表演、a decorated hall 被装饰的大厅。做题时先看动词与被修名词关系再定形，写作文时用对非谓语能让句子更简洁紧凑，避免两个动词连写。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "整段只用一个形式忽视主动被动区别",
+        "把握不清被修饰对象导致宾语位置放错",
+        "在一个句子里生硬堆多个非谓语致语意混乱",
+        "distinguish 非谓语与谓语时丢时态"
+      ],
+      "example": "[仿题]The hall, ______ (decorate) with lanterns, looked bright.\n解析：填 decorated，大厅被装饰，用 -ed。",
+      "keywords": ["非谓语", "主题语境", "现在分词", "过去分词", "综合运用"],
+      "prerequisites": ["YY_RJ_G1_B3_U1_004"],
+      "source_version": "人教版2019"
+    }
+  ]
+}

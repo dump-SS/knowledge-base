@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 必修 第二册 Unit 5 Music",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B2_U5_001",
+      "name": "一般现在被动语态",
+      "definition": "掌握 am/is/are done 表示动作经常被做的现在被动结构。",
+      "explanation": "一般现在时被动由 am/is/are 加过去分词构成，表示经常发生或处于状态的被动。比如 The song is played on the radio every day。你要按主语选 be 动词，再带上过去分词。它强调习惯性或普遍性被动，与强调正在做的进行被动区分。抓准第三人称单数 is、复数 are，被动表达就不错。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "be 动词与主语不匹配，写成 they is heard",
+        "漏写过去分词只用 be 动词",
+        "把一般现在被动与进行被动混淆"
+      ],
+      "example": "[仿题]填空：The music ___ (play) daily。\n解析：常态被动用 is played",
+      "keywords": ["一般现在被动", "am/is/are done", "被动语态", "常态", "played"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U5_002",
+      "name": "一般过去被动语态",
+      "definition": "掌握 was/were done 表示过去某个动作被做的被动结构。",
+      "explanation": "一般过去时被动由 was/were 加过去分词构成，说明过去的某个被动动作。比如 The song was written in 1990。你要按主语的单复数选 was 或 were，再接过去分词。它和现在被动的区分在于有没有过去的时间或语境。写人物经历或作品背景时用过去被动，通常很贴切。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "单复数主词误配 was 与 were",
+        "过去被动漏掉 was 变主动",
+        "过去分词拼写错误"
+      ],
+      "example": "[仿题]填空：The concert ___ (hold) last year。\n解析：过去被动用 was held",
+      "keywords": ["过去被动", "was/were done", "被动语态", "过去时", "held"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U5_003",
+      "name": "含情态动词的被动",
+      "definition": "掌握情态动词加 be done 表示可以被做或应该被做的结构。",
+      "explanation": "情态动词加被动用 can/may/must/should be done 的形式，比如 This song can be sung by anyone。注意情态动词后接 be 加过去分词，不能接 being 或直接 done。表能力用 can，表应当用 should，表必须用 must。把情态动词被动结构练熟，音乐话题的表达既有力度又规范。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "情态动词后漏写 be，写成 can sung",
+        "误用 be being done 代替 be done",
+        "多个情态动词语义混用"
+      ],
+      "example": "[仿题]填空：这首歌可以被 ___（sing）任何人。\n解析：情态被动用 be sung",
+      "keywords": ["情态动词", "be done", "被动语态", "can be", "should be"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U5_004",
+      "name": "现在完成被动语态",
+      "definition": "掌握 have/has been done 表示动作已被完成的被动结构。",
+      "explanation": "现在完成被动由 have/has been done 构成，强调动作已经被完成且影响仍在。比如 The song has been recorded twice。你要按主语选 have 或 has，再接 been 加过去分词。它和一般过去被动的差异在于是否强调对现在的影响。看到 already、recently 等词更倾向用当前完成被动。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "漏写 been，把 has been done 写成 has done",
+        "第三人称误用 have 而不用 has",
+        "与过去被动时态区分不开"
+      ],
+      "example": "[仿题]填空：The album ___ (release) already。\n解析：已完成被动用 has been released",
+      "keywords": ["完成被动", "has been done", "被动语态", "already", "released"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U5_005",
+      "name": "被动语态结构综合判断",
+      "definition": "掌握依据时态与情态综合选择被动语态正确形式的能力。",
+      "explanation": "选正确被动结构时，你先看时间状语决定时态，再看是否有情态动词，最后加上 by 引出施动者。比如现在用 am/is/are done，过去用 was/were done，完成用 have/has been done，情态用 can be done。你要先抓时态线索再定 be 动词形式。综合题常把多种被动混编，逐个判断就能选出正确答案。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "见时间词却选错时态被动",
+        "有情态词仍用纯 be done 被动",
+        "综合题干时被动结构拼凑错乱"
+      ],
+      "example": "[仿题]填空：Many songs ___ (write) every year。\n解析：常态被动用 are written",
+      "keywords": ["被动综合", "时态判断", "情态动词", "be done", "by 短语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U5_006",
+      "name": "主动被动语态选择",
+      "definition": "掌握依据主语是否发出动作来选择主动还是被动语态。",
+      "explanation": "到底用主动还是被动，关键看主语是动作的执行者还是承受者。主语自己动作用主动，如 The musician wrote the song；主语被动作用被动，如 The song was written by him。你要先在句子里找到动词，再看主语在动词前是执行还是承受。判断主被动关系，是选对语态的核心第一步。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "主语是承受者却误用主动",
+        "主语是执行者却硬翻译成被动",
+        "分不清动作的执行与承受关系"
+      ],
+      "example": "[仿题]选：The song ___ (was written/wrote) by a girl。\n解析：被写用被动 was written",
+      "keywords": ["主动", "被动", "主语判断", "语态选择", "was written"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U5_007",
+      "name": "by 引出施动者",
+      "definition": "掌握被动句中用 by 加施动者补充动作执行者的用法。",
+      "explanation": "被动句常可用 by 加施动者说明动作由谁执行。比如 The song was sung by a famous singer。你要把 by 后的名词当作动作执行者，原来主动句的主语常放到这里。如果不想提到施动者可以把 by 短语省略。写被动句时用 by 补充施动者，句子的信息就更完整明确。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "误用介词 by 却接对象位置搞反",
+        "by 后施动者与主动主语不对应",
+        "不需要施动者时仍生硬加 by"
+      ],
+      "example": "[仿题]填空：这首歌由老师 ___（sing）了。\n解析：被动加 by，用 sung by",
+      "keywords": ["by 短语", "施动者", "被动语态", "sung by", "执行者"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U5_008",
+      "name": "音乐类型风格词汇",
+      "definition": "掌握 pop、folk、classical 等常见音乐类型风格名称。",
+      "explanation": "谈论音乐你会说到 pop 流行、folk 民谣、classical 古典、jazz 爵士、rock 摇滚等类型。比如 I prefer classical music to pop music。你要注意这些音乐类型名词多首字母小写，可用介词 in 表示某风格中。把风格类型与给人的感觉对应记忆，聊音乐喜好时的表达既地道又丰富。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "classical 与 classic 一词词义混淆",
+        "音乐类型首字母误写成大写专名",
+        "jazz 与 folk 类型拼写错"
+      ],
+      "example": "[仿题]选词：他喜欢 ___（classical/pop）古典。\n解析：古典音乐用 classical",
+      "keywords": ["pop", "folk", "classical", "jazz", "音乐类型"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U5_009",
+      "name": "乐器演奏表达",
+      "definition": "掌握 play the piano、instrument 等演奏乐器的常见表达。",
+      "explanation": "你弹奏乐器时要注意，西洋乐器前通常加 the，如 play the piano、play the guitar。你要记住 tThe 不能少，但演奏中国传统乐器如 play erhu 时一般不加 the。乐器名词还用 instrument 统称。掌握乐器的 the 用法，写自己演奏经历时句子就准确规范。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "西洋乐器前漏加 the 写成 play piano",
+        "中文乐器误加 the 而成 play the erhu",
+        "instrument 拼写漏字母"
+      ],
+      "example": "[仿题]填空：她会弹 ___（piano）。\n解析：西洋乐器加 the，play the piano",
+      "keywords": ["play the piano", "instrument", "乐器", "the 用法", "演奏"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U5_010",
+      "name": "欣赏喜爱音乐词汇",
+      "definition": "掌握表达喜爱与欣赏音乐的常用词及其搭配。",
+      "explanation": "表达对音乐的喜爱你会用 enjoy 享受、appreciate 欣赏、be fond of 喜欢等表达。比如 I enjoy listening to soft music，或 I really appreciate the melody。你要注意 enjoy 和 appreciate 后接动名词，be fond of 后接动名词。把喜爱类动词的接续记熟，用英语谈音乐爱好就自然顺畅。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "enjoy 后误接不定式而不接动名词",
+        "be fond of 漏掉 of 只写 fond",
+        "appreciate 与 thank 词义混用"
+      ],
+      "example": "[仿题]填空：我享受 ___（listen）音乐。\n解析：enjoy 接动名词用 listening",
+      "keywords": ["enjoy", "appreciate", "be fond of", "欣赏音乐", "动名词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U5_011",
+      "name": "音乐情感效果词汇",
+      "definition": "掌握描写音乐带给人的情感感受的形容词。",
+      "explanation": "描写音乐给人情感冲击，你会用 moving 动人的、touching 令人感动的、uplifting 振奋人心的等词。比如 The song is so moving that I almost cried。你要注意这些词多形容事物给人感受，作表语时直接接系动词。把音乐给人不同感受的形容词记下来，写音乐创作感想时就细腻生动。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "moved 与 moving 主动被动混淆",
+        "touching 与 touched 表意反误会",
+        "uplifting 拼写漏字母"
+      ],
+      "example": "[仿题]填空：这首歌真 ___（move）。\n解析：表动人的用 moving",
+      "keywords": ["moving", "touching", "uplifting", "情感", "形容词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U5_012",
+      "name": "被音乐打动表达",
+      "definition": "掌握表达被音乐打动感染含义的被动结构。",
+      "explanation": "表达被音乐打动你会用 be moved by 被感动、be touched by 被打动等被动结构。比如 I was deeply moved by the melody，我被这旋律深深打动。你要注意 be moved 是被动结构，后接 by 引出触动人的事物，表主语受到情感的感染。把被打动类的被动表达记熟，写音乐感想时感情更饱满真诚。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "be moved by 漏掉 by 而接错宾语形式",
+        "moved 与 moving 主动被动混用",
+        "被动结构写成主动语态"
+      ],
+      "example": "[仿题]填空：我被这首歌 ___（move）shallow。\n解析：被打动用 was moved by",
+      "keywords": ["be moved by", "be touched", "被动表达", "打动", "melody"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

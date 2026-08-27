@@ -1,0 +1,239 @@
+{
+  "module_path": "英语（人教版2019） 必修 第三册 Unit 5 The Value of Money",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B3_U5_001",
+      "name": "情态动词接 be doing",
+      "definition": "在情态动词后接 be 加 -ing 形式表示对当下正在进行的推测或应当进行。",
+      "explanation": "你掌握情态动词加 be doing，它表示对现在正在发生事情的推测或理应正在发生。例如 You should be doing your homework 你此刻应该在写作业；He must be studying 他现在一定在学。判断时先看时间是否现在进行，再看语气是推测还是义务，选对能体现的程度。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "把 should be doing 与 should do 的语气搞混",
+        "情态动词后漏 be 直接用 doing",
+        "must be doing 表示的必然性判断错",
+        "进行时形式与普通现在被混用"
+      ],
+      "example": "[仿题]It's 9pm; he should ______ (do) his homework now.\n解析：填 be doing，此刻理应正在写作业。",
+      "keywords": ["情态动词", "be doing", "should", "进行时推测", "非谓语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U5_002",
+      "name": "must 表过去肯定推测",
+      "definition": "用 must 加 have done 表示对过去事件的肯定推测，语气确定。",
+      "explanation": "你用它表示对过去的肯定推测：must have done 一定已经做了，语气很强。例如 He must have spent all the money 他一定把钱花光了。判断依据是过去时间的语境与强烈确定性。做题看到过去事件且语气确定，就用 must have done，注意与只能表否定的 can't have 区分。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "把 must have done 用于否定推测",
+        "过去事件误用 must do 而非 have done",
+        "have 后漏过去分词",
+        "与 should have done 的义务语气混淆"
+      ],
+      "example": "[仿题]He must ______ (spend) all his savings on the watch.\n解析：填 have spent，对过去肯定的推测。",
+      "keywords": ["must have done", "情态动词", "过去推测", "语气", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B3_U5_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U5_003",
+      "name": "can't 表过去否定推测",
+      "definition": "用 can't 加 have done 表示对过去事件的不可能否定推测。",
+      "explanation": "你用 can't have done 表达对过去事件的强烈否定推断：不可能做过。例如 He can't have forgotten the appointment 他不可能忘记约定。can't have 与 must have 相对，语气都是确定。判断时看句义是排除某种可能，且过去时间明确，就用 can't have done。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "否定推测误用 must have done",
+        "can't 后漏 have 直接接过去分词",
+        "把 can't have done 与 couldn't have 语义混淆",
+        "时间语境判断不清致时态误用"
+      ],
+      "example": "[仿题]She can't ______ (forget) her own birthday.\n解析：填 have forgotten，对过去事件不可能忘记的推断。",
+      "keywords": ["can't have done", "否定推测", "情态动词", "非谓语", "过去推断"],
+      "prerequisites": ["YY_RJ_G1_B3_U5_002"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U5_004",
+      "name": "should 表本应而未做",
+      "definition": "用 should have done 表示过去本应做而未做的遗憾或责备。",
+      "explanation": "你常用 should have done 表达本应做却未做的遗憾与批评，如 You should have saved money 你本应存钱的。与之相反 shouldn't have done 本不应做却做了。判断时看句义含后悔或指责语气。这是情态动词完成态的常考点，理解时把它理解为对过去行为的反思。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "把 should have done 误当对未来建议",
+        "shouldn't have 与 should have 语义弄反",
+        "have 后漏过去分词形式",
+        "把义务责备与客观推测语气混淆"
+      ],
+      "example": "[仿题]You should ______ (save) some of the money last month.\n解析：填 have saved，本应存而非未存，表遗憾。",
+      "keywords": ["should have done", "遗憾", "责备", "情态动词", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B3_U5_002"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U5_005",
+      "name": "could 表过去可能",
+      "definition": "用 could have done 表示过去本可能发生而未曾发生的推测。",
+      "explanation": "你用 could have done 表示过去本可能做到却未实现，或委婉的责备。例如 You could have asked me for help 你本可以找我帮忙的。它含建议责备意味。判断时看句义是对过去可能的惋惜或委婉提示。做题时结合语境体会这种没能发生的可能。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "把 could have done 误当现在能力",
+        "暧昧语气判断错方向",
+        "could 后漏 have 直接接过去分词",
+        "与 can't have 的否定推断混淆"
+      ],
+      "example": "[仿题]You could ______ (tell) me about the problem earlier.\n解析：填 have told，本可以告诉我却没说。",
+      "keywords": ["could have done", "情态动词", "过去可能", "委婉责备", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B3_U5_002"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U5_006",
+      "name": "金钱观念的核心词汇",
+      "definition": "金钱、价值、财富与消费观念相关话题的核心词汇及搭配。",
+      "explanation": "你认识金钱话题词是读透相关文章的前提：value 价值、fortune 财富、wealth 财富、frugal 节俭的、generous 慷慨的、spend 花费、income 收入、waste 浪费。记词带搭配，如 make a fortune、save money、spend on。做语法填空先辨认此话题词所在语境，帮助判断词性。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "fortune 与 future 形近混淆",
+        "wealth 与 wealthy 词性混用",
+        "spend 的过去式与分词形式写错",
+        "frugal 与 generous 反义方向反"
+      ],
+      "example": "[仿题]She made a ______ (fortune) by starting her own business.\n解析：填 fortune，make a fortune 发财致富。",
+      "keywords": ["金钱词汇", "value", "fortune", "wealth", "spend"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U5_007",
+      "name": "表达花钱与节约的句式",
+      "definition": "用 spend on 等表达消费与节流的句式。",
+      "explanation": "你表达金钱行为用这些结构：spend money on 在某事上花钱、save up for 为…存钱、give away 赠送、waste money on 浪费钱。例如 She spends a lot on clothes。写作谈理财时先讲花钱动词，再用 save、towards 讲节约与储蓄目标，金额用法和搭配正确可得高分。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "spend 后误用 in 代替 on",
+        "save up for 的 for 搭配漏写",
+        "waste money on 的 on 被写成 on 其他",
+        "spend 的主语与钱多寡搭配生硬"
+      ],
+      "example": "[仿题]He saves money ______ a new bike.\n解析：填 for，save up for 为…存钱。",
+      "keywords": ["花钱句式", "spend on", "save up", "give away", "消费表达"],
+      "prerequisites": ["YY_RJ_G1_B3_U5_006"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U5_008",
+      "name": "提出建议的情态动词",
+      "definition": "用 should、could 等情态动词提建议。",
+      "explanation": "你提建议用各类情态动词：should 应该、could 可以、had better do 最好、why not do 为什么不。例如 You should save money，You'd better think twice。判断建议语气选对应情态动词，had better 后接动词原形。写作提建议时先辅助意见再具体做法，语气要委婉。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "had better 后接 to do 误用",
+        "why not 后误接动词 -ing",
+        "could 与 should 的建议语气不分",
+        "提建议句主谓时态不统一"
+      ],
+      "example": "[仿题]You'd better ______ (save) before you spend.\n解析：填 save，had better 后接动词原形。",
+      "keywords": ["建议", "should", "had better", "why not", "情态动词"],
+      "prerequisites": ["YY_RJ_G1_B3_U5_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U5_009",
+      "name": "金钱主题的理想表达",
+      "definition": "用 value...over 表达对金钱的态度。",
+      "explanation": "你表达对金钱态度用这些结构：be rich in 富有、value...over 重视多过、care about 在乎、pay attention to 关注。例如 He values friendship over money。写作议论时先表明立场，再用 value 类动词讲看重的重点，用 not money but 强调精神层面，表达有文化深度。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "value...over 的 over 漏写",
+        "be rich in 的 in 搭配记错",
+        "care about 与 care for 语义混淆",
+        "表达否定时 not...but 结构不完整"
+      ],
+      "example": "[仿题]She values her health ______ money.\n解析：填 over，value...over 把健康看得比钱重。",
+      "keywords": ["金钱态度", "value over", "be rich in", "care about", "表达"],
+      "prerequisites": ["YY_RJ_G1_B3_U5_006"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U5_010",
+      "name": "虚拟建议句中的情态动词",
+      "definition": "在建议、虚拟语境中正确选用 would、should 等情态动词表假设。",
+      "explanation": "你在假设与建议语境中会用到情态动词虚拟：If I were you, I would save。would 表达设想后果。判断时看是否有条件假设与主句的虚拟语气。做题先识别 if 虚拟句，主句用 would/could 加原形动词，过去假设则加 have done。此考点容易与真实条件句混淆。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "真实与虚拟条件句用混时态",
+        "虚拟主句用 will 而该用 would",
+        "过去虚拟主句未加 have done",
+        "if 从句与主句人称数不一致"
+      ],
+      "example": "[仿题]If I had more time, I ______ (travel) more.\n解析：填 would travel，虚拟口气下 would 加动词原形。",
+      "keywords": ["虚拟语气", "would", "if were", "条件句", "情态动词"],
+      "prerequisites": ["YY_RJ_G1_B3_U5_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U5_011",
+      "name": "价值观念的议论文写作",
+      "definition": "用观点句、论据与总结的结构论述人生价值与金钱观念。",
+      "explanation": "你写价值观念议论文先点明观点，如 Money is not everything，再用生活实例阐述，最后总结升华。用衔接词 however、moreover、in conclusion。写作前先拟论点、论据、结论提纲。论述中用 value、importance 等话题词紧扣主题，每段一个中心使结构清晰。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "开篇立场含糊不定",
+        "论据与论点脱节无实例支撑",
+        "衔接词不当段落跳跃",
+        "结尾不概括只重复例证"
+      ],
+      "example": "[仿题]以是否为金钱至上写观点段。\n解析：先亮观点钱非一切，举亲情友情例证，总结价值。",
+      "keywords": ["议论文", "价值观念", "金钱", "观点句", "写作"],
+      "prerequisites": ["YY_RJ_G1_B3_U5_009"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U5_012",
+      "name": "情态动词完成态的判别",
+      "definition": "综合判别 must、can 等加 have done 的用法。",
+      "explanation": "你判别情态动词完成态先看时间是否过去，再看语气方向：肯定推测用 must have、否定推测用 can't have、本应做用 should have、本可能用 could have。做题先把过去时间确认，再体会说话人语气，四者各有固定含义。写作文时准确用搭配能体现语法扎实。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "把四种 have done 语气互相混淆",
+        "时间判断不分现在与过去致主形错",
+        "must 与 can't 的肯定否定对应搞反",
+        "情态动词后漏 have 或过去分词"
+      ],
+      "example": "[仿题]他准是忘了约定，选 must/need 填空：He ______ have forgotten.\n解析：填 must，肯定推测已发生。",
+      "keywords": ["情态动词完成态", "must have", "could have", "判别", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B3_U5_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U5_013",
+      "name": "谈论财富与人生的词汇",
+      "definition": "与财富观、追求与满足感相关的人生话题词汇及搭配。",
+      "explanation": "你谈财富人生用这些词：prosperity 繁荣、material 物质的、contentment 满足、pursue 追求、meaningful 有意义的、charity 慈善。记词带搭配，如 pursue wealth、find contentment、give to charity。写作人生话题时用这些词汇结合价值句，内容更有感染力。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "material 与 realism 含义混淆",
+        "contentment 与 happy 词类误用",
+        "pursue 与 suit 形近拼错",
+        "charity 前冠词与介词搭配错"
+      ],
+      "example": "[仿题]Giving to ______ made her feel fulfilled.\n解析：填 charity，give to charity 捐给慈善机构。",
+      "keywords": ["人生词汇", "prosperity", "contentment", "pursue", "charity"],
+      "prerequisites": ["YY_RJ_G1_B3_U5_006"],
+      "source_version": "人教版2019"
+    }
+  ]
+}

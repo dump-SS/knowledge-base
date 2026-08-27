@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 必修 第一册 Unit 5 Languages Around the World",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B1_U5_001",
+      "name": "where 引导地点从句",
+      "definition": "掌握先行词表地点且作状语时用 where 或 in which 引导。",
+      "explanation": "当表示地点的先行词在从句里作状语时，用 where 引导，可改写为 in which。比如 This is the school where I learn Chinese，还可写成 in which I learn。你要判断那个地点在从句里是不是作状语，作状语才用 where；若它作宾语就要改用 which 了。介词选 in 还是 on 得看跟地点搭配哪个。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "地点作状语误用 which 而不用 where",
+        "改写 in which 时介词选择错误",
+        "把 where 改成 that 后分句成分残缺"
+      ],
+      "example": "[仿题]填空：This is the city ___ (where/which) I grew up。\n解析：地点作状语用 where",
+      "keywords": ["where", "in which", "地点", "关系副词", "定语从句"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U5_002",
+      "name": "when 引导时间从句",
+      "definition": "掌握表示时间的先行词作状语时用 when 引导定语从句。",
+      "explanation": "当表时间的先行词在从句里作时间状语时，用 when 引导，可改写为 on which。比如 I remember the day when we first met 中那个日子作时间状语。你要先判断先行词在从句里的成分，作时间状语才用 when；若它在从句里作主语或宾语，就该改用 which 或 that，判断成分是选对的关键。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "时间先行词作宾语时误用 when 而不用 which",
+        "既定成分含糊就乱选关系词",
+        "分不清时间与地点的关系副词"
+      ],
+      "example": "[仿题]填空：I'll never forget the day ___ (when/where) we met。\n解析：时间状语用 when",
+      "keywords": ["when", "on which", "时间", "关系副词", "定语从句"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U5_003",
+      "name": "why 引导原因从句",
+      "definition": "掌握先行词 reason 作原因状语时用 why 引导定语从句。",
+      "explanation": "当先行词是 reason 且它在从句里作原因状语时，用 why 引导，可改写为 for which。比如 The reason why I like Chinese is its culture。你要注意 why 通常只修饰 reason，判断时先看先行词是不是 reason，再看它是否作原因状语，两个条件都满足才选用 why，其余词不宜套用。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "非 reason 的先行词误用 why 引导",
+        "把 why 与 which 或 where 混用",
+        "for which 改写时介词搭配错误"
+      ],
+      "example": "[仿题]填空：The reason ___ (why/that) he left is a secret。\n解析：reason 作原因状语用 why",
+      "keywords": ["why", "for which", "reason", "原因", "关系副词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U5_004",
+      "name": "介词加 which 综合",
+      "definition": "掌握介词加 which 的定语从句并依据搭配选准介词。",
+      "explanation": "介词加 which 是引导定语从句的强势表达，介词靠动词、名词或形容词的固定搭配来决定。比如 the person with whom I study 中 study with 用 with；the box in which the book lies 中 lie in 用 in。你要先从从句里找动词或名词看它配哪个介词，再把它提前到 which 前，选对介词靠平时的搭配积累。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "介词选择不看动词搭配随意填入",
+        "把介词加 which 误写成介词加 that",
+        "介词提前后从句还残留原介词"
+      ],
+      "example": "[仿题]填空：the chair ___ which I sit。\n解析：sit on 写 on which",
+      "keywords": ["介词加which", "固定搭配", "动介搭配", "先行词", "介词提前"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U5_005",
+      "name": "关系副词可省换 that",
+      "definition": "掌握 when、why 在限制性从句中可省略或换用 that。",
+      "explanation": "在限制性定语从句里，关系副词 when、why 有时可省略或换用 that，尤其在口语里。比如 This is the reason why he came 可说成 the reason that he came，甚至 the reason he came。你要注意 where 一般不能省，省略多见于时间和原因，且仅限限制性从句。掌握它，你读英文原句就更顺。",
+      "difficulty": 4,
+      "frequency": 2,
+      "typical_errors": [
+        "把 where 也当作可省略关系词误省",
+        "why 换 that 后分句成分错误",
+        "非限制性从句里也生硬省略"
+      ],
+      "example": "[仿题]改写：the time when we started。\n解析：可省为 the time we started",
+      "keywords": ["省略", "that 替换", "when", "why", "口语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U5_006",
+      "name": "语言学习策略词汇",
+      "definition": "掌握表达练习、交流等语言学习行动的常用词及其搭配。",
+      "explanation": "讨论怎么学语言你要会用行动类词：practise 后接动名词，communicate with 表与人交流，work on 表攻克薄弱点。比如 practise speaking、communicate with others。你要注意 practise 后接动名词不能接不定式，communicate 后要带 with，把这两个搭配记牢谈学习经历就顺手。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "practise 后误接不定式，写成 practise to speak",
+        "communicate 后漏掉 with，写成 communicate others",
+        "work on 与 work out 搭配混用"
+      ],
+      "example": "[仿题]填空：练习口语用 practise ___ (speak/speaking)。\n解析：practise 后接动名词",
+      "keywords": ["practise", "communicate with", "work on", "语言学习", "动名词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U5_007",
+      "name": "母语官方语言词汇",
+      "definition": "掌握官方语言、母语、母语者等语言身份词的区分与用法。",
+      "explanation": "讨论世界语言你会用到官方语言 official language、母语 mother tongue、母语者 native speaker 等词。比如 English is not my mother tongue but I want to speak it well。你要把母语和官方语言两个含义分清，nation 国家的词与语言名称也要对应记忆。把这些身份词放到具体国家语境里记，表达就更准确。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 mother tongue 与 official language 混为一谈",
+        "native speaker 拼写漏字母",
+        "语言身份词与国籍词形混用"
+      ],
+      "example": "[仿题]选词：母语人士用 ___（native tongue/native）。\n解析：母语者用 native speaker",
+      "keywords": ["official language", "mother tongue", "native speaker", "语言身份", "national"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U5_008",
+      "name": "figure out 表示弄清",
+      "definition": "掌握 figure out 表示弄明白及人称代词作宾语放中间的用法。",
+      "explanation": "学语言遇难题，figure out 表示最终弄明白，比如 I finally figured out the meaning。它后接宾语或疑问词从句，如 figure out what the word means。你要注意 figure 是及物短语，人称代词作宾语要放中间，写成 figure it out，不能说 out it。把它和 why、how 引导的疑问句一起练，写作和阅读都用得上。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "人称代词作宾语误放句末，写成 out it",
+        "figure out 与 find out 表意混淆",
+        "疑问词从句后接形式错误"
+      ],
+      "example": "[仿题]改错：I figured it out quickly。\n解析：代词应放中间已正确",
+      "keywords": ["figure out", "弄明白", "短语动词", "代词中间", "疑问词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U5_009",
+      "name": "表达注意的短语",
+      "definition": "掌握 pay attention to 中 to 为介词后接名词或动名词。",
+      "explanation": "提醒自己关注要点，你会用 pay attention to 表示注意，如 Pay attention to the pronunciation。这里的 to 是介词，后面要接名词或动名词，不能接动词原形，比如 pay attention to reading 不能说 pay attention to read。你要把 to 的介词身份记牢，这是它和不定式 to 最容易混淆的地方，写作时时别写错。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把 to 当不定式后接动词原形",
+        "attention 与 intention 单词混淆",
+        "接动名词时形式写错"
+      ],
+      "example": "[仿题]填空：Pay attention to ___ (spell/spelling) words。\n解析：to 是介词接动名词",
+      "keywords": ["pay attention to", "介词to", "动名词", "关注", "搭配"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U5_010",
+      "name": "表达进步与提升",
+      "definition": "掌握 improve、make progress 等表达学习进步的用法与形式。",
+      "explanation": "描述语言能力提升你会用 improve 提高、make progress 取得进步、get better at 在某个方面进步。比如 I've made great progress in speaking。你要注意 progress 是不可数名词不能说 a progress，improve 是及物动词直接接宾语。把进步类词和搭配练熟就能写得多彩。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把不可数的 progress 误写成 a progress",
+        "make progress 漏掉 make 只写 get progress",
+        "improve 后误加多余介词"
+      ],
+      "example": "[仿题]填空：I've ___ (make) great progress in English。\n解析：make progress 用 made",
+      "keywords": ["improve", "make progress", "get better at", "进步", "progress"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U5_011",
+      "name": "语言的运用交流动词",
+      "definition": "掌握 express、exchange 等表示用语言表达交流的动词用法。",
+      "explanation": "用语言表达交流，你会用到 express 表达、exchange 交流、describe 描述等动词。比如 It helps you express your feelings precisely，帮助你精确表达感受。你要注意 express 是及物动词直接接宾语，exchange ideas 表示交换想法，表用什么语言用介词 in，如 in English。把这些词放进对话里记忆，表达更自然。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "express 后误加介词，写成 express on my",
+        "exchange 与 change 拼写混淆",
+        "表用什么语言误用 by 而不用 in"
+      ],
+      "example": "[仿题]填空：她用英语 ___ (express) ideas well。\n解析：表达用 express",
+      "keywords": ["express", "exchange", "communicate", "in English", "交流"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U5_012",
+      "name": "世界语言名称识别",
+      "definition": "掌握常见国家语言及地区语言的名称与拼写搭配。",
+      "explanation": "了解世界语言，你要认得 Chinese、English、French、Russian、Arabic 等语言名称。比如 Arabic is spoken in many countries，阿拉伯语在许多国家有人使用。你要注意语言名称用名词形式，别与国籍形容词混用，比如表语言用 French 而不是 France。把语言和地区对应记忆，阅读选项就能一眼判断对错。",
+      "difficulty": 2,
+      "frequency": 2,
+      "typical_errors": [
+        "语言名称与国籍形容词形式混用",
+        "拼写 French、Arabic 漏字母",
+        "把语言与地区名混为一谈"
+      ],
+      "example": "[仿题]选词：他在学 ___（French/France）语言。\n解析：表语言用 French",
+      "keywords": ["French", "Arabic", "language", "国家语言", "拼写"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第三册 Unit 5 Poems",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B6_U5_001",
+      "name": "疑问词加不定式结构",
+      "definition": "由疑问词加不定式构成的名词短语，作主语、宾语或表语。",
+      "explanation": "你用疑问词加不定式时，把 what、how、where 等直接接 to do，中间不加主语和助动词。如 what to do、how to write poems、where to start。它可作动词宾语或主语，如 I don't know what to say。判断疑问词后是否接动词 to do，结构就成了。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "疑问词与 to do 之间误加主语",
+        "疑问词后接动词原形而漏 to",
+        "作宾语时结构位置放错"
+      ],
+      "example": "[仿题]I don't know what ______ (say).\n解析：填 to say，疑问词加不定式作宾语。",
+      "keywords": ["疑问词+不定式", "what to do", "作宾语", "how to", "名词短语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U5_002",
+      "name": "疑问句转疑问词加不定式",
+      "definition": "把含疑问的从句简化为疑问词加不定式的改写方法。",
+      "explanation": "你改写疑问句时，把从句中的主语和情态动词删掉，只留疑问词加 to do。如 how I can write 改成 how to write、what we should do 改成 what to do。改写前提是主从句主语一致。写作想更简洁就用这种结构，判断先看能否省主语。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "改写时留着 can、should 等情态动词",
+        "主语不一致也强行改写",
+        "疑问词漏写或改成错误形式"
+      ],
+      "example": "[仿题]Tell me how I can do it 改为如何说？\n解析：how to do it，删主语句式更简洁。",
+      "keywords": ["改写", "疑问词+不定式", "从句简化", "may主句主语", "简洁"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U5_003",
+      "name": "-ing 形式作状语",
+      "definition": "动词加 ing 说明伴随、原因或时间，强调同时或先后的状语。",
+      "explanation": "你用 ing 作状语时，它与主语是主动关系，可表伴随、原因或时间。如 Walking along the road, I read the lines. 诗歌写作里常见此类动作叠放。判断主语与动作主动就用 ing。写作想让句子紧凑就用分词连接动作。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "被动关系误用 ing 表示",
+        "ing 状语逻辑主语与主句不一致",
+        "伴随与先后语义不分"
+      ],
+      "example": "[仿题]______ (read) the poem, she smiled.\n解析：填 Reading，主动读诗时微笑，用 ing 分词。",
+      "keywords": ["-ing状语", "分词", "伴随", "主动关系", "作状语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U5_004",
+      "name": "分词状语与主语一致",
+      "definition": "分词状语的动作必须由句子主语发出，主动用 ing 被动用 done。",
+      "explanation": "你检查分词状语先确认逻辑主语与句子主语一致，动作由主语发出用 ing，主语被动接受用过去分词。如 the sun having risen, we started. 若主语不一致就要用独立主格。写作先判主语，再选分词形式，避免悬垂修饰。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "逻辑主语与主句主语不一致",
+        "悬垂分词导致动作无人完成",
+        "主被动形式选择判断失误"
+      ],
+      "example": "[仿题]The sun ______ (rise), we started the day.\n解析：填 having risen，独立主格，主语各自独立。",
+      "keywords": ["分词状语", "逻辑主语", "独立主格", "主动被动", "一致"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U5_005",
+      "name": "诗歌体裁与形式词汇",
+      "definition": "poem、rhyme、verse、couplet 等描述诗歌形式与要素的词汇。",
+      "explanation": "你了解诗歌要素：poem 诗、rhyme 押韵、verse 诗句、stanza 诗节、poet 诗人、theme 主题。如 The poem has a strong rhyme. 阅读看到 rhyme 押韵、stanza 诗节就能分析结构。记词配分析动词，如 rhyme with 与押韵，谈诗歌鉴赏更精准。",
+      "difficulty": 1,
+      "frequency": 2,
+      "typical_errors": [
+        "verse 与 stanza 层次混淆",
+        "rhyme 与 rhythm 押韵与节奏混用",
+        "poet 与 poem 词形混用"
+      ],
+      "example": "[仿题]The poet's ______ (rhyme/rhythm) is strong.\n解析：填 rhyme，押韵，诗歌韵律强。",
+      "keywords": ["诗歌词汇", "poem", "rhyme", "verse", "stanza", "主题"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U5_006",
+      "name": "修辞手法词汇",
+      "definition": "描述诗歌修辞手法与意象的名词。",
+      "explanation": "你分析诗歌会用修辞词：metaphor 暗喻、simile 明喻、personification 拟人、image 意象。如 The poet uses metaphor to show emotion. 判断题干问修辞还是意象。记词配例句，识别手法时先从句子结构判明喻暗喻。谈鉴赏类文章就得心应手。",
+      "difficulty": 2,
+      "frequency": 2,
+      "typical_errors": [
+        "metaphor 与 simile 明暗喻混淆",
+        "personification 拟人拼写漏字母",
+        "image 意象与象征词混用"
+      ],
+      "example": "[仿题]He is a lion is a ______ (metaphor/simile).\n解析：填 metaphor，暗喻，无 like/as 用喻体。",
+      "keywords": ["修辞手法", "metaphor", "simile", "拟人", "意象"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U5_007",
+      "name": "情感表达形容词",
+      "definition": "peaceful、joyful、sorrowful 等表达诗歌情感基调的形容词。",
+      "explanation": "你判断诗的情感用 peaceful 宁静、joyful 喜悦、sorrowful 忧伤、romantic 浪漫、hopeful 充满希望。如 The tone is peaceful and joyful. 阅读主旨题常问基调，先读情绪词定位大意。写作谈感受先点基调，再用诗句支撑，鉴赏更有说服力。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "sorrowful 与 joyful 意义相反却混用",
+        "表述基调与具体情节混淆",
+        "romantic 与 浪漫名词 romanticism 混用"
+      ],
+      "example": "[仿题]The poem has a ______ (peace/peaceful) tone.\n解析：填 peaceful，宁静的，修饰基调。",
+      "keywords": ["情感基调", "peaceful", "joyful", "忧伤", "浪漫"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U5_008",
+      "name": "诗歌朗读拉过表达",
+      "definition": "recite、recital、perform 等描述朗诵与表演诗歌动作的词汇。",
+      "explanation": "你谈朗诵用 recite 背诵朗诵、recital 朗诵会、perform 表演、deliver a poem 诵读诗歌。如 She recited the poem beautifully. 写作介绍朗诵会先用 recite 讲动作，再配效果。判断对象词，朗诵类表达才完整地道。",
+      "difficulty": 2,
+      "frequency": 2,
+      "typical_errors": [
+        "recite 与 recite 的读音拼写混淆",
+        "recital 与 recitation 形式混用",
+        "deliver a poem 搭配宾语写错"
+      ],
+      "example": "[仿题]He ______ (recite/recited) a poem at the party.\n解析：填 recited，朗诵，过去动作用过去式。",
+      "keywords": ["朗诵词汇", "recite", "recital", "perform", "诵读"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U5_009",
+      "name": "表达诗歌与生活感受句型",
+      "definition": "表达诗歌意义与个人联想感受。",
+      "explanation": "你表达诗歌意义用 Poetry is a way to express feelings、The poem reminds me of my hometown。联想句用 remind of 回忆。写作读后感先点诗的主题，再用联想表达打通情感。判断主题与联想词搭配，读后感类表达就自然。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "remind of 与 remind to 搭配混淆",
+        "表达主题却空泛没有具体词",
+        "读后感缺情感与事例支撑"
+      ],
+      "example": "[仿题]This poem ______ (remind/reminds) me of spring.\n解析：填 reminds，让我想起春天，主语单数加 s。",
+      "keywords": ["诗歌表达", "remind of", "主题感想", "联想", "读后感"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U5_010",
+      "name": "疑问词加不定式作主语",
+      "definition": "疑问词加不定式短语放句首充当句子主语的结构。",
+      "explanation": "你用疑问词加不定式作主语时把整个短语放句首，谓语用单数。如 How to solve the puzzle is a question. 判断句首是否需要名词短语做主，需要就把疑问词加 to do 放那。写作表达选择或方法时用它在句首作主语，更正式得体。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "短语作主语时谓语误用复数",
+        "疑问词与 to do 结构不完整",
+        "把它误当疑问句写加助动词"
+      ],
+      "example": "[仿题]What ______ (do) is up to you.\n解析：填 to do，短语作主语，由你决定。",
+      "keywords": ["疑问词+不定式", "作主语", "名词短语", "谓语单数", "结构"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U5_011",
+      "name": "诗歌类型专有名词",
+      "definition": "haiku、limerick、sonnet 等经典诗歌体裁名称的名词。",
+      "explanation": "你认识诗体名词：haiku 俳句、limerick 五行打油诗、sonnet 十四行诗、nursery rhyme 童谣。如 a well known sonnet、a short haiku. 阅读看到 haiku 就知道是短诗。记词配长度或特征，读诗歌类型鉴别题更能判断。",
+      "difficulty": 2,
+      "frequency": 2,
+      "typical_errors": [
+        "haiku 与 limerick 篇幅特征混淆",
+        "sonnet 与 十四行诗对应记错",
+        "nursery rhyme 固定搭配写法错误"
+      ],
+      "example": "[仿题]He wrote a famous ______ (sonnet/haiku) of 14 lines.\n解析：填 sonnet，十四行诗，共十四行。",
+      "keywords": ["诗体词汇", "haiku", "sonnet", "limerick", "童谣"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U5_012",
+      "name": "诗行节奏与押韵判断",
+      "definition": "通过末音相同推定押韵、通过轻重音判断节奏的鉴赏方法。",
+      "explanation": "你判断押韵时比较行末单词末音是否相同，如 moon 与 soon 押韵；判断节奏数每行轻重音节。被强者并列时先找韵脚词。阅读常问哪两行押韵，比较末音即可。鉴赏时先标记韵脚，再数音节，答题更准。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把同义不同音的单词当成押韵",
+        "节奏与押韵概念混淆",
+        "末音比较时字母拼写干扰判断"
+      ],
+      "example": "[仿题]Which pair rhymes: moon/book, moon/bright?\n解析：moon 与 book 不押韵，moon 与 soon 才押韵。",
+      "keywords": ["押韵", "节奏", "韵脚", "修辞手法", "诗歌鉴赏"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第三册 Unit 3 Environmental Protection",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B6_U3_001",
+      "name": "动名词作主语的用法",
+      "definition": "把动作变 doing 放句首作主语，谓语动词用单数的用法。",
+      "explanation": "你用动名词作主语时把动词加 ing 放在句首，谓语用单数。如 Protecting the environment is everyone's duty. 判断句首是否需要一个动作名词，需要就把动词变 ing。写作做主语首选动名词，主谓一致看整个动作当单数处理，表达就规范。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "用动词原形作主语，漏写 ing",
+        "动名词作主语时谓语误用复数",
+        "把 doing 与 to do 作主语混用"
+      ],
+      "example": "[仿题]______ (protect) nature is our duty.\n解析：填 Protecting，动名词作主语，谓语用单数。",
+      "keywords": ["动名词主语", "doing", "谓语单数", "作主语", "主语用法"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U3_002",
+      "name": "动名词与不定式作宾语",
+      "definition": "部分动词接 doing、部分接 to do 作宾语的习惯搭配辨析。",
+      "explanation": "你区分两类动词作宾语：enjoy、avoid、finish 后接 doing，want、decide、agree 后接 to do。如 avoid polluting、agree to reduce。做题先记住一批接 doing 的动词，再记接 to do 的，碰到动词先归类。判断时回忆动词属于哪类，宾语形式就选对。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "avoid 后误接 to do",
+        "decide 后误接 doing 形式",
+        "特殊动词 forget 的两类接法混用"
+      ],
+      "example": "[仿题]We decided ______ (reduce) waste.\n解析：填 to reduce，decide 后接不定式。",
+      "keywords": ["动名词", "不定式", "作宾语", "动词搭配", "to do"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U3_003",
+      "name": "非谓语作定语的区别",
+      "definition": "doing 表主动进行、done 表被动完成作定语修饰名词的用法。",
+      "explanation": "你用非谓语作定语修饰名词时看关系：名词主动发出动作用 doing，被动作处理用过去分词。如 the rising sea 升起的海、the polluted air 被污染的气。判断先看名词与动作的主被动，再决定 doing 还是过去分词。写作作定语时按此辨别。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "主动关系误用过去分词作定语",
+        "被动关系误用 doing 作定语",
+        "定语位置放反，修饰错名词"
+      ],
+      "example": "[仿题]We saw the ______ (pollute) river.\n解析：填 polluted，被污染的，被动用过去分词。",
+      "keywords": ["非谓语定语", "doing", "过去分词", "修饰名词", "主被动"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U3_004",
+      "name": "非谓语作状语综合判断",
+      "definition": "根据逻辑主语与主被动关系选择 doing、done 或 to do 作状语。",
+      "explanation": "你作状语先看逻辑主语是否与句子主语一致，一致时主动用 doing、被动用 done；表目的用 to do。如 To save energy, we turn off the lights. 判断分两步：先定主被动，再见又定目的或伴随。做题把两步走完，作状语就不会错。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "表目的却误用 doing 而非 to do",
+        "状语分词的逻辑主语与主句不一致",
+        "主被动判定反了导致形式选错"
+      ],
+      "example": "[仿题]______ (save) energy, we turn off the lights.\n解析：填 To save，表目的，用不定式。",
+      "keywords": ["非谓语状语", "to do", "doing", "done", "主被动"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U3_005",
+      "name": "It 作形式主语综合",
+      "definition": "It 形式主语承接不定式、动名词或从句作真正主语的结构。",
+      "explanation": "你用 It 作形式主语时，真正主语常是不定式、动名词或 that 从句，后置于句末。如 It is important to protect nature、It is no use worrying。判断 It 能否被真主语替换，能则 It 只是形式。写作写观点句常用 It is 加形容词加 to do，简洁清楚。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "It 作形式主语却漏写真正主语",
+        "把 It 形式主语与强调句混淆",
+        "It is no use doing 结构误用 to do"
+      ],
+      "example": "[仿题]It is important ______ (protect) wildlife.\n解析：填 to protect，It is important to do，保护野生动物。",
+      "keywords": ["形式主语", "It", "真正主语", "不定式", "that从句"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U3_006",
+      "name": "It 作形式宾语用法",
+      "definition": "用 It 作形式宾语，把真正宾语不定式或从句后置的结构。",
+      "explanation": "你发现某些动词加宾语补足语后带长宾语，就用 It 占宾语位，真正的案放句末。如 We find it necessary to protect the earth、I think it natural that plants need sunlight。判断动词为 make、find、think、consider 时常见。写作让长宾语后置，句子就平衡不头重脚轻。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "It 形式宾语后漏写宾补或真主",
+        "把 find it necessary to do 结构写错",
+        "从句作真正宾语时连接词配备不当"
+      ],
+      "example": "[仿题]We make ______ easy to recycle rubbish.\n解析：填 it，形式宾语，真正的宾语后置。",
+      "keywords": ["形式宾语", "It", "真正宾语", "make it", "to do"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U3_007",
+      "name": "环境污染类型词汇",
+      "definition": "空气、水、垃圾等各类污染类型及环境问题的核心名词。",
+      "explanation": "你认识污染名词：air pollution 空气污染、water pollution 水污染、noise pollution 噪音污染、plastic waste 塑料垃圾、garbage 垃圾。如 The air pollution is getting worse. 阅读看到 water pollution 就能锁定主题。记词区分污染类型，读环保类文章定位更快。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "air pollution 与 water pollution 对象混淆",
+        "plastic waste 与 plastic 词形搭配失误",
+        "garbage 与 垃圾对应词拼写错误"
+      ],
+      "example": "[仿题]The ______ (air/water) pollution harms our health.\n解析：填 air，空气污染，二者选一类污染。",
+      "keywords": ["污染类型", "air pollution", "water pollution", "塑料垃圾", "环境"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U3_008",
+      "name": "保护环境动词搭配",
+      "definition": "表达环保行动与对象的动词搭配。",
+      "explanation": "你表达环保行动用 protect 保护、reduce 减少、recycle 回收、cut down on 削减、save 节约。如 recycle paper、cut down on water use。写作呼吁环保时先写行动动词，再配对象，如 reduce plastic use。判断动词对象搭配，环保类表达就到位。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "reduce 与 reuse 词义混用",
+        "cut down on 介词漏写搭配不完整",
+        "recycle 对象选错环保名词"
+      ],
+      "example": "[仿题]We should recycle the ______ (paper/papers).\n解析：填 paper，纸，不可数名词回收利用。",
+      "keywords": ["环保动词", "protect", "reduce", "recycle", "节约"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U3_009",
+      "name": "能源与资源词汇",
+      "definition": "solar、wind、renewable 等与能源类型和资源相关的核心词汇。",
+      "explanation": "你谈能源会用到 solar energy 太阳能、wind power 风能、renewable energy 可再生能源、natural resources 自然资源。如 Solar power is clean. 阅读看到 renewable 就知道在讲可持续能源。记词区分可再生与不可再生，谈环保主题文章更准确。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "solar 与 solar 形容词位置搭配错",
+        "renewable 拼写漏字母",
+        "wind power 与 power 用法混淆"
+      ],
+      "example": "[仿题]Solar ______ (energy/energize) is clean.\n解析：填 energy，太阳能，solar energy 搭配。",
+      "keywords": ["能源词汇", "solar", "renewable", "风能", "自然资源"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U3_010",
+      "name": "气候变化相关词汇",
+      "definition": "与全球变暖等相关的气候变化核心名词。",
+      "explanation": "你谈气候用 global warming 全球变暖、carbon emission 碳排放、temperature 气温、sea level 海平面。如 The temperature keeps rising. 阅读看到 carbon emission 就知在讲气候问题。记词配因果，如 cut carbon emission 减少排放，谈气候变化对策更专业。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "carbon emission 复数形式配搭错误",
+        "global warming 与 climate change 概念混淆",
+        "sea level 单复数书写不完整"
+      ],
+      "example": "[仿题]We should cut down carbon ______ (emit/emission).\n解析：填 emission，碳排放，cut carbon emission。",
+      "keywords": ["气候变化", "global warming", "carbon", "气温", "海平面"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U3_011",
+      "name": "环保倡议与呼吁句型",
+      "definition": "用 Let us、It is our duty 等发出环保倡议与号召的句式。",
+      "explanation": "你发出呼吁用 Let us 让我们、It is our duty 是我们的责任、We should try our best 我们应尽力。如 It is our duty to save water. 结尾呼吁先点目标，再用 Let us 或 should 带行动。写作倡议书先讲问题再发号召，层次清楚更有感染力。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "It is our duty to do 漏写 to",
+        "Let us 后动词原形时语态混乱",
+        "呼吁句缺具体行动，太空泛"
+      ],
+      "example": "[仿题]______ (It/This) is our duty to save water.\n解析：填 It，发呼吁，It is duty to do 句型。",
+      "keywords": ["环保倡议", "Let us", "It is duty", "呼吁", "行动"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U3_012",
+      "name": "治理修复自然的表达",
+      "definition": "表达修复自然的行动与保护说法。",
+      "explanation": "你谈修复自然用 restore 恢复、plant trees 植树、protect wildlife 保护野生动物、treat waste 处理废水。如 We plant trees to restore the forest. 写作建议先写修复目标，再配具体做法，如 restore the wetlands。判断动词对象，治理修复类表达就完整。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "restore 与 recover 处置对象混淆",
+        "plant trees 中 trees 单复数误用",
+        "protect wildlife 搭配宾语缺失"
+      ],
+      "example": "[仿题]We should ______ (protect/protecting) wildlife.\n解析：填 protect，should 后接动词原形，保护野生动物。",
+      "keywords": ["修复自然", "restore", "plant trees", "wildlife", "保护"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

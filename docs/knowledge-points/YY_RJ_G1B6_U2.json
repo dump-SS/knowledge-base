@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第三册 Unit 2 Healthy Lifestyle",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B6_U2_001",
+      "name": "现在分词作状语的结构",
+      "definition": "用 doing 说明伴随、原因或时间，逻辑主语为句子主语的结构。",
+      "explanation": "你用 doing 作状语时，动作与句子主语是主动关系，表示伴随、原因或时间。如 Feeling tired, he went to bed 因为累所以去睡，Holding the book, she smiled 拿着书微笑。判断先看主语是发出动作还是接受，主动用 doing。做题补全时确认逻辑主语一致再用分词。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把被动关系也写成 doing 形式",
+        "分词动作的主语与句子主语不一致",
+        "状语与主句间的逻辑词缺失"
+      ],
+      "example": "[仿题]______ (feel) cold, he put on a coat.\n解析：填 Feeling，主语主动感觉冷，用现在分词。",
+      "keywords": ["现在分词", "作状语", "逻辑主语", "doing", "分词结构"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U2_002",
+      "name": "过去分词作状语的结构",
+      "definition": "用 done 表示被动或已完成，与句子主语为被动关系的状语结构。",
+      "explanation": "你用 done 作状语时，动作与主语是被动关系，表示被动或完成。如 Given more time, we would finish 若给更多时间，Seen from the hill, the city looks great 从山上望去。判断主语是不是被动作对待，被动的用过去分词。做题先判主被动，被动就填过去分词。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "表被动却误用现在分词 doing",
+        "分词与主语的被动判断失误",
+        "过去分词形式写错拼写"
+      ],
+      "example": "[仿题]______ (compare) with him, I am slower.\n解析：填 Compared，与…相比，被动关系用过去分词。",
+      "keywords": ["过去分词", "作状语", "被动关系", "done", "分词结构"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U2_003",
+      "name": "分词作条件的状语",
+      "definition": "用分词短语代替条件从句，表达假设条件意义的状语用法。",
+      "explanation": "你用分词表条件时可理解为与句子从句同样的意思，如 Given better care 若多加照顾。表达上分词短语往往在句首，用来交代实现某结果的前提。写作时想替换从句到句首用分词，句子更简洁紧凑。做题看主语是否被动再决定用哪种分词。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "把条件分词写成完整从句时时态不一",
+        "条件意义的分词主被动判断失误",
+        "分词与主句主语不一致成分错误"
+      ],
+      "example": "[仿题]______ (give) a chance, he would do better.\n解析：填 Given，若给机会，表条件被动。",
+      "keywords": ["分词状语", "条件", "Given", "被动", "假设"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U2_004",
+      "name": "分词状语与从句改写",
+      "definition": "把 when、because、if 从句简化为分词短语作状语的改写方法。",
+      "explanation": "你学会把从句改成分词：同主语且主动用 doing，被动用 done，删掉连接词即可。如 Because she felt weak, she sat down 改成 Feeling weak, she sat down。改写先划出从句与主句，确认主语一致，再按主被动变分词。写作时用分词让句子更简洁精炼。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "改写时连接词删不干净",
+        "分词的逻辑主语与主句不一致",
+        "主动被动改写判断反了"
+      ],
+      "example": "[仿题]Because she was tired, she stopped → ______.\n解析：Being tired, she stopped，同主语主动。",
+      "keywords": ["改写", "分词状语", "从句简化", "逻辑主语", "主被动"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U2_005",
+      "name": "健康饮食名词词汇",
+      "definition": "与均衡饮食和营养相关的核心词汇。",
+      "explanation": "你谈健康饮食会用到：balanced diet 均衡饮食、nutrition 营养、vitamin 维生素、protein 蛋白质、fat 脂肪、sugar 糖分。如 a well-balanced diet、rich in protein 富含蛋白质。阅读看到 take more vegetables 多吃蔬菜就能理解饮食建议。记词配搭配，如 deal with sugar，谈饮食更专业。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "balanced diet 与 healthy food 概念混淆",
+        "protein 与 fat 营养成分分类混淆",
+        "nutrition 与 nutrient 词形混用"
+      ],
+      "example": "[仿题]A ______ (balance/balanced) diet keeps you healthy.\n解析：填 balanced，均衡的，balanced diet 搭配。",
+      "keywords": ["健康饮食", "balanced diet", "nutrition", "蛋白质", "维生素"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U2_006",
+      "name": "运动锻炼动词词汇",
+      "definition": "描述锻炼方式与动作的动词。",
+      "explanation": "你表达锻炼用 exercise 锻炼、go jogging 慢跑、work out 健身、play sports 做运动。如 We work out in the gym every morning. 常见搭配 go swimming、go jogging 用 go 加 ing。写作建议锻炼时先说项目，再用频度副词，如 exercise regularly，对题又充实。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "go jogging 写成 go to jog",
+        "work out 与 work 混用，词义不清",
+        "锻炼频度副词位置写错"
+      ],
+      "example": "[仿题]I ______ (go/goes) jogging every day.\n解析：填 go，go jogging 固定搭配，I 后用原形。",
+      "keywords": ["锻炼词汇", "exercise", "go jogging", "work out", "健身"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U2_007",
+      "name": "睡眠与作息词汇",
+      "definition": "与睡眠质量和作息规律相关的核心词汇。",
+      "explanation": "你谈作息会用 fall asleep 入睡、get enough sleep 睡够、keep regular hours 作息规律、insomnia 失眠。如 Lack of sleep makes you tired. 阅读看到 have trouble sleeping 入睡困难就知在讲睡眠问题。记词带时间搭配，如 sleep early 早早休息，写作息建议用得上。",
+      "difficulty": 1,
+      "frequency": 2,
+      "typical_errors": [
+        "fall asleep 与 be asleep 用混",
+        "get enough sleep 中 enough 位置写错",
+        "insomnia 与 sleeping disorder 概念混用"
+      ],
+      "example": "[仿题]It is hard for me to ______ (asleep/fall) asleep.\n解析：填 fall，fall asleep 入睡，固定搭配。",
+      "keywords": ["睡眠词汇", "fall asleep", "insomnia", "作息规律", "睡够"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U2_008",
+      "name": "减压放松的表达",
+      "definition": "表达减压与放松的短语搭配。",
+      "explanation": "你谈减压用 reduce stress 减压、relax 放松、take a break 休息一下、calm down 平静下来。如 Listening to music helps me relax. 写作建议放松先写方式再写效果，如 It helps reduce stress. 判断短语搭配，放松与减压类表达就对。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "reduce stress 写错 reduce 与 stress 搭配",
+        "relax 与 relaxed 主被动表象混用",
+        "take a break 中 a 漏写或书写不完整"
+      ],
+      "example": "[仿题]Take a ______ (break/breaking) when you feel tired.\n解析：填 break，休息，take a break 固定搭配。",
+      "keywords": ["减压放松", "relax", "reduce stress", "take a break", "放松"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U2_009",
+      "name": "谈健康习惯的句型",
+      "definition": "表达给出健康建议的常用句式。",
+      "explanation": "你提建议用 It is important to keep healthy、You should exercise regularly、It is better to sleep early。写作建议段先定观点，再用 You should 或 It is important to 引出具体做法。判断句式搭配，建议表达就清楚又有力，作文也更有说服力。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "It is important to do 结构漏掉 to",
+        "You should 后用动词原形的处理错误",
+        "建议内容流于空泛缺具体做法"
+      ],
+      "example": "[仿题]It is important ______ (keep) a healthy habit.\n解析：填 to keep，It is important to do，保持健康习惯。",
+      "keywords": ["健康建议", "It is important to", "You should", "习惯", "建议句型"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U2_010",
+      "name": "不良生活习惯词汇",
+      "definition": "描述不良生活习惯的词汇搭配。",
+      "explanation": "你谈不良习惯会用 stay up late 熬夜、skip breakfast 不吃早餐、eat junk food 吃垃圾食品。如 Staying up late makes me weak. 阅读看到有坏习惯才能对症建议。作文里先指出不良习惯，再配健康做法，对比清楚、建议才落到点子上。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "skip breakfast 误写成 skip the breakfast",
+        "stay up late 与 stay late 混用表达不清",
+        "junk food 与 junk 食物词义混淆"
+      ],
+      "example": "[仿题]We have to avoid ______ (stay) up late.\n解析：填 staying，avoid 后接动名词，避免熬夜。",
+      "keywords": ["不良习惯", "stay up late", "skip breakfast", "垃圾食品", "熬夜"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U2_011",
+      "name": "身体状态与感受词汇",
+      "definition": "与身体状态和精力相关的形容词。",
+      "explanation": "你描述状态用 energetic 精力充沛的、weak 虚弱的、fresh 精神好的、tired 疲惫的。如 A balanced diet makes you energetic. 写作谈状态先给出形容词，再配原因，如 I feel fresh after exercise。判断主语状态与词义搭配，身体感受表达就更准确。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "energetic 拼写漏字母",
+        "weak 与 week 同音词性混淆",
+        "tired 与 exhausted 程度搭配不当"
+      ],
+      "example": "[仿题]I feel ______ (energy/energetic) today.\n解析：填 energetic，精力充沛的，形容词作表语。",
+      "keywords": ["身体状态", "energetic", "weak", "tired", "精力"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U2_012",
+      "name": "改变习惯的建议表达",
+      "definition": "表达养成健康习惯的建议说法。",
+      "explanation": "你建议改变习惯用 start doing 开始做、get into the habit of 养成习惯、give up 放弃、cut down on 减少。如 You should cut down on sweet drinks. 写作结尾建议先写改变的目标，再配做法，如 start exercising gradually。判断动词搭配，改变习惯的建议表达就更到位。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "cut down on 介词漏写搭配不完整",
+        "get into the habit of 后接动词形式错误",
+        "give up 与 give in 语义混用"
+      ],
+      "example": "[仿题]You should get into the habit of ______ (exercise).\n解析：填 exercising，habit of 后接动名词，养成习惯。",
+      "keywords": ["改变习惯", "get into the habit", "cut down on", "开始做", "建议"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

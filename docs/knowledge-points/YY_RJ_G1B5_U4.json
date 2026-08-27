@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第二册 Unit 4 Journey Across a Vast Land",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B5_U4_001",
+      "name": "过去完成时基本结构",
+      "definition": "由 had 加过去分词构成、表示在过去某动作之前发生动作的时态。",
+      "explanation": "你记住过去完成时由 had 加过去分词构成，例如 had gone、had finished。它表示在过去某一时间或动作之前已经发生的事。如 When I got there, they had left. 判断时先找到过去参照点，动作早于它就变 had 加过去分词，主动句这样用，做题先补好过去分词再落笔。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "漏写 had，只写过去分词不成句",
+        "过去分词与过去式形式混淆，如写 haved",
+        "无参照点滥用过去完成时，时态冗余"
+      ],
+      "example": "[仿题]By noon she ______ (finish) the work.\n解析：填 had finished，by+过去时间用过去完成。",
+      "keywords": ["过去完成时", "had+过去分词", "结构", "时间参照", "时态"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U4_002",
+      "name": "过去完成时的使用场景",
+      "definition": "在 by、before 引导的句子或叙述前因后果哑等场景中使用过去完成时。",
+      "explanation": "你判断过去完成时就看有没有明确的时间关系：用 by 加过去时间、before 或 when 从句时，发生在先的动作用过去完成。如 By the time he arrived, the train had gone. 做题先把时间参照点圈出，凡是先发生、先完成的动作统一用过去完成，后发生的仍用过去式。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "by the time 从句主句时态选错",
+        "先后动作都用过去式，缺时间层级",
+        "before 从句是否提前难以确定用错时态"
+      ],
+      "example": "[仿题]After she ______ (leave), I cried.\n解析：填 had left，先离开后哭，用过去完成。",
+      "keywords": ["过去完成时", "by", "before", "时间参照", "场景判断"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U4_003",
+      "name": "过去完成与过去式辨析",
+      "definition": "比较过去完成时与一般过去式的时态差别，判断动作发生的先后层级。",
+      "explanation": "你要分清过去完成时和一般过去式：一般过去式只表示过去发生的事，过去完成时强调在过去某一时刻之前已完成的动作。同一个句子里讲两件过去的先后事，先发生用过去完成，后发生用过去式。做题找句子里的先后顺序，先确定谁在前，层次就出来了。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "先发生的事却写成一般过去式",
+        "两件事平等并列却误用过去完成",
+        "把时间先后顺序理解反了"
+      ],
+      "example": "[仿题]I had studied hard before I ______ (take) the exam.\n解析：填 took，后发生用一般过去式。",
+      "keywords": ["时态辨析", "过去完成", "一般过去", "先后顺序", "时态选择"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U4_004",
+      "name": "表先后动作的过去完成",
+      "definition": "在故事里先发生的动作用过去完成、后发生的用过去式的叙述用法。",
+      "explanation": "你写故事或回忆时会用过去完成时交代最早的动作，再用一般过去式承接后续动作，形成先后层次。如 After we had seen the view, we drove on. 写完先检查每个动作的先后，最早发生的那步记得带上 had，保持层次清楚，记叙类作文时态才不乱。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "叙事里最早动作漏用过去完成时",
+        "前后动作都用过去完成，层次重叠",
+        "after 从句与主句动词时态不呼应"
+      ],
+      "example": "[仿题]After we ______ (rest), we continued.\n解析：填 had rested，先休息后继续，先否定用过去完成。",
+      "keywords": ["过去完成时", "先后动作", "叙事时态", "after从句", "层次"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U4_005",
+      "name": "地理地貌核心词汇",
+      "definition": "描述山脉、河流、平原、湖泊等自然地貌的名词及其搭配。",
+      "explanation": "你读地理类文章会遇到地貌名词：mountain 山脉、river 河流、lake 湖泊、plain 平原、forest 森林、valley 山谷、coast 海岸。常见搭配 the coast of、a beautiful valley、dense forest。记词时搭配地点介词一起记，如 along the river、on the coast，理解游记和地理科普阅读更顺畅。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "mountain 与 valley 高低地貌混淆",
+        "on the coast 与 by the river 介词搭配错",
+        "plain 与 plane 拼写相近，选词错误"
+      ],
+      "example": "[仿题]The village lies at the foot of the ______ (mountain).\n解析：填 mountain，山脚，at the foot of 搭配。",
+      "keywords": ["地理词汇", "mountain", "river", "valley", "coast", "地貌"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U4_006",
+      "name": "天气气候形容词",
+      "definition": "描述冷、热、湿、干燥等天气状况的形容词及其比较用法。",
+      "explanation": "你描述天气会用到：dry 干燥、humid 潮湿、freezing 极冷、warm 温暖、rainy 多雨、clear 晴朗。谈旅行要带上季节词，如 in the dry season、during the warm summer。写作介绍旅行地先写天气特点，再用具体词支撑，如 It is cold in winter while dry，表达就具体自然。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "humid 与 dry 意思相反却用混",
+        "freezing 程度词与 cold 混用层次不清",
+        "描述天气时介词季节搭配写错"
+      ],
+      "example": "[仿题]It is ______ (dry/humid) here in the winter months.\n解析：填 dry，干燥，冬季少雨干燥。",
+      "keywords": ["天气词汇", "dry", "humid", "freezing", "rainy", "季节"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U4_007",
+      "name": "方位与方向表达",
+      "definition": "表达地理方位与相对位置，如 in the north of。",
+      "explanation": "你表达方位常用 north 北、south 南、east 东、west 西，加 to the east of 位于某地以东、in the north of 在北部。区别：in 表示在境内，to 表示在境外。如 Beijing is in the north of China、Japan is to the east of China。做题先看地域内外关系，再选 in 或 to。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "in the north of 与 to the north of 混淆",
+        "方位词大小写与搭配书写不规范",
+        "境内境外判断失误导致介词选错"
+      ],
+      "example": "[仿题]The town lies ______ (in/on) the west of the province.\n解析：填 in，境内西部，表在境内用 in。",
+      "keywords": ["方位表达", "north", "south", "on the west", "in the north", "介词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U4_008",
+      "name": "旅行交通方式词汇",
+      "definition": "用 by train、on foot、take a bus 表达出行方式。",
+      "explanation": "你谈出行会用 by bus、by train、on foot 等，前面不能加冠词，如 travel by train 而不是 by a train；却可以用 take a bus、take a flight。如 We took a train across the country. 判断动词时先用 by 或 on 表示方式，或用 take 带动词短语，搭配合适句子才顺。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "by train 前误加冠词写成 by a train",
+        "on foot 与 by foot 混用，搭配错误",
+        "take a bus 与 by bus 结构混搭不规范"
+      ],
+      "example": "[仿题]They travelled ______ (on/by) foot through the valley.\n解析：填 on，on foot 步行固定搭配。",
+      "keywords": ["交通方式", "by train", "on foot", "take a bus", "出行"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U4_009",
+      "name": "描述旅程的句型",
+      "definition": "用 It took...to do 表达行程耗时。",
+      "explanation": "你描述旅程可说 They set off early 他们早出发、It took us two days to get there 花了我们两天到达。表达经过用 pass through、驾驶用 drive across。写作写游记先交代出发与时间，再用 take 讲耗时，句子时态统一在讲过去的事时用过去式，层次清楚就好。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "It took sb time to do 结构漏掉 to",
+        "set off 与 set out 介词写法不规范",
+        "路程耗时句时态与全文不一致"
+      ],
+      "example": "[仿题]It took us a day ______ (cross) the mountain.\n解析：填 to cross，It took 后接不定式。",
+      "keywords": ["旅程表达", "set off", "It took", "pass through", "出发"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U4_010",
+      "name": "国家地理常识词汇",
+      "definition": "涉及国家、省份、节庆地标等地理背景的专有名词与表达。",
+      "explanation": "你读关于地域板块的文章会碰到：province 省份、Canada 加拿大、Rocky Mountains 落基山脉、the Great Lakes 五大湖、wheat 小麦产区。写作谈地域时先定位 place，再讲当地特色，如 the capital of、an important port。记词配合具体国家地名，阅读定位题就能快速锁定答案位置。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "省份与首都等地理概念混淆",
+        "地名专有名词首字母大小写出错",
+        "把国家地名与特征搭配错乱"
+      ],
+      "example": "[仿题]Ottawa is the ______ (capital/port) of Canada.\n解析：填 capital，首都，Ottawa 为加拿大首都。",
+      "keywords": ["国家地理", "province", "capital", "地名", "地标"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U4_011",
+      "name": "旅行感受形容词",
+      "definition": "表达旅途惊叹、疲惫、开阔等感受的形容词及其搭配用法。",
+      "explanation": "你表达旅行心情会用：amazed 惊叹的、tired 疲倦的、relaxed 放松的、excited 兴奋的、impressive 令人印象深刻的。如 We were amazed at the vast view、I felt relaxed by the lake。写作结尾写感受时先点心情，再用具体场景支撑，句意完整也更有感染力。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "amazed 与 amazing 主被动词尾混淆",
+        "be amazed at 介词搭配写错",
+        "tired 与 tiring 修饰对象颠倒"
+      ],
+      "example": "[仿题]We were ______ (amazed/amazing) at the view.\n解析：填 amazed，ed 形容人，惊叹于风景。",
+      "keywords": ["旅行感受", "amazed", "tired", "relaxed", "impressive"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U4_012",
+      "name": "旅途路线顺序表达",
+      "definition": "用 first、then、after that 描述旅行路线先后。",
+      "explanation": "你叙述旅行路线时按经过顺序写：First we visited..., then we went..., after that we continued to...。先用顺序词串起各站，再交代重要见闻，路线就清楚。写作游记先列目的地顺序，再用顺序词过渡，最后停留感受，篇章连贯，读到哪都有逻辑。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "路线顺序词缺失，各站衔接混乱",
+        "顺序词误用，first 与 then 次序颠倒",
+        "叙述见闻与路线主次不分，没重点"
+      ],
+      "example": "[仿题]First we went to Ottawa, ______ we drove west.\n解析：填 then，接着，先用then连接顺序。",
+      "keywords": ["路线表达", "顺序词", "first", "then", "路线顺序"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

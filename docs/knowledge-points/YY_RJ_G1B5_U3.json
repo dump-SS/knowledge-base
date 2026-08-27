@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第二册 Unit 3 Food and Culture",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B5_U3_001",
+      "name": "that 同位语从句引导词",
+      "definition": "说明抽象名词具体内容、由 that 引导并紧跟在名词后的从句。",
+      "explanation": "你要会用 that 引导同位语从句，它用来补充说明 idea、fact、news、truth 这类抽象名词的具体内容。如 The news that we won made us happy. 这里的 that 从句就是 news 的完整内容。判断时先找到抽象名词，再看 the+名词+that 能否等于这个名词的内容，能等同就是同位语从句。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "同位语从句中漏写主语谓语，句子不完整",
+        "把 that 从句与定语从句混用，修饰关系搞混",
+        "that 从句内容配错抽象名词，逻辑不符"
+      ],
+      "example": "[仿题]The news ______ our team won excited us.\n解析：填 that，同位语说明 news 内容。",
+      "keywords": ["同位语从句", "that 引导", "抽象名词", "补充说明", "从句"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U3_002",
+      "name": "同位语与定语从句区别",
+      "definition": "同位语从句解释名词内容，而定语从句修饰限制名词，二者区分标准。",
+      "explanation": "你要能分辨两种从句：同位语从句说明名词的具体内容，从句完整不缺成分，如 The idea that we should save water；定语从句修饰限制名词，that 在从句中作成分可省略，如 The idea that he told me。判断先看 that 是否在从句中充当主语或宾语，缺成分的是定语从句，不缺的是同位语从句。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "that 作从句主语时而误判成同位语从句",
+        "同位语从句中把 that 当成成分漏掉补填",
+        "名词内容与定语结构一时区分不清便乱选"
+      ],
+      "example": "[仿题]The fact ______ the earth is round is known.\n解析：填 that，同位结构，从句不缺成分。",
+      "keywords": ["同位语从句", "定语从句", "从句区别", "that 成分", "修饰关系"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U3_003",
+      "name": "idea 后的同位语从句",
+      "definition": "idea、belief、hope 等名词后接 that 从句说明其具体内容。",
+      "explanation": "你记住同位语从句常用在 idea、belief、hope、fact、opinion 这类名词后面，that 引导从句说明它们的具体意思。如 the belief that hard work pays off、my hope that you will succeed。此时 that 不可省略，也不能换成 which。做题看到这类抽象名词就留意后面是否跟 that 完整从句。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把同位语里的 that 省略掉，结构残缺",
+        "用 which 代替 that，引导词选错",
+        "抽象名词后的从句主语漏写，句意不完整"
+      ],
+      "example": "[仿题]We share the belief ______ honesty matters.\n解析：填 that，belief 后同位语不可省略 that。",
+      "keywords": ["同位语", "idea", "belief", "that 不可省", "抽象名词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U3_004",
+      "name": "该不该用 that 作连接词",
+      "definition": "区分 where that 必须、that 与 which 选用的位置规则。",
+      "explanation": "你要把连接词选用归好类：定语从句里关系词充当成分用 which、who、where 等；同位语从句说明内容只能用 that。而宾语从句 that 常可省略，同位语从句却不可。做题先分清从句类型，再决定用 that 还是其他词，这样选择填空就不会颠倒。多练几道能形成固定判断手感。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "定语从句却误用 that 充当成分不够时",
+        "同位语从句把 that 误写成 which",
+        "type 混合宾语从句把可省的 that 乱省"
+      ],
+      "example": "[仿题]There is no doubt ______ he will win.\n解析：填 that，no doubt 后接 that 同位语。",
+      "keywords": ["连接词", "that", "which", "同位语", "定语从句"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U3_005",
+      "name": "食物与食材核心词汇",
+      "definition": "常见食材与食品的名词，如 ingredient、soup。",
+      "explanation": "你看美食文章会遇到食材名词：ingredient 配料、soup 汤、staple food 主食、dumpling 饺子、porridge 粥、flavour 风味。遇到 add the ingredients 加配料、staple food 主食这类组合就能理解制作内容。记词时把词与常见搭配绑定，如 cook a soup、staple grains，理解菜谱和烹饪类阅读更顺手。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "ingredient 与材料 ingredient 拼写漏字母",
+        "staple food 与 main dish 概念混淆",
+        "食材名词单复数误用，可数性判断错误"
+      ],
+      "example": "[仿题]Rice is the main ______ (stable/staple) food in the south.\n解析：填 staple，主食，固定搭配 staple food。",
+      "keywords": ["食材词汇", "ingredient", "主食", "饺子", "flavour", "风味"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U3_006",
+      "name": "烹饪动作动词用法",
+      "definition": "描述切、煮、蒸、烤、炒等烹饪动作及其搭配的动词用法。",
+      "explanation": "你写做菜过程要会用烹饪动词：cut 切、boil 煮、steam 蒸、roast 烤、stir-fry 炒、serve 端上。常见搭配 serve the dish、stir-fry the vegetables。写菜谱类作文时先列步骤，用 cut into pieces 切成块、boil until soft 煮软，动作与结果搭配清楚，就符合写作要求。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "boil 与 roast 方式混淆，烹饪方法搞混",
+        "serve 的宾语搭配不当，句子成分缺漏",
+        "stir-fry 双动词连用形式拼写错误"
+      ],
+      "example": "[仿题]______ (cut) the onions into pieces first.\n解析：填 Cut，切，切菜步骤，祈使句首词大写。",
+      "keywords": ["烹饪动词", "cut", "boil", "steam", "stir-fry", "serve"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U3_007",
+      "name": "饮食文化与习惯表达",
+      "definition": "描述进餐习惯、餐桌礼仪与文化差异的常用表达方式。",
+      "explanation": "你谈饮食文化会用到：eating habit 饮食习惯、table manners 餐桌礼仪、share the food 分享食物、at the dinner table 饭桌上。如 Different countries have different table manners. 写作对比中西方饮食时，先后写各国习惯，再用 they share food 等点出差异，条理清楚也有内容可写。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "table manners 与 eating habit 混为一谈",
+        "share the food 搭配介词位置写错",
+        "谈习惯时总把单数写成复数，主语不一致"
+      ],
+      "example": "[仿题]People here share ______ (food/foods) together.\n解析：填 food，泛指食物，饮食分享习惯。",
+      "keywords": ["饮食习惯", "table manners", "分享食物", "餐桌", "文化差异"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U3_008",
+      "name": "餐厅点餐常用句型",
+      "definition": "表达推荐、点餐、买单等餐厅交际场景的常用句式。",
+      "explanation": "你面对餐厅情景可掌握：I'd like to order... 我想点、What do you recommend 你推荐什么、Could I have the bill 买单。回答推荐用 It tastes wonderful 或 People love this dish。写作对话题先看角色，服务员用 recommend，客人用 order，分清说话对象，句子自然又得高分。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "order 与 recommend 角色用反，表达混乱",
+        "Could I have the bill 中 the bill 漏掉",
+        "回答推荐菜品只说名字，缺评价句"
+      ],
+      "example": "[仿题]What do you ______ (recommend/recommendation)?\n解析：填 recommend，推荐，what 后接动词原形。",
+      "keywords": ["点餐句型", "order", "recommend", "买单", "餐厅对话"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U3_009",
+      "name": "描述味道的形容词",
+      "definition": "表达酸甜苦辣、香等味道感受的形容词及其程度用词。",
+      "explanation": "你尝一道菜要会描述：sweet 甜、sour 酸、bitter 苦、spicy 辣、salty 咸、delicious 美味。表达程度常见 it is a bit spicy、a little salty，或用 a nice smell 香味。写作评价食物时先给总体 impression，再用具体味道词支撑，如 The soup tastes slightly sour，表达就具体多了。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "sour 与 bitter 味道分辨混淆",
+        "a bit 与 a little 的惯用位置写错",
+        "tasty 与 taste 词性混用，把形容词当动词"
+      ],
+      "example": "[仿题]The dish tastes a bit ______ (salt/salty).\n解析：填 salty，表咸的，形容词作表语。",
+      "keywords": ["味道形容词", "sweet", "spicy", "salty", "delicious"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U3_010",
+      "name": "食物背后的文化意义",
+      "definition": "描述食物与传统节气、团圆等文化意义关联的表达方式。",
+      "explanation": "你谈食物背后的含义会学到：symbol 象征、family reunion 团圆、good luck 好运、harvest 丰收、tradition 传统。比如 Dumplings symbolize reunion. 写作讲传统饮食时先指出文化意义，再讲为什么吃，如 people eat them to wish good luck，内容就深刻不少。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "symbol 与 symbolise 词性混用",
+        "family reunion 中词语搭配顺序颠倒",
+        "讲文化意义时缺乏因果，逻辑连接不紧"
+      ],
+      "example": "[仿题]Noodles often ______ (symbol/symbolize) long life.\n解析：填 symbolize，象征，noodles 动词用复数形式。",
+      "keywords": ["文化意义", "symbol", "团圆", "好运", "传统", "象征"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U3_011",
+      "name": "同位语从句 that 不可省",
+      "definition": "同位语从句引导词 that 在任何位置都不可省略的约定规则。",
+      "explanation": "你记住同位语从句里的 that 一律不能省，因为它是从句开头的标志，删掉会让句子读起来不通。如 They accepted the proposal that we should save energy. 这里 that 不可删。判断时若后接抽象名词加 that 加完整句子，就是同位语结构，that 尽量保留完整书写。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把同位语的 that 随手省略导致歧义",
+        "that 从句与 that 宾语从句的可省规则混淆",
+        "naming the fact that 结构漏写 that"
+      ],
+      "example": "[仿题]The idea ______ (that/) we rush is common.\n解析：填 that，同位语从句引导词不可省略。",
+      "keywords": ["同位语", "that 不可省", "抽象名词", "从句标志", "完整"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U3_012",
+      "name": "中西饮食对比的表达",
+      "definition": "用 while、on the other hand 对比中西方饮食差异的句式。",
+      "explanation": "你对比中西方饮食常用 while 或 on the other hand 引出不同点，如 Chinese people often share dishes while Westerners have separate plates. 对比结构要先写一方，再用连接词转到另一方。写作时先用各自主食或就餐方式做对比点，句子就平衡，读起来也更清楚有序。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "对比时只写一方，缺少另一方形成对照",
+        "while 表对比时前后主语谓语不一致",
+        "on the other hand 前后缺乏逻辑呼应"
+      ],
+      "example": "[仿题]Chinese share dishes, ______ western people order separately.\n解析：填 while，表对比，引出差异。",
+      "keywords": ["中西对比", "while", "on the other hand", "饮食差异", "对比句式"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

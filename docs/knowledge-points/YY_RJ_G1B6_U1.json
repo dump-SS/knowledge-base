@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第三册 Unit 1 Art",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B6_U1_001",
+      "name": "介词加which定语从句",
+      "definition": "介词置于 which 前引导定语从句、which 代物作介词宾语的结构。",
+      "explanation": "你用介词加 which 引导定语从句时，which 代替前面的事物，前面的介词由动词或名词搭配决定。如 the brush with which he painted、a museum in which art is shown。判断先找哪个介词与从句动词搭配，再把介词提前放在 which 前，句子就顺了。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "介词漏放 which 前，位置写错",
+        "介词与从句动词搭配选错",
+        "which 代物却误用 whom"
+      ],
+      "example": "[仿题]This is the canvas on ______ he drew.\n解析：填 which，介词 on 加 which 代物。",
+      "keywords": ["定语从句", "介词提前", "which", "介词搭配", "代物"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U1_002",
+      "name": "介词加whom定语从句",
+      "definition": "介词置于 whom 前引导定语从句、whom 代指人作介词宾语的结构。",
+      "explanation": "你用介词加 whom 时，whom 代替的是人，前面的介词同样由搭配决定。如 the artist with whom I talked、the teacher to whom you wrote。判断关系词指人还是物，指人就用 whom，并把介词提前。做题先认出指人的名词，介词加 whom 就水到渠成。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "指人却用 which 作介词宾语",
+        "介词漏掉，whom 前的搭配不完整",
+        "把 whom 误写成 who 出现在介词后"
+      ],
+      "example": "[仿题]The painter to ______ I talked is famous.\n解析：填 whom，介词 to 加 whom 指人。",
+      "keywords": ["定语从句", "whom", "介词提前", "指人", "介词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U1_003",
+      "name": "介词由动词搭配决定",
+      "definition": "定语从句中的介词由先行词或从句中动词的固定搭配来决定。",
+      "explanation": "你确定介词的方法是看从句里面动词或先行词的固定搭配。如 look at 看、think of 想到、agree with 同意，选介词时要与这些动词搭配呼应。做题先看从句里缺什么介词才能接得通，再看与先行词能否搭配，选出来的介词就准确了。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "不看动词搭配随意选介词",
+        "介词与先行词之间搭配不呼应",
+        "把常搭配的介词与宾语写反"
+      ],
+      "example": "[仿题]He is a man at ______ (whom/who) we admire.\n解析：填 whom，介词 at 加 whom 指人作宾语。",
+      "keywords": ["介词选择", "动词搭配", "定语从句", "whom", "介词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U1_004",
+      "name": "介词不提前可放句末",
+      "definition": "介词可留在从句末尾，关系词用 which 或 that 引导定语从句。",
+      "explanation": "你掌握另一种写法：介词留在从句句末，关系词用 which 或 that 甚至省略。如 the artist (that) he talked to 等于 the artist to whom he talked。写作或选择时两种都对，但口语与日常更常用介词后置。判断时先看介词位置，决定用 whom 还是 that。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "介词置句末仍误用 whom",
+        "介词后置时关系词不能省略的判断错",
+        "两种写法混搭，介词与关系词不匹配"
+      ],
+      "example": "[仿题]The girl she talked ______ is my friend.\n解析：填 to，介词后置，talk to 搭配。",
+      "keywords": ["介词后置", "句末介词", "定语从句", "that", "省略"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U1_005",
+      "name": "艺术流派名词词汇",
+      "definition": "realism、impressionism 等描述艺术风格与流派的名词。",
+      "explanation": "你看艺术类文章会遇到流派名词：realism 现实主义、impressionism 印象派、cubism 立体主义、abstract art 抽象艺术。看到 an Impressionist painting 一幅印象派画作、a realist painter 现实主义画家就能定主题。记词时把流派与对应画家连在一起记，理解美术史阅读更省力。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "impressionism 与 realism 特征混淆",
+        "抽象艺术 abstract 拼写漏字母",
+        "流派名词作定语时词形变用错误"
+      ],
+      "example": "[仿题]Monet was an ______ (impressionism/impressionist) painter.\n解析：填 impressionist，印象派画家，用名词作定语。",
+      "keywords": ["艺术流派", "realism", "impressionism", "抽象艺术", "画派"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U1_006",
+      "name": "艺术家与作品词汇",
+      "definition": "painter、sculpture、canvas 等描述艺术家与艺术品的名词。",
+      "explanation": "你认识艺术品相关名词：painter 画家、sculpture 雕塑、canvas 画布、brush 画笔、gallery 画廊、exhibition 展览。如 a famous sculpture、an exhibition of paintings。看到 canvas 与 gallery 就知道在讲艺术。记词搭配动词，如 exhibit artworks，写作谈艺术更顺手。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "canvas 与 curtain 拼写相近混淆",
+        "exhibition 拼写漏字母",
+        "sculpture 雕塑词汇与画类名词混用"
+      ],
+      "example": "[仿题]The ______ (painting/painter) hangs in the gallery.\n解析：填 painting，画作，构图缘物品陈列在画廊。",
+      "keywords": ["艺术家词汇", "painter", "sculpture", "canvas", "gallery", "展览"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U1_007",
+      "name": "描述艺术风格的形容词",
+      "definition": "vivid、geometric、peaceful 等描述画面风格与感受的形容词。",
+      "explanation": "你评价画作会用到 vivid 生动、natural 自然、geometric 几何的、peaceful 宁静的、colourful 色彩丰富的。如 a vivid portrait、bright colours。写作谈画先给总体印象，再用具体词支撑，如 the colours are vivid and bright。判断风格词与画面配合，表达就贴切。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "vivid 的形容词与副词形式混用",
+        "geometric 与 abstract 风格混淆",
+        "描述风格的词搭配对象不当"
+      ],
+      "example": "[仿题]The painting shows a ______ (peace/peaceful) scene.\n解析：填 peaceful，宁静的，形容词修饰 scene。",
+      "keywords": ["风格形容词", "vivid", "geometric", "peaceful", "生动"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U1_008",
+      "name": "博物馆参观表达",
+      "definition": "表达参观博物馆与展览的用语。",
+      "explanation": "你表达参观会用 visit a museum 参观博物馆、see the exhibition 看展览、appreciate the art 欣赏艺术。表达顺序可说 We started with the ancient paintings, then moved to modern works. 写作写参观点先排参观顺序，再写最打动你的作品，内容就有主线，参观类作文也好写。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "visit 后乱加介词造成搭配错误",
+        "appreciate 后接动词形式错误",
+        "参观顺序缺过渡词，衔接不清"
+      ],
+      "example": "[仿题]We ______ (visit/visited) the museum yesterday.\n解析：填 visited，过去参观，昨天时态用过去式。",
+      "keywords": ["博物馆", "参观", "exhibition", "appreciate", "赏画"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U1_009",
+      "name": "谈艺术感受的句型",
+      "definition": "表达对艺术作品的感受与看法。",
+      "explanation": "你谈作品感受可用 It is my favourite、The painting moves me deeply、I am touched by it. 表达评价常用 The use of light is impressive. 写作结尾谈最爱的画时先点作品，再写打动你的原因，句子完整表达也更有感染力。判断人称与感受词的搭配，谈感受就自然。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "moves me 与 touch 用法混用",
+        "谈感受时人称与动词不一致",
+        "评价句缺具体原因，显得空洞"
+      ],
+      "example": "[仿题]This painting is my ______ (favourite/favour).\n解析：填 favourite，最喜欢的，is 后接名词。",
+      "keywords": ["谈感受", "favourite", "moves me", "评价作品", "impressive"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U1_010",
+      "name": "描述画面内容的句型",
+      "definition": "用位置词语描述画面主体与构图。",
+      "explanation": "你描述画面可用 There is a group of people in the foreground，用 in the background 指远处、in the centre 指中心。如 In the centre stands a large tree. 写作描述画作先交代位置，再写细节，用位置短语把构图讲清。判断画面元素的位置词，描述就更准确。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "foreground 与 background 位置混淆",
+        "in the centre 介词搭配写错",
+        "构图描述顺序混乱，主次不明"
+      ],
+      "example": "[仿题]In the ______ (background/centre) stands a tower.\n解析：填 centre，中心，画面正中立着塔。",
+      "keywords": ["画面描述", "background", "centre", "构图", "foreground"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U1_011",
+      "name": "画作名称与材料词汇",
+      "definition": "画种与材料的专有名词，如油画与水彩。",
+      "explanation": "你了解画种名词：oil painting 油画、watercolour 水彩、portrait 肖像画、landscape 风景画、still life 静物画。如 an oil painting of a landscape。阅读看到 still life 就明白题材。记词区分材料与题材，读艺术类文章更准。",
+      "difficulty": 1,
+      "frequency": 2,
+      "typical_errors": [
+        "portrait 与 landscape 题材混淆",
+        "still life 固定搭配写法错误",
+        "watercolour 拼写漏字母"
+      ],
+      "example": "[仿题]This is an oil ______ (painting/painter) of a model.\n解析：填 painting，油画，oil painting 固定搭配。",
+      "keywords": ["画种词汇", "portrait", "landscape", "水彩", "静物"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U1_012",
+      "name": "定语从句与先行词搭配",
+      "definition": "由先行词是人是物决定用 which 或 whom 加介词引导从句。",
+      "explanation": "你综合选关系词时看先行词：指人且作介词宾语用 whom，指物用 which。如 the artist from whom we learnt、the style in which it is painted。写作遇到介词短语从句，先判定先行词身份，再决定 which 还是 whom。判断对了关系词整体就没错。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "先行词指物却误用 whom",
+        "介词短语与关系词不匹配",
+        "先行词身份判断失误选错关系词"
+      ],
+      "example": "[仿题]The way ______ which the picture was drawn is unique.\n解析：填 in，笔法独特，the way in which 固定。",
+      "keywords": ["先行词", "关系词选择", "which", "whom", "定语从句"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

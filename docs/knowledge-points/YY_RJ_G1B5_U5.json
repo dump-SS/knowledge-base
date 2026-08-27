@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第二册 Unit 5 First Aid",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B5_U5_001",
+      "name": "过去分词作宾语补足语",
+      "definition": "宾语与补足语是被动关系、用过去分词补充宾语的结构。",
+      "explanation": "你用过去分词作宾补时，宾语与后面的词是被动关系。如 I heard my name called. 名字是被叫的，my name 与 called 是被动，就用过去分词。句子结构是动词加宾语加过去分词。判断先看宾语是不是被后面的动作对待，是被动的就填过去分词，主动态才用现在分词。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把被动关系误写成现在分词 ing 形式",
+        "宾语与补足语的主被动判断做反",
+        "漏写动词后的宾语，直接给分词"
+      ],
+      "example": "[仿题]I heard my name ______ (call) in class.\n解析：填 called，名字被叫，被动关系用过去分词。",
+      "keywords": ["宾语补足语", "过去分词", "被动关系", "called", "结构"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U5_002",
+      "name": "让某事被做成的句式",
+      "definition": "用 have sth done、get sth done 表达让某事被完成。",
+      "explanation": "你用 have sth done 时表示让别人或某事被做好，如 have the wound treated 让伤口得到处理。结构是 have 加宾语加过去分词。要注意 have 后接过去分词表被动完成，区别于 have sb do 表主动。做题先看宾语是被做还是做，被动就用过去分词，意思就准确了。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "have sth done 与 have sb do 结构混用",
+        "宾语后误用动词原形而不用过去分词",
+        "把被动处理的宾语逻辑判断颠倒"
+      ],
+      "example": "[仿题]You should have the injury ______ (examine) now.\n解析：填 examined，让伤口被检查，被动。",
+      "keywords": ["have sth done", "get sth done", "宾语补足语", "被动", "句式"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U5_003",
+      "name": "过去分词作表语",
+      "definition": "过去分词作表语说明主语的状态，常带被动或已完成含义。",
+      "explanation": "你看到系动词后是过去分词，它作表语说明主语所处状态，如 The window is broken、He seemed worried. 区分时注意过去分词作表语描述状态，系动词有 be、seem、look、become 等。判断先找系动词，再填描述主语状态的过去分词，这样表语就用对了。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把作表语的过去分词误写成现在分词",
+        "系动词后仍用动词原形不变成分词",
+        "把被动语态与作表语状态混为一谈"
+      ],
+      "example": "[仿题]She seemed quite ______ (worry) about him.\n解析：填 worried，系动词后过去分词表状态。",
+      "keywords": ["过去分词表语", "系动词", "状态", "worried", "表语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U5_004",
+      "name": "分词表语表示感受",
+      "definition": "ed 分词表人感受，ing 分词表事物性质。",
+      "explanation": "你要分清两类分词表语：ed 结尾描述人的感受，如 I was excited；ing 结尾描述事物的性质，如 The news is exciting。区分看主语是人还是事物。写作时先看主语，人感受用 ed，事物性质用 ing。判断主语类别后，填空就不会再混淆这两类词。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "形容人却用 exciting，混淆 ed 与 ing",
+        "形容事物性质却用 excited 形式",
+        "主语是复数时 ed 分词形式仍写错"
+      ],
+      "example": "[仿题]The students were ______ (excite) about the trip.\n解析：填 excited，人感到兴奋用 ed 分词。",
+      "keywords": ["分词表语", "ed与ing", "感受", "excited", "形容词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U5_005",
+      "name": "急救动作动词搭配",
+      "definition": "treat、apply、bandage、press 等表达急救操作的动词及搭配。",
+      "explanation": "你写急救过程要会用动作词：treat 处理、apply pressure 施压、cover 盖上、bandage 包扎、calm sb down 安抚。如 Apply pressure to the wound、Cover it with a clean cloth。写作谈急救先说怎么做，再配具体动作与对象，步骤就清楚。判断词义配对象，别把按压和包扎混用。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "apply pressure 与 bandage 操作对象混用",
+        "treat 与 cure 词义混淆，处理治疗混用",
+        "calm sb down 介词搭配或宾语写错"
+      ],
+      "example": "[仿题]You should apply ______ (pressure/press) to the cut.\n解析：填 pressure，施压，apply pressure 固定搭配。",
+      "keywords": ["急救动词", "treat", "apply", "bandage", "包扎", "施压"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U5_006",
+      "name": "伤病伤害名词",
+      "definition": "描述伤口、烧伤等身体伤害的名词。",
+      "explanation": "你认识急救文章的关键名词：wound 伤口、burn 烧伤、injury 伤害、bleeding 出血、poison 中毒、fracture 骨折。常见搭配 have a burn、stop the bleeding、treat a wound。阅读看到 stop bleeding 止血、minor injury 轻伤就能理解急救主题。记词带常见伤病搭配，阅读定位更快。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "wound 与 injury 语义范围混淆",
+        "bleeding 与 blood 词形和用法混用",
+        "burn 作名词与动词的用法分不清"
+      ],
+      "example": "[仿题]Press down to stop the ______ (bleed/bleeding).\n解析：填 bleeding，止血，stop the bleeding。",
+      "keywords": ["伤病名词", "wound", "burn", "injury", "bleeding", "伤害"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U5_007",
+      "name": "紧急呼救的表达",
+      "definition": "表达求救与急救场景，如 call for help。",
+      "explanation": "你遇到紧急情况要说 call for help 求助、call an ambulance 叫救护车、call 120 打急救电话。还有 first aid 急救、in an emergency 紧急情况下。写作或情景对话时先确认伤情，再用 call 加急救号码，最后补 Can you help me 询问，表达清楚又能及时求助。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "call for help 与 call the police 场景混用",
+        "in an emergency 介词短语书写不完整",
+        "first aid 与 help 概念词义混淆"
+      ],
+      "example": "[仿题]In an ______ (emergency/emergence), call 120.\n解析：填 emergency，紧急情况，固定短语。",
+      "keywords": ["紧急呼救", "call for help", "ambulance", "急救", "紧急情况"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U5_008",
+      "name": "急救步骤先后表达",
+      "definition": "用 first、then、at last 连接急救操作顺序的表达方式。",
+      "explanation": "你写急救过程按步骤顺序安排：First check the wound，then clean it，finally cover it. 用顺序词把每一步串起来，紧急流程一目了然。写作先列操作先后，再用顺序词过渡，每一步写清楚动作与对象，急救类作文既完整又有条理。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "急救步骤顺序颠倒，操作不合理",
+        "顺序词缺失，步骤衔接不清",
+        "步骤遗漏清理或包扎环节，流程不全"
+      ],
+      "example": "[仿题]First clean the wound, ______ cover it.\n解析：填 then，顺序词连接急救步骤。",
+      "keywords": ["急救步骤", "顺序词", "first", "then", "过程"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U5_009",
+      "name": "安全防护与预防表达",
+      "definition": "表达安全防护与预防，如 avoid touching。",
+      "explanation": "你谈安全防护会用 wear protective gloves 戴手套、avoid touching 别去碰、be careful of 当心、keep away from 远离。写作建议类篇章先指出危险，再用 avoid 或 be careful 提出预防，如 Always wear gloves when handling sharp tools。判断动词搭配，预防类表达就准确。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "avoid 后接动词原形而未用 ing",
+        "be careful of 与 be careful to 搭配混用",
+        "protective 与 protect 词性选用错误"
+      ],
+      "example": "[仿题]Avoid ______ (touch) the hot water.\n解析：填 touching，avoid 后接动名词，避免触碰。",
+      "keywords": ["安全防护", "avoid doing", "be careful", "wear gloves", "预防"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U5_010",
+      "name": "拨打急救电话句型",
+      "definition": "表达求助请求的礼貌句式。",
+      "explanation": "你拨打急救电话时表达请求：I need help 我需要帮助、Please send an ambulance 请派救护车。询问地址可说 My address is..., 描述伤情用 He is bleeding。情景对话先自报地址与伤情，再提出请求，信息完整接线员才能对症处理。写作对话题按流程表达更得分。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "请求句用错情态动词，语气过硬",
+        "报地址与描述伤情顺序颠倒",
+        "Please send 语法结构缺宾语"
+      ],
+      "example": "[仿题]Please ______ (send/sending) a doctor here.\n解析：填 send，Please 后接动词原形表请求。",
+      "keywords": ["急救电话", "求助句型", "ambulance", "地址描述", "请求"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U5_011",
+      "name": "烧伤烫伤处理表达",
+      "definition": "表达处理烧伤的固定说法，如 cool the burn。",
+      "explanation": "你写烧烫伤处理要用 cool the burn 冷却伤口、run it under cool water 用凉水冲、loosen the clothing 解开衣物。急救提示里常见 Don't burst the blisters 别挑破水泡。写作先按急救常识排步骤，如先冲水再轻轻盖住，操作用祈使句，处理急救类问题就从容。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "冷水冲洗却误用热水的动作错误",
+        "挑破水泡 burst 动作被随手写出",
+        "祈使句动词原形与处理顺序不当"
+      ],
+      "example": "[仿题]Cool the burn by running it under cool ______ (water).\n解析：填 water，凉水冷却伤口，固定表达。",
+      "keywords": ["烧伤处理", "cool the burn", "凉水", "祈使句", "急救表达"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U5_012",
+      "name": "伤口恢复与愈合表达",
+      "definition": "表达伤口恢复过程，如 take time to heal。",
+      "explanation": "你描述恢复会用 heal 愈合、recover 康复、get better 好转、take time to heal 需要时间愈合。如 The wound took a week to heal、She is recovering well. 写作结尾谈恢复时先用 recover 讲状态，再用 take time 讲过程，句子完整，急救类文章逻辑也收得干净。",
+      "difficulty": 2,
+      "frequency": 2,
+      "typical_errors": [
+        "heal 与 recover 的主语对象混用",
+        "take time to do 结构漏掉 to",
+        "recover from 介词搭配写错"
+      ],
+      "example": "[仿题]The cut took two days ______ (heal).\n解析：填 to heal，take time to do，需要时间愈合。",
+      "keywords": ["恢复表达", "heal", "recover", "愈合", "好转"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 必修 第二册 Unit 1 Cultural Heritage",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B2_U1_001",
+      "name": "that 引导限制性定语从句",
+      "definition": "掌握 that 引导限制性定语从句替代 who、whom、which 的用法。",
+      "explanation": "that 既可指人又可指物，是限制性定语从句里的通用关系代词。比如 The monument that we visited 指物，The guide that showed us around 指人。你要留意，先行词被最高级、序数词或不定代词修饰时只用 that。判断时先看从句成分，能作主语能作宾语，that 大多是安全的选择，但遇特殊情形要被强制使用。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "遇最高级先行词仍误用 which 而不强制用 that",
+        "that 与 which 在介词提前时错用",
+        "非限制性从句也误用 that 引导"
+      ],
+      "example": "[仿题]填空：This is the oldest temple ___ (that/which) we visited。\n解析：最高级必须用 that",
+      "keywords": ["that", "限制性", "定语从句", "最高级", "通用关系词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U1_002",
+      "name": "which 指物及介词搭配",
+      "definition": "掌握 which 引导表物定语从句并准确搭配介词。",
+      "explanation": "先行词指物时常用 which，介词可提到 which 前构成介词加 which。比如 the bridge across which we crossed 或 the issue in which we are interested。你要根据动词或名词的固定搭配选介词，再从从句里找搭配依据。指物且作宾语时，介词提前用 which，这是介词不能与 that 连用的关键点。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "介词提前时误写介词加 that",
+        "介词不依搭配随意填入",
+        "把 which 用于指人先行词"
+      ],
+      "example": "[仿题]填空：the temple at ___ which we prayed。\n解析：pray at 用 at which",
+      "keywords": ["which", "指物", "介词提前", "介词加which", "定语从句"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U1_003",
+      "name": "who whom 指人区分",
+      "definition": "掌握先行词指人时作主语用 who、作宾语用 whom。",
+      "explanation": "先行词指人时，作从句主语用 who，作动词或介词宾语用 whom。比如 The guide who led us 中作主语用 who；The guide whom we thanked 中作宾语用 whom。你可先找从句的动词，看它前后有没有这个人出现。介词提前时必须用 whom，口语中作宾语的 whom 也常简化成 who 或省略。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "作宾语误用 who 而不选 whom 尤其在介词前",
+        "介词提前时仍写 who",
+        "作主语的 who 与作宾语的 whom 混淆"
+      ],
+      "example": "[仿题]填空：The man ___ (whom/who) we met is a guide。\n解析：作宾语介词对象用 whom",
+      "keywords": ["who", "whom", "指人", "介词提前", "定语从句"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U1_004",
+      "name": "whose 所属关系",
+      "definition": "掌握 whose 表示人或多所属关系且作从句定语。",
+      "explanation": "whose 表示谁的，既可指人也可指物，在从句里作定语接名词。比如 The village whose old houses were damaged 中 whose 修饰 houses。指物的所属也可以用 of which 表达，如 the roof of which。你要判断从句里那个名词是否属于先行词，属于就用 whose。指物的所属在正式写作中可用 of which 替换。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "指物所属误用 which 而不用 whose",
+        "把 whose 与 who's 拼写混淆",
+        "whose 后误接动词而不接名词"
+      ],
+      "example": "[仿题]填空：The town ___ (whose/of which) walls remain is ancient。\n解析：所属关系用 whose",
+      "keywords": ["whose", "of which", "所属", "定语", "定语从句"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U1_005",
+      "name": "关系代词作宾语可省略",
+      "definition": "掌握限制性定语从句中作宾语的关系代词在口语可省略。",
+      "explanation": "在限制性定语从句里，关系代词作宾语时口语中可省略。比如 The museum that we visited 可说成 The museum we visited。你要注意仅限作宾语且是限制性从句时才能省，作主语不能省；介词提前的 which、whom 也不能省。判断时先在从句里找动词，看关系代词是不是它后面的宾语，是宾语才省得掉。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "作主语的关系代词被错误省略",
+        "介词提前时省略 which 或 whom",
+        "非限制性从句中错省略关系词"
+      ],
+      "example": "[仿题]改写：The wall that we saw。\n解析：作宾语，可省为 The wall we saw",
+      "keywords": ["省略", "作宾语", "限制性", "关系代词", "口语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U1_006",
+      "name": "非限制性定语从句",
+      "definition": "掌握逗号隔开补充说明先行词且不能用 that 的从句。",
+      "explanation": "非限制性定语从句用逗号与主句隔开，只补充信息，去掉也不影响句意，一般不能 that 引导。比如 The Great Wall，which was built long ago，attracts many visitors。你要靠逗号判断这个句式，同时记住 which 可指代前面整个句子，人代时作宾语用 whom。学会识别逗号模式，阅读理解就快一大截。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "非限制性从句误用 that 引导",
+        "分不清有无逗号的两种句式",
+        "which 指代整句时被误当指代名词"
+      ],
+      "example": "[仿题]填空：The tower，___ (which/that) stands tall，is old。\n解析：逗号后不用 that 用 which",
+      "keywords": ["非限制性", "逗号", "which", "整句指代", "定语从句"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U1_007",
+      "name": "文化遗产保护词汇",
+      "definition": "掌握保护、修复、收藏等文化遗产保护常用词。",
+      "explanation": "谈论遗产保护你会用到 cultural heritage 文化遗产、preserve 保护收藏、protect 保护、restore 修复等词。比如 We should preserve the ancient temples。你要分清 preserve 强调维护保存原貌，protect 侧重防护免受伤害，restore 表示修复还原。把这三个动词放一起对比记忆，写文化遗产的作文时才不混用。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "preserve 与 protect 保护语义混淆",
+        "把 heritage 与 historic 词形混淆",
+        "restore 拼写漏字母"
+      ],
+      "example": "[仿题]选词：修护古桥用 ___（restore/protect）。\n解析：修复还原用 restore",
+      "keywords": ["heritage", "preserve", "protect", "restore", "文化遗产"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U1_008",
+      "name": "损耗威胁危害类词汇",
+      "definition": "掌握描述遗产受到威胁与损耗的常用词汇。",
+      "explanation": "描述遗产面临的威胁，你要会用 damage 破坏、threaten 威胁、at risk 处于危险等表达。比如 The ancient site is threatened by tourism，古迹正受旅游业的威胁。你要注意 damage 可作名词也可作动词，threaten 是及物动词后接宾语，表处于危险用介词短语 at risk。掌握这些词，写保护理由时更有说服力。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "threaten 后误加介词，写成 threaten by 主动",
+        "at risk 前误加多余冠词",
+        "damage 动词名词词形混用"
+      ],
+      "example": "[仿题]填空：The site is ___ (threaten) by pollution。\n解析：被动用 threatened",
+      "keywords": ["damage", "threaten", "at risk", "威胁", "破坏"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U1_009",
+      "name": "参与保护活动表达",
+      "definition": "掌握参加、参与、贡献等表达参与行动的短语。",
+      "explanation": "号召参加保护行动你会用 take part in 参加、be involved in 参与、contribute to 贡献等表达。比如 Many students took part in the cleanup。注意 take part in 后面接活动名词，be involved in 表更深度投入，contribute to 后接动名词表做出贡献。把这三个短语搭配练熟，写倡议信就顺手。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "take part in 与 attend 混用对象",
+        "be involved in 的 in 被遗漏",
+        "contribute to 后误接动词原形"
+      ],
+      "example": "[仿题]填空：取救了，很多志愿者 ___（take part）in 修复。\n解析：参加用 took part",
+      "keywords": ["take part in", "be involved in", "contribute to", "参与", "保护行动"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U1_010",
+      "name": "具有价值 be of 结构",
+      "definition": "掌握 be of great value 表示具价值及 of 加名词化形容词。",
+      "explanation": "说明遗产的价值你会用 be of great value 表很有价值，比如 The old building is of great value。这个 of 后接抽象名词结构相当于用形容词，be of importance 等可表示重要性。你要注意 value、importance 等抽象名词前可加 great 等修饰。把 be of 加名词的结构记熟，写价值评价就更地道有文采。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "漏写 of，把 be of great value 写成 be great value",
+        "选错抽象名词对应的形容词",
+        "把 value 误当可数名词加复数"
+      ],
+      "example": "[仿题]填空：这栋楼 ___(be of) great value。\n解析：of 后接抽象名词，is of",
+      "keywords": ["be of great value", "of 结构", "价值", "抽象名词", "地道表达"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U1_011",
+      "name": "复原重建行动动词",
+      "definition": "掌握重建、修复、恢复等复原动作的动词与搭配。",
+      "explanation": "文化遗产受损后要谈复原，你会用 rebuild 重建、restore 修复、recover 恢复等词。比如 They planned to rebuild the destroyed temple，他们计划重建被毁的寺庙。你要注意 rebuild 的重点是重新建造，restore 强调恢复原貌，recover 指恢复功能或状态。分清三者侧重，写保护计划时用词才精准不重复。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "rebuild 与 restore 语义混淆",
+        "recover 后误接 place 等宾语形式",
+        "把 rebuild 拼写成 rebuid 少字母"
+      ],
+      "example": "[仿题]选词：重新建造古城用 ___（rebuild/restore）。\n解析：重建用 rebuild",
+      "keywords": ["rebuild", "restore", "recover", "重建", "复原"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U1_012",
+      "name": "遗址与文物识别词汇",
+      "definition": "掌握遗址、遗迹、文物等遗址文物类名词。",
+      "explanation": "描述具体遗产你要识别 heritage site 遗址、Remains 遗迹、relics 文物、tomb 古墓等词。比如 Many artefacts were found in the ancient tomb，古墓里发现了许多文物。你要注意 site 指场所遗址，relics 指文物遗存，remains 多指遗骸遗迹。把这些词和场景结合记忆，阅读和完形里的文物主题就轻松很多。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "remains 与 relics 文物含义混淆",
+        "遗址 site 误写成普通的 place 选用不当",
+        "artefact 拼写漏字母"
+      ],
+      "example": "[仿题]选词：这座古遗址是文化 ___（site/relics）。\n解析：遗址用地名 site",
+      "keywords": ["heritage site", "remains", "relics", "artefact", "遗址"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

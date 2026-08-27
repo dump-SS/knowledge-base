@@ -1,0 +1,221 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第一册 Unit 1 People of Achievement",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B4_U1_001",
+      "name": "表语从句的 that 引导",
+      "definition": "用 that 引导在系动词后作表语的从句，说明主语的内容或状态。",
+      "explanation": "你识别表语从句时，主句谓语是系动词 be，it 或名词后用 that 引出从句作表语。例如 The reason is that he... ；That is why you won。当主句主语是 it 且有名词 reason 等中性词，可用 that。判断时看 be 动词后是否跟完整从句，是则 that 往往可省。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把表语从句误当成定语从句分析",
+        "主语用 that 与从句缺连接混淆",
+        "reason 后的表语从句用错 that 何时省略",
+        "句子成分划分不清致主从错位"
+      ],
+      "example": "[仿题]The reason is ______ he refused the reward.\n解析：填 that，reason 后表语从句，说明原因。",
+      "keywords": ["表语从句", "that", "reason", "系动词", "主从结构"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U1_002",
+      "name": "whether 与 if 选择",
+      "definition": "在主句 be 后用 whether/if 引导表语从句表示是否。",
+      "explanation": "你用 whether/if 引导表语从句表示是否：The question is whether he will succeed。只能用 whether 不能用 if 的情况（如从句首、介词后、与 or not 搭配）要记牢。判断时如果从句表不确定是否，选 whether；除非伴随具体限制才用 if。做题背规则优先选 whether。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "从句首只能用 whether 却写成 if",
+        "whether 与 or not 搭配时漏 or not",
+        "介词后只用 whether 却误选 if",
+        "把 whether 表语从句当非限定成分"
+      ],
+      "example": "[仿题]The key question is ______ to start the test.\n解析：填 whether，whether to do 表达是否开始。",
+      "keywords": ["表语从句", "whether", "if", "是否", "or not"],
+      "prerequisites": ["YY_RJ_G1_B4_U1_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U1_003",
+      "name": "what 引导的表语从句",
+      "definition": "用 what 引导表语从句表示物或内容，在从句中作主语宾语等成分。",
+      "explanation": "你用 what 引导表语从句时，它充当从句的主语、宾语或表语，表示…的事物。例如 That is what I mean，what 作 mean 的宾语。判断时看从句缺什么成分，缺名词性成分就用 what。这是表语从句高频考点，先补全从句再定连接词。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "缺宾语成分误用 that 代替 what",
+        "what 与 which 在从句中的作用混用",
+        "从句缺主语却用 where",
+        "区分不了 what 与 how 的引导作用"
+      ],
+      "example": "[仿题]That is ______ I expected from the result.\n解析：填 what，作 expected 的宾语，表示所期待的。",
+      "keywords": ["表语从句", "what", "宾语成分", "引导词", "名词从句"],
+      "prerequisites": ["YY_RJ_G1_B4_U1_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U1_004",
+      "name": "表语从句的语序",
+      "definition": "表语从句中使用陈述语序而非疑问语序的规则。",
+      "explanation": "你写表语从句时记住从句用陈述语序，即使它表达疑问内容也不倒装。例如 The question is where he lives，不说 where does he live。判断时把疑问词放句首后其余部分按主语谓语顺排。这是考试常见陷阱，看到疑问语序选项先排除。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "从句保留疑问语序写 where does he live",
+        "who 与 whom 在从句中的格位选错",
+        "从句语序与时态连用混乱",
+        "助动词 do 遗留在从句中"
+      ],
+      "example": "[仿题]The problem is ______ he can arrive.\n解析：填 when，从句用 when he can arrive 陈述语序。",
+      "keywords": ["表语从句", "陈述语序", "语序", "疑问词", "语法"],
+      "prerequisites": ["YY_RJ_G1_B4_U1_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U1_005",
+      "name": "科学家成就的核心词汇",
+      "definition": "与科研、发现、贡献、奖项相关话题的核心词汇及搭配。",
+      "explanation": "你认识科学家成就话题词是读传记类文本的前提：achievement 成就、discovery 发现、contribution 贡献、experiment 实验、research 研究、Nobel Prize 诺贝尔奖、recognise 认可。记词带搭配，如 make a discovery、be awarded、recognise...as。做科普阅读先锁定词所在句分析。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "achievement 与 achievement 单复数使用错误",
+        "contribution 常接 to 却写成 of",
+        "discovery 与 invention 含义混淆",
+        "experiment 前冠词与介词搭配错"
+      ],
+      "example": "[仿题]Her medical ______ saved thousands of lives.\n解析：填 discovery，发现，医疗发现救了千人。",
+      "keywords": ["科学家词汇", "achievement", "discovery", "Nobel", "贡献"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U1_006",
+      "name": "make 名词短语的固定搭配",
+      "definition": "与 make 搭配构成固定名词短语的规则。",
+      "explanation": "你记 make 加名词有固定搭配：make a contribution to 做出贡献、make an effort 努力、make a decision 决定、make progress 进步。判断用哪个名词由语义与固定搭配决定，contribution 后常接 to。写作时准确使用 make 短语能让动作描述更规范。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "make a contribution 的 to 后误接动词原形",
+        "make decision 漏不定冠词 a",
+        "make progress 是不可数却误加 a",
+        "make 后名词的单复数与搭配错配"
+      ],
+      "example": "[仿题]She made a great ______ (contribute) to science.\n解析：填 contribution，make a contribution to 做出贡献。",
+      "keywords": ["make 搭配", "contribution", "make an effort", "固定短语", "名词"],
+      "prerequisites": ["YY_RJ_G1_B4_U1_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U1_007",
+      "name": "表语从句与主谓一致",
+      "definition": "表语从句作主语时，主句be动词的人称数与被说明名词一致。",
+      "explanation": "你写含表语从句的主句时注意 be 动词与主句主语一致。如 The reason is...，主语 reason 是单数就配 is；主语是 efforts 就配 are。表语从句无论内容如何不影响主句 be 的形式。判断先找主句主语再定 be 第三人称数。这是主谓一致加从句的综合点。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "根据表语从句内容误定 be 形式",
+        "主语单复数判错导致 be 用错",
+        "可数不可数名词作主语数判断错",
+        "不定式短语作主语仍泛用复数"
+      ],
+      "example": "[仿题]The results ______ what we expected.\n解析：填 are，主语 results 复数，配 are。",
+      "keywords": ["主谓一致", "表语从句", "be动词", "主语数", "语法"],
+      "prerequisites": ["YY_RJ_G1_B4_U1_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U1_008",
+      "name": "科学实验的描述表达",
+      "definition": "用 conduct、prove 等描述研究过程。",
+      "explanation": "你写科研过程用这些：conduct an experiment 做实验、carry out research 开展研究、prove 证明、test the theory 验证理论、record data 记录数据。例如 The scientist conducted a series of experiments。写作叙述科研步骤时先交待实验再讲记录与结论，用衔接词使过程连贯。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "conduct an experiment 的冠词漏写",
+        "carry out 与 carry on 含义混淆",
+        "prove 与 prove to be 结构使用不当",
+        "record data 的 data 单复数认知错误"
+      ],
+      "example": "[仿题]The team ______ (conduct) a detailed experiment yesterday.\n解析：填 conducted，做实验，过去时。",
+      "keywords": ["实验表达", "conduct", "carry out", "prove", "科研过程"],
+      "prerequisites": ["YY_RJ_G1_B4_U1_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U1_009",
+      "name": "不定式在成就语中的运用",
+      "definition": "在科研传记文本中用 to do 表达目的、使役等非谓语结构。",
+      "explanation": "你读传记句常有 to do 结构：在句中表目的(to advance science)，跟在描述业绩的动词后说明方向。助动词 make、let 后接原形。判断从句表达目的还是使役选择正确形式。做填空先看 to do 的作用是表目的还是宾语。完成对句子主干的分析再变形。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "表目的的 to do 写成 for doing",
+        "使役动词后误加 to",
+        "把不定式与动名词混用",
+        "逻辑关系不清致 to do 的连接断"
+      ],
+      "example": "[仿题]She worked hard ______ (advance) medical science.\n解析：填 to advance，不定式表目的。",
+      "keywords": ["不定式", "表目的", "使役动词", "非谓语", "科研语境"],
+      "prerequisites": ["YY_RJ_G1_B4_U1_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U1_010",
+      "name": "人物传记的写作结构",
+      "definition": "按生平、贡献、影响与评价组织人物传记段落的表达方法。",
+      "explanation": "你写人物传记先简介身份与成就，再写主要贡献与过程，最后谈影响与评价。用 be born、later、as a result、in recognition of 连接。例如 She was born in 1940 and later made significant contributions。写作先列生平时间线再补成就评价，chronological 顺序让结构清晰。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "传记时间线混乱顺序颠倒",
+        "生平与成就两张皮不结合",
+        "缺影响与评价收尾",
+        "段落连接词不足显得生硬"
+      ],
+      "example": "[仿题]写屠哟哟的简短介绍。\n解析：先出生背景，再青蒿素发现，最后诺贝尔奖影响。",
+      "keywords": ["人物传记", "写作结构", "生平", "成就", "评价"],
+      "prerequisites": ["YY_RJ_G1_B4_U1_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U1_011",
+      "name": "成就与荣誉的表达句式",
+      "definition": "用 be awarded、win、receive 等表达获得奖项与荣誉的句式。",
+      "explanation": "你表达获奖用这些动词：be awarded 被授予、win the prize 获奖、receive recognition 获得认可、honour 荣誉。例如 She won the Nobel Prize for her work。判断用主动或被动看主语是得奖者还是接受颁奖。写作谈荣誉时先写获奖事由再写奖项与年份，被动结构 make 表达更正式。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "be awarded 漏 be 变成 awarded",
+        "win 与 beat 的含义合用区分",
+        "for one's work 的介词 for 漏写",
+        "获奖事由与奖项搭配错位"
+      ],
+      "example": "[仿题]He was ______ (award) the prize for his invention.\n解析：填 awarded，被动语态被授予。",
+      "keywords": ["获奖表达", "be awarded", "win", "荣誉", "成就"],
+      "prerequisites": ["YY_RJ_G1_B4_U1_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U1_012",
+      "name": "表语从句的连接词选择",
+      "definition": "依据从句缺何成分综合选择 that、whether、what、why 等连接词。",
+      "explanation": "你选表语从句连接词先看从句缺什么：缺名词性成分用 what；不缺成分只补信息用 that；表达是否用 whether；原因用 why；地点用 where。例如 This is why I admire her。做题先补全从句缺失成分，再与连接词类别对应，依次排除，能大幅提升正确率。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "句义表原因误选 how 或 what",
+        "缺宾语却用 why 引导",
+        "从句完整却误加 what",
+        "连接词类别判断漏环节"
+      ],
+      "example": "[仿题]That is ______ I respect her deeply.\n解析：填 why，表原因我深深敬佩她。",
+      "keywords": ["连接词", "表语从句", "what", "why", "选择技巧"],
+      "prerequisites": ["YY_RJ_G1_B4_U1_003"],
+      "source_version": "人教版2019"
+    }
+  ]
+}

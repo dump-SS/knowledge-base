@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第四册 Unit 1 Science Fiction",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B7_U1_001",
+      "name": "一般将来时的结构",
+      "definition": "用 will 加动词原形表示临时决定、预测或必然发生的动作。",
+      "explanation": "你用 will 加动词原形构成一般将来时，表示将来会发生的动作或临时决定。如 The robot will help us、I will call you later. 判断看有无将来时间词，如 tomorrow、next year。写作预测未来多用该结构，主语加 will 加原形，时态就统一清楚。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "will 后误接动词加 s 形式",
+        "将来时间词缺失时序不准",
+        "临时与计划决定混淆时态"
+      ],
+      "example": "[仿题]The robot ______ (help) us tomorrow.\n解析：填 will help，明天将来动作用 will 加原形。",
+      "keywords": ["一般将来时", "will do", "将来动作", "原形", "预测"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U1_002",
+      "name": "be going to 表计划",
+      "definition": "用 is/am/are going to 表示已计划或即将发生的将来动作。",
+      "explanation": "你用 be going to 表示已有计划或迹象明显的将要发生，如 We are going to build a space station. 与 will 的临时决定不同，be going to 强调事先打算。判断先看是否已有计划，有计划就用 be going to，临时动作用 will。写作分清两种故意更准确。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "be going to 前 be 动词随主语写错",
+        "临时决定误用 be going to",
+        "to 后接动词形式错误"
+      ],
+      "example": "[仿题]They are going ______ (build) a new lab.\n解析：填 to build，be going to 后接动词原形。",
+      "keywords": ["be going to", "计划将来", "事先打算", "to do", "结构"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U1_003",
+      "name": "将来进行与将来完成",
+      "definition": "will be doing 表示进行，will have done 表示完成。",
+      "explanation": "你区分两种将来时：will be doing 表示将来某时正在进行的动作，will have done 表示到将来某时已完成。如 By 2026, robots will have done the work. 判断看有没有将来时点强调持续还是完成。写作综合未来场景时可两者搭配用。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "将来进行误写成 will doing 形式",
+        "将来完成漏写 have",
+        "进行与完成的语义混淆"
+      ],
+      "example": "[仿题]By 2030, they will ______ (finish) the project.\n解析：填 have finished，到将来完成用 will have done。",
+      "keywords": ["将来进行", "将来完成", "will have done", "will be doing", "时态"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U1_004",
+      "name": "情态动词表推测的用法",
+      "definition": "用 must、may、might、can't 表把握程度的推理猜测。",
+      "explanation": "你推测用情态动词表把握：must 一定、may 可能、might 或许、can't 不可能。如 The robot must be broken. 判断推测方向与否定，把握大用 must，把握小用 may 或 might。写作表达猜想时选对应情态，语气更准确。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "推测把握程度判断失衡用错情态",
+        "can't 否定推测与 must 混用",
+        "推测句中情态后接动词形式错误"
+      ],
+      "example": "[仿题]The door is locked; he ______ be inside.\n解析：填 may 或 must，据此判断为可能或必定。",
+      "keywords": ["情态动词", "推测", "must", "may", "can't"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U1_005",
+      "name": "情态动词表能力义务",
+      "definition": "用 can、should、must 表达能力、建议与义务的用法。",
+      "explanation": "你用情态动词表达不同含义：can 表示能力，should 表示建议应该，must 表示必须。如 You must follow the rule、We should protect data. 判断语境属于能力、义务还是建议，再对应选情态。写作提要求或建议时，选对情态动词语气才到位。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "must 与 should 义务建议程度混用",
+        "can 能力与 can't 否定义混淆",
+        "情态动词后接 to do 误加 to"
+      ],
+      "example": "[仿题]You ______ (should/can) obey the law.\n解析：填 should 或 must，表达义务与建议。",
+      "keywords": ["情态动词", "能力", "义务", "建议", "can", "must"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U1_006",
+      "name": "科幻主题事件名词",
+      "definition": "人工智能、机器人、太空等科幻核心话题相关的名词。",
+      "explanation": "你谈科幻会用到 artificial intelligence 人工智能、robot 机器人、spaceship 飞船、distant future 遥远的未来、alien 外星人。如 AI changes our life. 阅读看到 AI、robot 就知科幻主题。记词配词组，如 artificial intelligence，快速定位科幻类文章。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "AI 与人工智能对应混淆",
+        "spaceship 拼写漏字母",
+        "alien 外星人与 foreign 故词混用"
+      ],
+      "example": "[仿题]______ (AI/Ais) can help with learning.\n解析：填 AI，人工智能，缩写专有用法。",
+      "keywords": ["科幻主题", "AI", "robot", "太空", "未来"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U1_007",
+      "name": "科技发展动词词汇",
+      "definition": "描述科技发展的发明与创造动词。",
+      "explanation": "你描述科技发展用 invent 发明、create 创造、advance 推进、explore 探索、transform 改变。如 They created a smart robot、Technology transforms life. 写作谈科技先写动作，再配对象，如 invent a device。判断动词与对象搭配，科技叙述更完整。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "invent 与 discover 发明发现混用",
+        "transform 与 change 程度语义混用",
+        "advance 名词动词形式混用"
+      ],
+      "example": "[仿题]Scientists ______ (create/created) a new robot.\n解析：填 created，创造，过去发生的动作。",
+      "keywords": ["科技动词", "invent", "create", "transform", "创造"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U1_008",
+      "name": "科幻情节常用句型",
+      "definition": "用 When...will、might 表猜想等描述科幻事件发展的句式。",
+      "explanation": "你写科幻情节常用 When the robot wakes up, it will serve us、The spaceship might take off tomorrow. 用将来时与情态动词搭配展开情节。写作故事先设时间节点，再用 will 或 might 讲下一步，情节推进清楚，科幻叙事更吸引人。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "when 引导从句时主句将来却用错时态",
+        "might 与 will 把握程度混用",
+        "情节时间线混乱时序不清"
+      ],
+      "example": "[仿题]When the alarm ______ (ring), we will leave.\n解析：填 rings，主句将来用一般现在时表将来。",
+      "keywords": ["科幻句型", "将来时", "情态动词", "情节发展", "when从句"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U1_009",
+      "name": "科幻与科技影响词汇",
+      "definition": "describe the impact 等描述科技对生活影响的词汇搭配。",
+      "explanation": "你谈科技影响用 describe the impact 描述影响、affect 影响、change the way 改变方式、improve 改善。如 Technology has changed the way we live. 写作写影响先讲好与坏，再用具体表现支撑。判断影响方向与对象，科技影响类表达就到位。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "impact 与 effect 搭配对象混用",
+        "affect 与 影响名词混用",
+        "change the way 后接从句结构错误"
+      ],
+      "example": "[仿题]AI has a big ______ (impact/influence) on life.\n解析：填 impact，影响，have an impact on 搭配。",
+      "keywords": ["科技影响", "impact", "affect", "改变生活", "改善"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U1_010",
+      "name": "表达愿望与可能性",
+      "definition": "用 would like、might 等表达未来愿望与可能性的句式。",
+      "explanation": "你表达愿望用 I would like to visit the moon、用 might 讲可能性如 It might come true。判断愿望用 would like 加 to do，可能性用 might。写作谈未来梦想先写愿望，再补实现条件，句子完整又含蓄。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "would like to do 漏写 to",
+        "might 与 would like 语义混用",
+        "愿望句缺实现条件显得空洞"
+      ],
+      "example": "[仿题]I would like ______ (visit) the moon.\n解析：填 to visit，would like to do，想登月。",
+      "keywords": ["愿望表达", "would like", "might", "可能性", "梦想"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U1_011",
+      "name": "未来世界设想词汇",
+      "definition": "虚拟世界相关设想、乌托邦等多未来背景名词的选用。",
+      "explanation": "你谈未来设想用 virtual reality 虚拟现实、smart city 智慧城市、robot servant 机器人仆人、sustainable 可持续的。如 The story imagines a perfect future city. 阅读看到 smart city 就知道在讲未来设想。记词配没想，谈科幻世界观文章更顺。",
+      "difficulty": 1,
+      "frequency": 2,
+      "typical_errors": [
+        "virtual reality 固定搭配写法错误",
+        "smart city 智慧城市概念混淆",
+        "sustainable 拼写漏字母"
+      ],
+      "example": "[仿题]He wants a ______ (robot/robots) servant.\n解析：填 robot，机器人仆人，单数定语。",
+      "keywords": ["未来设想", "virtual reality", "智慧城市", "机器人", "可持续"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U1_012",
+      "name": "情态动词表后悔或设想",
+      "definition": "用 should have done 等情态表本应做而设做成的推定。",
+      "explanation": "你表达本应该做而实际没做的事用 should have done，如 The robot should have stopped. 它与 should do 不同，强调过去未达成。判断语境属过去未办，用 should 加 have done。写作谈后悔或未果之事用此结构更准确。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "should have done 漏写 have",
+        "should do 与 should have done 混用",
+        "推测语气的过去形式配错"
+      ],
+      "example": "[仿题]He should ______ (have/has) finished it earlier.\n解析：填 have，should have done 表本应完成。",
+      "keywords": ["should have done", "情态动词", "本应做", "遗憾", "过去未成"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

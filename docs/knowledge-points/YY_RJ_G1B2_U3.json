@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 必修 第二册 Unit 3 The Internet",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B2_U3_001",
+      "name": "现在完成被动构成",
+      "definition": "掌握 have/has been done 表示已被做的结构构成与用法。",
+      "explanation": "现在完成时的被动语态由 have/has been 加过去分词构成，重点强调动作已被完成且对当下有影响。比如 The files have been uploaded。你按主语选 have 或 has，再接 been 加过去分词，缺了 been 就变成主动语态了。抓住 have/has been done 这四段结构，就能准确写出已完成且被动的句子。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "漏写 been，把 have been done 写成 have done",
+        "主语第三人称误用 have 不用 has",
+        "过去分词形式选用错误"
+      ],
+      "example": "[仿题]填空：The data ___ (collect) already。\n解析：已被收集，用 has been collected",
+      "keywords": ["现在完成被动", "have/has been done", "被动语态", "过去分词", "完成时"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U3_002",
+      "name": "现在完成被动的适用语境",
+      "definition": "掌握强调动作已完成且对现在有影响的被动语义用法。",
+      "explanation": "当你强调某个动作已经完成，而且结果对当下还有影响，同时主语又是承受者，就用现在完成被动。比如 The website has been redesigned，这个网站已经被重新设计过了。你要同时满足已完成、有影响、被动三个条件，三者缺一就要换别的时态。抓住关键的时间词如 already、ever 就更易判断。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "无影响描述仍生硬使用完成被动",
+        "用一般现在被动代替已完成被动",
+        "只看主语不看完成语境"
+      ],
+      "example": "[仿题]填空：Your order ___ (send) already。\n解析：已寄出完成，用 has been sent",
+      "keywords": ["已完成", "对现在影响", "语境", "already", "被动"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U3_003",
+      "name": "完成被动与一般被动区别",
+      "definition": "区分两种被动语态在时态完成性上的差异。",
+      "explanation": "你要分清怎么记被动。一般被动 am/is/are done 强调平常状态，如 The site is updated daily；现在完成被动 have/has been done 强调已完并留影响，如 The app has been updated recently。发现 already 等完成信号或描述最新结果时，就更倾向用完成被动。两者形式不同，be 动词与时态标记别写混。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把已完成误写成一般被动",
+        "have been 与 are being 倒错混用",
+        "时态标记搭配错乱"
+      ],
+      "example": "[仿题]选词：这个页面 ___（has been updated/is updated）recently。\n解析：近期已完成用 has been",
+      "keywords": ["完成被动", "一般被动", "区别", "时态", "have been done"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U3_004",
+      "name": "现在分词作定语",
+      "definition": "掌握现在分词加名词作定语表示主动进行状态的用法。",
+      "explanation": "现在分词可放在名词前或后作定语，表主动或正在进行的动作。比如 running water、the man talking online。当一个名词自己发出动作或处于进行状态时就用现在分词修饰。你要判断被修饰者是不是动作的执行者，是执行者用 doing，是被承受者用 done。作定语的分词形式，选对主动被动才能修饰准确。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "被承受者误用现在分词作定语",
+        "分不清定语位置与现在分词形式",
+        "将过去分词与现在分词定语混淆"
+      ],
+      "example": "[仿题]填空：a ___ (grow) number 增长的数量。\n解析：主动进行用 growing",
+      "keywords": ["现在分词", "定语", "主动进行", "修饰名词", "doing"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U3_005",
+      "name": "现在分词作表语",
+      "definition": "掌握现在分词跟在系动词后作表语描述主语特征的用法。",
+      "explanation": "现在分词作表语跟在系动词 be、become、seem 等后面，说明主语的某种特征或状态。比如 The story is interesting、The news seems exciting。你要注意这里现在分词表事物给人的感受，而过去分词作表语常描述人的情绪，如 I am interested。判断是用 doing 还是 done，就看平等描述的是事物还是人的感受。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "表人情绪误用 doing 而不用 done",
+        "分不清表语与定语的句子位置",
+        "系动词后漏用分词形式"
+      ],
+      "example": "[仿题]填空：The movie is ___ (interest)。\n解析：表事物用 interesting",
+      "keywords": ["现在分词", "表语", "系动词", "interesting", "ing 表特征"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U3_006",
+      "name": "分词定语主动被动",
+      "definition": "掌握定语中现在分词与过去分词按主动被动关系选择。",
+      "explanation": "作定语时，现在分词表主动或被修饰者自发起动作，过去分词表被动或已完成的动作。比如 a running dog 里狗自己跑用 running；a broken window 里窗户被人砸用 broken。你要先看人和名词是不是动作的执行者，是执行者用 doing，是承受者用 done。分清主被动，定语选择就不会错。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "承受者误用 doing，把 broken 写成 breaking",
+        "执行者误用 done 表示主动",
+        "主被动关系判断错误"
+      ],
+      "example": "[仿题]填空：a ___ (break) cup broken 杯子。\n解析：被打碎用 broken",
+      "keywords": ["现在分词", "过去分词", "主动被动", "定语", "broken"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U3_007",
+      "name": "网络基础操作词汇",
+      "definition": "掌握 browse、download、surf 等网络浏览下载操作的基础词汇。",
+      "explanation": "你上网浏览、下载资料，就要会用 browse 浏览、download 下载、surf 冲浪、access 访问等词。比如 I browse the web and download useful resources。你要注意 download 是及物动词直接接文件名，access 代指访问网络或数据。把这些网络动作词记牢，说完网络使用体验时表达就顺畅自然。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "download 与 load 单复数混淆",
+        "access 后误加介词，写成 access to 主动语态",
+        "browse 拼写漏字母"
+      ],
+      "example": "[仿题]填空：下载文件用 ___（download/upload）。\n解析：下载用 download",
+      "keywords": ["browse", "download", "surf", "access", "网络操作"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U3_008",
+      "name": "上传分享交流词汇",
+      "definition": "掌握 upload、share、post 等网络分享交流活动的词汇。",
+      "explanation": "上传内容、分享状态、发评论是网络日常，你会用 upload 上传、share 分享、post 发布、comment 评论等词。比如 She shared some photos of her trip online。你要注意 share 常见短语 share with sb 与他人分享，upload 侧重上传到平台。把分享类动词与搭配记牢，写网络生活经历时用词更贴切。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "upload 与 download 方向混淆",
+        "share with 漏掉 with 接他人",
+        "post 与 comment 词义混淆"
+      ],
+      "example": "[仿题]填空：她把照片上传到网上用 ___（upload/share）。\n解析：上传用 upload",
+      "keywords": ["upload", "share with", "post", "comment", "分享交流"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U3_009",
+      "name": "社交媒体平台词汇",
+      "definition": "掌握网络平台与社交媒体类名词的用法。",
+      "explanation": "谈网络使用你会碰到 social media 社交媒体、website 网站、online forum 在线论坛等词。比如 Many people spend hours on social media。你要注意 social media 通常作不可数或复数理解，website 是可数名词。把平台类名词和它们的用途对应记忆，描述网络环境与用途时就准确到位。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "social media 当作可数加数词",
+        "website 与 web 的含义混用",
+        "platform 类词音形混淆"
+      ],
+      "example": "[仿题]填空：每天上网看 ___（social media/webpage）。\n解析：社交平台用 social media",
+      "keywords": ["social media", "website", "forum", "平台", "网络社交"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U3_010",
+      "name": "连接在线获取词汇",
+      "definition": "掌握表达在线连接与接入获取资源的搭配。",
+      "explanation": "描述上网状态和获取信息，你会用 online 在线的、connect to 连接、get access to 接入获取等表达。比如 You can get access to free courses online。你要注意 connect to 表连接到网络，get access to 表示能获取到某资源。把连接与获取这两类表达搭配记牢，写网络使用的便捷时就有了骨架。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "get access to 写成 get access 漏 to",
+        "connect to 与 join 混用对象",
+        "online 的介词形式误用"
+      ],
+      "example": "[仿题]填空：你能 ___（access）免费课程 online。\n解析：接入获取用 get access to",
+      "keywords": ["online", "connect to", "get access to", "接入", "获取信息"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U3_011",
+      "name": "网络利弊评价词汇",
+      "definition": "掌握评价网络利弊与便捷程度的形容词。",
+      "explanation": "评价网络的优缺点，你要会用 convenient 便利的、beneficial 有益的、efficient 高效的、addictive 让人上瘾等形容词。比如 The Internet makes our life more convenient。你要注意 convenient 强调方便省事，beneficial 强调有好处。写网络利弊对比时，把这些评价词和论述对象搭配紧凑，论点才更有说服力。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "convenient 与 convenience 词性混用",
+        "beneficial 拼写漏字母",
+        "褒贬形容词选错立场"
+      ],
+      "example": "[仿题]填空：网购对我们来说很 ___（convenience/convenient）。\n解析：表特征用形容词 convenient",
+      "keywords": ["convenient", "beneficial", "efficient", "利弊", "评价词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U3_012",
+      "name": "网络用途目的表达",
+      "definition": "掌握表达网络工具用途目的的常用句式。",
+      "explanation": "说明网络的用途，你会用 use sth to do 用某物做某事、be used to do 被用于做，或接 purpose 表目的等句式。比如 The Internet is used to search for information。你要注意 use sth to do 与 be used to doing 表习惯含义不同，别混用。把表用途的句式练熟，介绍网络功能或技术用途时就清楚明白。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "be used to do 与 be used to doing 混淆",
+        "use sth to do 的 to 后漏用动词原形",
+        "表目的句子结构不完整"
+      ],
+      "example": "[仿题]填空：网络被用来 ___（search）资料。\n解析：表用途接原形，to search",
+      "keywords": ["use to do", "be used to", "目的", "用途表达", "句式"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

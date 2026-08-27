@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第二册 Unit 2 Bridging Cultures",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B5_U2_001",
+      "name": "过去完成被动语态结构",
+      "definition": "表示更早发生的被动事件，由 had been 加过去分词构成。",
+      "explanation": "你要掌握 had been done 这个结构，它由三部分拼成：had 表示过去完成，been 表示被动，done 是要变的过去分词。整句的意思是某事在过去某一时间点之前就已经被别人完成。写作时先判断动作发生在更早的过去，再看主语是被动还是主动，被动就用 had been 加过去分词。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "漏写 been，只写 had done 就变成主动完成时",
+        "过去分词形式拼错，如写 builded 而不用 built",
+        "把 had been done 与 was done 的时间关系搞混"
+      ],
+      "example": "[仿题]The bridge ______ (build) before 2000.\n解析：填 had been built，更早之前被动建成。",
+      "keywords": ["过去完成被动", "had been done", "被动语态", "过去分词", "结构"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U2_002",
+      "name": "过去完成被动的使用场景",
+      "definition": "强调被动事件早于过去另一动作或时间点时使用该时态。",
+      "explanation": "你判断该用 had been done 时先找句子里的时间参照：比某一个过去的动作或时间点更早就需要过去完成。常见参照是 by 加过去时间、before 引导的从句或主句的过去动作。如 The task had been finished by then。做题先把过去参照点标出来，凡是清楚早于它的被动动作都用过去完成被动。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "找不到时间参照点，误用一般过去时被动",
+        "by 加过去时间后仍用一般过去式被动",
+        "before 从句与主句的先后关系判断反了"
+      ],
+      "example": "[仿题]By last week, the plan ______ (complete).\n解析：填 had been completed，by+过去时间用过去完成。",
+      "keywords": ["过去完成被动", "时间参照", "by+过去时间", "before从句", "先后关系"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U2_003",
+      "name": "两种被动时态辨析",
+      "definition": "比较过去完成被动与一般过去被动的区别，明确先后与参照点。",
+      "explanation": "你要分清两种被动：was done 只说明过去被做，had been done 强调在过去某一时刻之前早已被做完，二者相差一个时间层级。有明确过去参照点且被动发生得更早，用过去完成被动；没有对比点只叙述过去事实，用一般过去被动。做题看有没有 before、by 或更早动作作参照。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "无参照点时误用过去完成被动，时态多余",
+        "有更早被动事件却落成一般过去式被动",
+        "把主句动作与从句被动先后关系颠倒"
+      ],
+      "example": "[仿题]When she arrived, the work ______ (finish).\n解析：填 had been finished，到之前已完成。",
+      "keywords": ["时态辨析", "had been done", "was done", "被动语态", "时间参照"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U2_004",
+      "name": "跨文化冲突与差异词汇",
+      "definition": "描述文化差异、冲突与理解的名词，如 culture shock、custom。",
+      "explanation": "你读文化交流类文章会遇到一批核心名词：culture 文化、custom 风俗、tradition 传统、value 价值观、culture shock 文化冲击、identity 认同感。看到 get over culture shock 克服文化冲击、respect local customs 尊重当地风俗，就能把握文章主题。记词时把名词与搭配一起记，写作谈文化时也用得上。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "culture 与 custom 混淆，文化与具体风俗颠倒",
+        "把 culture shock 理解成文化冲突，表意偏差",
+        "拼写漏字母，把 tradition 写成 tradtion"
+      ],
+      "example": "[仿题]She suffered from ______ in the first month abroad.\n解析：填 culture shock，文化冲击，初到不适应。",
+      "keywords": ["文化差异", "culture", "custom", "传统", "文化冲击", "价值观"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U2_005",
+      "name": "文化交流行为动词搭配",
+      "definition": "介绍、分享、尊重文化等行为动作及其固定搭配的动词用法。",
+      "explanation": "你表达文化交流动作时常用 introduce 介绍、share 分享、exchange 交流、respect 尊重、celebrate 庆祝。常见搭配有 introduce Chinese culture to others、share experiences、promote cultural exchange。写作文谈交流时先定动作词，再配搭配好的宾语，句子结构完整，意思也更到位。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "introduce 用法混淆，搭配介词选错",
+        "share 后接动词形式错误，宾语不完整",
+        "promote 与 promote 后的宾语搭配不自然"
+      ],
+      "example": "[仿题]We exchanged ______ (idea) with foreign students.\n解析：填 ideas，交流想法，可数名词用复数。",
+      "keywords": ["文化交流", "introduce", "share", "exchange", "尊重", "交流"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U2_006",
+      "name": "适应新文化的表达",
+      "definition": "用 adapt to、get used to 表达逐渐适应异国文化的搭配。",
+      "explanation": "你表达适应环境用 adapt to、adjust to、get used to，三者都接名词或动名词。如 She adjusted to the new life quickly，You will get used to eating local food。注意 to 在此是介词，后面接动词要变 ing。写作时想强调逐渐接受就用这些短语，搭配宾语后句意完整，比硬译更地道。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "adapt to 后接动词原形，漏掉 to 后的 -ing",
+        "get used to 与 used to 表过去惯常混淆",
+        "adjust 与 adopt 拼写相近，选错词汇"
+      ],
+      "example": "[仿题]He soon adjusted ______ (live) in the city.\n解析：填 to living，adjust to 后接动名词。",
+      "keywords": ["适应文化", "adapt to", "get used to", "adjust", "动名词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U2_007",
+      "name": "描述文化冲击的句式",
+      "definition": "用 at first 与感受词表达初到异国不适的句型。",
+      "explanation": "你写初到异国的感受时用 When I first arrived, I felt... 引出经历，再用 at first 表示起初。比如 When I first arrived, I was shocked by the local customs. 后面用 but later 表示后来改变。这类句型时间顺序词明确，层次清楚，写经历类作文时很常用。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "When I first arrived 从句与主句时态不一致",
+        "at first 与 at last 位置乱用，逻辑颠倒",
+        "先写不适又没有 but later 做转折衔接"
+      ],
+      "example": "[仿题]When she first ______ (arrive), she felt lost.\n解析：填 arrived，first 后一般用过去式。",
+      "keywords": ["文化冲击", "at first", "When引导句", "感受表达", "转折连接"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U2_008",
+      "name": "文化融合与生活类词汇",
+      "definition": "描述中外文化融合与日常生活的词汇，如 blend、a mixed diet。",
+      "explanation": "你了解融合类表达：blend 融合、combine 结合、cultural diversity 文化多样性、melting pot 大熔炉。谈日常生活可用 a mixed diet 混合饮食。阅读看到 the two cultures blend 两文化融合，就是在讲融合现象。记词时搭配主语一起记，如 cultures blend，理解和写作都顺手。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "blend 与 melt 语义混淆，融合与融化混用",
+        "cultural diversity 拼写漏字母或搭配不当",
+        "diversity 与 variety 意义相近却用法混用"
+      ],
+      "example": "[仿题]The two styles ______ (blend) well together.\n解析：填 blend，融合，两种风格搭配协调。",
+      "keywords": ["文化融合", "blend", "多样性", "melting pot", "混合"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U2_009",
+      "name": "谈文化交流活动的句型",
+      "definition": "用 attend、take part in 等表达参加文化活动的常用句式。",
+      "explanation": "你谈文化节、交流会时写 I took part in the cultural festival、We attended an exchange programme。询问他人可用 What did you do there，回答要落到具体活动并补一句感受。写作时先写参加了什么活动，再写收获如 learn about、appreciate，内容就充实，情景对话也得高分。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "take part in 漏掉介词 in，搭配不完整",
+        "attend 与 take part in 混用，语义不准确",
+        "回答没补出感受，内容单薄不成句"
+      ],
+      "example": "[仿题]We took part ______ (in/on) the art festival.\n解析：填 in，take part in 参加活动固定搭配。",
+      "keywords": ["文化节", "take part in", "attend", "交流活动", "参加"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U2_010",
+      "name": "异国生活见闻词汇",
+      "definition": "描述在异国学习生活中观察到的景象与感受的词汇搭配。",
+      "explanation": "你描述见闻常学到：sight 景象、behaviour 举止、table manners 餐桌礼仪、impression 印象。如 All the freshmen got a strong impression of the local culture. 看到 table manners 就在讲餐桌礼仪，记词带搭配 leave an impression 留下印象更准确。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "manner 与 manners 单复数混用",
+        "leave an impression 搭配结构写错",
+        "unfamiliar 与 familiar 相反却用混"
+      ],
+      "example": "[仿题]Good ______ (manner) matter at the dinner table.\n解析：填 manners，礼仪，表礼貌行为用复数。",
+      "keywords": ["见闻词汇", "sight", "manners", "impression", "餐桌礼仪"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U2_011",
+      "name": "文化交流中形成可贵品质词",
+      "definition": "描述经历后形成可贵品质的词汇，如 appreciate。",
+      "explanation": "你谈文化交流带来的收获常学习：appreciate 欣赏重视、open-minded 心态开放、tolerant 包容的、broaden one's mind 开阔眼界。如 Travelling broadens your mind and makes you open-minded. 写作结尾谈收获时用这些词，点明自己形成了更开放的认识，内容就提升，也符合话题要求。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "broaden one's mind 搭配中 mind 单复数错",
+        "appreciate 后接动词形式误用",
+        "tolerant 与 tolerated 主动被动形式混用"
+      ],
+      "example": "[仿题]Being abroad ______ (broaden) my mind.\n解析：填 broadens 或 broadened，开阔眼界。",
+      "keywords": ["谈收获词汇", "appreciate", "open-minded", "开阔眼界", "心态开放"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U2_012",
+      "name": "节日习俗专有词汇",
+      "definition": "涉及节日名称与习俗活动的名词及其庆祝表达方式。",
+      "explanation": "你读文化节庆文章会碰到：festival 节日、celebrate 庆祝、parade 游行、the Dragon Boat Festival 端午节、the Mid-Autumn Festival 中秋节。注意节日名一般大写首字母，庆祝用 celebrate 加节日名。写作介绍节日时先写时间顺序，再用 traditions 讲习俗，结构清楚还不容易漏要点。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "节日专有名词首字母没有大写",
+        "celebrate 后忘搭配节日名结构残缺",
+        "忘记节日名对应的习俗内容，答非所问"
+      ],
+      "example": "[仿题]We celebrate the ______ (Dragon) Boat Festival in June.\n解析：填 Dragon，端午节名称，首字母大写。",
+      "keywords": ["节日词汇", "celebrate", "习俗", "端午节", "节日名称"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

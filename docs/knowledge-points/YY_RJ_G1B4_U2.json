@@ -1,0 +1,239 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第一册 Unit 2 Looking into the Future",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B4_U2_001",
+      "name": "将来进行时的构成",
+      "definition": "将来进行时由 will be 加动词-ing 构成，表示将来某时正在进行的动作。",
+      "explanation": "你掌握将来进行时结构为 will be doing。它表示将来某一时刻正在进行的动作，用法之一是预见未来安排。例如 This time tomorrow I will be flying to space。Be 动词由主语人称决定，但 will be 始终是 will be。判断时看到将来时间点加正在进行便用此结构。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "漏写 be 直接用 will doing",
+        "把 will be doing 与现在进行混淆",
+        "动词 -ing 形式变形出错",
+        "将来时间标志词判断失误"
+      ],
+      "example": "[仿题]This time next week, I will ______ (work) in Beijing.\n解析：填 be working，将来进行时 will be doing。",
+      "keywords": ["将来进行时", "will be doing", "构成", "将来时间", "进行"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U2_002",
+      "name": "shall 表将来进行",
+      "definition": "在正式书面语中第一人称后用 shall be doing 表示将来的进行动作。",
+      "explanation": "你了解 shall 多用于第一人称 we 与 I，较正式，口语多用 will。如 We shall be meeting in the lab。shall be doing 与 will be doing 同义。判断时看人物人称与语境正式度。考试中一般用 will，但现代正式文本仍会保留 shall，识别即可。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "shall 误用于第三人称 he",
+        "shall 后漏 be doing",
+        "辨析 shall 与 will 的人称限制错误",
+        "正式与口语中的时态形式混用"
+      ],
+      "example": "[仿题]We ______ (hold) a meeting this time tomorrow.\n解析：填 shall be holding，第一人称将来进行时。",
+      "keywords": ["shall", "将来进行时", "第一人称", "正式语", "be doing"],
+      "prerequisites": ["YY_RJ_G1_B4_U2_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U2_003",
+      "name": "将来时间标志词判断",
+      "definition": "依据 this time 、at 等时间状语判断该用将来进行时的标志规律。",
+      "explanation": "你找将来进行时标志词：this time next week/year、at 8 o'clock tomorrow、at this time tomorrow。它们多表具体将来时刻。判断时看到此类词便倾向将来进行时。做题先圈时间状语，再决定用 will be doing。这与一般将来时区别在强调某个时刻正进行。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把 this time 与一般将来时混用",
+        "识别不出将来具体时刻的标志词",
+        "at 引导的将来时刻用成现在进行",
+        "把将来进行与完成时混淆"
+      ],
+      "example": "[仿题]At 9 am tomorrow she will be ______ (attend) a lecture.\n解析：填 attending，将来某时刻正进行的动作。",
+      "keywords": ["时间状语", "将来进行时", "标志词", "this time", "预测"],
+      "prerequisites": ["YY_RJ_G1_B4_U2_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U2_004",
+      "name": "科技趋势的核心词汇",
+      "definition": "人工智能、机器人、自动化、网络等未来科技话题的核心词汇。",
+      "explanation": "你认识未来科技词是读懂趋势类文章的前提：artificial intelligence 人工智能、robot 机器人、automation 自动化、smart home 智能家居、sustainable 可持续的、integrate 整合。记词带搭配，如 artificial intelligence、boost productivity。做科技阅读先锁定术语所在句理解。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "artificial 与 intelligent 的拼写漏字母",
+        "automation 与 autonomous 语义混淆",
+        "sustainable 与 sustainability 词性混用",
+        "smart home 的搭配固定词记错"
+      ],
+      "example": "[仿题]______ (artificial) intelligence will change our lives.\n解析：填 Artificial，artificial intelligence 人工智能。",
+      "keywords": ["科技词汇", "artificial", "robot", "automation", "sustainable"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U2_005",
+      "name": "预测表达的句式",
+      "definition": "用 predict、be likely to 表达对未来趋势的预测。",
+      "explanation": "你表达预测用这些结构：predict 预测、it is predicted that 据预测、be likely to do 很可能、expect 预期。例如 It is predicted that robotics will replace many jobs。判断主从句时态结构与将来相关。写作未来预测时先亮预测，再用搭配加具体领域，语气要客观。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "it is predicted that 缺 that",
+        "be likely to 后接 -ing 误用",
+        "predict 与 predict 形式用错状态",
+        "预测句主从时态搭配不当"
+      ],
+      "example": "[仿题]It is predicted ______ most homes will be smart.\n解析：填 that，it is predicted that 据预测。",
+      "keywords": ["预测表达", "predict", "be likely to", "it is predicted", "科技趋势"],
+      "prerequisites": ["YY_RJ_G1_B4_U2_004"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U2_006",
+      "name": "科技利弊的论证词汇",
+      "definition": "用 benefit、drawback 等讨论利弊的词。",
+      "explanation": "你讨论科技利弊用这些词：benefit 好处、drawback 弊端、convenient 方便的、efficient 高效的、privacy 隐私、risk 风险。记词带搭配，如 the benefit of、a major drawback、pose a risk。写作论证时用 benefit/drawback 作段落主题词，再配具体例证支撑。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "benefit 与 beneficial 词性混用",
+        "drawback 与 drawback 的搭配介词错",
+        "privacy 与 private 名词形容词混淆",
+        "pose a risk 的动词 pose 记错"
+      ],
+      "example": "[仿题]A major ______ (drawback) is the loss of privacy.\n解析：填 drawback，弊端的可数名词形式。",
+      "keywords": ["利弊词汇", "benefit", "drawback", "privacy", "科技"],
+      "prerequisites": ["YY_RJ_G1_B4_U2_004"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U2_007",
+      "name": "客观趋势的被动表达",
+      "definition": "用 will be done 表达未来某事将被实施的被动。",
+      "explanation": "你先掌握被动语态将来形式 will be done，表示未来被做。例如 The task will be completed by robots。判断时找到被动关系与将来时间，用 will be 加过去分词。这个结构在科技说明文中常见，比主动更客观。做题先看主语能否发出动作即可判断。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "被动将来漏 will be 只加过去分词",
+        "主被动关系判断反",
+        "will be done 与完成态混淆",
+        "不规则过去分词拼写错误"
+      ],
+      "example": "[仿题]Most houses will ______ (build) by smart systems.\n解析：填 be built，将来被动语态 be built。",
+      "keywords": ["被动语态", "will be done", "将来", "过去分词", "科技说明"],
+      "prerequisites": ["YY_RJ_G1_B4_U2_004"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U2_008",
+      "name": "将来进行与一般将来区分",
+      "definition": "根据是否强调某刻正在进行区分将来进行时与一般将来时用法。",
+      "explanation": "你区分两种将来时看强调点：强调将来某时刻正在动作用 will be doing；仅表达将来意图或安排用 will do。例如 I'll visit you 表示打算，I'll be visiting you at 5 强调那个点。判断先看有没有具体时刻正进行之意。此为高频考点，答前体会语境。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "将 will do 与 will be doing 互换滥用",
+        "误解强调时刻正进行之主旨",
+        "有时被时间标志词误导选择",
+        "意图句误用进行时显得生硬"
+      ],
+      "example": "[仿题]At noon tomorrow, I ______ (swim) in the pool.\n解析：填 will be swimming，强调那个时刻在进行。",
+      "keywords": ["将来进行时", "一般将来时", "区分", "时间点", "强调"],
+      "prerequisites": ["YY_RJ_G1_B4_U2_003"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U2_009",
+      "name": "发散对未来的展望句式",
+      "definition": "用 hopefully、imagine 表达对未来展望。",
+      "explanation": "你表达对未来展望用这些：in the future 在未来、hopefully 但愿、imagine 设想、look forward to 期待。例如 Hopefully, people will live in smart cities。判断时先定语气是期望还是设想，再补将来时态。写作展望段先谈背景再用想象话题词，最后用 hopefully 收尾。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "hopefully 后时态与语境不匹配",
+        "look forward to 后接动词原形",
+        "imagine 后接的宾语从句缺连接",
+        "future 前介词 in 漏写或写错"
+      ],
+      "example": "[仿题]______ (hope), we will live on other planets.\n解析：填 Hopefully，表但愿希望，置于句首。",
+      "keywords": ["展望句式", "in the future", "hopefully", "imagine", "表达"],
+      "prerequisites": ["YY_RJ_G1_B4_U2_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U2_010",
+      "name": "说明科技应用的状语从句",
+      "definition": "用 because、as、while 引导状语从句说明科技应用的背景与因果。",
+      "explanation": "你说明科技应用常用状语从句：because 表原因、as 表原因或伴随、while 表对比或期间、when 表时间。判断主从逻辑是因果还是同时。做语法填空看主从句意义找出相应连词。写作中穿插状语性从句能丰富句式，说明更完整。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "because 与 as 的主次逻辑混用",
+        "while 表对比与表时间不分",
+        "状语从句与主句时态不协调",
+        "连接符选导致语义偏离"
+      ],
+      "example": "[仿题]______ automation grows, many jobs will change.\n解析：填 As，表伴随或原因，随着自动化发展。",
+      "keywords": ["状语从句", "because", "as", "while", "科技说明"],
+      "prerequisites": ["YY_RJ_G1_B4_U2_004"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U2_011",
+      "name": "趋势主旨的阅读理解",
+      "definition": "通过首段与主题句把握科技趋势类文章的中心观点。",
+      "explanation": "你读趋势类文章先看首段与末段找主旨，多数中心句在开头。再看每段首句锁定分点。做主旨题排除只讲某一段细节的干扰项，选能覆盖全篇的。做题时把每段首句连起来提炼主线。科技文章重在把握观点倾向。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把作者态度与细节事实混淆",
+        "只看首段忽略末段转折",
+        "被夸张例子牵着走忽略主线",
+        "主旨选项以偏概全"
+      ],
+      "example": "[仿题]首段讲 AI 兴起，后文讲影响与挑战。\n解析：主旨为 AI 带来的影响与挑战，而非单纯介绍 AI。",
+      "keywords": ["阅读技巧", "主旨掌握", "首尾段", "科技趋势", "主题句"],
+      "prerequisites": ["YY_RJ_G1_B4_U2_004"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U2_012",
+      "name": "科技趋势的作文表达",
+      "definition": "按现状、趋势、影响组织评议科技发展的议论文结构。",
+      "explanation": "你写科技评论先讲现状起点，再谈未来趋势，最后论影响与观点。用 nowadays、in the future、however、in my opinion 衔接。例如 Nowadays robots play an increasing role。写作先列提纲设三部分，开篇点题，正文展开趋势与例证，结尾亮观点。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "现状与趋势含混不清分界",
+        "影响分析与趋势脱节",
+        "结尾缺个人观点收束",
+        "段落缺空间递进层次"
+      ],
+      "example": "[仿题]谈人工智能对生活的影响。\n解析：现状引入，展趋势，讲利弊，结尾亮自身观点。",
+      "keywords": ["议论文", "科技趋势", "段结构", "现状", "影响"],
+      "prerequisites": ["YY_RJ_G1_B4_U2_006"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U2_013",
+      "name": "对本单元时态的整合运用",
+      "definition": "综合运用 will do 等三种将来形式。",
+      "explanation": "你在话题语境中会综合三形式：表达意图用 will do，强调某时进行用 will be doing，表被动用 will be done。例如 We will build smart cities，They will be upgrading，Houses will be automated。做题先把动作主被动与原义判断，再选对应将来形式。写作能活用则更深入。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "三种将来形式轮流时选错",
+        "被动与主动判断失误",
+        "进行态时间点强调不到位",
+        "句子语意与结构不匹配"
+      ],
+      "example": "[仿题]By 2030, robots will be ______ (use) widely.\n解析：填 used，将来被动 be used，被广泛应用。",
+      "keywords": ["将来时整合", "will do", "will be doing", "被动", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B4_U2_007"],
+      "source_version": "人教版2019"
+    }
+  ]
+}

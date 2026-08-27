@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第四册 Unit 2 Iconic Attractions",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B7_U2_001",
+      "name": "非谓语作定语综合运用",
+      "definition": "根据修饰名词的主被动关系选用 doing、done 或 to do 作定语。",
+      "explanation": "你用非谓语作定语看名词与动作的关系：主动进行用 doing、被动完成用过去分词、表将来用 to do。如 the shining tower、the visited site。判断先看名词是主动还是被动，再决定形式。写作使修饰恰当，定语表达就准确显眼。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "主动关系误用过去分词作定语",
+        "表将来目的误用 doing 而非 to do",
+        "修饰名词的主被动判断失误"
+      ],
+      "example": "[仿题]We visited a ______ (famous/famously) tower.\n解析：填 famous，著名的，形容词修饰名词。",
+      "keywords": ["非谓语定语", "doing", "过去分词", "to do", "主被动"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U2_002",
+      "name": "非谓语作状语综合运用",
+      "definition": "根据逻辑主语主动被动和表意选择 doing、done 或 to do 作状语。",
+      "explanation": "你作状语先看逻辑主语：主动进行用 doing、被动用 done、表目的用 to do。如 To reach the top, we took the lift、Exhausted, we sat down. 判断分两步定主被动与表意。写作叙事或写目的地用分词连接，句子更有层次。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "表目的误用 doing 而非 to do",
+        "状语逻辑主语与主句不一致",
+        "主被动判断反了形式选错"
+      ],
+      "example": "[仿题]______ (see) the view, we climbed higher.\n解析：填 To see，表目的，用不定式到达高处。",
+      "keywords": ["非谓语状语", "to do", "doing", "done", "逻辑主语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U2_003",
+      "name": "非谓语作宾语补足语综合",
+      "definition": "根据宾语与动作主动被动选用 doing 或 done 作宾语补足语。",
+      "explanation": "你作宾补看宾语与动作的关系：主动用 doing、被动用过去分词。如 We saw the tourists taking photos、They had the tower painted. 判断先看宾语是发出还是接受动作。写作感观动词后用分词补足，句子更生动准确。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "宾语主动却误用过去分词",
+        "宾语被动却误用 doing",
+        "感观动词后补足形式选错"
+      ],
+      "example": "[仿题]We saw the boy ______ (run) across the square.\n解析：填 running，男孩主动跑，用现在分词。",
+      "keywords": ["宾补", "动词后", "doing", "过去分词", "主被动"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U2_004",
+      "name": "非谓语综合判断三步法",
+      "definition": "依次判断逻辑主语、主被动关系与表意来选择非谓语形式的步骤。",
+      "explanation": "你遇到非谓语综合题按三步走：先找逻辑主语是否一致，再判是主动还是被动，最后看表意是目的还是伴随。三步都明确后选 to do、doing 或 done。写作遇到模糊句用这三步逐一核对，非谓语形式正确率就高。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "跳过逻辑主语直接选形式",
+        "主被动与表意两步没走全",
+        "把目的误当伴随处理"
+      ],
+      "example": "[仿题]______ (make) sure, he checked twice.\n解析：填 To make，表目的，为确保万无一失。",
+      "keywords": ["三步法", "逻辑主语", "主被动", "表意", "非谓语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U2_005",
+      "name": "地标景点名词词汇",
+      "definition": "landmark、statue、fountain 等地标建筑与景点相关的名词。",
+      "explanation": "你看旅游文章会遇到地标名词：landmark 地标、statue 雕像、fountain 喷泉、tower 高塔、harbour 港口。如 a famous landmark、an old statue。阅读看到 the harbour 港口就知道在讲海边城市。记词带位置，如 on the square，谈景点文章更准。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "landmark 与 路标 sign 混淆",
+        "fountain 拼写漏字母",
+        "harbour 与 港口 city 概念混淆"
+      ],
+      "example": "[仿题]The city has many famous ______ (landmark/landmarks).\n解析：填 landmarks，地标，many 后用复数。",
+      "keywords": ["地标词汇", "landmark", "statue", "高塔", "景点"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U2_006",
+      "name": "著名建筑专有名词",
+      "definition": "mention 等描述著名建筑与建筑构成要素的专有名词。",
+      "explanation": "你认识建筑名词：temple 寺庙、palace 宫殿、bridge 桥、skyscraper 摩天大楼、cathedral 大教堂。如 a historic palace、a modern skyscraper。阅读看到 cathedral 教堂就知谈历史建筑。记词配历史性，如 ancient bridge，谈地标文章定位准。",
+      "difficulty": 1,
+      "frequency": 2,
+      "typical_errors": [
+        "palace 与 temple 建筑类型混淆",
+        "skyscraper 拼写漏字母",
+        "cathedral 与大教堂对应记错"
+      ],
+      "example": "[仿题]The ______ (palace/palaces) is very old.\n解析：填 palace，宫殿，单数作主语谓语用单数。",
+      "keywords": ["建筑名词", "palace", "temple", "摩天大楼", "教堂"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U2_007",
+      "name": "描述景点的形容词",
+      "definition": "breathtaking、spectacular 等描述景点壮观与魅力的形容词。",
+      "explanation": "你描述景点用 breathtaking 叹为观止的、spectacular 壮观、historic 历史的、picturesque 如画的。如 The view is breathtaking、a historic site. 写作谈景点先给形容词，再配具体描写，如 spectacular sunset。判断形容词与景色搭配，形容更生动。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "breathtaking 拼写漏字母",
+        "historic 与 historical 混用",
+        "spectacular 与 壮观名词混用"
+      ],
+      "example": "[仿题]The sunset was ______ (breathe/breathtaking).\n解析：填 breathtaking，叹为观止的，形容词表语。",
+      "keywords": ["景点形容词", "breathtaking", "historic", "spectacular", "壮观"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U2_008",
+      "name": "介绍景点与建筑句型",
+      "definition": "用 located in、known as 等介绍景点位置与名气的句式。",
+      "explanation": "你介绍景点用 located in 位于、known as 被称为、famous for 以...闻名。如 The tower is located in the city centre、It is famous for its view. 写作介绍先讲位置，再用 known 或 famous 补充名气。判断介词搭配，景点介绍类表达就顺畅。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "be located in 介词搭配写错",
+        "famous for 与 famous as 混用",
+        "known as 与 known for 语义混淆"
+      ],
+      "example": "[仿题]It is famous ______ its ancient towers.\n解析：填 for，因何闻名用 famous for。",
+      "keywords": ["介绍景点", "located in", "famous for", "known as", "句型"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U2_009",
+      "name": "旅行游玩动词搭配",
+      "definition": "visit、explore、admire 等描述游览与欣赏景致的动词搭配。",
+      "explanation": "你谈游玩用 visit 参观、explore 探索、admire 欣赏、enjoy the view 欣赏风景、take photos 拍照。如 We explored the old town、They admired the sunset. 写作写行程先定游览动作，再配对象，如 explore the coast。判断动词配景点，游玩表达更自然。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "enjoy the view 与 欣赏替换词混淆",
+        "take photos 与 photo 单复数误用",
+        "explore 与 visit 动作层次混用"
+      ],
+      "example": "[仿题]We should ______ (take/took) photos of the tower.\n解析：填 take，拍照，should 后接动词原形。",
+      "keywords": ["游玩动词", "visit", "explore", "admire", "拍照"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U2_010",
+      "name": "表达旅行建议与体验",
+      "definition": "表达旅行建议与推荐的句式。",
+      "explanation": "你推荐景点用 I suggest (that) you...、It is worth visiting、a must-see place 必看之地。如 The park is worth seeing. 写作建议段先给推荐，再用 worth 或 must-see 加强。判断句型搭配，旅行推荐类表达就更有说服力。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "It is worth doing 结构误用 to do",
+        "a must-see 固定表达写法错误",
+        "suggest 后接宾语句型混淆"
+      ],
+      "example": "[仿题]The site is worth ______ (visit/visiting).\n解析：填 visiting，worth doing 值得一看。",
+      "keywords": ["旅行建议", "worth doing", "must-see", "推荐", "体验"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U2_011",
+      "name": "记录旅程的非谓语叙述",
+      "definition": "在旅程叙述中用分词作状语与定语记录见闻的写法。",
+      "explanation": "你写旅程用分词作状语丰富画面，如 The tower, built in 1780, still stands；用 Feeling excited, we took photos。判断每个分词修饰关系，宾语与主被动配对各就各位。写作游记用分词串联观感，段落更生动流畅。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "分词定语被动时态配错",
+        "状语逻辑主语与主句不一",
+        "分词与主句动词形式混乱"
+      ],
+      "example": "[仿题]The bridge, ______ (build) in 1900, still stands.\n解析：填 built，建于1900，被动用过去分词。",
+      "keywords": ["旅程叙述", "分词状语", "分词定语", "游记", "主被动"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B7_U2_012",
+      "name": "地标建筑 A 词与象征",
+      "definition": "描述地标建筑承载的历史与文化意义、象征含义的表达。",
+      "explanation": "你谈地标意义用 symbolize 象征、stand for 代表、a symbol of 的象征、historic meaning 历史意义。如 The tower symbolizes the city's history. 写作写地标先讲外观，再点深层象征，内容更有深度。判断象征动词与对象的搭配，地标类作文更出彩。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "symbolize 与 stand for 混用程度偏差",
+        "a symbol of 固定搭配介词写错",
+        "地标象征关系牵强不合理"
+      ],
+      "example": "[仿题]The coin ______ (symbol/symbolizes) unity.\n解析：填 symbolizes，象征，动词第三人称单数。",
+      "keywords": ["地标象征", "symbolize", "stand for", "象征意义", "历史"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第三册 Unit 4 Adversity and Course",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B6_U4_001",
+      "name": "现在完成进行时结构",
+      "definition": "表示持续到现在的动作，由 have been doing 构成。",
+      "explanation": "你理解现在完成进行时由 have/has been 加动词 ing 构成，强调动作从过去持续到现在。如 I have been reading this book for a week. 判断看有没有体现持续的 for、since 或仍然进行的迹象。写作表达持续状态时用这个时态，比现在完成时更能体现连续性。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "漏写 been，直接 have doing",
+        "for 与 since 搭配时间表达用错",
+        "把持续动作误写成现在完成时"
+      ],
+      "example": "[仿题]She has been ______ (work) here for a year.\n解析：填 working，have been doing 表持续一年。",
+      "keywords": ["现在完成进行时", "have been doing", "持续动作", "for", "since"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U4_002",
+      "name": "与现在完成时区别",
+      "definition": "比较现在完成进行时与现在完成时，前者强调持续后者强调结果。",
+      "explanation": "你区分两种时态：现在完成进行时强调动作一直在持续，现在完成时强调已经完成的结果。如 I have been reading 还在读与 I have read 读完了。判断看有没有持续进行的意思，有就用 been doing。做题先看语境重在过程还是结果。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "强调结果却误用现在完成进行时",
+        "持续进行意思却写成完成时",
+        "两者转换时 been 漏加或错加"
+      ],
+      "example": "[仿题]I have been ______ (read) all morning.\n解析：填 reading，强调整个上午持续在读。",
+      "keywords": ["时态辨析", "现在完成进行", "现在完成", "持续", "结果"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U4_003",
+      "name": "定语从句关系代词综合",
+      "definition": "根据先行词与在从句中的成分选用 who、which、that 等关系代词。",
+      "explanation": "你选关系代词先看先行词是人还是物，再看它在从句中作主语还是宾语。人作主语用 who，物用 which 或 that。如 the man who works hard、the plan that we made。判断分两步定人还是物、在句中成分，代词就选对。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "物先行却误用 who",
+        "关系代词在从句中成分判断错误",
+        "that 与 which 用法差异混用"
+      ],
+      "example": "[仿题]This is the book ______ (that/whom) I like most.\n解析：填 that，指物作宾语，that 可指物。",
+      "keywords": ["定语从句", "关系代词", "who", "which", "that"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U4_004",
+      "name": "定语从句关系副词用法",
+      "definition": "根据先行词表时间、地点、原因选用 when、where、why。",
+      "explanation": "你选关系副词看先行词含义：表时间用 when、地点用 where、原因用 why。如 the day when it rained、the field where we worked。判断先看先行词类别，再看从句缺的不是成分而是状语关系。做题认出先行词类别，副词随之确定。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "地点与时间副词混淆",
+        "从句缺宾语却误用关系副词",
+        "先行词类别判断失误选错"
+      ],
+      "example": "[仿题]I remember the day ______ we met.\n解析：填 when，先行词表时间，用关系副词 when。",
+      "keywords": ["关系副词", "when", "where", "why", "定语从句"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U4_005",
+      "name": "游记叙述的时态综合",
+      "definition": "叙述艰巨经历时综合使用现在完成进行时与定语从句的篇章语法。",
+      "explanation": "你写艰难经历可与语境结合：用现在完成进行时讲持续坚持，用定语从句交代背景。如 We have been sticking to the plan that we set. 写作记事先确定时间线，再用时态与从句组织，句子复合但不乱。判断每个分句的时态与关系，表达就完整。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "综合造句时单句时态错乱",
+        "定语从句关系词与主句时态不搭",
+        "持续与完成语义混在一句分不清"
+      ],
+      "example": "[仿题]We have been ______ (work) on the project that was set.\n解析：填 working，have been doing 强调持续。",
+      "keywords": ["现在完成进行时", "定语从句", "持续", "综合时态", "表达"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U4_006",
+      "name": "逆境与坚持词汇",
+      "definition": "描述逆境与坚持精神的词汇。",
+      "explanation": "你谈逆境用 adversity 逆境、difficulty 困难、perseverance 坚持不懈、determination 决心、challenge 挑战。如 overcome adversity 战胜逆境、show great perseverance 表现坚毅。阅读看到 face a challenge 就知道在讲困难。记词配动词，如 overcome 战胜，谈逆境话题更贴切。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "perseverance 拼写漏字母",
+        "adversity 与 difficulty 词义层次混淆",
+        "overcome 动词形式与搭配混用"
+      ],
+      "example": "[仿题]She showed great ______ (persevere/perseverance).\n解析：填 perseverance，坚持不懈，名词作宾语。",
+      "keywords": ["逆境词汇", "adversity", "perseverance", "挑战", "决心"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U4_007",
+      "name": "科研探索动作词汇",
+      "definition": "描述科研探索与发现动作的词汇。",
+      "explanation": "你谈科研用 research 研究、explore 探索、discover 发现、experiment 实验、investigate 调查。如 They explored the unknown area、conduct research。阅读看到 dive into research 深入研究就能理解。记词配宾语，如 explore the cave，谈科学探索类文章顺畅。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "explore 与 discover 动作对象混淆",
+        "conduct research 与 do research 混用",
+        "investigate 拼写漏字母"
+      ],
+      "example": "[仿题]We should ______ (explore/exploring) new ways.\n解析：填 explore，should 后接动词原形，探索新方法。",
+      "keywords": ["科研词汇", "research", "explore", "discover", "实验"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U4_008",
+      "name": "极端环境生存词汇",
+      "definition": "描述沙漠、冰川等极端环境与生存的词汇。",
+      "explanation": "你谈极端环境用 desert 沙漠、iceberg 冰山、glacier 冰川、survive 幸存、rescue 营救。如 They survived the terrible journey、the iceberg is huge. 阅读看到 survive 就知谈幸存。记词带环境名词，如 cross the desert，谈探险类阅读更顺。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "desert 与甜点 dessert 拼写混淆",
+        "survive 与名词 survival 混用",
+        "rescue 与营救对象搭配不清"
+      ],
+      "example": "[仿题]They managed to ______ (survive/survivor) the storm.\n解析：填 survive，幸存，to 后接动词原形。",
+      "keywords": ["极端环境", "desert", "survive", "冰山", "营救"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U4_009",
+      "name": "克服困难的句型",
+      "definition": "表达克服困难做事成功的句式。",
+      "explanation": "你表达克服困难用 manage to do 设法做成、succeed in doing 成功做成。如 We managed to reach the camp、They succeeded in finishing the task. 写作谈成功先写困难，再用 manage to 或 succeed in 写结果，判断搭配，成功达成类表达就准。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "manage to do 与 succeed in doing 混用",
+        "succeed in 后误接动词原形",
+        "克服困难搭配宾语缺失"
+      ],
+      "example": "[仿题]They succeeded in ______ (cross/crossing) the river.\n解析：填 crossing，succeed in 后接动名词。",
+      "keywords": ["克服困难", "manage to do", "succeed in", "达成", "句型"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U4_010",
+      "name": "科研观察与记录词汇",
+      "definition": "描述科研观察与记录过程的词汇。",
+      "explanation": "你写科研观察用 observe 观察、record 记录、note 记下、report 汇报、data 数据。如 record the changes、observe the animals. 阅读看到 record the data 就知道在记数据。写作科研过程先观察再记录，动词与对象搭配清楚，科研叙述就完整。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "observe 与 record 动作顺序混用",
+        "record 与 report 词性场景混淆",
+        "data 单复数形式误用"
+      ],
+      "example": "[仿题]We ______ (observe/observed) the birds yesterday.\n解析：填 observed，观察到，昨天过去时。",
+      "keywords": ["科研观察", "observe", "record", "report", "数据"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U4_011",
+      "name": "描述科学精神品质词",
+      "definition": "描述科学探索者优秀品质的形容词。",
+      "explanation": "你谈科学家精神用 brave 勇敢的、determined 坚定的、curious 好奇的、calm 镇定的。如 He was brave and never gave up. 写作写人物品质先给形容词，再配具体事例，如 stay calm in danger。判断品质词与事例搭配，人物描写就生动。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "curious 与紧张类词混用",
+        "brave 副词与形容词形式混用",
+        "stay calm 中 calm 词性误用"
+      ],
+      "example": "[仿题]The explorer was ______ (brave/bravery) in danger.\n解析：填 brave，勇敢的，be 后接形容词。",
+      "keywords": ["科学品质", "brave", "curious", "镇定", "坚定"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B6_U4_012",
+      "name": "艰难旅程叙事表达",
+      "definition": "用时间从句与分词状语描述艰难旅程经历的句式。",
+      "explanation": "你叙事写艰难旅程用 After we had..., we continued 或 We were tired, but we carried on。用分词作状语交代状态，如 Feeling exhausted, we rested. 写作记事先排时间顺序，再用转折承接经历。判断时态与连接，叙事类表达就完整打动人。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "叙事时间顺序颠倒，先后不明",
+        "分词状语逻辑主语错误",
+        "疲劳状态与继续动作衔接生硬"
+      ],
+      "example": "[仿题]______ (feel) exhausted, we stopped to rest.\n解析：填 Feeling，主语主动感到疲劳，作状语。",
+      "keywords": ["叙事表达", "分词状语", "时间顺序", "旅程", "经历"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

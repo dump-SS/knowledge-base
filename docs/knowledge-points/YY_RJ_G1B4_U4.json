@@ -1,0 +1,221 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第一册 Unit 4 Body Language",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B4_U4_001",
+      "name": "现在分词作状语主动",
+      "definition": "现在分词作状语，其逻辑主语与主句主语一致时表主动伴随、原因等。",
+      "explanation": "你用现在分词作状语时，它的逻辑主语必须与主句主语一致，表示主动与伴随。如 Nodding, she agreed，点头的人是 she。分词可表伴随、原因、时间。判断先看分词动作能否由主句主语主动发出，能则用 -ing。这决定句子是否通顺。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "分词逻辑主语与主句主语不一致仍用 -ing",
+        "分词语序与主句杂糅致双谓语",
+        "把主动 -ing 误用成被动 -ed",
+        "伴随状语标点与结构错乱"
+      ],
+      "example": "[仿题]______ (smile), he waved at his friends.\n解析：填 Smiling，he 主动微笑，表伴随动作。",
+      "keywords": ["现在分词", "作状语", "主动", "逻辑主语", "伴随"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U4_002",
+      "name": "过去分词作状语被动",
+      "definition": "过去分词作状语，其逻辑主语是被动承受动作时表原因、条件等。",
+      "explanation": "你用过去分词作状语时，分词的逻辑主语是被动承受者。如 Surprised at the result, he paused，he 是被惊讶者。它多表原因、条件、时间。判断先看分词动作是主语主动发出还是被承受，被承受用 -ed。写作时用被动态式状语替换从句使句子更紧凑。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "被动关系误用 -ing 作状语",
+        "分词逻辑主语判断反",
+        "把被动分词与主动分词混用",
+        "省略 being 与使用 now 时态混淆"
+      ],
+      "example": "[仿题]______ (puzzle) by the gesture, he asked for help.\n解析：填 Puzzled，被手势弄困惑，用 -ed。",
+      "keywords": ["过去分词", "作状语", "被动承受", "原因", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B4_U4_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U4_003",
+      "name": "-ing 与 -ed 状语辨异",
+      "definition": "根据分词动作主被动与主语关系判断状语用 -ing 或 -ed。",
+      "explanation": "你辨异看分词语义与主语的关系：主语主动产生作用用 -ing，如 encouraging, he continued；主语被动经受用 -ed，如 encouraged, he continued。判断先判断主语是施动者还是受动者。这是核心考点，做题先口头补全句子再定形式。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "不辨主语施受关系直接选形",
+        "伴随与原因状语时选形出错",
+        "把被感动反理解成主动",
+        "忽略逻辑主语是否一致"
+      ],
+      "example": "[仿题]______ (encourage) by the coach, he kept going.\n解析：填 Encouraged，被教练鼓励，人受激励用 -ed。",
+      "keywords": ["现在分词", "过去分词", "作状语", "施受关系", "辨异"],
+      "prerequisites": ["YY_RJ_G1_B4_U4_002"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U4_004",
+      "name": "独立主格的基础结构",
+      "definition": "名词或代词加分词等构成独立主格，作状语且有自己的逻辑主语。",
+      "explanation": "你认识独立主格时，它有自己的逻辑主语，与主句主语不同，如 Weather permitting, we'll go hiking，天气允许这件事。结构为名词逻辑主语加分词、形容词等。判断主句外是否还有一个独立名词作逻辑主语。此知识点是状语进阶，阅读时能识别即可。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "独立主格与普通分词状语混淆",
+        "独立主格逻辑主语与主句错位",
+        "常见固定形式 如 permitting 用错",
+        "把独立主格当成完整谓语段落不完整"
+      ],
+      "example": "[仿题]______ (weather) permitting, we'll visit the shrine.\n解析：填 Weather，独立主格天气允许，逻辑主语是 Weather。",
+      "keywords": ["独立主格", "逻辑主语", "作状语", "分词", "进阶结构"],
+      "prerequisites": ["YY_RJ_G1_B4_U4_003"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U4_005",
+      "name": "肢体语言的核心词汇",
+      "definition": "手势、表情、姿态等肢体语言与沟通技巧的核心词汇。",
+      "explanation": "你认识肢体语言词是读懂非言语交际文章的前提：gesture 手势、expression 表情、posture 姿态、nod 点头、frown 皱眉、signal 信号、behave 表现。记词带搭配，如 make a gesture、nod one's head。做肢体语言阅读先锁定动作词所在句理解。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "gesture 与 posture 含义混淆",
+        "nod 的动词名词词性混用",
+        "expression 与 express 词类误用",
+        "signal 的单复数与搭配记错"
+      ],
+      "example": "[仿题]A nod is a common ______ (gesture) of agreement.\n解析：填 gesture，点头是常见的同意手势。",
+      "keywords": ["肢体语言", "gesture", "posture", "nod", "expression"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U4_006",
+      "name": "动作描写的非谓语表达",
+      "definition": "用分词或并列结构生动描述连续动作或伴随状态。",
+      "explanation": "你描写连串动作可用分词伴随：She walked in, smiling warmly，用 smiling 表伴随。主句只写主干动作，其余用分词。判断哪些动作是伴随、哪个是主谓语。写作用把主动作写成谓语、把伴随动作用 -ing 状语，避免两个动词连续。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "连续动词不处理直接连写",
+        "伴随动作误写成第二个谓语",
+        "主谓动作与分词动作关系不明",
+        "标点分隔不当使句子冗长"
+      ],
+      "example": "[仿题]He left the room, ______ (close) the door gently.\n解析：填 closing，伴随动作 close 用 -ing。",
+      "keywords": ["动作描写", "分词伴随", "描写", "身体语言", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B4_U4_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U4_007",
+      "name": "with 复合结构的运用",
+      "definition": "用 with 加宾语加分词的复合结构作状语表状态或背景。",
+      "explanation": "你写 with 复合结构时，介词 with 后接宾语加宾语补足语（分词、形容词等），作伴随状语。如 with his arms crossed，with tears in her eyes。结构 = with+名词+分词/介词短语。判断主句外是否有 with 引导的独立背景成分。写作用它描写人物姿态很自然。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "with 后缺逻辑主语名词",
+        "宾语补足语取分词形式时选择错误",
+        "把 with 复合结构写成完整句子",
+        "补足语的被动主动选形错误"
+      ],
+      "example": "[仿题]He stood there, with his arms ______ (cross).\n解析：填 crossed，双臂交叉，被动用 -ed。",
+      "keywords": ["with 结构", "复合宾语", "伴随状语", "分词", "arms crossed"],
+      "prerequisites": ["YY_RJ_G1_B4_U4_004"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U4_008",
+      "name": "文化差异中的非言语行为",
+      "definition": "用 differ from、be common 等表达不同文化的肢体表达差异。",
+      "explanation": "你谈文化差异用这些词：differ from 不同于、be common in 在…常见、mean nothing 无意义、a sign of 的…标志、avoid 避免。例如 Nodding differs from culture to culture。写作对比文化时先讲各自习惯再用 differ from 突出差异，逻辑上先树立再比较。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "differ from 的 from 漏写",
+        "a sign of 的 of 结构记错",
+        "avoid 后接动词 -ing 写原形",
+        "文化差异对比缺比较对象"
+      ],
+      "example": "[仿题]Eye contact may mean ______ (differ) things in other places.\n解析：填 different，不同的事情，形容词修饰 things。",
+      "keywords": ["文化差异", "differ from", "gesture", "非言语", "肢体表达"],
+      "prerequisites": ["YY_RJ_G1_B4_U4_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U4_009",
+      "name": "沟通中的动词搭配",
+      "definition": "用 maintain、avoid 等表达沟通技巧。",
+      "explanation": "你表达沟通用这些动词：maintain eye contact 保持眼神交流、avoid being misunderstood 避免被误解、interpret 解读、pay attention to 留意。判断主被动与时态。写作谈沟通技巧时用 maintain、avoid 搭配具体行为，再补作用，论点明确。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "maintain 的拼写与时态记错",
+        "avoid being done 的被动表示写错",
+        "pay attention to 的 to 后接动词原形",
+        "interpret 与 translate 含义混淆"
+      ],
+      "example": "[仿题]She avoided ______ (show) her nervousness.\n解析：填 showing，avoid 后接 -ing 避免表现紧张。",
+      "keywords": ["沟通技巧", "maintain", "avoid", "interpret", "搭配"],
+      "prerequisites": ["YY_RJ_G1_B4_U4_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U4_010",
+      "name": "观察写作的细节描述",
+      "definition": "通过具体动作、表情与神态细节使人物形象更丰满的写作手法。",
+      "explanation": "你写人物细节先观察具体动作：眉头微皱、双手交叉、瞬间笑容。用具体动词与神态词表达，如 frowned slightly、crossed his arms。写作时把笼统的紧张换成可见细节，读者能看见画面。判断用动作与表情代替形容词说明，让描写有感染力。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "用抽象形容词代替具体动作细节",
+        "细节零散无序缺整体画面",
+        "神态描写与人物情绪不匹配",
+        "堆砌细节忽略主线"
+      ],
+      "example": "[仿题]用细节描写紧张不安。\n解析：写握紧拳头、不断咽口水、躲闪目光等具体动作。",
+      "keywords": ["细节描写", "神态", "动作", "写作", "人物刻画"],
+      "prerequisites": ["YY_RJ_G1_B4_U4_006"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U4_011",
+      "name": "身体语言的议论文论述",
+      "definition": "用论点、例证与说明结构论述肢体语言的重要性或文化差异。",
+      "explanation": "你写肢体语言议论文先点明论点，如 Body language matters greatly，再用文化实例说明，如不同手势含义，最后总结启示。用 however、for example、therefore 衔接。写作前定论点与两三个例证，每段主题句开头，论述精确有逻辑。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "论点表述含糊无立场",
+        "例证与论点明显脱节",
+        "段落缺少主题句开头",
+        "结论只复述不升华"
+      ],
+      "example": "[仿题]论述肢体语言在不同文化中的意义。\n解析：先立论重要性，各文化手势对比分析，总结启示。",
+      "keywords": ["议论文", "肢体语言", "论点", "例证", "文化差异"],
+      "prerequisites": ["YY_RJ_G1_B4_U4_008"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U4_012",
+      "name": "分词状语的整合运用",
+      "definition": "综合运用 -ing、-ed 作状语及独立主格描述身体语言场景。",
+      "explanation": "你在文本深处综合运用分词，主句写主干，分词作伴随或原因状语，独立主格补充背景。如 Frowning, she left; the argument being over。判断每个动作该做主句谓语还是分词状语，再定主被动形式。写作用好这些结构使描述更层次分明又简洁。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "分词与主句竟争谓语位置",
+        "多个分词堆砌分不清主次",
+        "独立主格与分词状语混用",
+        "主被动形式在不同结构中混淆"
+      ],
+      "example": "[仿题]______ (finish) the talk, he stood up slowly.\n解析：填 Having finished，完成式分词表先于主句动作。",
+      "keywords": ["分词整合", "独立主格", "作状语", "-ing", "-ed"],
+      "prerequisites": ["YY_RJ_G1_B4_U4_004"],
+      "source_version": "人教版2019"
+    }
+  ]
+}

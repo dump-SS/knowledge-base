@@ -1,0 +1,221 @@
+{
+  "module_path": "英语（人教版2019） 必修 第三册 Unit 4 Space Exploration",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B3_U4_001",
+      "name": "不定式作宾语的搭配",
+      "definition": "want、plan、decide 等动词后用带 to 的不定式作宾语的用法。",
+      "explanation": "你要记住一批后接不定式 to do 作宾语的动词：want、hope、plan、decide、agree、refuse、choose。例如 The country plans to go to the moon。判断时看到这批动词，后接动作一律用 to do 形式。它与接 -ing 的动词要分开记。做题先认出动词类型，再对动作用不定式。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "plan 后误接动词 -ing 而非 to do",
+        "decide 后漏写 to 直接接原形",
+        "refuse to do 的搭配介词写错",
+        "want 后接从句与不定式混淆"
+      ],
+      "example": "[仿题]They plan ______ (send) a robot to the planet.\n解析：填 to send，plan 后接不定式作宾语。",
+      "keywords": ["不定式", "作宾语", "want to do", "plan", "非谓语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U4_002",
+      "name": "不定式作表语表目的",
+      "definition": "在系动词后用 to do 形式说明主语的目标或意图。",
+      "explanation": "你识别不定式作表语时，它在系动词 be 后说明主语的意图、目标，如 My dream is to become an astronaut，梦想是当一名宇航员。判断时看它是否补充说明主语是什么或要做什么，而非说明动作状态。它与作宾语的区别在于位置在 be 动词后。写作可用此结构表达目标。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把 be 后的不定式误看成进行时",
+        "目标句中不定式与动名词混用",
+        "to do 作表语时漏写 to",
+        "把表目的的主语写成动作谓语"
+      ],
+      "example": "[仿题]The purpose of the mission is ______ (test) new technology.\n解析：填 to test，不定式作表语说明目的。",
+      "keywords": ["不定式", "作表语", "is to do", "目的", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B3_U4_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U4_003",
+      "name": "不定式作定语修饰名词",
+      "definition": "在名词后用 to do 形式说明其用途、内容或与被修饰词的动宾关系。",
+      "explanation": "你判断不定式作定语时，它跟在名词后说明用途或内容，如 the way to solve the problem、something to eat。核心：被修饰名词常是 to do 的逻辑宾语或说明对象。判断看 to do 与被修饰名词是否存在动宾或说明关系。写作时用不定式定语能让修饰更简洁具体。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "混淆不定式作定语与状语的句法位置",
+        "动宾关系的 to do 漏写介词",
+        "something to do 的固定表达用错",
+        "把名词后的不定式误看成定语从句"
+      ],
+      "example": "[仿题]I have a plan ______ (fly) to the moon.\n解析：填 to fly，不定式作定语修饰 plan。",
+      "keywords": ["不定式", "作定语", "to do", "修饰名词", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B3_U4_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U4_004",
+      "name": "不定式作状语表目的",
+      "definition": "用 to do、in order to 表示主句动作所服务的目的或意图。",
+      "explanation": "你要掌握不定式是最常用表目的的状语：to do 或 in order to do、so as to do。例如 They studied hard to enter the programme。判断是否目的状语，看它是否回答为什么做主句动作。否定目的用 in order not to do。写作中常用 to do 表达目标，比 because 从句更简练。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "表目的把 to do 误写成 for doing",
+        "否定目的写 not to 而漏 in order 位置错",
+        "so as to 放在句首位置错误",
+        "目的状语与结果状语 in order 混淆"
+      ],
+      "example": "[仿题]We train every day ______ (be) ready for the launch.\n解析：填 to be，不定式表目的，为发射作准备。",
+      "keywords": ["不定式", "作状语", "表目的", "in order to", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B3_U4_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U4_005",
+      "name": "航天科技核心词汇",
+      "definition": "太空、航天器、星球与飞行相关话题的核心词汇及搭配。",
+      "explanation": "你认识并会用航天词是读懂航天文章的关键：space 太空、astronaut 宇航员、rocket 火箭、spacecraft 航天器、satellite 卫星、launch 发射、orbit 轨道、signal 信号。记词带搭配，如 launch a satellite、in orbit、send signals。做阅读题先锁定此类词所在句，往往就是考点句。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "astronaut 的拼写漏字母",
+        "launch 与 lunch 形近混淆",
+        "spacecraft 与 spaceship 单复数混用",
+        "satellite 与 signal 含义不同混淆"
+      ],
+      "example": "[仿题]The ______ (launch) of the rocket was a success.\n解析：填 launch，发射，作名词用原形。",
+      "keywords": ["航天词汇", "astronaut", "rocket", "satellite", "launch"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U4_006",
+      "name": "太空探索历程的表达",
+      "definition": "用 be first to do 等表达航天历史事件。",
+      "explanation": "你表达先驱与历史用这些结构：be the first to do 第一个做…、make history 创造历史、come true 实现、in the context of 在…背景下。例如 China was the first country to land on the far side of the moon。写作谈探索成就时用这些短语突出开创性，再补充时间地点背景。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "the first to do 的 to 漏写接原形",
+        "come true 与 achieve 的主语用错",
+        "make history 前加名词位置错",
+        "in the context of 的介词搭配记错"
+      ],
+      "example": "[仿题]She was the first woman ______ (walk) in space.\n解析：填 to walk，the first to do 第一个做某事。",
+      "keywords": ["太空探索", "the first to do", "make history", "come true", "表达"],
+      "prerequisites": ["YY_RJ_G1_B3_U4_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U4_007",
+      "name": "科学探索的意义表达",
+      "definition": "用 contribute to 表达探索的意义。",
+      "explanation": "你表达贡献与价值用这些结构：contribute to 有助于、be of great value 有重大价值、lead to 导致、benefit 使受益。例如 Space research contributes to our daily life。写作谈意义时先指出某探索，再用 contribute to 讲带来的帮助，用 lead to 讲结果，逻辑清楚有说服力。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "contribute to 的 to 后误接动词原形",
+        "be of great value 的 of 被漏掉",
+        "lead to 的主语与结果接错",
+        "benefit 与 beneficial 词性混用"
+      ],
+      "example": "[仿题]Space study contributes ______ the development of science.\n解析：填 to，contribute to 有助于。",
+      "keywords": ["探索意义", "contribute to", "be of value", "lead to", "表达"],
+      "prerequisites": ["YY_RJ_G1_B3_U4_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U4_008",
+      "name": "太空话题的被动语态",
+      "definition": "用 be 加过去分词构成被动语态的结构。",
+      "explanation": "你描述太空研究常用被动：be conducted 被进行、be tested 被测试、be launched 被发射、be carried out 被实施。被动结构为 be+过去分词，发射动作由 by 引出施动者。做被动题先找主语与动词的被动关系，再按时态变化 be。写作中描述流程多用被动显得客观。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "被动态漏写 be 动词只剩过去分词",
+        "被动时态与主动语境不匹配",
+        "by 前漏施动者成分",
+        "不规则过去分词形式记错"
+      ],
+      "example": "[仿题]The experiment was ______ (conduct) in the lab.\n解析：填 conducted，被动语态用过去分词。",
+      "keywords": ["被动语态", "be conducted", "过去分词", "太空话题", "语法"],
+      "prerequisites": ["YY_RJ_G1_B3_U4_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U4_009",
+      "name": "不定式与疑问词连用",
+      "definition": "用 what、how 等疑问词接不定式的结构。",
+      "explanation": "你要掌握疑问词加不定式的用法：what to do、how to do it、whether to go、where to start。它常作 know、decide、find out 的宾语。例如 I don't know how to operate it。判断用哪个疑问词看要提问的内容。做题时把疑问词与 to do 连起来补全。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "不管疑问词直接写 what 与 to do 搭配错",
+        "whether to 与 if 从句混淆",
+        "how to 后主被动形式写错",
+        "疑问词加不定式作宾语时位置错"
+      ],
+      "example": "[仿题]I'm not sure how ______ (operate) the device.\n解析：填 to operate，how to do 做宾语。",
+      "keywords": ["疑问词", "不定式", "how to do", "whether to", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B3_U4_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U4_010",
+      "name": "科技进展的时态搭配",
+      "definition": "在描述科技发展的语篇中，根据时间状语正确选用现在完成与过去时的规则。",
+      "explanation": "你写科技发展要配合时态：已有的成就用现在完成，如 China has sent satellites into space；过去的单次事件用一般过去，如 The first satellite was launched in 1970。判断依据时间状语和语境。做语篇填空先看时间状语标志词，再定用完成还是过去时。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "现在完成时漏用 has/have",
+        "根据 in 1970 误用现在完成时",
+        "科技话题中主谓一致时态混乱",
+        "过去分词与过去式形式混淆"
+      ],
+      "example": "[仿题]Our country ______ (send) many satellites so far.\n解析：填 has sent，so far 用现在完成时。",
+      "keywords": ["现在完成时", "科技进展", "时间状语", "时态", "语法"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U4_011",
+      "name": "未来太空计划的表达",
+      "definition": "用 plan to 等表达未来科研目标的句式。",
+      "explanation": "你谈未来计划常用：plan to do 计划、aim to do 旨在、be expected to do 有望、look forward to 期待。例如 China aims to build a space station。判断句子是表达意图还是预期，用对应结构。写作时用 plan、aim 搭配 to do 表达长期目标，再补时间与地点使计划具体。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "aim to do 的 to 后误接 -ing",
+        "be expected to 的被动态写错",
+        "look forward to 后接动词原形",
+        "计划句中时态与目标年份不匹配"
+      ],
+      "example": "[仿题]The project expects ______ (finish) by 2030.\n解析：填 to finish，expect to do 预计完成。",
+      "keywords": ["未来计划", "plan to", "aim to", "be expected to", "表达"],
+      "prerequisites": ["YY_RJ_G1_B3_U4_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U4_012",
+      "name": "航天阅读的要点定位",
+      "definition": "通过关键词定位太空文本中时间、数据与研究结果的阅读技巧。",
+      "explanation": "你做航天阅读先圈关键词：launch、orbit、research、scientist、data。再按题干关键词回原文定位，重点关注数字、年份、研究结论。细节题依据原文句作答，主旨题看首尾段。做题时先把题干关键词标出，再回文本逐句比对，避免凭印象猜答案。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "题干关键词与原文不符仍选错定位",
+        "凭常识作答而忽略原文数据",
+        "把研究结论与作者观点混淆",
+        "细节题未回原文直接猜测"
+      ],
+      "example": "[仿题]文中有 in 2025 the probe reached the moon，题问时间？\n解析：定位 in 2025，答案为 2025。",
+      "keywords": ["阅读技巧", "关键词定位", "航天文本", "细节题", "信息抓取"],
+      "prerequisites": ["YY_RJ_G1_B3_U4_005"],
+      "source_version": "人教版2019"
+    }
+  ]
+}

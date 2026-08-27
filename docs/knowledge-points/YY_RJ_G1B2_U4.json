@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 必修 第二册 Unit 4 History and Traditions",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B2_U4_001",
+      "name": "过去分词作定语",
+      "definition": "掌握过去分词置于名词前后作定语表示被动或完成的用法。",
+      "explanation": "过去分词可作定语修饰名词，多表被动或已完成的动作。比如 a broken bridge、the man called John。通常单个分词放在名词前，分词短语放在名词后。你要判断名词是不是动作的承受者，是承受者就用过去分词。作定语的过去分词强调被动与完成，这和现在分词的主动含义正好相反。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "动作承受者误用现在分词作定语",
+        "过去分词短语位置放错被放句首",
+        "把过去分词主动被动的意义搞反"
+      ],
+      "example": "[仿题]填空：a ___ (break) window broken 窗户。\n解析：被动用过去分词 broken",
+      "keywords": ["过去分词", "定语", "被动", "completed", "broken"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U4_002",
+      "name": "过去分词作表语",
+      "definition": "掌握过去分词作表语跟在系动词后描述主语状态的用法。",
+      "explanation": "过去分词作表语跟在 be、feel、seem 等系动词后，描述主语的状态或情绪。比如 She was excited about the news、The door is locked。你要注意这里常表人的情绪感受，而事物作主语时表的是状态。判断用过去分词还是现在分词，关键是看主语是承受者还是使他人有某种感受，作表语时分清这一点。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "表示人的情绪误用现在分词作表语",
+        "系动词后分词语态选择错误",
+        "把表语与定语的句子位置混淆"
+      ],
+      "example": "[仿题]填空：I am ___ (interest) in history。\n解析：表人情绪用 interested",
+      "keywords": ["过去分词", "表语", "系动词", "情绪状态", "interested"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U4_003",
+      "name": "过去分词作宾补",
+      "definition": "掌握过去分词在宾语后作宾语补足语表示被动或完成的结果。",
+      "explanation": "过去分词可跟在宾语后面作宾语补足语，补充说明宾语被做的结果。比如 I had my hair cut、He found the window broken。常见接宾补的动词有 make、find、keep、see 等。你要判断宾补与宾语之间是不是被动关系，是被动就用过去分词，是主动则用现在分词。宾补与宾语的主被动关系是判断关键。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "宾语是承受者却用现在分词作宾补",
+        "have sth done 结构 done 用错形式",
+        "分不清宾补的主动与被动"
+      ],
+      "example": "[仿题]填空：I had my photo ___ (take)。\n解析：照片被拍用 taken",
+      "keywords": ["过去分词", "宾语补足语", "have sth done", "被动", "taken"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U4_004",
+      "name": "with 复合结构作宾补",
+      "definition": "掌握 with 加宾语加过去分词的复合结构表示伴随状态。",
+      "explanation": "with 后接宾语再接过去分词，构成 with 复合结构，常表伴随或原因状态。比如 The painting remained，with the frame damaged，画作仍在那里，但画框坏了。你要注意这个结构里宾语是被动承受者时用过去分词，表主动时用现在分词。阅读时看到 with 加名词加分词的组合，就能读懂伴随条件。",
+      "difficulty": 4,
+      "frequency": 2,
+      "typical_errors": [
+        "with 结构里被动误用现在分词",
+        "缺少宾语或分词导致结构残缺",
+        "把 with 复合结构误当主句谓语"
+      ],
+      "example": "[仿题]填空：The castle stood，with its walls ___ (damage)。\n解析：墙被动用 damaged",
+      "keywords": ["with 复合结构", "宾语补足语", "伴随状态", "damaged", "被动"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U4_005",
+      "name": "分词定语主动被动选择",
+      "definition": "掌握定语中现在分词与过去分词按主被动关系选用。",
+      "explanation": "作定语时现在分词表主动或正在进行，过去分词表被动或已完成。比如 a running river 表主动流动，a damaged bridge 表被动受损。你要找到被修饰的名词和动词的关系，名词是执行者用现在分词，是承受者用过去分词。这个主被动分界是最常考的点，判断准确了定语的 ed 或 ing 才不写错。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "承受者用了现在分词而写成 ing",
+        "执行者用了过去分词而写成 ed",
+        "定语主被动判断失误"
+      ],
+      "example": "[仿题]选词：a ___ (risen/rising) sun 升起的太阳。\n解析：主动用现在分词 rising",
+      "keywords": ["现在分词", "过去分词", "主动被动", "定语", "rising"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U4_006",
+      "name": "过去分词的完成被动形式",
+      "definition": "掌握 having been done 与 done 等表示完成被动的分词形式。",
+      "explanation": "表示被动的分词，若强调已经完成可用 having been done，作状语放在句首。比如 Having been built in the 1800s，the bridge still stands。你要注意这个结构由分词加完成被动构成，常表时间或原因状语。作后置定语时也可直接用过去分词。掌握了分词的完成被动，长难句阅读会顺畅许多。",
+      "difficulty": 4,
+      "frequency": 2,
+      "typical_errors": [
+        "having been done 中 been 遗漏",
+        "把完成被动作状语误当主句",
+        "过去分词 completion 与动名词混淆"
+      ],
+      "example": "[仿题]填空：___ (build) in 1900，the hall is old。\n解析：完成被动用 having been built",
+      "keywords": ["having been done", "完成被动", "分词状语", "built", "老建筑"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U4_007",
+      "name": "历史朝代时期词汇",
+      "definition": "掌握朝代、古代、有历史意义等历史词汇的用法。",
+      "explanation": "谈论历史你会用到 dynasty 朝代、ancient 古代的、historic 有历史意义的、century 世纪等词。比如 The temple dates from the Tang dynasty，这座寺庙可追溯到唐代。你要注意 ancient 强调远古，historic 强调有历史纪念意义，别混淆。把历史时期词和具体朝代对应记，聊中国历史传统时才准确。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "ancient 与 historic 历史含义混淆",
+        "dynasty 拼写漏字母",
+        "把 century 与 century 数词搭配记错"
+      ],
+      "example": "[仿题]选词：这座建筑属 ___（historic/ancient）唐代。\n解析：朝代用 dynasty 搭配",
+      "keywords": ["dynasty", "ancient", "historic", "世纪", "历史时期"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U4_008",
+      "name": "传统习俗节日词汇",
+      "definition": "掌握 custom、tradition、festival 等传统习俗节日的词汇。",
+      "explanation": "谈到传统你会使用 custom 习俗、tradition 传统、festival 节日、celebrate 庆祝等词。比如 We celebrate the festival to keep our traditions alive。注意 custom 指地方习惯做法，tradition 指代代相传的传统，celebrate 后直接接节日名。把这些词放进过节守传统的情境记，聊文化表达就更贴切。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "custom 与 tradition 词义混淆",
+        "celebrate 后误加介词 to",
+        "festival 与 occasion 混用"
+      ],
+      "example": "[仿题]填空：我们庆祝元宵 ___（festival/custom）。\n解析：节日用 festival",
+      "keywords": ["custom", "tradition", "festival", "celebrate", "传统习俗"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U4_009",
+      "name": "追溯起源表达",
+      "definition": "掌握追溯到某时期、上溯来源的动词短语表达。",
+      "explanation": "介绍古迹历史，你要用 date back to 追溯到、go back to 上溯到等表达。比如 The wall dates back to the 16th century，这堵墙可追溯到十六世纪。你要注意 date back to 是不加进行或被动形式的固定搭配，主语常是古迹或建筑。把追溯类的动词短语记牢，写历史遗址介绍时用词专业又简洁。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "date back to 误加被动或进行形式",
+        "把 date back 与 go back 不定式混用",
+        "追溯的主语选错对象"
+      ],
+      "example": "[仿题]填空：这座塔 ___（date）back to 明代。\n解析：追溯到用 dates back to",
+      "keywords": ["date back to", "go back", "追溯", "历史", "古迹"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U4_010",
+      "name": "象征代表 symbol 表达",
+      "definition": "掌握表达象征与代表意义的词汇搭配。",
+      "explanation": "说明事物的象征意义，你会用 symbolise 象征、stand for 代表、a symbol of 的象征等表达。比如 The dragon stands for power in Chinese culture。你要注意 symbolise 是动词可直接接宾语，stand for 是动词短语，a symbol of 后接所象征的东西。把象征类动词与名词搭配记牢，谈文化寓意时表达更有力。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "symbolise 与 symbol 词性混用",
+        "stand for 宾语放错位置",
+        "a symbol of 的 of 遗漏"
+      ],
+      "example": "[仿题]填空：龙是力量的 ___（symbol/symbolise）。\n解析：象征语义用 a symbol of",
+      "keywords": ["symbolise", "stand for", "symbol of", "象征", "代表"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U4_011",
+      "name": "纪念往昔短语用法",
+      "definition": "掌握表达纪念与致敬对象的介词短语。",
+      "explanation": "表达纪念往昔你会用 in memory of 为了纪念、in honour of 为向某人致敬等短语。比如 They built a museum in memory of the hero。你要注意 in memory of 后接被纪念的人或事物，in honour of 更强调敬意。把纪念类介词短语记牢，写纪念物或节日由来时表达既得体又有文化韵味。",
+      "difficulty": 2,
+      "frequency": 2,
+      "typical_errors": [
+        "in memory of 误写成 in memorial of",
+        "in honour of 与 honour 动词混用",
+        "纪念短语后接对象选错"
+      ],
+      "example": "[仿题]填空：为纪念烈士建碑用 ___（memorial of）。\n解析：纪念用 in memory of",
+      "keywords": ["in memory of", "in honour of", "纪念", "致敬", "短语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B2_U4_012",
+      "name": "历史意义评价词汇",
+      "definition": "掌握评价历史意义与作用的重要词汇与搭配。",
+      "explanation": "评价历史事件的意义你会用 significant 重要的、remarkable 卓越的、play an important role 起重要作用等表达。比如 The event played a great role in our history。注意 significant 强调意义重大，remarkable 强调杰出不凡。把意义评价词连同介词搭配记牢，评述历史传统才言之有物。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "significant 与 remarkably 词性混用",
+        "play a role in 误写成 play role 漏冠词",
+        "历史意义评价词立场选错"
+      ],
+      "example": "[仿题]填空：它在历史上起着 ___（role）作用。\n解析：起重要作用用 play an important role",
+      "keywords": ["significant", "remarkable", "play a role", "意义", "评价"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

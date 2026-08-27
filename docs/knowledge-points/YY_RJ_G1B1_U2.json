@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 必修 第一册 Unit 2 Travelling Around",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B1_U2_001",
+      "name": "现在进行时表将来计划",
+      "definition": "用 be doing 表示已安排好、即将发生的计划与安排的用法。",
+      "explanation": "当你已订好机票或安排好行程时，用现在进行时谈将来计划，强调事情已经确定。比如 I'm flying to Beijing tomorrow 就显得胸有成竹。你要注意，只有动作有明确时间或安排时才用它；若是临时决定，用 will 更合适。判断的关键是问自己：这件事是否已经安排好了，定好了就用进行时。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "误用成一般现在时，写成 I fly to Beijing tomorrow",
+        "临时起意也硬用进行时，把 I will go 错写成 I am going",
+        "忘记 be 动词需随主语变化，第三人称写成 I is leaving"
+      ],
+      "example": "[仿题]填空：I ___ (visit) my uncle this Sunday，因为已经约好。\n解析：已经预约好，用 am visiting",
+      "keywords": ["现在进行时", "将来计划", "be doing", "安排", "已确定"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U2_002",
+      "name": "be going to 表打算",
+      "definition": "用 be going to do 表达打算做某事或依据迹象预示将来的动作。",
+      "explanation": "当你心里有打算但未必落实时，用 be going to 最合适，它比 will 更强调事先的想法。比如 We're going to travel to Italy next month。它还能根据迹象做预测，看到乌云可以说 It's going to rain。你要区分：有明确迹象用 be going to，没有迹象的临时决定用 will，同时 be 动词不能写错。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "be 动词与主语不匹配，写成 They is going to travel",
+        "看到乌云等迹象时误用 will 代替 be going to",
+        "把 be going to 的 to 吞掉，误写成 be going travel"
+      ],
+      "example": "[仿题]选词：The sky is dark，it ___ rain。\n解析：有迹象选 is going to",
+      "keywords": ["be going to", "打算", "预测", "迹象", "将来时"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U2_003",
+      "name": "一般现在时表时刻表将来",
+      "definition": "对按时刻表固定运行的交通班次，用一般现在时表示已固定的将来时间。",
+      "explanation": "火车的出发、飞机的起飞这类按时刻表固定运行的动作，虽发生在将来，却习惯用一般现在时表达。你会写 The train leaves at 8 o'clock，而不是 The train will leave，因为班次已定死。这类考点常给你航班或车次时刻，要你判断用一般现在时还是将来时，关键在于看有没有固定时间表。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "看到将来时间就一律用 will，误写 The plane will take off at 9",
+        "主语第三人称却忘加 s，写成 The train leave at 8",
+        "与现在进行时表将来混用，把固定班次写成 is leaving"
+      ],
+      "example": "[仿题]单选：The last bus ___ (leave) at 10 p.m.。\n解析：时刻表固定，用 leaves",
+      "keywords": ["一般现在时", "时刻表", "固定班次", "第三人称单数", "将来"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U2_004",
+      "name": "could 表请求与能力",
+      "definition": "用 could 提出礼貌请求，或表示过去能力与委婉建议的用法。",
+      "explanation": "旅行中你常需请求帮助，比如 Could you tell me the way? 用 could 提问比 can 更礼貌委婉。它还可表示过去的能力，如 I could swim when I was five。你要注意，用 could 提的问题，回答却要用 can 而不是 Yes, I could；它表能力时通常指过去熟练的技巧，而非某一次偶然做到。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "用 could 提问却在答句中写 Yes, I could",
+        "混淆 could 表过去能力与 managed to 表某次成功",
+        "无法判断 could 是过去式还是委婉，时机把握不准"
+      ],
+      "example": "[仿题]补全：___ you please help me carry this bag?。\n解析：请求场景用 Could",
+      "keywords": ["could", "委婉请求", "过去能力", "can", "礼貌"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U2_005",
+      "name": "出行交通方式词汇",
+      "definition": "掌握火车、飞机、大巴等交通工具及机场车站场所的常见英文表达。",
+      "explanation": "旅行规划里你会频繁接触交通类词汇，比如 train、flight、departure、shuttle。你用它们谈路线要搭配正确，say by train 而不说 take train by。你要学会联想场景记忆：在机场看 departure board，坐 shuttle 到市区，错过 flight 就改下一班。把这些词放进句子记，比孤立背单词牢固得多。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "介词搭配错误，写成 in train 而不是 by train",
+        "把 departure（出发）与 arrival（到达）两个词混用",
+        "拼写混淆，把 shuttle 误写成 shutle"
+      ],
+      "example": "[仿题]选词：我们乘 ___ (shuttle / departure) 到机场。\n解析：接驳车用 shuttle",
+      "keywords": ["transport", "flight", "departure", "shuttle", "出行"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U2_006",
+      "name": "apply for 申请某物",
+      "definition": "掌握 apply for 表申请某物、apply to 表向某人申请的正确搭配。",
+      "explanation": "规划出境游离不开签证这个词，动词是 apply。你要分清介词：申请某物用 apply for，比如 apply for a visa；向某个机构申请用 apply to，比如 apply to the embassy。注意动宾顺序别颠倒，也别提错介词，这是完形和写作里的高频搭配点，你得练到不看就能写对的程度。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "介词用错，把 apply for a visa 写成 apply to a visa",
+        "动宾顺序颠倒，把 apply a visa 写成 visa apply",
+        "把它与 request 的搭配混用，写成 apply request"
+      ],
+      "example": "[仿题]填空：He ___ for a tourist visa before travelling。\n解析：申请用 apply",
+      "keywords": ["apply for", "apply to", "签证", "visa", "介词搭配"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U2_007",
+      "name": "景点观光活动词汇",
+      "definition": "掌握观光、看景点等观光活动词及其固定搭配的用法。",
+      "explanation": "描述景点和活动时，你会用 visit a museum、go hiking、climb the mountain 这类词，比如 We plan to visit the Great Wall。注意 sightseeing 前用固定搭配 go，说 go sightseeing，不能写 do sightseeing。把词跟动作一起记，介绍旅行计划时就用得上了。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把固定搭配 go sightseeing 误写成 do sightseeing",
+        "把 scenery 误当作复数 scenery 一起使用",
+        "景点动词搭配不当，写成 visit the lake 而不是 go boating"
+      ],
+      "example": "[仿题]选词：我们去故宫 ___ (go sightseeing / do sightseeing)。\n解析：固定搭配 go sightseeing",
+      "keywords": ["sightseeing", "attraction", "scenery", "景点", "观光"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U2_008",
+      "name": "预订与住宿 check in",
+      "definition": "掌握订房、办理入住退房等住宿流程的常见表达。",
+      "explanation": "酒店要提前订，你会用到 book a room 或 reserve a room，入住是 check in，退房是 check out，比如 I'd like to check in。要注意 book 和 reserve 都表预订，check in 是固定短语动词，中间不能拆开加宾语。把订房、入住、退房这套流程串起来记，对话就顺了。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 check in 拆开使用，写成 check the room in",
+        "混淆 book 与 book a ticket，忘记后接宾语",
+        "把 double room 与 single room 的含义弄混"
+      ],
+      "example": "[仿题]填空：I'd like to ___ (check in / book) a single room tonight。\n解析：预订房间用 book",
+      "keywords": ["book a room", "check in", "check out", "reserve", "预订"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U2_009",
+      "name": "request 动名词两用",
+      "definition": "掌握 request 作动词和名词时两种常见表达的用法。",
+      "explanation": "旅行中提要求少不了 request。作动词可说 request sb to do，如 The hotel requested guests to fill in the form；作名词常用 make a request。你还要知道它比 ask 更正式，后接宾语从句要用虚拟语气 do，比如 I request that he leave，而不是 leaves。这是它常设陷阱的地方，你要格外留意。",
+      "difficulty": 4,
+      "frequency": 2,
+      "typical_errors": [
+        "宾语从句误用陈述语气，写成 request that he leaves",
+        "把 make a request 误说成 do a request",
+        "分不清 request sb to do 与 request that sb do 两种结构"
+      ],
+      "example": "[仿题]改错：I requested that he stays here。\n解析：request 后从句虚拟，he stay",
+      "keywords": ["request", "make a request", "虚拟语气", "宾语从句", "礼貌表达"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U2_010",
+      "name": "用将来时述旅行打算",
+      "definition": "掌握表达旅行打算的多种常用句型。",
+      "explanation": "介绍旅行计划时，你要学会用不同句型表达打算。I'm going to visit Rome 表已打算，I plan to stay for a week 表计划，I'd like to try the food 表意愿。把它们串联起来，一段安排说明就自然了。你要注意 plan 后接不定式 to do，不能接动名词 doing；I'd like 后的 to 也不能省，这样表达才地道完整。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 plan to do 误写成 plan doing",
+        "漏写 I'd like 后的 to，写成 I'd like visit",
+        "多个句型无衔接堆砌，计划表达缺乏层次"
+      ],
+      "example": "[仿题]翻译：我计划明年去日本旅行。\n解析：I plan to travel to Japan",
+      "keywords": ["plan to", "would like to", "be going to", "旅行计划", "表达意图"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U2_011",
+      "name": "认识理解类词辨析",
+      "definition": "掌握认识、理解、意识到等动词的意义与使用差异。",
+      "explanation": "旅行中辨认地点、理解信息很常见，这一步考你辨析动词。recognise 强调认出旧识或景物，如 I recognised the hotel；realise 表示突然意识到，如 I realised we missed the train；understand 表示理解含义。你选词时要先判断语境是认出、意识到还是理解，再动笔，这几个词在完形里常常互为陷阱。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把突然意识到误用 remember 代替 realise",
+        "认出旧相识误用 understand 代替 recognise",
+        "三个词不分场景混用，任意互换"
+      ],
+      "example": "[仿题]选词：一到车站我就 ___（recognise/realise）了熟悉标志。\n解析：认出旧物用 recognise",
+      "keywords": ["recognise", "realise", "understand", "动词辨析", "语境"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U2_012",
+      "name": "表达方位的介词搭配",
+      "definition": "掌握描述地点方位与相对位置的介词用法。",
+      "explanation": "你问路或指路时要精确描述方位。near 表附近，opposite 表对面，in front of 表正前方，next to 表紧挨。比如 The museum is opposite the station。你还要注意 in front of 表外部的正前方，in the front of 表内部靠前，方向不同。这些方位介词是地图题和写作指路的常客，必须记牢各自代表的相对位置。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "混淆 in front of 与 in the front of 的空间方位",
+        "把 opposite 与 next to 误用为相同含义",
+        "指路时漏用介词，写成 The bank is the station"
+      ],
+      "example": "[仿题]选词：银行在车站 ___（opposite / single）对面。\n解析：正对面用 opposite",
+      "keywords": ["opposite", "in front of", "方位介词", "指路", "location"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

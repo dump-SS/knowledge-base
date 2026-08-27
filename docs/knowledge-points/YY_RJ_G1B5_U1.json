@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第二册 Unit 1 Science and Scientists",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B5_U1_001",
+      "name": "宾语从句连接词的选用",
+      "definition": "根据从句内容和意义，选用 that、whether、if 或疑问词作引导词。",
+      "explanation": "你在写宾语从句时先判断引导词：陈述内容用 that，一般疑问句转成从句用 whether 或 if，特殊疑问句转成从句用原疑问词。比如 He told me that he liked it，She asked whether I could come。判断技巧是看原句是陈述、一般疑问还是特殊疑问，对应换引导词即可，这样选择题和完成句子都不容易出错。",
+      "difficulty": 2,
+      "frequency": 5,
+      "typical_errors": [
+        "表达疑问语义时误用 that，丢了疑问色彩",
+        "特殊疑问转从句时忘了保留原疑问词 what 等",
+        "whether 与 if 位置混用，从句充当主语还写 if"
+      ],
+      "example": "[仿题]I don't know ______ he will come today.\n解析：填 whether，表是否，引导宾语从句。",
+      "keywords": ["宾语从句", "连接词", "whether", "if", "that"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U1_002",
+      "name": "宾语从句的陈述语序",
+      "definition": "宾语从句内疑问词后主谓语仍按正常主语在前、谓语在后的顺序排列的规则。",
+      "explanation": "你最容易错的就是把宾语从句里还写成疑问语序。无论主句是陈述还是从句由疑问词引导，从句内部都按主语加谓语的陈述语序排列。如 I don't know where he lives，而不是 where does he live。做题时先找到从句里的疑问词，再看它后面是否直接跟主语谓语，若看到助动词提前就要改回。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "把从句写成 where does he live，助动词提前到主语前",
+        "be 动词 is 等误提前到主语前面造成语序错",
+        "由 did 引出的疑问转从句仍保留 did 表疑问"
+      ],
+      "example": "[仿题]Can you tell me what time the train ______ (leave)?\n解析：填 leaves，从句用陈述语序不加助动。",
+      "keywords": ["宾语从句", "陈述语序", "疑问词", "主语谓语", "语序"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U1_003",
+      "name": "宾语从句的时态呼应",
+      "definition": "主句用过去时时，从句时态相应改为过去范畴时态的一致规则。",
+      "explanation": "你做到时态呼应关键在于看主句时态。主句用一般过去时，从句一般要用过去的某种时态，如 he said he was busy、he asked where she had gone。若从句讲客观事实或自然规律则保持一般现在时，如 the teacher said the earth goes around the sun。做题先用主句时态定方向，再结合从句语义选时态。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "主句用过去时但从句仍用一般现在时",
+        "把客观真理类从句也改成了过去时",
+        "过去完成时转换时漏掉 had，只写过去式"
+      ],
+      "example": "[仿题]He told me he ______ (be) ill yesterday.\n解析：填 was，主句过去时从句用过去时。",
+      "keywords": ["时态呼应", "宾语从句", "过去时", "客观真理", "时态一致"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U1_004",
+      "name": "it作形式主语的句型",
+      "definition": "用 It 占据句首主语位置，把that引导的真正主语从句后置的结构。",
+      "explanation": "你看到 It is 加形容词加 that 从句时，It 只是形式主语，真正主语是后面的 that 从句。如 It is important that we should study. 改写时可把 that 从句提到句首：That we should study is important. 判断技巧是看 It 能否被 that 从句替代，能替代就说明 It 是形式主语，翻译时按真正主语的意思来。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把 It is...that... 误当成强调句型，删掉 It",
+        "that 从句后置时漏写形式主语 It，句子缺主语",
+        "把 It 和真正主语的位置写颠倒"
+      ],
+      "example": "[仿题]______ is necessary that we plan ahead.\n解析：填 It，作形式主语替 that 从句。",
+      "keywords": ["形式主语", "It", "主语从句", "that 引导", "后置主语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U1_005",
+      "name": "It 作形式主语接疑问词从句",
+      "definition": "用 It 作形式主语承接 whether、what 等从句作真正主语的句式。",
+      "explanation": "你不仅要会 that 从句，还得会 It is 后用 whether、what 等词引导的真正主语。如 It is still a question whether he will come，It is unknown what happened. 判断时看 It 后面的从句是否由疑问词引导，若有疑问义就保留疑问词而不用 that。谓语 be 动词用单数，因为整个从句当整体看待。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "表疑问义却误用 that 引导，丢了询问意味",
+        "It 作形式主语时谓语误用复数形式",
+        "把 whether 从句的真正主语身份给认错"
+      ],
+      "example": "[仿题]It is unclear ______ the experiment will succeed.\n解析：填 whether，表是否作真正主语。",
+      "keywords": ["形式主语", "whether从句", "疑问词从句", "真正主语", "It句型"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U1_006",
+      "name": "that 在宾语从句中的省略",
+      "definition": "that 引导宾语从句时一般可省，但并列从句或紧贴谓语动词时不可省的规则。",
+      "explanation": "你记住 that 引导宾语从句时大多可省略，如 I think he is right。但并列两个 that 从句时，第二个 that 不可省略，否则结构不清；that 从句紧跟在谓语动词后时也不宜省略，以避免歧义。判断时先数有几个从句，若一个动词带两个则保留必要 that，改错题和语法填空常考这个点。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "并列两个 that 从句时把第二个 that 也省略掉",
+        "that 紧靠动词时不加判断，导致句子断句错误",
+        "把 that 从句的引导词在主语从句里随意省略"
+      ],
+      "example": "[仿题]He said he would come and ______ he was ready.\n解析：填 that，并列从句第二个 that 不可省。",
+      "keywords": ["that省略", "宾语从句", "并列从句", "引导词", "改错"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U1_007",
+      "name": "科学实验核心动词词汇",
+      "definition": "描述科学实验操作的核心动词，如 observe、measure。",
+      "explanation": "你读科学实验类阅读时会遇到一批高频动词：observe 观察、measure 测量、analyze 分析、conduct 进行、record 记录、compare 比较。这类词常带固定搭配，如 conduct an experiment 做实验、record the data 记录数据。记词时把动词与宾语搭配一起记，理解实验文章和写实验记录都用得上。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "conduct 与 perform 搭配对象搞混，实验类名词选错",
+        "拼写漏写字母，把 observe 写成 obseve",
+        "measure 与 analyze 场景混用，测量分析对象乱用"
+      ],
+      "example": "[仿题]Scientists ______ (conduct) an experiment on the mice.\n解析：填 conducted，实施实验，过去动作。",
+      "keywords": ["科学实验", "observe", "measure", "分析", "conduct", "record"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U1_008",
+      "name": "科研方法抽象名词",
+      "definition": "描述科研方法与过程的抽象名词，如 hypothesis、evidence。",
+      "explanation": "你认识这批抽象名词才能读懂实验结论：hypothesis 假设、evidence 证据、conclusion 结论、procedure 步骤、sample 样本、theory 理论。看到 put forward a hypothesis 提出假设、draw a conclusion 得出结论，就明白科研流程。记词时留意它们常与 make、draw 等动词搭配，写作论证里也常用。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "hypothesis 与 theory 混用，假设和理论关系颠倒",
+        "draw a conclusion 搭配误写成 take a conclusion",
+        "sample 与 example 语义混淆，样本和例子乱用"
+      ],
+      "example": "[仿题]The data failed to support the ______ (hypothesis).\n解析：填 hypothesis，假设，数据不支持假设。",
+      "keywords": ["科研名词", "hypothesis", "evidence", "结论", "样本", "理论"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U1_009",
+      "name": "描述实验过程的句型",
+      "definition": "用 first、then、finally 等顺序词衔接步骤来描述实验过程的句式。",
+      "explanation": "你写实验过程时先用顺序词把步骤串起来：First 我们先怎样，Then 接下来怎样，After that 再之后，Finally 最后怎样。描述动作常用一般过去时被动，如 The solution was heated。写作时先列步骤大纲，再用顺序词过渡，最后补结果 The result showed that...。这样实验类写作逻辑清楚，评分点更稳。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "缺少顺序词，步骤之间没有任何衔接过渡",
+        "实验动作该用被动语态却写成主动式",
+        "First、Then、Finally 顺序错乱，过程难以读懂"
+      ],
+      "example": "[仿题]First, the mixture was ______ (heat) to 100℃.\n解析：填 heated，was 后接过去分词表被动。",
+      "keywords": ["实验过程", "被动语态", "顺序词", "步骤衔接", "First", "Finally"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U1_010",
+      "name": "实验数据描述表达",
+      "definition": "用倍数、百分比和比较结构描述实验结果数据的表达方式。",
+      "explanation": "你描述实验结果时常用比例和比较表达，如 make up 占、account for 占比例、increase by 上升了、decrease 下降。写时要分清 increase by 上升多少与 increase to 上升到多少。做题先圈出数据词，再判断介词用 by 还是 to，表达才准确不丢分。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "increase by 与 increase to 混用，数值表达错位",
+        "make up 与 account for 用法混淆，语义表达失误",
+        "倍数比较结构位置放错，写法不符合习惯"
+      ],
+      "example": "[仿题]The number increased ______ (by/to) 20 last year.\n解析：填 by，表上升了20，by 指净增幅。",
+      "keywords": ["数据描述", "百分比", "increase by", "make up", "倍数比较"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U1_011",
+      "name": "科学发现相关词汇",
+      "definition": "与科学家、发明相关的词汇，如 discover、invent。",
+      "explanation": "你区分 discover 与 invent 是关键：discover 发现已存在的东西，invent 发明原本没有的东西。还有 confirm 证实、announce 宣布结果。阅读中常见 make a discovery 作出发现。记词把动词与名词搭配绑定，如 discover a cure、invent a device，避免两词混用。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "discover 与 invent 混用，发现与发明的对象搞混",
+        "confirm 与 prove 宾语搭配不当，动词选错",
+        "名词 discovery 拼写漏字母或形式拼错"
+      ],
+      "example": "[仿题]Watt invented the ______ (steam engine).\n解析：填 steam engine，发明物用 invent 搭配。",
+      "keywords": ["科学发现", "discover", "invent", "证实", "结论"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B5_U1_012",
+      "name": "whether 和 if 选用",
+      "definition": "whether 可用于主语从句等位置，而 if 只用于宾语从句的规则。",
+      "explanation": "你记住 whether 比 if 更万能：whether 可用于主语从句、介词后、不定式前和 whether...or not 结构，而 if 一般只用于动词后的宾语从句。如 Whether he comes doesn't matter，不能说 If he comes...doesn't matter。做题先看从句位置，若作主语、在介词后或表选择，一律用 whether 排除 if。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "主语从句误用 if 引导，写成 If he comes doesn't matter",
+        "介词后误用 if，介词宾语从句却写 if",
+        "把 whether...or not 结构写成 if...or not"
+      ],
+      "example": "[仿题]______ she will come doesn't matter to us.\n解析：填 Whether，主语从句只能用 whether。",
+      "keywords": ["连接词", "whether", "if", "主语从句", "选择"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}

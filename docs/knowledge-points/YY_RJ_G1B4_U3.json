@@ -1,0 +1,239 @@
+{
+  "module_path": "英语（人教版2019） 选择性必修 第一册 Unit 3 Fascinating Parks",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B4_U3_001",
+      "name": "-ing 作表语表物性质",
+      "definition": "用动词-ing 跟在系动词后作表语，表示事物本身令人产生的性质。",
+      "explanation": "你判断 -ing 作表语时看主语是事物，表事物使人产生的特性，如 The park is fascinating。它侧重事物本质给人的感受。与 -ed 相对。做题先看主语是物还是人，主语是物主动引起情绪就用 -ing。写作描述景点时用它比普通形容词更生动。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "主语是物仍误用 -ed 作表语",
+        "把 -ing 表语误判成进行时",
+        "系动词后形式选择依据缺失",
+        "fascinating 与 fascinated 对象反用"
+      ],
+      "example": "[仿题]The view from the top is truly ______ (amaze).\n解析：填 amazing，事物令人惊叹，表性质用 -ing。",
+      "keywords": ["现在分词", "作表语", "事物性质", "系动词", "非谓语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U3_002",
+      "name": "-ed 作表语表人感受",
+      "definition": "用动词-ed 跟在系动词后作表语，表示人受到的感受与状态。",
+      "explanation": "你判断 -ed 作表语时主语常是人，表示人受到的感受，如 The tourists were excited。它侧重人的心理状态。与 -ing 相对。做题先看主语是物还是人，人受到某情绪的感染就用 -ed。写作描述人物感受时常使用。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "主语是人却误用 -ing 作表语",
+        "把 -ed 表语误判成被动语态",
+        "描述感受时形式选择依据缺失",
+        "excited 与 exciting 修饰对象互换"
+      ],
+      "example": "[仿题]The visitors were ______ (excite) about the wildlife.\n解析：填 excited，人的感受表状态用 -ed。",
+      "keywords": ["过去分词", "作表语", "人的感受", "系动词", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B4_U3_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U3_003",
+      "name": "-ing/-ed 表语的辨异",
+      "definition": "根据主语是人或物、产生与经受关系判断用 -ing 或 -ed 作表语。",
+      "explanation": "你作辨异先分清主语角色：物作主语、使人产生某种情绪用 -ing；人作主语、受到某种情绪用 -ed。如 The park is interesting 物有趣，I am interested 人感兴趣。判断核心在于主语能否发出该动作让人产生情绪。这是作表语的核心考点，平时多造句巩固。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "不判主语是物还是人直接选形式",
+        "把物作主语误用 -ed",
+        "把产生与经受关系反推",
+        "忽视主语与感受的因果方向"
+      ],
+      "example": "[仿题]We are all ______ (interest) in the park's history.\n解析：填 interested，人感兴趣，用 -ed。",
+      "keywords": ["作表语", "-ing", "-ed", "主语角色", "辨异"],
+      "prerequisites": ["YY_RJ_G1_B4_U3_002"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U3_004",
+      "name": "公园生态的核心词汇",
+      "definition": "与公园、自然、生态与野生动物相关的核心词汇及搭配。",
+      "explanation": "你认识自然公园词是读懂生态文章的前提：wildlife 野生动物、ecosystem 生态系统、habitat 栖息地、scenery 风景、conservation 保护、hike 徒步。记词带搭配，如 preserve the habitat、enjoy the scenery。做公园类阅读先锁定生态词所在句把握内容。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "wildlife 的词性与可数记错",
+        "ecosystem 与 system 派生关系混淆",
+        "conservation 与 conservationist 词类混用",
+        "scenery 与 scene 含义区别不清"
+      ],
+      "example": "[仿题]The park is home to a rich variety of ______ (wildlife).\n解析：填 wildlife，野生动物，不可数用单数。",
+      "keywords": ["生态词汇", "wildlife", "ecosystem", "habitat", "conservation"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U3_005",
+      "name": "描述自然景观的句式",
+      "definition": "用 surround、stretch 等表达山水景色。",
+      "explanation": "你描述山水用这些词：be covered with 被覆盖着、stretch 绵延、surround 环绕、lie 位于、flow 流淌。例如 The valley is covered with alpine flowers。写作写景先定位置再用动词讲展开状态，后补充色彩与感受。用对句式让画面立体生动。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "be covered with 的 with 误用成 in",
+        "stretch 与 stretch 的主动形式用错",
+        "surround 的被动结构漏 be",
+        "flow 的时态与主语搭配混乱"
+      ],
+      "example": "[仿题]The lake is ______ (surround) by green hills.\n解析：填 surrounded，被动被山环绕。",
+      "keywords": ["景观描述", "be covered", "surround", "stretch", "写景"],
+      "prerequisites": ["YY_RJ_G1_B4_U3_004"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U3_006",
+      "name": "感官词与作表语连用",
+      "definition": "在感官动词后用 -ing/-ed 形式作表语。",
+      "explanation": "你留意感官动词 look、sound、smell、feel、taste 后的表语用形容词形式，多以 -ing/-ed 出现。如 The forest looks astonishing，物令人惊叹；I feel tired，人疲惫。判断主语角色后选形式，感官动词后不加 be，直接接表语。写作描写感官体验能加分。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "look 后误用副词而非 -ing/-ed 表语",
+        "感官动词后加 be 成多余结构",
+        "主语角色与形式选用不匹配",
+        "feel 后名词副词混用"
+      ],
+      "example": "[仿题]The waterfall sounds ______ (relax).\n解析：填 relaxing，物使人放松，感官动词后作表语。",
+      "keywords": ["感官动词", "系动词", "look", "feel", "作表语"],
+      "prerequisites": ["YY_RJ_G1_B4_U3_003"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U3_007",
+      "name": "动名词作主语的用法",
+      "definition": "动词-ing 置于句首作主语表示动作或活动，谓语用单数。",
+      "explanation": "你把活动表达成主语时用动名词：Hiking in the park is relaxing，Visiting the park 作主语。谓语动词用单数。判断先找出要作主语的动作词，改成 -ing 形式提句首。此结构与 -ed 无涉，只表主动过程。做题先把动词变 -ing 作主语，再定谓语单数。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "作主语的动名词漏 -ing 用原形",
+        "动名词主语后谓语误用复数",
+        "与现在分词作主语的辨析不清",
+        "主语位置动词与 be 连用混淆"
+      ],
+      "example": "[仿题]______ (explore) the caves takes courage.\n解析：填 Exploring，动名词作主语谓语用单数 takes。",
+      "keywords": ["动名词主语", "V-ing", "谓语单数", "活动", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B4_U3_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U3_008",
+      "name": "保护生态的动词搭配",
+      "definition": "用 protect...from 等表达生态环境保护。",
+      "explanation": "你表达保护生态用这些：preserve 保护、protect...from 保护…免受、regulate 调节、ban 禁止、sustainable 可持续的。例如 We should protect the park from damage。判断主被动与时态再变形。写作环保话题时用保护类动词搭配具体对象，逻辑更明确。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "protect...from 的 from 漏写",
+        "preserve 与 conserve 语义界限混乱",
+        "ban 的过去式与名词形式混淆",
+        "protect 的被动态漏 be"
+      ],
+      "example": "[仿题]We must protect the park ______ pollution.\n解析：填 from，protect...from 保护免受污染。",
+      "keywords": ["保护生态", "protect from", "preserve", "regulate", "环保搭配"],
+      "prerequisites": ["YY_RJ_G1_B4_U3_004"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U3_009",
+      "name": "表达公园体验的句型",
+      "definition": "用 take a walk 等表达游玩体验。",
+      "explanation": "你谈公园体验用这些：get a view of 看到…景、experience 体验、take a walk 散步、relax in nature 在自然中放松。例如 You can enjoy a bird's-eye view of the park。写作游玩段落先用体验动词引入，再用 view/experience 补充细节，最后写感受。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "take a walk 的不定冠词漏写",
+        "view 与 scenery 的搭配介词记错",
+        "experience 的名词动词词性混用",
+        "enjoy 后接动词 -ing 写错"
+      ],
+      "example": "[仿题]You can take a ______ (walk) along the river.\n解析：填 walk，take a walk 散步固定搭配。",
+      "keywords": ["公园体验", "take a walk", "view", "experience", "游玩"],
+      "prerequisites": ["YY_RJ_G1_B4_U3_004"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U3_010",
+      "name": "公园广告的祈使与建议句",
+      "definition": "用祈使句语气表达公园观光建议。",
+      "explanation": "你写观光建议常用祈使句与使役结构：Come and explore the park、Don't miss the sunrise、Make sure you bring water。祈使句省略主语 you，否定用 Don't。判断内容适用建议还是要求。写宣传语用祈使句号召力强，再加具体景点信息吸引注意。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "祈使句误加主语 you",
+        "否定祈使误用 Not 放错位置",
+        "Make sure 后接 that 与动词混乱",
+        "祈使与陈述语气混写"
+      ],
+      "example": "[仿题]______ (come) and see the ancient forest.\n解析：填 Come，祈使句开头用动词原形。",
+      "keywords": ["祈使句", "观光建议", "Come", "Don't", "宣传"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U3_011",
+      "name": "时空顺序的词组表达",
+      "definition": "用 beyond 等表达公园空间方位。",
+      "explanation": "你描述公园空间用方位词：in the distance 在远处、at the far end 在尽头、beyond 在…之外、surrounded by 被环绕、winding 蜿蜒。例如 The summit lies beyond the forest。写作时用方位词把景点顺序定位，读者能按图索骥。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "in the distance 与 far away 混淆",
+        "beyond 与 behind 的空间意义混用",
+        "at the far end 的介词 at 写成 in",
+        "方位词搭配缺失致定位不清"
+      ],
+      "example": "[仿题]The waterfall is just beyond the ______ (wood).\n解析：填 woods，森林，beyond the woods 在林外。",
+      "keywords": ["方位词", "in the distance", "beyond", "空间描述", "景点"],
+      "prerequisites": ["YY_RJ_G1_B4_U3_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U3_012",
+      "name": "公园游记的叙事语序",
+      "definition": "按到达、游览、感悟的顺序组织公园游记的可读性结构。",
+      "explanation": "你写公园游记先交代到达时间地点，再写沿途所见，最后谈感悟。用 first、as we walked、suddenly、in the end 连接。例如 After entering the gate, we followed the trail。写作先列时间线再用衔接词推进，记叙与描写结合让游记内容丰富。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "游记时间顺序颠倒",
+        "只写所见缺情感感悟",
+        "衔接词不足使叙事断裂",
+        "记叙细节堆砌缺主线"
+      ],
+      "example": "[仿题]写海岸公园一日游记。\n解析：按到达、踩沙滩、观日落、感悟的顺序展开。",
+      "keywords": ["游记写作", "叙事语序", "衔接词", "公园", "情感"],
+      "prerequisites": ["YY_RJ_G1_B4_U3_009"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B4_U3_013",
+      "name": "-ing/-ed 的综合运用",
+      "definition": "在描述公园时综合运用 -ing 表主动进行、-ed 表被动状态作定语或表语。",
+      "explanation": "你综合运用非谓语时先判句法成分与主被动：定语或表语位看主语/名词是发出还是承受动作。例如 an amazing view，we were amazed；rolling hills、dense forest 用 -ing。做填空先找主被动关系再选 -ing 或 -ed。写作用对形式句子更精确。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "作定语时主动被动选错形式",
+        "表语与定语的成分判断失误",
+        "忽略非谓语与被修饰词的关系",
+        "综合句中多角色混淆"
+      ],
+      "example": "[仿题]The hiking trail offers a ______ (breathe) view.\n解析：填 breathtaking，画面惊叹，主动用 -ing。",
+      "keywords": ["非谓语综合", "-ing", "-ed", "定语", "表语"],
+      "prerequisites": ["YY_RJ_G1_B4_U3_003"],
+      "source_version": "人教版2019"
+    }
+  ]
+}

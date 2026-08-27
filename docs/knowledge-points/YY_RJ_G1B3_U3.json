@@ -1,0 +1,220 @@
+{
+  "module_path": "英语（人教版2019） 必修 第三册 Unit 3 Diverse Cultures",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B3_U3_001",
+      "name": "主谓一致的省略现象",
+      "definition": "在并列或重复时省略与上文相同的主语或谓语，避免赘余的表达。",
+      "explanation": "你理解省略要先看上下文是否重复。如 I can speak English and (I can) sing 中第二句的主谓可省。省略后需保证句子仍完整可懂。判断能否省略，看被省部分是否与前面的完全一致，一致才可省。Writing 时适当省略能让句子更紧凑，但不能省略到语义不明。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "该省的主谓保留导致重复冗长",
+        "省略后句子残缺语义不清仍保留",
+        "并列结构省略时不保持结构对称"
+      ],
+      "example": "[仿题]He likes tea and (______) coffee.\n解析：填 likes，承接前句省略 likes 保留新宾语 coffee。",
+      "keywords": ["省略", "主谓一致", "并列", "避免重复", "表达"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U3_002",
+      "name": "不定式省略 to 后的动词",
+      "definition": "在 help、let、make 等动词后不定式省略 to 及重复动词的现象。",
+      "explanation": "你注意两种情况：sensory 动词和 make/let 后接宾语加不带 to 的不定式，如 make me laugh；在 I'd like to 这类结构中重复的不定式可省。判断 whether 该省 see 后宾语用动词原形。做题时看到感官动词或使役动词后要接动词原形，区别于普通不定式加 to。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "make 后误加 to，写成 make me to laugh",
+        "let 后接动词时保留 to",
+        "省略重复不定式时却把 to 也删掉致结构缺",
+        "help 后 to 的有无可选时判断不清"
+      ],
+      "example": "[仿题]The movie made us ______ (laugh) a lot.\n解析：填 laugh，make 后接不带 to 的不定式。",
+      "keywords": ["省略", "不定式", "make 后原形", "感官动词", "非谓语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U3_003",
+      "name": "状语从句中的省略",
+      "definition": "在 when、if 等引导的状语从句中省略相同主语和 be 的规则。",
+      "explanation": "你在 when、while、if、unless 等从句里，若从句主语与主句主语一致且含 be，可省略主语和 be。如 When(I am) free, I'll visit you。判断主语是否一致，一致才省略。写作时用省略能精简句子，但第一个被省略的是从句主语加 be，别省错成分。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "从句主语与主句不一致仍强行省略",
+        "省略时只去掉 be 漏掉主语",
+        "when 引导从句省略后误写成完整谓语",
+        "if 从句中省略后谓语形式写错"
+      ],
+      "example": "[仿题]While ______ (walk) in the park, I met an old friend.\n解析：填 walking，省略从句主语 I was，保留 -ing。",
+      "keywords": ["状语从句", "省略", "when", "while", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B3_U3_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U3_004",
+      "name": "对话应答的省略习惯",
+      "definition": "在口语应答中省略主语、谓语等后在特定语境仍能达意的表达。",
+      "explanation": "你在对话里常听到省略回答：-Are you ready？-Not yet. 答句省略了 I'm。又如 -Where to？-To the museum. 判断省略时凭语境补全。口语省略使交流简洁。你应用时先补全完整意思，再看省略了哪部分，能补全的才是有效省略，避免只剩孤零零一个词造成误读。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "应答过省略答义被误解",
+        "补全省略时不明确主语是谁",
+        "在书面正式语句中滥用口语省略",
+        "答句省略后缺关键信息导致歧义"
+      ],
+      "example": "[仿题]-Where did you go？-______ the library.\n解析：填 To，省略 I went，To the library。",
+      "keywords": ["口语省略", "对话应答", "语境", "简洁表达", "补全"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U3_005",
+      "name": "文化多样性的核心词汇",
+      "definition": "与文化、多样性、民族、融合相关话题的核心词汇及搭配。",
+      "explanation": "你认识并会用多样性话题词是读懂跨文化文章的前提：culture 文化、diversity 多样性、ethnic 民族的、minority 少数民族、immigrant 移民、tradition 传统、integration 融合。记词带搭配，如 cultural diversity、ethnic minority、cultural heritage。写作谈文化时先引话题词再展开实例。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "minority 单复数使用错误",
+        "diverse 与 diversity 词性混用",
+        "heritage 与 inheritance 含义混淆",
+        "cultural 的拼写丢字母"
+      ],
+      "example": "[仿题]China is home to 56 ______ (minority) groups.\n解析：填 minority，作定语修饰 groups 保持单数。",
+      "keywords": ["文化词汇", "多样性", "diversity", "ethnic", "heritage"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U3_006",
+      "name": "形容词后缀构词法",
+      "definition": "在名词后加 -al、-ous 等后缀构成形容词的规律。",
+      "explanation": "你记文化名词变形容词可利用后缀：culture→cultural、tradition→traditional、nature→natural、fame→famous。判断一个词的形容词形式先看后缀。做题时把名词识别出来，按规则加 -al 或 -ous 等变成形容词，用在 be 动词后或名词前来修饰。注意 spelling 的特殊变化。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "culture 变形容词多写个字母",
+        "tradition 与 traditional 词性混用",
+        "fame 与 famous 误用名词形容词",
+        "后缀选择在 -al 与 -ous 间混淆"
+      ],
+      "example": "[仿题]The ______ (culture) festival attracted many visitors.\n解析：填 cultural，名词变形容词修饰 festival。",
+      "keywords": ["形容词后缀", "构词法", "cultural", "traditional", "词性"],
+      "prerequisites": ["YY_RJ_G1_B3_U3_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U3_007",
+      "name": "比较结构的省略形式",
+      "definition": "在 than、as...as 比较结构中省略与前句相同成分的做法。",
+      "explanation": "你在比较级中可省略后句与前句相同部分：He runs faster than I (run)。助动词可留：(do)。判断省略时先把比较双方补全，相同谓语可省，保留助动词或仅留主语。写作时合理省略避免重复，但不省略宾语等关键成分，语义才完整。用 than 后的结构要前后对称。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "than 后直接写动词原形缺主语结构",
+        "比较双方不对称导致语义混乱",
+        "as...as 后省略过度失去可比线索",
+        "省略后助动词形式与主句不一致"
+      ],
+      "example": "[仿题]She swims faster than ______ (I).\n解析：填 I，省略了相同的谓语 do/swim。",
+      "keywords": ["比较结构", "省略", "than", "as...as", "对称"],
+      "prerequisites": ["YY_RJ_G1_B3_U3_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U3_008",
+      "name": "文化融合的表达句式",
+      "definition": "用 combine、mix 等表达文化交融的句式。",
+      "explanation": "你表达文化交织用这些结构：be a mix of 由…混合、combine with 与…结合、be influenced by 受…影响、blend 融合。例如 The city is a mix of tradition and modernity。写作谈文化时先讲成分，再用 combine、blend 说明融合过程，最后用 result in 讲影响，逻辑递进清晰。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "a mix of 的介词 of 漏掉",
+        "combine with 的 with 误用成 and 位置错",
+        "be influenced by 的介词 by 写错",
+        "blend 的过去时与分词形式记错"
+      ],
+      "example": "[仿题]The festival is a ______ (mix) of Eastern and Western cultures.\n解析：填 mix，a mix of 为…的混合。",
+      "keywords": ["文化融合", "a mix of", "combine with", "influence", "表达句式"],
+      "prerequisites": ["YY_RJ_G1_B3_U3_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U3_009",
+      "name": "分词短语的连词省略",
+      "definition": "在 when、while 等连词后接分词短语时省略主语与连词部分的现象。",
+      "explanation": "你写出分词短语时，主句与分句主语一致可省略连词加主语，直接留分词。如 (When I was) Walking along the street, I saw a parade。判断逻辑主语是否一致，一致才省略。写作时用分词作状语替代 when 从句更简洁，但要保证两处主语是同一对象。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "分词逻辑主语与主句主语不一致仍省略",
+        "分词与谓语双动词连写缺连接",
+        "省略 when 后误留单独 be 动词",
+        "主动被分词形式选择错误"
+      ],
+      "example": "[仿题]______ (cross) the street, be careful of the traffic.\n解析：填 Crossing，逻辑主语为 you，作状语表主动。",
+      "keywords": ["分词短语", "省略", "when", "while", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B3_U3_003"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U3_010",
+      "name": "文化地点描述的引导词",
+      "definition": "用 located、famous for、known as 等介绍地方的句式。",
+      "explanation": "你介绍某地文化用固定结构：be located in 位于、be famous for 因…出名、be known as 作为…著称、date back 追溯到。例如 The city is famous for its festivals。写作介绍地方时先讲位置，再用 famous for、known as 讲特色，最后用 date back 讲历史，信息完整有层次。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "be located in 误用 on 或 at",
+        "famous for 与 famous as 搭配混淆",
+        "date back 后接 to 表某时间被漏写",
+        "介绍地方时缺位置或特色要点"
+      ],
+      "example": "[仿题]The castle dates ______ the 16th century.\n解析：填 back to，date back to 追溯到。",
+      "keywords": ["地点描述", "be famous for", "located in", "date back", "写作"],
+      "prerequisites": ["YY_RJ_G1_B3_U3_005"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U3_011",
+      "name": "省略与不省略的判断技巧",
+      "definition": "根据语义完整度判断句中成分能否省略的常用方法。",
+      "explanation": "你判断能否省略先看补全后是否仍一目了然：补全出一句完整不赘余的句子则保留或视情况省重复部分；若省略会改变或模糊意思则不能省。比较两版本：省掉显然重复的结构可行，省掉关键信息不可。做题时先在脑中补全，再决定何处保留，哪部分多余可去。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "能省的关键连接词省略造成歧义",
+        "省略后成分残缺仍认为正确",
+        "把必要介词也一并省略",
+        "分不清省略与语法残缺的界限"
+      ],
+      "example": "[仿题]I'd like ______ (go), if you don't mind.\n解析：填 to，省略了 go，保留 to 表不定式。",
+      "keywords": ["省略判断", "语义完整", "补全", "成分保留", "技巧"],
+      "prerequisites": ["YY_RJ_G1_B3_U3_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B3_U3_012",
+      "name": "多样文化议论文的结构",
+      "definition": "用总起、分述、总结的结构撰写文化多样性观点的段落。",
+      "explanation": "你写 culture 议论文先总起点出多样性意义，再分述不同方面如饮食、节日、艺术，最后总结其价值。用首先、此外、最后等衔接词连接观点。写作前先拟提纲，每段一个要点，段落用主题句开头。论述中用 diversity、integration 等词呼应主题，使行文紧凑。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "开篇不点明观点直接罗列例子",
+        "分述段缺少主题句点题",
+        "结尾不归纳只重复开头",
+        "段落间缺衔接词显得跳跃"
+      ],
+      "example": "[仿题]就 cultural diversity 写一段观点段。\n解析：总起意义，分述饮食节日，总结融合价值。",
+      "keywords": ["议论文", "文化多样性", "段落结构", "主题句", "写作"],
+      "prerequisites": ["YY_RJ_G1_B3_U3_008"],
+      "source_version": "人教版2019"
+    }
+  ]
+}

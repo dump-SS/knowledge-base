@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 必修 第一册 Unit 3 Sports and Fitness",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B1_U3_001",
+      "name": "can 表能力与许可",
+      "definition": "用 can 表示现在具有的能力、本领以及取得许可的综合用法。",
+      "explanation": "你可以用 can 说自己现在会做什么，比如 I can swim 表示有能力；也能用 can 征求或给予许可，比如 Can I use your ball? 要记住 can 后接动词原形，不能加 to 或 ing，这和前面的否定形式 can't 一样。你最好把表能力和表许可两层含义分开记，见到不同语境就立刻知道它到底在表达哪种意思。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "can 后面误加 to，写成 I can to swim",
+        "把 can 表能力与表许可的语境混淆",
+        "第三人称主语误写 he cans，不会正确变形"
+      ],
+      "example": "[仿题]填空：She ___ (can) play basketball very well。\n解析：can 后接原形，填 can",
+      "keywords": ["can", "能力", "许可", "动词原形", "情态动词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U3_002",
+      "name": "could 表过去能力",
+      "definition": "用 could 表示过去拥有的能力或技巧，是 can 的过去式。",
+      "explanation": "当你想说过去会做某事时，用 could 就行了，它是 can 的过去式。比如 I could run very fast when I was young，表示年轻时有这个本事。你要注意，could 一般指过去长期具备的能力，如果是强调某一次具体成功做到，则往往换用 managed to 或 was able to。分清这一点，你在完形填空里才选得准。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "过去某次成功做到仍写成 could 而不用 was able to",
+        "把 could 生硬当过去时在所有过去句中使用",
+        "疑问句回答时误说 Yes, I could"
+      ],
+      "example": "[仿题]选词：我小时候能游一千米（could / can）。\n解析：过去能力用 could",
+      "keywords": ["could", "过去能力", "was able to", "manage to", "情态动词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U3_003",
+      "name": "should 表建议",
+      "definition": "用 should 向对方提出建议，表达应该做或不应该做的事。",
+      "explanation": "给健康或运动方面的建议时，should 是最顺手的词，意义是应该。比如 You should exercise every day 或 You shouldn't stay up late。它的语气比较委婉，不强迫对方。你要记住 should 后接动词原形，而且否定要在 should 后加 not 用 shouldn't。用第三人称主语句时 should 也不变形，不会出现 he shoulds。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "should 后误加 to，写成 you should to rest",
+        "第三人称误写 he shoulds，忘了情态动词不变形",
+        "否定时误写 should not to，多加了一个 to"
+      ],
+      "example": "[仿题]填空：You ___ (should) drink more water every day。\n解析：should 后接原形，填 should",
+      "keywords": ["should", "建议", "应该", "情态动词", "ought to"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U3_004",
+      "name": "must 表必须与推测",
+      "definition": "用 must 表示必须做某事，或对客观事实作出有把握的肯定推测。",
+      "explanation": "must 意思有两种要分清：一是必须，比如 You must warm up before exercise；二是很有把握的推测，比如 He must be a good player。推测时语气比 may 强，比 might 情态意义更肯定。否定必须用 mustn't 表禁止，表推测的否定则用 can't。你要先根据句子有无否定词来判断它在表必须还是表推测。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把 must 表推测的否定误写成 mustn't 而不是 can't",
+        "must 后误接 to do，写成 must to warm up",
+        "分不清 must 表必须与表推测两种语境"
+      ],
+      "example": "[仿题]填空：He ___ (be) a strong runner，因为他经常获奖。\n解析：有把握推测用 must be",
+      "keywords": ["must", "表必须", "表推测", "mustn't", "can't"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U3_005",
+      "name": "ought to 表应当",
+      "definition": "用 ought to 表示理应做某事，语气接近 should 但更强调道义责任。",
+      "explanation": "ought to 和 should 都表示应该，但 ought to 语气更正式，强调出于责任应当如此，比如 You ought to take more exercise。你要会用它更正式的否定式 ought not to 以及疑问句 Ought you to...? 尤其要留意，ought 后必须带 to 再接动词，不能学 should 直接加原形，这是最容易写错的地方。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "把 ought to 误写成 ought，丢掉后面的 to",
+        "否定式写成 ought to not 而不是 ought not to",
+        "与 should 混用时忘记它更偏正式道义语气"
+      ],
+      "example": "[仿题]填空：You ___ (ought) to keep fit。\n解析：ought 后接 to do，填 ought",
+      "keywords": ["ought to", "应当", "情态动词", "should", "道义责任"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U3_006",
+      "name": "运动健身词汇",
+      "definition": "掌握慢跑、健身、瑜伽等运动健身活动的常见表达。",
+      "explanation": "谈论健身你会常用 work out 表示锻炼，do yoga 表示做瑜伽，go jogging 表示慢跑，在 gym 就是在健身房里练。比如 I work out at the gym three times a week。你要记住 go 后接动名词的固定搭配，比如 go jogging，不能说 go jog。把每种运动的动词形式和活动名词搭配记牢，写我的健康生活时就顺畅了。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 go jogging 误写成 go jog",
+        "把 work out 误当作名词而直接做 do work out",
+        "混淆 do yoga 与 go yoga 的固定搭配"
+      ],
+      "example": "[仿题]选词：我每天 ___（work out / work out the）一小时。\n解析：锻炼用 work out",
+      "keywords": ["work out", "go jogging", "do yoga", "gym", "健身"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U3_007",
+      "name": "健康生活方式词汇",
+      "definition": "掌握描述健康状况与生活态度的常用形容词。",
+      "explanation": "表达健康主题时，你要会准确用词：healthy 表健康的，fit 表体形健康灵活的，energetic 表精力充沛的，positive 表积极向上的。例如 Staying active keeps me fit and energetic。你最好把这些形容词和它们描述的状态搭配记忆，用词时先想清楚是要强调身体健康、体形还是精神状态，再选择合适的词，表达才准确。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 fit 误当成体重轻，忽略它强调体形健康",
+        "energetic 与 energetic 拼写混淆漏字母",
+        "healthy 与 health 词性混用，形容词当名词写"
+      ],
+      "example": "[仿题]填空：饭后散步让我感到 ___（fit / health）。\n解析：表身体健康形容词用 fit",
+      "keywords": ["healthy", "fit", "energetic", "positive", "健康"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U3_008",
+      "name": "提建议常用句型",
+      "definition": "掌握多种向他人提出建议的常见句型。",
+      "explanation": "除了 should，你还有更多建议句型：How about doing 表建议，Why not do 表为什么不，You'd better do 表最好。比如 Why not go jogging? 注意 How about 后接动名词，Why not 与 You'd better 后接动词原形，别把接续关系写错。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "How about 后误接动词原形而写成 How about go",
+        "Why not 后误加 to，写成 Why not to go",
+        "You'd better 后误接 doing 而不是动词原形"
+      ],
+      "example": "[仿题]改写：Why not ___ (try) swimming?。\n解析：Why not 后接原形 try",
+      "keywords": ["How about", "Why not", "You'd better", "建议句型", "情态建议"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U3_009",
+      "name": "树立榜样短语用法",
+      "definition": "掌握 set an example for 表示给某人树立榜样的固定搭配用法。",
+      "explanation": "体育精神里常讲树立榜样，对应短语是 set an example for，比如 The coach set an example for the whole team，教练给全队树立了榜样。你要注意 example 前用不定冠词 an，介词一般接 for 表示对象。你还可以说 set a good example to others，表示给他人做好榜样，两种搭配都要认得，考到才不会慌。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "把 set an example 误写成 set a example",
+        "接对象时介词误用 of 而不用 for",
+        "把 example 当作可数复数却忘加冠词 an"
+      ],
+      "example": "[仿题]填空：He ___ (set) a good example for us。\n解析：set 是及物短语，动词用 set",
+      "keywords": ["set an example", "set for", "树立榜样", "example", "短语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U3_010",
+      "name": "rather than 用法",
+      "definition": "掌握 rather than 表示而不是、用于取舍并列的常用用法。",
+      "explanation": "表达取舍时，rather than 意思是而不是。它可以连接平行结构，比如 I play badminton rather than swim，也可以在句中作插入语：Rather than give up，he kept training，表示宁愿坚持也不放弃。你要注意 rather than 前后连接的词形要对称，动词形式需一致，别一边用原形一边用 ing，这是最常犯的对称性错误。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "rather than 前后词形不对称，一边原形一边 ing",
+        "把它误当成 rather than of 的完整搭配",
+        "句首罗列时忘记后面接动名词或原形统一"
+      ],
+      "example": "[仿题]填空：I chose cycling ___ (rather than) swimming。\n解析：rather than 表而不是，接 swimming",
+      "keywords": ["rather than", "而不是", "取舍", "平行结构", "对称"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U3_011",
+      "name": "压力放松调节词汇",
+      "definition": "掌握谈论压力与放松状态的常见词汇用法。",
+      "explanation": "讲健康你会谈到压力与放松：stress 是压力，relax 动词放松，relieve stress 表示缓解压力。比如 Exercise can help you relieve stress。你要注意 relieve 后可直接接 stress 作宾语，relax 是不及物动词后不接宾语。你还要区分 stress 作名词表压力，用词时先想清楚是作动词还是名词，选择才对。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "relax 后误接宾语，写成 relax my stress",
+        "把 relieve 误当成名词使用",
+        "混淆 stress 与 stress 派生词在句中的词性"
+      ],
+      "example": "[仿题]填空：运动能帮我 ___ (relieve) stress。\n解析：缓解，动词用 relieve",
+      "keywords": ["stress", "relax", "relieve", "压力", "放松"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U3_012",
+      "name": "比较与对比表达",
+      "definition": "掌握用于比较与并列关系的常见表达。",
+      "explanation": "比较运动或生活方式时，你会用 compare A with B 对比两者，用 as well as 表示并列。比如 compared with indoor sports，running outdoors is more enjoyable。你要注意 compare 的搭配 for 与 with 不混用，as well as 连接并列时不要与 and 重复使用，写对配比才显得地道。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "compare A with B 误写成 compare A from B",
+        "as well as 与 and 重复，写成 A and B as well as C",
+        "compared with 漏写 ed，写成 compare with 作状语"
+      ],
+      "example": "[仿题]填空：___ (compare) with running，cycling is safer。\n解析：过去分词做状语，用 Compared",
+      "keywords": ["compare with", "as well as", "比较", "并列", "compared with"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    }
+  ]
+}
