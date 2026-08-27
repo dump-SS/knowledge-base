@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第三册 Unit 3 The World of Science",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B3_U3_001",
+      "name": "被动语态与时态的组合",
+      "definition": "动作承受者作主语，按动作发生时间用对应时态的be加过去分词构成的句式。",
+      "explanation": "你记被动语态不能只记bedone一种固定形式，因为动作发生在不同时间，be动词的时态就要跟着变。一般现在用amisare，一般过去用waswere，将来用willbe，完成时用havehasbeen。做题时可以分三步：先判断动作与主语是主动还是被动关系，再确定动作发生的时间选对be的时态，最后补上过去分词。三步走下来，被动与各种时态的组合就不会搞混了。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "被动句中be动词时态固定用is，不考虑动作实际发生时间",
+        "把havebeen构成时误写成hasbeen，主谓不一致",
+        "主动词用了原形或分词，忘记在be后写过去分词"
+      ],
+      "example": "[仿题]The bridge (build) in 2020.\n解析：桥梁被动且过去时，故用was built。",
+      "keywords": ["被动语态", "时态", "过去分词", "be动词", "动作承受者"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U3_002",
+      "name": "含情态动词的被动语态",
+      "definition": "情态动词后接be加过去分词，表示被动意义的句式结构。",
+      "explanation": "当句子同时含有情态动词和被动关系时，你先写情态动词，紧接着写be，再加过去分词，构成canbewritten这种形式。记住be必须保持原形，不能像主动句那样随人称变化。判断时先固定情态动词表达的情态（能力、可能、必须等），再补be加过去分词，语气和被动都能照顾到。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "情态动词后写iswas等be的时态形式，而不是用的原形",
+        "遗漏be，写成canwritten这种主动误拼",
+        "把情态动词加过去分词当成被动，忽略中间的be"
+      ],
+      "example": "[仿题]This task must (finish) today.\n解析：must后接be finished表被动。",
+      "keywords": ["情态动词", "被动", "be加过去分词", "原形"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U3_003",
+      "name": "含双宾语的被动语态",
+      "definition": "句中原有间接宾语和直接宾语，任选一个作被动句主语的变换方式。",
+      "explanation": "含give、send、buy、teach这类双宾语动词的句子变被动时，你有两种选择。把人（间接宾语）作主语最常见，这时直接宾语的动词要保留，如Hewasgivenabook。把物作主语时，间接宾语前要加介词to或for，如Thebookwasgiventohim。你记牢物作主语要补介词，就能避免常见的漏介词错误。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "把物作主语时漏掉to或for，直接说wasgivenhim",
+        "双宾语两个都搬到主语位置，造成重复",
+        "分不清give后用to、buy后用for导致介词用错"
+      ],
+      "example": "[仿题]She was ___ a present.\n解析：give双被动，人作主语填given。",
+      "keywords": ["双宾语", "被动", "间接宾语", "介词", "动作承受者"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U4_004",
+      "name": "含复合宾语的被动语态",
+      "definition": "原句宾语加宾补的结构变成被动时，宾补保留在主语之后的句式。",
+      "explanation": "当主动句是主语加谓语加宾语再加宾语补足语的结构时，变成被动后宾语补足语要保留。make、see、hear、have这些动词接宾补分不带to和带to两种情况，变成被动后原来省略的不定式to要还原，如seesbdo变成beseeentodo。你注意to的还原这个细节，考试最容易在这类题上丢分。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "seesbdo变被动时忘记还原to，写成beseendo",
+        "把宾语补足语当成第二个宾语一起变换，结构错乱",
+        "受主动句影响，被动句仍保留动词原形逻辑错误"
+      ],
+      "example": "[仿题]He was seen ___ the room.\n解析：see被动还原to，填to enter。",
+      "keywords": ["复合宾语", "宾补", "不定式还原", "被动语态"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U3_005",
+      "name": "get被动结构的用法",
+      "definition": "用get加过去分词代替become被动，强调动作结果或突发状态的句式。",
+      "explanation": "在口语和书面语中，除了be加过去分词，你还常看到get加过去分词的被动表达，如getmarried、gethurt、gethurt表达的是经历某种结果。get被动多用于不带by的、强调主语自身状态的场合，感情色彩比be被动更鲜活。你只要把get看成变相的be，后面接过去分词即可，同时注意它通常不用来强调施动者。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "把get被动后面误写成动词原形而不是过去分词",
+        "在get被动句里加by施动者，用法不自然",
+        "分不清get被动和become加形容词，词性混用"
+      ],
+      "example": "[仿题]He got ___ in the rain.\n解析：got被动受淋，填caught。",
+      "keywords": ["get被动", "过去分词", "经历结果", "be被动"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U3_006",
+      "name": "It是saidthat型被动句",
+      "definition": "以it作形式主语、接被动形式再由that引导真主语从句的句式。",
+      "explanation": "表达据说、据报道、众所周知这类含义时，常用it加is加said加that从句的结构。it只作形式主语，真正的成分是后面的that从句。你还可以把它变成复合不定式写法，如Itissaidtohave...。使用时注意that从句用陈述语气、时态按事实判断。这种被动加从句的组合在科普阅读中很常见。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "省略it或that，导致句子缺主语",
+        "把said误写成say，忘记用过去分词被动",
+        "混淆issaid和issaidto的接法，结构拼接错误"
+      ],
+      "example": "[仿题]It is ___ that he found it.\n解析：据说用被动，填said。",
+      "keywords": ["形式主语", "that从句", "被动", "据说"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U3_007",
+      "name": "bedone表示科学发现",
+      "definition": "科研报道中强调客观事实，以事物作主语使用被动语态的惯用表达。",
+      "explanation": "在科学语篇里，叙述发现、发明、实验时常用被动语态点明动作由谁执行或强调事实本身，如thewatchwasinventedbyhim宣告客观结论。你注意被动语态在这类语境里能突出result和客体，弱化个人，使表达更严谨客观。做题时看到发明、发现、测试等词，优先想它是否该用被动。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "科学报道里把发明物当主动者，误用主动语态",
+        "漏用by说明发明人，导致信息不完整",
+        "把discover与invent主动被动混淆"
+      ],
+      "example": "[仿题]The phone ___ by him.\n解析：发明物被动，填was invented。",
+      "keywords": ["科学", "发明", "被动语态", "客观事实"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U3_008",
+      "name": "科学发现主题词汇",
+      "definition": "表达实验、理论、证据、假设等科学探索过程的核心名词与动词。",
+      "explanation": "这个话题你要掌握一批常用词：evidence证据、theory理论、experiment实验、hypothesis假设、research研究、discover发现、observe观察、conclusion结论、assumption假定。读科普文时抓住这些词就能理清科学家做什么、依据什么得出结论。写作用上theycarriedoutexperiments这类表达会让句子更正式。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把experiment与experience两个形近词混淆",
+        "theory只译成理论，忽视其假设模型含义",
+        "conclude与conclusion词性混用，忘记动词用法"
+      ],
+      "example": "[仿题]The ___ proves the idea.\n解析：证据证明想法，填evidence。",
+      "keywords": ["实验", "理论", "证据", "假设", "研究"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U3_009",
+      "name": "科学家品质与贡献词汇",
+      "definition": "描述科学家探索精神、研究态度与成果意义的关键形容词和动词。",
+      "explanation": "介绍科学家时常用brilliant杰出的、devoted献身的、curious好奇的、persistent坚持的这类形容词，搭配makeadifference产生影响、contribute对什么做贡献等词组。表达成果时用achievement成就、pioneer开辟。你积累这些词后，既能读懂人物传记，也能在写作里用deventh a lot to结构描述贡献。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把devoted误当成动词devote的过去分词混淆词性",
+        "contribute介词搭配用错，跟to写成with",
+        "把achievement写成achieve，形容词与名词混用"
+      ],
+      "example": "[仿题]He is a ___ scientist.\n解析：杰出的科学家，填brilliant。",
+      "keywords": ["科学家", "杰出", "贡献", "坚持", "成就"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U3_010",
+      "name": "含by接注意动作的执行者表达",
+      "definition": "在被be动句中用by引出施动者，强调动作由谁完成的结构。",
+      "explanation": "被动句要明确动作执行者时，用by加施动者放在句末，如Thebookwaswrittenbyhim。如果施动者是已知信息或被省略，就不用by。你注意between被动用于点明动作来源，而with通常表示工具而非施动者。分清by表人、with表工具，这类题目就不会被判错。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把with当施动者标记，写成by混淆用法",
+        "省略by导致动作执行者信息丢失表达不完整",
+        "by后误用动词原形而非代词名词短语"
+      ],
+      "example": "[仿题]It was made ___ hand.\n解析：用手制作，表工具填with。",
+      "keywords": ["by", "施动者", "被动语态", "介词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U3_011",
+      "name": "非谓语与被动语态结合",
+      "definition": "现在分词being加过去分词或不定式被动，表达被动进行的结构。",
+      "explanation": "当被动还伴随进行或做成分功能时，你要用非谓语的被动形式。正在进行用being加过去分词，如Thehouseistobeingreviewed；表将来或目的用tobepublished这类不定式被动。此外还可用bedone作定语name或状语强调整体的被动。你区分主动非谓语与被动的形态差异，清晰度至关重要。",
+      "difficulty": 5,
+      "frequency": 3,
+      "typical_errors": [
+        "进行被动漏写being，直接写过去分词",
+        "不定式该用被动却写成主动原形",
+        "分不清done被动与beingdone进行的区别"
+      ],
+      "example": "[仿题]The book (write) now.\n解析：正在被写，填is being written。",
+      "keywords": ["非谓语", "being", "不定式被动", "进行被动"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U3_012",
+      "name": "科学进程常用连词及因果表达",
+      "definition": "连接实验步骤、解释因果以说明科学过程的连接词和因果句式。",
+      "explanation": "解释科学现象的来龙去脉时，你需要asresult、therefore、becauseof、leadto、resultin等表达因果的词语。先陈述现象，再借助连接词说明原因或结果，逻辑就清晰了。写实验报告时用as a result这类因果连接，能让读者更容易跟上你的推理链。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "resultin与resultfrom接的宾语方向颠倒",
+        "asaresult误删掉不定冠词a",
+        "becauseof与because从句用法混淆"
+      ],
+      "example": "[仿题]___ the heat, it melted.\n解析：因为热用介词，填Because of。",
+      "keywords": ["因果", "连词", "lead to", "because of", "推论"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

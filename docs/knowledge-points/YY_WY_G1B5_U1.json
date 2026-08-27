@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第二册 Unit 1 Growing Up",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B5_U1_001",
+      "name": "主语从句引导词选择",
+      "definition": "依据主语从句内容选择that、whether、疑问词作主句主语的用法。",
+      "explanation": "主语从句处在主句主语的位置，引导词由从句内容决定。陈述事实用that，表是否用whether，含疑问信息用what、when等疑问词，如What she said was true。你判断从句想表达什么含义，再选用对应引导词，同时让主句谓语与整句主语一致。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "陈述主语从句误用whether",
+        "疑问内容却用that引导",
+        "把主语从句谓语配成复数"
+      ],
+      "example": "[仿题]___ she said is surprising.\n解析：含what疑问填What。",
+      "keywords": ["主语从句", "that", "whether", "疑问词", "谓语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U1_002",
+      "name": "主语从句用单数谓语",
+      "definition": "主语从句作整体主语时，主句谓语动词用第三人称单数的规则。",
+      "explanation": "当整个主语从句充当主语时，被当作一个整体特指，主句谓语要用单数，如That he passed delights me。即使主语从句内部是复数内容，只要它总体上表示一个事件，谓语仍用单数。你先把主语从句看成一个整体，再据此选单数谓语，主谓一致就稳了。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "主语从句内含复数却误用复数谓语",
+        "把从句看作多件事而配复数动词",
+        "该用单数却沿用主句别的主语时态"
+      ],
+      "example": "[仿题]What they did ___ me.\n解析：整体作主语用单数填impresses。",
+      "keywords": ["主语从句", "单数谓语", "整体", "主谓一致"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U1_003",
+      "name": "表语从句引导词基础",
+      "definition": "依据表语从句要表达的内容选择that、whether、问句疑问词作表语的用法。",
+      "explanation": "表语从句充当主句的系词之后的话，引导词根据内容选，比如The point is that we grow、The question is whether it works。表达事实用that，表达选择用whether，引出疑问点用when此处where等。你先看主句要补足什么信息，再选对应引导词即准确。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "表语从句表达事实却误用whether",
+        "表疑问擅长用where误用that",
+        "表语从句误用倒装语序"
+      ],
+      "example": "[仿题]The key is ___ we try.\n解析：表是否填whether。",
+      "keywords": ["表语从句", "that", "whether", "疑问词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U1_004",
+      "name": "名词性从句陈述语序",
+      "definition": "名词性从句不论表疑问与否都采用陈述语序而不倒装的语法规则。",
+      "explanation": "主语从句、表语从句等名词性从句一律使用陈述语序，即主语在前、谓语在后。即使从句意义带疑问，例如I wonder why the bird flew，也绝不能用疑问倒装。你按陈述顺序写下主语和谓语，常常省略助动词 do，这样名词性从句就规范了。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "疑问含义从句误用倒装语序",
+        "疑问词后仍保留 do 或助动词",
+        "把疑问句原样搬进从句"
+      ],
+      "example": "[仿题]I know why he ___.\n解析：陈述语序填left。",
+      "keywords": ["名词性从句", "陈述语序", "主语在前", "宾语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U1_005",
+      "name": "主语从句的连接必需词",
+      "definition": "位于句首的主语从句中作引导的that常不可省略的规则。",
+      "explanation": "宾语从句的that可省，但主语从句放在句首时引导词that通常不可省略，如That he survived was a wonder。没有that会误读为两个句子。你看清主语从句在句中的位置，位于主语时保留that使结构完整，语言才又严谨又清晰。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "句首主语从句误省连接词that",
+        "把主语从句连接词与宾语从句混淆",
+        "that省略后破坏了主体结构"
+      ],
+      "example": "[仿题]___ the sun rises is sure.\n解析：句首主语从句保留that填That。",
+      "keywords": ["that", "主语从句", "不可省", "句首"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U1_006",
+      "name": "it作形式主语的结构",
+      "definition": "it作形式主语代替后置的主语从句，真正主语置于句尾的句式。",
+      "explanation": "为避免头重脚轻，常用it作形式主语，把真正的主语从句后置，如It is important that you listen。这里的it不代表人或物，只是占据主语位。你写这类句子先写It is加形容词，再接真正的主语从句，结构平衡同时句子依旧完整。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "形式主语it漏写成零主语",
+        "真正主语从句后置位置错误",
+        "把it当实指主语而误改从句时态"
+      ],
+      "example": "[仿题]It is clear ___ he came.\n解析：真正从句后置填that。",
+      "keywords": ["形式主语", "it", "主语从句", "后置"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U1_007",
+      "name": "成长成熟主题词汇",
+      "definition": "表达由青少年走向成熟、承担责任的人物成长核心词汇。",
+      "explanation": "谈成长话题你会用到grow成长、mature成熟、teenager青少年、adult成人、responsibility责任、independent独立的这些词。表达变得成熟用mature，说明独立自主用become independent。把一个少年到成人的历程用这些词汇来串起，成长的主题自然呼之欲出。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把mature误拼成matureer漏e",
+        "把independent误拼成indendent漏i",
+        "把responsibility名词当动词使用"
+      ],
+      "example": "[仿题]She became truly ___.\n解析：变得成熟填mature。",
+      "keywords": ["成长", "成熟", "青少年", "独立", "责任"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U1_008",
+      "name": "人生阶段变化词汇",
+      "definition": "描述童年、少年到成年各阶段转变与心态变化的核心名词。",
+      "explanation": "人生各阶段有childhood童年、adolescence青春期、adult hood成年、change转变、transition过渡、shift变化这些词。表达从一阶段到另一阶段用undergo a change，说明心态转变用shift in attitude。写成长经历时由童年写起，再谈变化中的思考，历程层次分明。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把adolescence误拼成adolescence漏e",
+        "transition与transcription混淆词义",
+        "把childhood与child的词性与后缀混淆"
+      ],
+      "example": "[仿题]He enjoyed his ___.\n解析：他的童年填childhood。",
+      "keywords": ["童年", "青春期", "转变", "过渡", "阶段"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U1_009",
+      "name": "责任独立担当词汇",
+      "definition": "描述承担义务、自主决策与有为担当的重要名词与动词。",
+      "explanation": "成长意味要担当责任responsibility、冒风险risk、自主decide、承担shoulder、抉择choice、怀决心determination这些词。表达承担职责用take up responsibility，说明自主选择用make your own choice。写成长中的担当，从decision到行动环环相扣，责任感会愈发彰显。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把shoulder误当宣讲名词直接代duty",
+        "把choice误拼成choise漏c",
+        "把determination误拼成determintion漏a"
+      ],
+      "example": "[仿题]This is your own ___.\n解析：自己的选择填choice。",
+      "keywords": ["责任", "决定", "担当", "自主", "冒险"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U1_010",
+      "name": "成长感悟表达词汇",
+      "definition": "表达从经历中获得领悟、反思与成熟感悟的常用名词与动词。",
+      "explanation": "表达感悟用reflect反思、gain收获、appreciate珍惜、realize领悟、lessons教训、wisdom智慧这些词。说明从经历中领悟用realize the importance of，表达反省常用reflect on。写成长总结时先谈经历，再用reflect与realize点明收获的智慧，厚度立现。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把reflect on误漏介词on",
+        "把wisdom误拼成wisedom漏i",
+        "把gain收获误当名词丢失动词味"
+      ],
+      "example": "[仿题]I reflect ___ my past.\n解析：反思过往填on。",
+      "keywords": ["反思", "领悟", "智慧", "教训", "收获"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U1_011",
+      "name": "回首成长叙事句式",
+      "definition": "用时间标志与今昔对比叙述童年回忆到成长变化的句型。",
+      "explanation": "回首成长常用when I was young、as I grow older这类时间短语，再用then与now对比过去与现在。表达当时想法用I used to think，说明现在不同用now I realize。先从回忆童年起步，再用对比突显变化，成长的心路就舒展有层次了。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "used to与be used to的两种结构混淆",
+        "时间标志词顺序安排混乱",
+        "as I grow older的时态配合不当"
+      ],
+      "example": "[仿题]I ___ to fear change.\n解析：过去常畏惧用used。",
+      "keywords": ["used to", "回忆", "今昔对比", "叙事"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U1_012",
+      "name": "表语从句时态判断",
+      "definition": "依据主句时态与事实需要判断表语从句应采用的动词时态。",
+      "explanation": "表语从句的时态取决于所表达事实的时间，如The truth is that he was there用过去时。主句用现在时时，从句时态既按实际时间又能灵活处理，如The fact is he will come。你先想清事实发生的时点，再选对应时态，让表语从句与真实情况一致而不僵化。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "表语从句时态脱离事实时间",
+        "主句现在时从句仍强行过去时",
+        "把表语从句时态与虚拟混淆判断"
+      ],
+      "example": "[仿题]The news is that he ___.\n解析：按未来事实填will come。",
+      "keywords": ["表语从句", "时态", "事实时间", "主句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

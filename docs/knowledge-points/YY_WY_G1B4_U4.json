@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第一册 Unit 4 Meeting the Muse",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B4_U4_001",
+      "name": "非谓语三种形式识别",
+      "definition": "区分不定式、动名词与分词三类非谓语并判断其语法作用的规则。",
+      "explanation": "非谓语共有三种：不定式读作to加原形，动名词作名词用，分词作形容词或状语。你要先读句子判断空缺处该填名词、形容词还是动词性成分。作主语或宾语用动名词或不定式，修饰名词用分词，说明目的用不定式。认清每种形式的职责，再依功能选形。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "把分词当动名词或反之，成分识别混乱",
+        "作主语时不定式与动名词混选",
+        "把结尾ed分词误拼成ing形式"
+      ],
+      "example": "[仿题]___ is my hobby.\n解析：作主语用动名词填Painting。",
+      "keywords": ["不定式", "动名词", "分词", "非谓语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_002",
+      "name": "现在分词作定语活用",
+      "definition": "用正在进行的现在分词短语作定语修饰名词的用法。",
+      "explanation": "现在分词作定语表主动进行，可放在名词前或短语后置，如a moving story、the girl singing on stage。统一前置分词多表动作正在发生，后置分词短语补充完整信息。你判断名词是被分词动作修饰且是主动发出的，就用现在分词作定语。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把被动关系的定语误用现在分词",
+        "分词定语前后置位置安排错误",
+        "把定语分词与动名词名词功能混淆"
+      ],
+      "example": "[仿题]The ___ girl sings well.\n解析：正在唱歌的女孩填singing。",
+      "keywords": ["现在分词", "定语", "主动", "修饰名词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_003",
+      "name": "过去分词作定语活用",
+      "definition": "用过去分词短语作定语表示被动或已完成的动作的用法。",
+      "explanation": "过去分词作定语表被动或已完成，可置名词前或短语后置，如the broken vase、a story written by her。前置单个分词多表完成状态，后置短语补充完整修饰。你判断名词与分词是被动关系，就用过去分词作定语。主动关系则改用现在分词，这一步分清作定语就准确。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把主动关系误用过去分词作定语",
+        "复合名词分词定语前缀拼写错误",
+        "把过去分词定语与被动谓语混同"
+      ],
+      "example": "[仿题]The ___ window was repaired.\n解析：被打破的窗填broken。",
+      "keywords": ["过去分词", "定语", "被动", "已完成"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_004",
+      "name": "不定式表目的意图",
+      "definition": "用不定式to do说明动作的目的或意图的非谓语用法。",
+      "explanation": "表示目的时，你常用不定式to do放在动词后，比如I came to learn。不定式还可在句首作目的状语，如To keep healthy, I exercise。表达为了某个目的，你把握to加原形这个核心结构。需要说明否定目的时用in order not to，明确意图而句子流畅。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把目的误用动名词doing来表达",
+        "否定目的误写not to的to丢原形",
+        "把不定式目的与分词伴随混淆"
+      ],
+      "example": "[仿题]I study ___ improve.\n解析：以求进步不定式填to。",
+      "keywords": ["不定式", "目的", "意图", "to do"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_005",
+      "name": "动名词作主宾活用",
+      "definition": "用动名词作主语或宾语表达抽象活动的非谓语用法。",
+      "explanation": "动名词作主语时谓语用单数，如Singing is my joy；作宾语常见于enjoy、finish、mind等动词后，如I enjoy painting。你记住enjoy这类动词后接动名词不接不定式，同时主语位置的动名词保持原形。分清主动名词功能与动词用法，句子就自然贯通。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "enjoy后误接不定式而不是动名词",
+        "动名词作主语时谓语漏用单数",
+        "把做宾语的动名词误写成原形"
+      ],
+      "example": "[仿题]I enjoy ___ pictures.\n解析：enjoy后接动名词填drawing。",
+      "keywords": ["动名词", "主语", "宾语", "enjoy"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_006",
+      "name": "非谓语作状语活用",
+      "definition": "用分词与不定式在句中作时间、原因、条件等状语的功能。",
+      "explanation": "非谓语在句首常作多种状语。分词可表时间、原因、伴随，如Entering the room, she smiled；不定式表目的。判断逻辑主语与主句主语是否一致，一致则分词或不定式作状语成立。要分清分词表伴随与不定式表目的，句中意义才明确。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "状语分词与主句逻辑主语不一致悬空",
+        "把表目的不定式误当分词作伴随",
+        "分词作时间状语忘与主句主语呼应"
+      ],
+      "example": "[仿题]___ her work, she danced.\n解析：完成工作分词填Having finished。",
+      "keywords": ["分词", "状语", "逻辑主语", "目的"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_007",
+      "name": "艺术创作灵感词汇",
+      "definition": "描述灵感来源、创作冲动与艺术领悟的核心名词与动词。",
+      "explanation": "谈艺术创作就用inspiration灵感、muse缪斯、imagination想象、idea主意、absorbed专注、creative有创意的这些词。表示获得灵感用draw inspiration from，说明沉浸创作用lost in creation。先谈灵感从何而来，再写如何将其化为创作，艺术家的心路历程就清晰可见。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把inspiration误拼成inspireation漏字母",
+        "把muse当成名词与动词混淆",
+        "把be absorbed in介词的in漏写"
+      ],
+      "example": "[仿题]She found ___ in nature.\n解析：从自然中获得灵感填inspiration。",
+      "keywords": ["灵感", "缪斯", "想象", "专注", "创作"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_008",
+      "name": "音乐美术术语词汇",
+      "definition": "涉及旋律、节奏、色彩、构图等音乐美术基础术语的常用名词。",
+      "explanation": "赏乐论画时你用melody旋律、rhythm节奏、tune曲调、colour色彩、composition构图、brush笔、stroke笔画这些词。赏析音乐先谈melody与rhythm，欣赏画作先看composition与colour。这些术语是理解艺术语篇的敲门砖，记熟后主题分析就顺畅了很多。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把melody误拼成melodery漏y字母",
+        "把composition与health成分词义混淆",
+        "把rhythm漏掉h错误拼写"
+      ],
+      "example": "[仿题]The ___ of the song is soft.\n解析：歌曲旋律填melody。",
+      "keywords": ["旋律", "节奏", "色彩", "构图", "笔触"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_009",
+      "name": "艺术感受状态词汇",
+      "definition": "描述欣赏艺术时的情绪状态、细致观察与沉醉其中的词汇。",
+      "explanation": "欣赏艺术时你常用adore沉迷、fascinate吸引、appreciate品鉴、observe观察、astonish震惊、moment情瞬间的词。说明被深深吸引用be fascinated by，表达边看边想用take time to appreciate。先写外在感受，再谈内心变化，艺术带来的情绪体验就更完整。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把fascinate误拼成fascintate漏a字母",
+        "把be fascinated by介词to误写",
+        "把adore与observing的词义混用"
+      ],
+      "example": "[仿题]She is ___ by the painting.\n解析：被画吸引填fascinated。",
+      "keywords": ["吸引", "品鉴", "观察", "沉醉", "专注"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_010",
+      "name": "创作过程动词词汇",
+      "definition": "描述反复练习、修改完善与最终完成艺术作品的常用动词。",
+      "explanation": "创作过程用到draft草稿、revise修订、perfect完善、polish打磨、practise反复练习、refine提炼这些词。表示反复打磨作品用polish a work，说明不断完善用keep perfecting。你从最初的draft写起，再谈如何revise与polish，展现艺术家精益求精的专注与执着。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把polish误拼成polise漏h字母",
+        "把revise与reviewrepire词形混淆",
+        "把practise与perfect词性混搭"
+      ],
+      "example": "[仿题]He keeps ___ his work.\n解析：不断打磨填perfecting/polishing。",
+      "keywords": ["打磨", "修订", "完善", "练习", "提炼"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_011",
+      "name": "非谓语固定搭配掌握",
+      "definition": "记住动词后接不定式或动名词等固定非谓语搭配的组合规律。",
+      "explanation": "许多动词后面固定接某种非谓语。比如want、wish后接不定式，enjoy、finish、mind后接动名词，avoid、practise也接动名词。你把这些动词按接to还是接ing分组记忆，做题时按固定搭配直接判断，无需纠结语义。掌握了搭配规律，选择既快又准。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "wish后误接动名词而不是不定式",
+        "mind后误接不定式而不是动名词",
+        "avoid后误用动词原形，破坏结构"
+      ],
+      "example": "[仿题]We avoid ___ late.\n解析：avoid后接动名词填being。",
+      "keywords": ["固定搭配", "不定式", "动名词", "动词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_012",
+      "name": "艺术价值意义表达",
+      "definition": "用名词性结构说明艺术对生活与精神的价值和意义的表达方式。",
+      "explanation": "总结艺术的意义时你用它表达creativity创造力、beauty美、emotion情感、expression表达、memory回忆、inspiration灵感这些abstract名词的连贯。写赏析结尾可说明艺术如何丰富精神世界、点亮生活。先描述某个作品带来的感受，再谈它对人心灵的滋养，艺术的价值就立于纸上。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把抽象名词误拼写为美式变体混淆",
+        "把emotion与emotional词性混用",
+        "结尾表达价值时主谓结构松散"
+      ],
+      "example": "[仿题]Art brings us ___.\n解析：艺术带来快乐/美填joy/beauty。",
+      "keywords": ["创造力", "美", "情感", "表达", "价值"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

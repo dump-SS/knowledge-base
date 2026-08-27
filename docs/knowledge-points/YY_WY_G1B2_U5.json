@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第二册 Unit 5 On the Road",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B2_U5_001",
+      "name": "不定式作动词宾语",
+      "definition": "某些动词后接带to的不定式作宾语表示目的或意愿。",
+      "explanation": "你使用 want、hope、decide、plan 等动词后常常接带 to 的不定式作宾语，表达意愿或决定。比如 I want to travel 中 to travel 表示想旅行。注意 plan 后面接 to do，而不能直接接名词。写旅行计划作文时可用这类动词加不定式组织你打算做的事，结构清晰自然。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "want 后误接动名词 travel 而未用 to travel",
+        "plan 后误接名词 while 应用不定式作计划",
+        "动词 decide 后误把 to 漏掉造成不定式残缺"
+      ],
+      "example": "[仿题]我想去旅行。\n解析：I want to travel，want 接带 to 的不定式。",
+      "keywords": ["不定式", "to travel", "want", "宾语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U5_002",
+      "name": "不定式作表语与宾语",
+      "definition": "不定式在句中充当表语及宾语的功能与位置安排。",
+      "explanation": "你既可用不定式作宾语，也可作表语。作表语时放在 be 动词之后补足主语信息，比如 My dream is to travel the world 中 to travel 作表语。作宾语则跟在动词后。写梦想与计划介绍时，用不定式作表语比作宾语更能凸显目的，让句子表达富有方向感。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "作表语的不定式误放在 be 前造成位置错误",
+        "be 后误接动词过去式而未用带 to 的不定式",
+        "表语与宾语不定式的使用场景分辨不清"
+      ],
+      "example": "[仿题]我的梦想是环游世界。\n解析：My dream is to travel the world，不定式作表语。",
+      "keywords": ["不定式", "表语", "宾语", "梦想"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U5_003",
+      "name": "不定式表目的状语",
+      "definition": "用 to 不定式作目的状语说明动作发生的原因与目的。",
+      "explanation": "你想说明做某事的目的是什么，可以在句首或句尾用 to 不定式作目的状语。比如 To see the sunrise, they got up early 中 to see 表示看日出的目的。不定式作目的状语简练且方向明确。写旅行计划时用它表达出发或早起的目的，句子更简洁有力。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "表目的却误用 for 并接名词代替不定式",
+        "目的状语置于句首时开头字误用原形遗忘 to",
+        "to 不定式与 so that 目的句型结构混用造成冗余"
+      ],
+      "example": "[仿题]他起早看日出。\n解析：He got up early to see the sunrise，to 不定式表目的。",
+      "keywords": ["不定式", "目的状语", "to see", "目的"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U5_004",
+      "name": "too 与 to 不定式搭配",
+      "definition": "too 加形容词或副词再加 to 不定式表达程度过度以致于不能的。",
+      "explanation": "你表达太……而不能时用 too 加形容词再加 to 不定式。比如 It was too late to catch the train 表示太晚了赶不上火车。这一结构暗含否定意义，too 后接程度刻度，to 后接动作。写旅行中遇到的时间或距离障碍时用这个句型，说明因过度而无法实现，表达很地道。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "too to 结构中误漏 to 造成否定结构不完整",
+        "把 too to 误写为 such that 结构乱搭",
+        "too 后面的 than 误添加使句式逻辑混乱"
+      ],
+      "example": "[仿题]太晚赶不上火车了。\n解析：It was too late to catch the train，too...to 表否定。",
+      "keywords": ["too", "to", "不定式", "程度"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U5_005",
+      "name": "动词不定式与-ing选择",
+      "definition": "部分动词后接不定式或动名词表达意愿与习惯的选择规则。",
+      "explanation": "你区别本意时注意：want、decide、hope 等接不定式表愿望；enjoy、practise、finish 等接动名词表已经进行的习惯动作。比如 enjoy travelling 表享受旅行，decide to go 表决定去。写计划作文时按你心愿是初次打算还是习惯偏好来决定用哪种形式。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "enjoy 后误接 to do 而应接动名词 doing",
+        "decide 后误接 doing 而应接 to do 不定式",
+        "动名词与不定式的动词搭配对象记混乱套"
+      ],
+      "example": "[仿题]我享受旅行。\n解析：I enjoy travelling，enjoy 后接动名词。",
+      "keywords": ["不定式", "动名词", "enjoy", "搭配"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U5_006",
+      "name": "旅行路行主题词汇",
+      "definition": "描述旅途与出行的核心英语词汇。",
+      "explanation": "你谈论旅行会用 journey 旅程、destination 目的地、tourist 游客、sightseeing 观光、luggage 行李等词。可说 a long journey 漫长的旅程，visit the scenic spot 参观景点。记忆时可把表达路途的与表达观光的词分组归类，写旅行游记时按闯关顺序调用既清晰又有层次。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "目的地 destination 误拼成 destiantion 字母错位",
+        "游客 tourist 误把 tour 与旅游 tour 混淆词性",
+        "行李 luggage 不可数时误加复数 s 造成错误"
+      ],
+      "example": "[仿题]这是一段漫长旅程。\n解析：It is a long journey，journey 表旅程。",
+      "keywords": ["journey", "destination", "tourist", "luggage"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U5_007",
+      "name": "表达出行的交通短语",
+      "definition": "描述搭乘、换乘交通方式与出行的常用动词短语句。",
+      "explanation": "你说明出行安排时常用 set off 出发、arrive at 到达、get on 上车、transfer 换乘等短语。可说 set off at dawn 黎明时分出发，arrive at the station 到达车站。写行程安排时用这些短语顺次描述从出发到抵达的过程，让你的旅程叙述清楚而不零散。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "到达大城市误用 arrive at 而应用 arrive in 表到达范围",
+        "出发 set off 的 off 误漏掉造成短语残缺",
+        "换乘 transfer 与换车 get on 的语义场景混淆"
+      ],
+      "example": "[仿题]我们黎明出发。\n解析：We set off at dawn，set off 表出发。",
+      "keywords": ["set off", "arrive at", "transfer", "交通"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U5_008",
+      "name": "描述自然景观风光词汇",
+      "definition": "描述山水自然景观与地理风貌的常用英语词汇。",
+      "explanation": "你描写沿途风景会用 landscape 风景、mountain 山、coast 海岸、sunset 日落、beautiful scenery 美丽的景色等词。会说 a breathtaking landscape 令人叹为观止的风景。写游记描写景色时运用这些词让你笔下的风景更具画面感，给读者留下生动印象。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "风景 landscape 与景色 scenery 的两个词形混淆",
+        "日落 sunset 误拼成 sumsert 一类字母颠倒",
+        "breathtaking 表惊叹误写成 breath taking 词形割裂"
+      ],
+      "example": "[仿题]沿途风景壮丽。\n解析：The scenery along the way is beautiful，scenery 表景色。",
+      "keywords": ["landscape", "scenery", "sunset", "风景"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U5_009",
+      "name": "表示地方提到的介词",
+      "definition": "在不同具体地点场合使用恰当介词 in at on 的规则。",
+      "explanation": "你写地点时按大小与用途选介词：大到城市国家用 in，具体小地点强调点用 at，在平面上用 on。比如 in the city、at the station、on the road。写路线介绍时依地点属性选对介词，是准确表意的基础。in 强调区域，at 强调点，不要把范围搞混。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "到城市用误用 at 而应用 in 表范围区域",
+        "具体小地点误用 on 而应用 at 强调点",
+        "on the road 与 in the road 的介词选用颠倒"
+      ],
+      "example": "[仿题]我在城里。\n解析：I am in the city，城市用介词 in。",
+      "keywords": ["in", "at", "on", "介词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U5_010",
+      "name": "过去时叙述旅行经历",
+      "definition": "用一般过去时叙述已完成旅行的过程与细节。",
+      "explanation": "你回顾一次旅行时用一般过去时叙述经过，动词变过去式并配相应过去时间状语。比如 We visited many places last summer 中 visited 表过去参观。整段叙事保持过去时一致，遇到先后发生的动作可按序排列。写旅行日记概括行程时用过去时贯穿，时间线索自会分明。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "叙述过去旅行时误把动词保留原形不加过去式",
+        "过去动作的先后逻辑老用现在时表达造成乱序",
+        "过去时间状语与时态不匹配让时间线含混"
+      ],
+      "example": "[仿题]我们参观了多处名胜。\n解析：We visited many places，用过去式 visited 叙述。",
+      "keywords": ["过去时", "visited", "经历", "旅行"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U5_011",
+      "name": "表达旅行愿望的句型",
+      "definition": "表达渴望去旅行愿望时多种句型的运用方法。",
+      "explanation": "你表达旅行愿望可用 want to visit、wish to see 等，也可用 I hope to... 或 be eager to... 表急切渴望。比如 He is eager to visit the Great Wall 表示他渴望去长城。这些句型多与不定式搭配。写愿望与计划的作文时综合使用多种句型，愿望表达会更加丰富而有层次。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "be eager to 后漏接不定式而误加名词替代",
+        "hope 后误接 that 从句却不加不定式的省略用错",
+        "多种愿望句型堆叠引起的成分冗余"
+      ],
+      "example": "[仿题]他渴望去长城。\n解析：He is eager to visit the Great Wall，eager to 接不定式。",
+      "keywords": ["eager", "wish", "want", "愿望"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U5_012",
+      "name": "并列连接词表达旅行行程",
+      "definition": "用 and or but 等并列连接词组织旅行步骤性的叙述。",
+      "explanation": "你把旅行的几个步骤并列叙述时用 and 连接连续相似的动作，用 or 表示选择，用 but 表示转折。比如 We visited the museum and enjoyed the sunset 用 and 连接两件事。写行程安排借这些并列连接词串联一系列动作，叙述既有条理又能突出重点。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "并列两个动词连词缺失使结构松散混乱",
+        "转折逻辑却误用 and 造成连词方向再错",
+        "or 选择与 and 并列的含义选用颠倒"
+      ],
+      "example": "[仿题]我参观了博物馆还要欣赏日落。\n解析：We visited the museum and enjoyed the sunset，用 and 连接。",
+      "keywords": ["and", "or", "but", "并列"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

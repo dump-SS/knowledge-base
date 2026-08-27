@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第一册 Unit 2 Exploring English",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B2_U2_001",
+      "name": "can 表示能力许可",
+      "definition": "情态动词 can 表达做事的能力或请求给予许可的用法。",
+      "explanation": "你说自己会做某事或请求许可时常用 can。它后面接动词原形，没有人称和数的变化，也不随主语单复数改变形式。表达能力用 I can speak English；请求许可用 Can I open the window? 注意 can 没有第三人称单数形式，也不加 s，这一点和实义动词不同。",
+      "difficulty": 1,
+      "frequency": 5,
+      "typical_errors": [
+        "给情态动词 can 后面接 to do 造成多余不定式",
+        "错误地在 can 后接动词过去式而不是原形",
+        "按实义动词规则给 can 加第三人称单数s"
+      ],
+      "example": "[仿题]我能说英语。\n解析：I can speak English，can 后接动词原形。",
+      "keywords": ["can", "情态动词", "能力", "许可"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_002",
+      "name": "could 表示委婉请求",
+      "definition": "用 could 使请求或建议语气更委婉礼貌的表达方式。",
+      "explanation": "你向老师或长辈提出请求时，用 could 比 can 更礼貌委婉。比如 Could you help me? 就比 Can you help me? 显得更客气。could 后的动词同样用原形。值得注意的是，此时 could 并不表示过去时间，而是一种礼貌语气，所以回答时也应自然得体，别把它误解成过去时。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把委婉请求中的 could 误当成过去时来翻译",
+        "Could you 后误接动词过去式而非原形",
+        "表达请求时 could 与 can 的礼貌程度颠倒使用"
+      ],
+      "example": "[仿题]你能帮我吗？\n解析：Could you help me? 委婉请求表示礼貌。",
+      "keywords": ["could", "委婉", "请求", "礼貌"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_003",
+      "name": "could 表示过去能力",
+      "definition": "用 could 表达过去某个时期具备的能力或技能。",
+      "explanation": "你描述自己过去的能力时用 could，比如 When I was five, I could swim. 此时 could 是 can 的过去式，表示过往的本领。但它通常表示那种持续具备的能力，若表示过去某次具体行动成功做到，往往用 was able to。这一点你要尤其分清，避免依据习惯导致表达不准确。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "过去某一次成功做到的事误用 could 而应改用 was able to",
+        "could 描述过去能力时后误接过去分词形式",
+        "把 could 当作一般过去时动词而加 ed 变形"
+      ],
+      "example": "[仿题]五岁时我就会游泳。\n解析：When I was five, I could swim，过去能力用 could。",
+      "keywords": ["could", "过去能力", "was able to", "动词原形"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_004",
+      "name": "can't 表示否定推断",
+      "definition": "用 can't 表达对某事确定性的否定推断或完全没有可能。",
+      "explanation": "你想表达某事绝不可能时用 cannot 或 can't。比如 he can't be at home 表示他绝不可能在家，语气很确定。这里的 can't 并不只是没有能力，更强调逻辑上的不可能。做题时注意结合语境判断是能力否定还是推断否定，避免选错情态动词。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "推断某人不可能是某人时误用 may not 表达确定性",
+        "把 can't 只理解为没有能力而忽略推断含义",
+        "can't 后误接动词过去式而非动词原形"
+      ],
+      "example": "[仿题]那绝不可能是他。\n解析：It can't be him，can't 表确定性的否定推断。",
+      "keywords": ["can't", "否定推断", "情态动词", "cannot"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_005",
+      "name": "can 表能力与将来含义",
+      "definition": "can 与 be able to 在时态及表达能力上的使用对比。",
+      "explanation": "can 只有现在时，表达能力时句意基本相似，但 be able to 有完整的时态变化，可用于过去、将来等各种时态。比如表示将来会做某事用 will be able to，表示过去成功完成用 was able to。can 表能力多用于现在，be able to 覆盖面更广，你要根据句中的时间语境选用。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "表达将来能力时误用 can 而应改用 will be able to",
+        "将 be able to 与其他情态动词并列重复使用",
+        "can 的过去时与 be able to 的用法界限混淆不清"
+      ],
+      "example": "[仿题]明年你就能访问那个网站。\n解析：You will be able to visit it，将来能力用 be able to 的将来式。",
+      "keywords": ["can", "be able to", "时态", "能力"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_006",
+      "name": "语言学习方法相关词汇",
+      "definition": "描述学习英语方法与过程的常用核心词汇。",
+      "explanation": "你讨论学习方法时会遇到这些词：vocabulary 词汇、pronunciation 发音、translate 翻译、fluently 流利地、grammar 语法。写学习体会时可说 practice speaking English 来练口语。记忆时把表达技能的名词和描述熟练程度副词分开归类，例如表示你会用流畅地来说自己的口语水平。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "表达流利地误把形容词 fluent 与副词 fluently 混用",
+        "把 pronunciation 与 vocabulary 两个词拼写混淆",
+        "翻译表达时误用 translate 却忘记动词后的宾语结构"
+      ],
+      "example": "[仿题]他英语说得流利。\n解析：He speaks English fluently，副词做方式状语。",
+      "keywords": ["vocabulary", "fluently", "pronunciation", "grammar"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_007",
+      "name": "描述母语者的表达",
+      "definition": "描述母语者、口音及语言熟练度的相关表达方式。",
+      "explanation": "你讨论语言背景时会用到 native speaker 母语者、accent 口音、fluent 流利的等表达。比如可以说 she speaks with an American accent 来描写口音。注意 fluent 描述人的语言水平，foreign language 与 second language 含义略有差别。写作文谈语言时用对这类词，能让表达更地道专业。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 native speaker 误写成复数却保留单数含义",
+        "表达外语误把 foreign language 与 second language 混用",
+        "口音 accent 与语言 accent 一词多义的选义失误"
+      ],
+      "example": "[仿题]她说话带美国口音。\n解析：She speaks with an American accent，用 with 引出口音。",
+      "keywords": ["native speaker", "accent", "fluent", "外语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_008",
+      "name": "练习交流常用动词搭配",
+      "definition": "描述练习运用语言进行交流常用动词的固定搭配。",
+      "explanation": "你谈论自己如何练习英语时常用这些搭配：practise speaking 练口语、look up a word 查单词、make progress 取得进步、communicate with 与交流。注意 practise 后面接动名词而非原形，communicate with 后接人。写学习计划时可串联使用，如你说每天练习说以提高沟通能力。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "practise 后误接动词原形而应接动名词",
+        "查单词表达时把 look up 的 up 错误漏掉",
+        "交流表达时漏写 communicate with 中的介词 with"
+      ],
+      "example": "[仿题]我每天练习说英语。\n解析：I practise speaking English daily，practise 后接动名词。",
+      "keywords": ["practise", "look up", "communicate", "动名词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_009",
+      "name": "形容词与副词修饰作用转变",
+      "definition": "通过对形容词或副词进行构词变化改变句子修饰作用的方法。",
+      "explanation": "你在句子里形容方式时需要把握形容词和副词的分工：形容词修饰名词，副词修饰动词。比如 You speak English well，此处 well 是副词修饰 speak；而 good 则用作定语修饰名词。写句子前先确定要修饰的对象是名词还是动词，再决定选形容词还是副词形式，避免张冠李戴。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "修饰动词 speak 时误用形容词 good 而不用副词 well",
+        "把 good 与 well 的词性和使用位置完全颠倒",
+        "副词修饰形容词或动词时位置上放在名词前后"
+      ],
+      "example": "[仿题]她说英语很好。\n解析：She speaks English well，副词 well 修饰动词。",
+      "keywords": ["形容词", "副词", "good", "well"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_010",
+      "name": "一般现在时与情态动词衔接",
+      "definition": "情态动词后接动词原形与一般现在时主谓配合的衔接规则。",
+      "explanation": "你写句子时若情态动词与实义动词同现，情态动词后面一定要接动词原形，不受主语单复数影响。比如 you can speak、he can speak，can 不因 he 加 s。同时，若全句只有实义动词才谈时态变化，由情态动词引导的谓语则保持原形。你需要分清这两种谓语类型再下笔。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "情态动词后误给动词加第三人称单数 s",
+        "把需用情态动词的原形处误写成过去式",
+        "主语单复数变化时误让情态动词随主语变形"
+      ],
+      "example": "[仿题]他能游得很好。\n解析：He can swim well，can 后动词保持原形。",
+      "keywords": ["情态动词", "动词原形", "主谓一致", "谓语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_011",
+      "name": "特殊疑问词引导的问句",
+      "definition": "用 what 等疑问词引导特殊疑问句询问信息的句型结构。",
+      "explanation": "你想获取具体信息时用特殊疑问句，疑问词置于句首，后接一般疑问语序。比如 What do you learn? 询问学什么，How do you practise? 询问方式。疑问词 what、how、where、why 各提问不同信息，你先确定想了解的内容再选词。注意疑问句用 do 或 does 时实义动词要用原形。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "特殊疑问句中误保留动词原形而遗漏助动词 do",
+        "主语单数时未把疑问句中的 does 配合动词原形",
+        "What 与 How 提问对象选错造成问句语义错位"
+      ],
+      "example": "[仿题]你如何练习英语？\n解析：How do you practise English? 疑问词后接一般疑问语序。",
+      "keywords": ["疑问词", "特殊疑问句", "do", "语序"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_012",
+      "name": "识别语言中的词义多变",
+      "definition": "识别英语中一词多义并依据语境选择正确含义的能力。",
+      "explanation": "你读文章时常发现一个词在不同的句子含义不同，比如 course 可指课程，也指当然 of course 中的语气词。这要求你细读上下文来判断该词此处想表达的意思。做词义判断题时，先把该词在句中带进去通读，看哪种含义让句子通顺。积累一词多义能大幅提升你的阅读速度。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "忽略上下文直接套用该词最常用的第一义项",
+        "读句子时没让多义词在语境中自洽就贸然下结论",
+        "混淆定义词 course 与当然表达场景的差异"
+      ],
+      "example": "[仿题]course 有时指课程有时表当然。\n解析：course 多义，依语境选义，如 the course of study 表示课程。",
+      "keywords": ["一词多义", "语境", "词义", "阅读"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第二册 Unit 1 Food for Thought",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B2_U1_001",
+      "name": "一般过去时与现在完成对比",
+      "definition": "一般过去时叙述过去事件与现在完成时强调现在影响的区分。",
+      "explanation": "你写与饮食相关的经历时要区分两种时态：一般过去时只叙述过去某时发生的事件，与现在无关；现在完成时强调动作对现在的影响或一直延续。比如 I tried the dish yesterday 只说我昨天尝过，I have tried it 强调我已尝试过这一体验。依据句意是否关联现在来选时态更准。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "句意强调现在影响却误用一般过去时脱离现联系",
+        "只叙述昨天过去动作却误用现在完成时模糊时间",
+        "两时态对应的时间状语选用错误互相矛盾"
+      ],
+      "example": "[仿题]我昨天尝过这道菜。\n解析：I tried the dish yesterday，过去状语配一般过去时。",
+      "keywords": ["一般过去时", "现在完成时", "对比", "影响"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U1_002",
+      "name": "that 引导宾语从句",
+      "definition": "用 that 引导宾语从句陈述所说、所想或所知的内容。",
+      "explanation": "你用动词 say、think、know 等表达内容时用 that 引导宾语从句，that 在从句中不充当成分，常可省略。比如 I think that the soup is delicious 中 that 引出想法。写表达观点或转述的句子用宾语从句能让句子更完整。注意 that 从句里要按需选择正确的时态形式。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "think 后宾语从句漏写连接词 that 造成结构残缺",
+        "宾语从句主谓顺序被误倒装成疑问语序",
+        "that 引导宾语分句时与定语引导词概念混淆"
+      ],
+      "example": "[仿题]我认为汤很美味。\n解析：I think that the soup is delicious，that 引出宾语从句。",
+      "keywords": ["that", "宾语从句", "think", "连接词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U1_003",
+      "name": "宾语从句的时态呼应",
+      "definition": "主句为过去时宾语从句随之调整时态的呼应规则。",
+      "explanation": "当主句用过去时如 said，其宾语从句常随之把动词改成相应的过去时形式，即时态跟随呼应。比如 He said the dish was tasty 中 was 随 said 由 is 变过去。但若从句陈述客观或仍属事实的一般真理，则可保持现在时。写转述时你要据主句时态合理调整从句。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "词语 said 后的从句仍用现在时而未随之过去化",
+        "客观事实的从句被误改时态而违背真实语义",
+        "主句过去时从句时态与原本语境不一致"
+      ],
+      "example": "[仿题]他说菜很可口。\n解析：He said the dish was tasty，从句随 said 用过去时。",
+      "keywords": ["时态呼应", "宾语从句", "过去时", "转述"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U1_004",
+      "name": "询问饮食偏好的疑问句",
+      "definition": "用一般疑问及特殊疑问获取饮食偏好信息的句型结构。",
+      "explanation": "你询问对方饮食偏好时可用一般疑问句如 Do you like ...? 或特殊疑问句如 What food do you enjoy?。一般疑问句回答是或否，特殊疑问句获取具体信息。写对话时先用 Do you 确认是否喜欢，再用 What 追问细节，配合 do 与行为动词原形，表达自然有礼貌。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "疑问句中误保留动词第三人称单数而非原形",
+        "特殊疑问词选错 while 具体询问对象造成错位",
+        "一般疑问与特殊疑问的语序结构混淆使用"
+      ],
+      "example": "[仿题]你喜欢吃面条吗？\n解析：Do you like noodles? 一般疑问句用 do 提问。",
+      "keywords": ["疑问句", "do", "饮食偏好", "特殊疑问"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U1_005",
+      "name": "可数与不可数名词表达",
+      "definition": "食物类名词可数与否及相应量词与动词的选择规则。",
+      "explanation": "你谈论食物时要注意名词可数性：可数名词如 apple 有单复数，不可数如 rice、milk、bread 不能加 s，也不能直接用 a。表达数量时不可数用 some、much 或量词 a cup of 等。写句时先确认名词是否可数，再选择相应的量词和谓语形式。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "不可数名词 rice 误加复数 s 造成可数化错误",
+        "不可数名词前误用 a 或用具体量限定表达",
+        "量词 a bowl of 之后的谓语与量词单复数错配"
+      ],
+      "example": "[仿题]我要一碗米饭。\n解析：I want a bowl of rice，不可数用量词 a bowl of。",
+      "keywords": ["可数名词", "不可数名词", "量词", "rice"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U1_006",
+      "name": "对待食物的动词短语",
+      "definition": "描述人们对食物喜好与习惯的常用动词短语搭配。",
+      "explanation": "你讨论食物态度时常用 be keen on 喜爱、be fond of 喜欢、be crazy about 痴迷、be against 反对等表达。比如 be keen on the spicy food 表示偏爱辣食。这些短语多为 be 加介词结构，后接名词或动名词。写饮食话题作文用它们描述偏好，比简单 I like 更有变化。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "be keen on 与 be fond of 的介词接法混淆用错",
+        "短语后误接动词原形而应接名词或动名词",
+        "be crazy about 与喜爱程度的语义强弱搞反"
+      ],
+      "example": "[仿题]他偏爱辣食。\n解析：He is keen on spicy food，keen on 后接名词。",
+      "keywords": ["be keen on", "be fond of", "喜爱", "介词搭配"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U1_007",
+      "name": "饮食文化主题词汇",
+      "definition": "描述各国饮食文化与传统烹饪的核心英语词汇。",
+      "explanation": "你讨论饮食文化会用 cuisine 菜肴、traditional 传统的、recipe 食谱、ingredient 食材、flavour 风味等词。比如 traditional Chinese cuisine 传统中国菜，fresh ingredients 新鲜食材。写作时适当地用到这些词，可使你对美食文化的描写兼具专业与生动感。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把 ingredient 的常见元音字母位置拼写颠倒",
+        "表示口味的 flavour 误把拼写写成 flavor 英美拼写混用",
+        "传统 traditional 误拼成 tradional 漏掉 i 字"
+      ],
+      "example": "[仿题]中国菜很受欢迎。\n解析：Chinese cuisine is popular，cuisine 表菜肴。",
+      "keywords": ["cuisine", "ingredient", "traditional", "flavour"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U1_008",
+      "name": "描述食物味道的形容词",
+      "definition": "描述食物口味酸甜苦辣等特征的常用形容词。",
+      "explanation": "你评价食物时常用 spicy 辛辣的、sweet 甜的、sour 酸的、salty 咸的、bitter 苦的等形容词。可以放入系动词后作表语，如 The soup tastes spicy。对比不同口味时区分 delicious 美味与 tasty 可口。写食物作文用这些词生动刻画味道层次感。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "sour 与 bitter 的酸甜与苦味混淆用词",
+        "spicy 用于连接系动词后误用副词形式",
+        "形容美味 delicious 与可口的 tasty 语义重复堆砌"
+      ],
+      "example": "[仿题]汤尝起来辛辣。\n解析：The soup tastes spicy，taste 系动词接形容词。",
+      "keywords": ["spicy", "sweet", "bitter", "味道"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U1_009",
+      "name": "表示三餐与用餐场景词汇",
+      "definition": "描述早午晚餐及用餐习惯常用的饮食场景词汇。",
+      "explanation": "你谈论三餐常用 breakfast 早餐、lunch 午餐、dinner 正餐、supper 晚餐、dessert 甜点等词。可说 have breakfast 吃早饭、order a meal 点餐、be ready for dinner 准备用餐。写日常饮食作文时用这些场景词组织一天进餐流程更清晰自然。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "have 后误接冠词 a 而成 have a breakfast 的错误表达",
+        "breakfast 与 dinner 三餐词序与时段搭配错乱",
+        "点餐表达 order 后误接介词 up 造成多余成分"
+      ],
+      "example": "[仿题]我吃了早饭。\n解析：I have breakfast，have 后直接接三餐名词。",
+      "keywords": ["breakfast", "lunch", "dinner", "三餐"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U1_010",
+      "name": "常见量词与食物搭配",
+      "definition": "表示份量容量的量词 a cup 等与食物名词的搭配方法。",
+      "explanation": "你表达食物份量时用 a cup of 一杯、a piece of 一片、a slice of 一薄片、a box of 一盒等量词，再接不可数名词或食物。比如 a piece of bread 一片面包，a cup of tea 一杯茶。量词本身随数量变化单复。写用餐表达时按食物形态选合适量词，准确又有画面。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "一片面包误用 a slice of 与 a piece of 两者混用",
+        "量词复数后误称名词仍保持不可数的单数形式",
+        "量词搭配与食物形态不匹配造成表达怪异"
+      ],
+      "example": "[仿题]一片面包就够了。\n解析：A piece of bread is enough，用 a piece of 表一片。",
+      "keywords": ["量词", "a piece of", "a cup of", "食物"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U1_011",
+      "name": "表示饮食习惯的频率表达",
+      "definition": "用频度副词描述经常性饮食偏好与习惯的方法。",
+      "explanation": "你刻画自己的饮食规律时会用到 usually、always、sometimes、never 等频度副词，放在行为动词之前。比如 I never eat spicy food 表示我从不吃辣。描述习惯频率时依据实际情况选词。写饮食自述时用这些副词分布在一日三餐中，让描述贴近实际并显生动。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "频度副词放错位置放在句尾造成语序不当",
+        "never 与 always 的否定肯定程度选用颠倒",
+        "频率表达与单三人称加s同时误用产生冲突"
+      ],
+      "example": "[仿题]我从不吃辣。\n解析：I never eat spicy food，never 放行为动词之前。",
+      "keywords": ["频度副词", "习惯", "never", "频率"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U1_012",
+      "name": "表达饮食观点的关联词",
+      "definition": "表达转折递进因果饮食看法的常用连接词用法。",
+      "explanation": "你写饮食观点的段落时常用转折连接词 but、however 及因果连接词 because、so 组织逻辑。比如 The food is spicy but tasty，用 but 表示转折，前后形成对比。写作文时先用观点句再补充依据，句间用连接词衔接，让论证显得更有条理易读。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "转折逻辑却误用因果连接词 because 造成关系错位",
+        "but 后接的分句缺少主语结构不完整",
+        "递进与因果连接词选择与语义指向不匹配"
+      ],
+      "example": "[仿题]菜辣但好吃。\n解析：The food is spicy but tasty，but 表转折对比。",
+      "keywords": ["but", "because", "连接词", "观点"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

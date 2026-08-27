@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第一册 Unit 5 Revealing Nature",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B4_U5_001",
+      "name": "宾语从句连接词用法",
+      "definition": "依据从句内容选择that、whether、疑问词等词连接宾语从句的方法。",
+      "explanation": "宾语从句的连接词由从句含义决定：陈述内容用that，表是否用whether或if，有疑问信息用when、where、who等疑问词。你判断从句是陈述、选择还是含疑问点，从而挑出合适的连接词。确认后把它放在从句开头，连接主句与从句的关系就成立了。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "陈述宾语从句误用if而漏用that",
+        "选择疑问条件误漏whether",
+        "把疑问词与陈述that混选"
+      ],
+      "example": "[仿题]I know ___ she is.\n解析：含who疑问信息填who。",
+      "keywords": ["宾语从句", "that", "whether", "疑问词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U5_002",
+      "name": "宾语从句语序陈述化",
+      "definition": "宾语从句即使含疑问意义也用陈述语序而非疑问倒装的结构。",
+      "explanation": "宾语从句无论引导词是什么，都使用陈述语序即主语在前、谓语在后，比如I wonder where she lives。你即使从句的意思带疑问，也绝不能保留主谓倒装。先按对应句子想清楚，再顺势把主谓排成陈述顺序，这样疑问变宾语就不混乱了。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "宾语从句误用倒装语序did she go",
+        "疑问词后仍保留助动词提前",
+        "把疑问句直接照搬进从句"
+      ],
+      "example": "[仿题]Tell me where he ___.\n解析：宾语从句陈述语序填lives。",
+      "keywords": ["宾语从句", "陈述语序", "主语", "倒装"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U5_003",
+      "name": "that引出的宾语从句可省略",
+      "definition": "陈述式宾语从句中的that在口语和多数动词后可省略的用法。",
+      "explanation": "object作宾语时，引导词的that在that、know、believe等动词后常可省略，如I think (that) it's true。你是为了流畅起见还是精简，可把that省略，句意不变。抓住从句是陈述句时that可省、含疑问词时不可省这一区分，宾语从句接起来就轻松了。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "含疑问词宾语从句中误省略连接词",
+        "把that可省的陈述与whether混用",
+        "省略that后忘了调整句子语序"
+      ],
+      "example": "[仿题]She felt (that) it was right.\n解析：that省略仍成立。",
+      "keywords": ["that", "省略", "宾语从句", "陈述"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U5_004",
+      "name": "表语从句引导词选择",
+      "definition": "根据表语从句内容选择that、because、whether或疑问词的用法。",
+      "explanation": "表语从句常由that、whether、because或疑问词引导，如The reason is that he tried，说明理由时可用because。你判断表语从句要表达事实、原因、是否还是疑问点，据此选择引导词。表语从句语序同样用陈述序。选对了引导词与被说明的成分就一致了。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "表语从句误用疑问倒装语序",
+        "表原因的because与表事实的that混淆",
+        "该用疑问词却用that连接"
+      ],
+      "example": "[仿题]The truth is ___ we won.\n解析：陈述事实填that。",
+      "keywords": ["表语从句", "that", "because", "疑问词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U5_005",
+      "name": "宾语表语从句时态呼应",
+      "definition": "主句过去时宾语从句动词按引语规则调整时态的呼应规律。",
+      "explanation": "主句为过去时时，宾语从句的动词通常要把时态后移一格，如He said (that) he was tired。一般现在变一般过去、一般过去变过去完成。你判断主句是否过去时，是的话就把从句动词相应调整，让时间呼应保持一致。注意主句现在时时从句保持原时态。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "主句过去时从句仍用现在时",
+        "一般过去误升级为过去完成而不必要",
+        "主句现在时从句却强行后移时态"
+      ],
+      "example": "[仿题]He said he ___ happy earlier.\n解析：主句过去时填was。",
+      "keywords": ["时态呼应", "宾语从句", "过去时", "引语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U5_006",
+      "name": "名词性从句that不能省规则",
+      "definition": "表语从句、同位语从句及主语从句中的that一般不可省略的语法规则。",
+      "explanation": "虽然宾语从句的that可省，但表语、同位语和主语从句中的that通常不能省略，比如The fact that he came surprised us。留此that是为了让从句结构清晰。你判断从句在句中的角色，若它做主语或表语，就保留that引导。这样句子在复杂写作中才层次分明。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "表语从句中误省略连接词that",
+        "把主语从句引导的that漏掉",
+        "含双that时漏省了后半句必要的连接词"
+      ],
+      "example": "[仿题]The news ___ he won spread fast.\n解析：同位语从句不可省填that。",
+      "keywords": ["that", "表语从句", "同位语", "不可省略"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U5_007",
+      "name": "自然探究主题词汇",
+      "definition": "描述自然观察、实地考察与环境研究的常用名词与动词。",
+      "explanation": "探索自然离不开nature自然、environment环境、habitat栖息地、species物种、ecosystem生态系统、observe观察、explore探索这些词。表达研究自然用study the environment，描述多样性用biodiversity生物多样性。你把这些探究词汇成组记忆，读科普与写体验就顺手多了。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把species单复数混淆不分",
+        "把ecosystem误拼成ecosystm漏字母",
+        "把habitat与habit形近词混淆"
+      ],
+      "example": "[仿题]Many ___ live here.\n解析：多数物种填species。",
+      "keywords": ["自然", "环境", "物种", "生态", "观察"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U5_008",
+      "name": "自然现象描述词汇",
+      "definition": "描述星系、天气、地形等自然现象形成与变化的常用名词。",
+      "explanation": "谈自然现象会用climate气候、season季节、mountain山脉、river河流、forest森林、desert沙漠、environment环境这些词。描述天气变化用the weather changes，说明地形用mountain range山脉。你区分自然现象各要素后用这些名词连贯描写，能清晰展现壮阔的图景。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把climate与weather气温季节区分",
+        "把mountain误拼成mountain双n错误",
+        "把desert与dessert读法拼写混淆"
+      ],
+      "example": "[仿题]The ___ rises in the east.\n解析：太阳升起填sun。",
+      "keywords": ["气候", "山脉", "森林", "沙漠", "自然现象"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U5_009",
+      "name": "生物生态基础词汇",
+      "definition": "描述动植物生长发育与生态平衡的核心名词和动词。",
+      "explanation": "生态话题你会用到plant植物、animal动物、grow生长、reproduce繁殖、balance平衡、genetic遗传的、variety多样性这些词。表达保持平衡用keep the balance，说明基因差异用genetic diversity。你把这些与生态平衡密切相关的词关联记忆，分析生物环境关系就更轻松。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把genetic误拼成genntic漏字母",
+        "把variety的抽象意义与variety of结构混淆",
+        "把balance作主谓判配合错"
+      ],
+      "example": "[仿题]The area keeps its ___.\n解析：保持生态平衡填balance。",
+      "keywords": ["植物", "动物", "生态平衡", "遗传", "多样性"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U5_010",
+      "name": "科学探究动词词组",
+      "definition": "表达假设形成、实验验证与分析结论的科学探究动词短语。",
+      "explanation": "科学探究过程常配hypothesis假设、experiment实验、test测试、prove证明、analyse分析、conclude得出这些动词。表示开展研究用carry out a study，解释现象用explain a phenomenon。你先提出假设再用experiment验证，最后分析数据得出conclusion，系统阶段清晰。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把hypothesis的单复数误写成hypothesises",
+        "把carry out介词遗漏成carry",
+        "把analyse与analysis词性混淆"
+      ],
+      "example": "[仿题]They carried ___ a test.\n解析：开展实验填out。",
+      "keywords": ["假设", "实验", "证明", "分析", "结论"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U5_011",
+      "name": "科学报告衔接表达",
+      "definition": "用连接词缩写研究步骤、得出推理的科学说明衔接方式。",
+      "explanation": "撰写科研或观察说明时你用first、then、next、finally等连接步骤，用therefore、as a result说明因果。表达整理阶段用the results showed that句式，导出结论前先用连接词搭好架构。写自然探究时按实际观察顺序连贯呈现，报告逻辑与科学论述自然成立。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "步骤连接词使用顺序混乱",
+        "因果句the results showed后误加疑问词",
+        "finally后的结论时态选错"
+      ],
+      "example": "[仿题]___ the study, we concluded.\n解析：最后填Finally。",
+      "keywords": ["步骤", "连接词", "因果", "推理", "报告"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U5_012",
+      "name": "whether与that的选用",
+      "definition": "根据从句表选择还是陈述来选用whether或that引导名词性从句。",
+      "explanation": "whether与that都可引导名词性从句，区别在于语义：从句表是否选择用whether，表陈述事实用that。比如I doubt whether it works与I'm sure that it works。你判断从句是表达二选一的不确定还是确定的陈述，据此选择连接词，宾语表语从句就准确。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "不确定选whether却误用that",
+        "陈述句用whether以致语义不符",
+        "whether后语序误写成疑问倒装"
+      ],
+      "example": "[仿题]I'm not sure ___ she agrees.\n解析：表是否填whether。",
+      "keywords": ["whether", "that", "选择", "陈述", "名词性从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

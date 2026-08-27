@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第一册 Unit 1 A New Start",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B1_U1_001",
+      "name": "一般现在时表示经常性事实",
+      "definition": "描述经常性动作或客观真理所使用的一般现在时形式。",
+      "explanation": "你使用一般现在时有两个典型场景：一是表示经常性、习惯性的动作，比如你每天的上学作息；二是陈述客观事实和真理，比如太阳从东方升起、水在常温下是液体。判断时先看句子是否带频度副词 always、usually、often 或 every day 这类时间状语，有它们时基本用一般现在时。记住它不只表示此刻发生的动作，还包括长期规律和客观常理。",
+      "difficulty": 2,
+      "frequency": 5,
+      "typical_errors": [
+        "把客观真理误用成过去时来描述，导致时态与常识冲突",
+        "带 always 的句子被误写成现在进行时表达习惯",
+        "主语是复数仍错误地给动词加第三人称单数s"
+      ],
+      "example": "[仿题]太阳从东方升起。\n解析：The sun rises in the east，客观真理用一般现在时。",
+      "keywords": ["一般现在时", "频度副词", "客观真理", "习惯动作"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B1_U1_002",
+      "name": "一般过去时叙述已发生的经历",
+      "definition": "用一般过去时描述之前发生并已结束的动作或状态。",
+      "explanation": "你回顾开学当天的事时就用一般过去时，它的标志是 yesterday、last week、last term 这类过去时间状语。动作发生在过去且已完成，与现在没有必然联系，这是它和现在完成时最明显的区别。看到 yesterday 你就应当想到动词要变成过去式。讲述完整故事时，通篇多用一般过去时保持叙事时态的一致。",
+      "difficulty": 2,
+      "frequency": 5,
+      "typical_errors": [
+        "叙述故事中途突然把动词切回一般现在时造成混乱",
+        "遇到 last week 仍错误地保留动词原形不作过去式变化",
+        "段时间状语 ago 的句子被误写成现在时形式"
+      ],
+      "example": "[仿题]昨天我们去参观了新学校。\n解析：We visited the new school yesterday，过去状语配过去式。",
+      "keywords": ["一般过去时", "过去时间状语", "过去式", "叙事"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B1_U1_003",
+      "name": "一般现在时第三人称单数",
+      "definition": "主语为第三人称单数时一般现在时动词需加s或es的规则。",
+      "explanation": "你写出 he、she、it 或单独一个人名做主语时，一般现在时的动词要加 s；以 s、sh、ch、x 结尾的词加 es，辅音加 y 结尾把 y 变 i 再加 es。很多同学在这里因为忽略主语而漏加或误加。写完句子你可以回读主语，确认它是不是第三人称单数，再回头检查动词形式是否匹配。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "主语是复数 they 仍重复给动词加第三人称单数s",
+        "study 类辅音加y结尾未变 y 为 i 再加 es",
+        "误把第三人称单数加s用到情态动词后的动词原形上"
+      ],
+      "example": "[仿题]他每天六点起床。\n解析：He gets up at six，主语第三人称单数动词加s。",
+      "keywords": ["第三人称单数", "动词变位", "加s加es", "一般现在时"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B1_U1_004",
+      "name": "规则与不规则动词过去式",
+      "definition": "动词构成过去式分为规则加ed和不规则变化两大类型。",
+      "explanation": "你背过去式时，规则动词一般直接加 ed，以 e 结尾只加 d，辅音加 y 改 i 加 ed，重读闭音节双写末尾辅音再加 ed。而不规则动词如 go 变成 went、have 变成 had 只能靠逐步记忆积累。做题填空时若你想不起某个词的过去式，就到记忆清单里确认，不要想当然。平时可用你亲身经历造句来加深印象。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "重读闭音节词 stop 未双写 p 直接加 ed 写成 stoped",
+        "把不规则 have 的过去式按规则拼成 haved",
+        "以 e 结尾的规则动词误加成 ed 而少写一个 e"
+      ],
+      "example": "[仿题]昨天他停下了跑步。\n解析：He stopped running，重读闭音节双写p再加ed。",
+      "keywords": ["过去式", "规则变化", "不规则动词", "双写"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B1_U1_005",
+      "name": "一般现在时与过去时转换",
+      "definition": "同一情境下一般现在时与一般过去时相互转换的时态对应关系。",
+      "explanation": "你写回忆性记叙文时，开篇用一般现在时交代背景，记叙具体发生的事件时改走一般过去时，这是最常见的叙事切换。转换时不仅要改动词时态，还要同步改相关时间状语，比如 today 改成 yesterday、now 改成 then。there be 结构、情态动词等也要相应调整。无论句子多长，都要让整句时态保持一致。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "转换时只改主句动词而忘了让从句时态跟着同步变化",
+        "把 today 留着却把动词改过去式，时间状语与动词时态不匹配",
+        "情态动词 can 在过去语境未改成 could 保持时态一致"
+      ],
+      "example": "[仿题]今天我很忙，昨天也很忙。\n解析：Today I am busy, yesterday I was busy，状语与时态同步。",
+      "keywords": ["时态转换", "时间状语", "叙事一致", "过去式"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B1_U1_006",
+      "name": "开学新起点主题词汇",
+      "definition": "描述新学校新学期环境与感受的核心英语词汇。",
+      "explanation": "你开学就会遇到这些高频词：campus 校园、classmate 同学、timetable 课表、challenge 挑战、confident 自信的。写作介绍新班级时可串联使用，比如可以说你的新学期学习充满挑战。记忆时把表示环境的名词和表示感受的形容词分组背诵，场景会更清晰。遇到此类话题直接调用，既扣题又加分。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "需表达挑战含义时误把名词 challenge 当成动词变形来用",
+        "介绍校园时把 campus 误拼成 campus 类似的错误拼写",
+        "表达自信误把 confident 与名词 confidence 的拼写混淆"
+      ],
+      "example": "[仿题]校园里有很多同学。\n解析：There are many classmates on campus，用 classmate 表示同学。",
+      "keywords": ["campus", "classmate", "challenge", "timetable"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B1_U1_007",
+      "name": "描述校园活动的动词短语",
+      "definition": "描述校园学习生活常用动作的动词及短语搭配。",
+      "explanation": "你介绍校园日常时常用这些动词短语：take part in 参加、go over 复习、hand in 上交、get along with 与某人相处。注意 take part in 强调参与活动，与 join 加入组织有所不同。作文里描述新学期生活，可以说 you will take part in a reading club。记住这些搭配的宾语类型，避免乱搭配造成表达错误。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "参与活动误用 join 与 take part in 混淆接法",
+        "上交作业表达时把 hand in 的 in 脱落写成 hand",
+        "相处 get along with 之中漏掉 with 造成介词缺失"
+      ],
+      "example": "[仿题]我参加了读书俱乐部。\n解析：I took part in a reading club，活动用 take part in。",
+      "keywords": ["take part in", "hand in", "动词短语", "搭配"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B1_U1_008",
+      "name": "表达期待与目标的心情",
+      "definition": "表达对未来学习生活期待与目标情感的表达方式。",
+      "explanation": "你表达期待的心情可用 look forward to 期待、be excited about 对兴奋、set a goal 设定目标等表达。注意 look forward to 中 to 是介词，后面要接动名词而不是动词原形，这是常见易错点。新学期写目标作文时，你可以先直陈心情，再说明打算做的事，最后落到可落地的目标，让表达更有层次。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "look forward to 后误接动词原形而违背介词接动名词规则",
+        "表达对某事兴奋误用 be excited of 搭配",
+        "set a goal 表达中把 set 误写成过去式 sets 用错主语"
+      ],
+      "example": "[仿题]我期待见到新老师。\n解析：I look forward to seeing the new teacher，to 后接动名词。",
+      "keywords": ["look forward to", "动名词", "心情", "目标"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B1_U1_009",
+      "name": "名词变形容词的词形变化",
+      "definition": "通过加后缀把名词转化为描述性质的形容词的方法。",
+      "explanation": "你在表达人或事物特征时，常需要把一个名词变成形容词。常见规律是加后缀，如 day 变 daily、care 变 careful、friend 变 friendly。看清句子需要名词还是形容词再选用形式，是这类题的关键。写作时可通过转换词性让表达更丰富，比如描述一个友好的同学用 a friendly classmate，而不是重复名词。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "需要形容词修饰名词时仍用名词原形造成词性错误",
+        "把 friendly 误拼成 friendful 叠加错误后缀",
+        "单词转化时未注意字母等拼写细节而写错词形"
+      ],
+      "example": "[仿题]他是一位友好的同学。\n解析：He is a friendly classmate，friend 加ly 变形容。",
+      "keywords": ["词形变化", "形容词", "后缀", "词性"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B1_U1_010",
+      "name": "人称代词与物主代词对应",
+      "definition": "指代人时人称代词与物主代词在句中的对应使用规则。",
+      "explanation": "你说到某人时要用对人称代词主格 I、he 和宾格 me、him，表达所属关系时用物主代词 my、his。关键是把主格、宾格、形容词性物主代词和名词性物主代词四组梳理清楚。写句子时先判断这个词在句中扮演什么角色：主语用主格，宾语用宾格，后面接名词用物主，这样就不会张冠李戴。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "宾语位置误用主格 he 而没用宾格 him",
+        "物主代词后漏掉要修饰的名词致使成分残缺",
+        "需表达朋友关系时 my 与 mine 的使用位置混淆"
+      ],
+      "example": "[仿题]他是我的好朋友。\n解析：He is my good friend，主格做主语物主后接名词。",
+      "keywords": ["人称代词", "物主代词", "主格", "宾格"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B1_U1_011",
+      "name": "there be 结构表示存在",
+      "definition": "用 there be 句型表达某人或某物存在的基本结构。",
+      "explanation": "你用 there be 表示某处存在某人某物时，句首习惯放 there，而后面的 be 形式由离它最近的名词单复数决定，遵循就近原则。比如 There is a pen and some books 中只跟最近的名词。否定句加 not，疑问句把 be 提前。写这个结构时记得它不是 have 表归属，别把两者混用。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "there be 与 have 混用表达同一条存在含义",
+        "be 动词形式未遵循就近于最近名词的规则",
+        "单数名词前误用 there are 造成主谓不一致"
+      ],
+      "example": "[仿题]桌上有本书。\n解析：There is a book on the desk，就近单数用 is。",
+      "keywords": ["there be", "存在", "就近原则", "主谓一致"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B1_U1_012",
+      "name": "表示频度的副词排序",
+      "definition": "按频率高低对 always 等频度副词进行正确排序的用法。",
+      "explanation": "你表达动作发生的频繁程度时，应按频率从高到低使用这些副词：always 总是、usually 通常、often 经常、sometimes 有时、never 从不。它们在句中通常放在行为动词前、be 动词之后。做排序或选词题时，先用语义判断程度深浅，再考察在句中的位置，避免把 often 和 usually 的程度弄反。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 usually 与 often 的频率高低误判颠倒",
+        "频度副词误放到句尾造成语序不当",
+        "倍语 always 与 never 的否定含义区分不清"
+      ],
+      "example": "[仿题]你上学总是准时。\n解析：You are always on time，频度副词放 be 动词之后。",
+      "keywords": ["always", "频度副词", "程度", "语序"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第一册 Unit 2 Onwards and Upwards",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B4_U2_001",
+      "name": "否定词位于句首的部分倒装",
+      "definition": "never、hardly等否定词置于句首时，主句采用部分倒装的结构。",
+      "explanation": "当never、hardly、seldom、rarely、not only等否定或半否定词放在句首时，主句要用部分倒装，即把助动词或系动词提到主语前，如Never have I seen such a view。你判断句子是否以这类否定词开场，是的话就要调整语序。否定词本身构成倒装的前提，主语和谓语也随之互换。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "否定词在句首却忘了倒装，保持正常语序",
+        "把需要助动词提前写成把行为动词提前",
+        "半否定词hardly等漏入倒装判断范围"
+      ],
+      "example": "[仿题]Never ___ I seen such a sight.\n解析：句首否定倒装填have。",
+      "keywords": ["否定词", "部分倒装", "never", "助动词提前"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U2_002",
+      "name": "only位于句首的倒装",
+      "definition": "only加状语位于句首时，主句部分倒装以加强语气的结构。",
+      "explanation": "only强调状语并置于句首时，主句要用部分倒装，如Only then did I understand。only后面接的是时间、方式等状语，不是主语。你判断only后是否接状语而非名词主语，符合条件就应倒装。把助动词do、did提前到主语前，整个句子语气就更强了。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "only后接状语却漏掉倒装结构",
+        "only后接主语却错误倒装",
+        "倒装时选错助动词，用did仍漏行为动词变化"
+      ],
+      "example": "[仿题]Only then ___ I realize it.\n解析：only状语倒装填did。",
+      "keywords": ["only", "部分倒装", "状语", "强调", "助动词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U2_003",
+      "name": "so与neither的附和",
+      "definition": "用so加助动词表示也，用neither nor加助动词表示也不的附和倒装。",
+      "explanation": "当你要表达前面的情况也适用于另一个人时，用so加助动词加主语，比如He passed, so did I。表达也不时用neither或nor加助动词加主语，如I don't like it, neither do you。助动词由前面句子的时态决定。你抓住这个呼应关系，附和和反驳的句子就地道。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "so倒装里助动词与前句时态不一致",
+        "把neither倒装错写成so加否定词",
+        "附和时用so I do而非so do I弄反主谓"
+      ],
+      "example": "[仿题]She works hard, so ___ I.\n解析：也而努力倒装填do。",
+      "keywords": ["so", "neither", "部分倒装", "附和", "助动词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U2_004",
+      "name": "here与there倒装用法",
+      "definition": "在句子描写中用于here there等副词加谓语加主语的倒装现象。",
+      "explanation": "here、there以及away、out等方位副词放在句首时常用完全倒装，构成副词加谓语加主语，如here comes my friend、out rushed the boy。这类倒装主语为名词时才倒装，若主语为人称代词则恢复正常语序。你先看主语词性，再按这规则安排语序。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "人称代词主语仍进行完全倒装",
+        "把方位副词句误当成被动态处理",
+        "完全倒装与部分倒装的概念混淆"
+      ],
+      "example": "[仿题]Here ___ your friends.\n解析：方位名词主语倒装填come。",
+      "keywords": ["here", "there", "完全倒装", "方位副词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U2_005",
+      "name": "部分与完全倒装判别",
+      "definition": "根据句首成分和句子结构判断用完全倒装还是部分倒装的方法。",
+      "explanation": "判断倒装类型时，先把倒装分成完全倒装和部分倒装两类。完全倒装是谓语整体移到主语前，常见于here there等方位词句；部分倒装只把助动词或系动词提前主语前，常见于否定词 only副词位于句首。你依据句首词义和谓语结构判断类型，类型判断对了倒装就迎刃而解。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "把完全倒装与部分倒装选错类型",
+        "部分倒装时误把行为动词整体提前",
+        "判断句首词是否状语时混淆成分功能"
+      ],
+      "example": "[仿题]Only by ___ can we win.\n解析：only介词句首部分倒装填working。",
+      "keywords": ["完全倒装", "部分倒装", "判别", "谓语位置"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U2_006",
+      "name": "倒装句主谓一致判断",
+      "definition": "判断倒装句中谓语动词与真正主语的单复数一致关系的规则。",
+      "explanation": "在倒装句里，无论成分怎样移动，谓语都要与真正的主语保持一致。比如There come the boys用的是复数，Here is a book用单数。你先把倒装句还原成正常语序，找到真正主语，再决定用单数还是复数谓语，这样主谓一致就不会受位置干扰而判错。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "倒装时被句首词干扰而选错单复数",
+        "未还原语序就判断主谓是否一致",
+        "there be中把复数主语当单数处理"
+      ],
+      "example": "[仿题]There ___ two letters.\n解析：复数主语填are。",
+      "keywords": ["主谓一致", "真正主语", "倒装", "单复数"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U2_007",
+      "name": "励志榜样主题词汇",
+      "definition": "描述榜样人物坚持理想、克服困难与取得成就的核心名词与动词。",
+      "explanation": "励志话题常用motivation动力、goal目标、dream梦想、determination决心、perseverance坚持、achieve实现、success成功、role model榜样这些词。表达克服挫折用keep going继续前行、never give up永不言弃。写作谈梦想与现实差距时，用这些词串联努力的过程会很打动人。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把perseverance误拼成persearning漏字母",
+        "把determined与determination词性混用",
+        "把achieve误当名词使用，缺少ment后缀"
+      ],
+      "example": "[仿题]Her ___ inspires me daily.\n解析：她的坚持填perseverance。",
+      "keywords": ["动力", "目标", "决心", "坚持", "榜样"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U2_008",
+      "name": "努力奋斗过程词汇",
+      "definition": "描述刻苦努力、付出汗水与逐步提升的常用动词词组和名词。",
+      "explanation": "讲述奋斗过程时你用到work hard努力、struggle struggled挣扎、make effort付出努力、train训练、improve提高、practise练习这些词。表达付出努力用make an effort to do sth，表明改善用keep improving。先用动词说明采取的行动，再谈因此取得的进步，努力的过程就更真实具体。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把make an effort误写成make effort丢冠词",
+        "practise与practice英式动词美式名词混淆",
+        "把train误当成名词沿用，词性不分"
+      ],
+      "example": "[仿题]He made an ___ to win.\n解析：做出努力填effort。",
+      "keywords": ["努力", "训练", "提高", "付出", "磨练"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U2_009",
+      "name": "成功结果与收获词汇",
+      "definition": "描述达成目标后所获成就、认可与价值的常用名词与副词。",
+      "explanation": "表达成果时你用achieve实现、reward回馈、value价值、recognition认可、pride自豪、eventually最终这些词。说明最后实现目标可用achieve the goal，描述被认可用gain recognition。写励志结尾时先用eventually点出终有收获，再谈pride价值所在，故事有了圆满结局。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "recognition与recognize词性混用",
+        "把pride误拼成praied拼写错误",
+        "eventually误当形容词使用"
+      ],
+      "example": "[仿题]She felt great ___.\n解析：感到自豪填pride。",
+      "keywords": ["实现", "认可", "回馈", "自豪", "最终"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U2_010",
+      "name": "挫折与失败表达词汇",
+      "definition": "描述遭遇挫折、接受教训与从中成长的常用名词与动词。",
+      "explanation": "谈成长就离不开fail失败、failure失败、setback挫折、learn教训、give up放弃、keep trying不断尝试这些词。把失败当成学习机会用learn from the failure表达，拒绝放弃用refuse to give up。你写挫折时先如实描述失败，再写如何从中吸取教训并再站起来。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把failure误当动词使用，缺少fy动词形式",
+        "把learn from介词搭配错写成learn about",
+        "catch up与give up词义与搭配混淆"
+      ],
+      "example": "[仿题]We learn from each ___.\n解析：从每次挫折中学习填failure。",
+      "keywords": ["失败", "挫折", "教训", "坚持", "成长"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U2_011",
+      "name": "鼓励他人激励句式",
+      "definition": "用祈使句和鼓励语表达支持、信任并激励他人坚持的句式。",
+      "explanation": "鼓励他人常用祈使句和鼓励语，如Keep trying、Don't give up、You can make it、Believe in yourself。这些句子以动词原形开头邀请对方行动，否定鼓励用don't加原形。你按场合选用简洁有力的鼓励句，配合真诚语气能让对方重拾信心往前冲。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把祈使句加主观主语造成结构残缺",
+        "否定祈使句误用donot 的样子拼写",
+        "把you can make it的can误写成分词"
+      ],
+      "example": "[仿题]Don't ___ up, please.\n解析：别放弃祈使原形填give。",
+      "keywords": ["祈使句", "激励", "鼓励", "加油", "坚持"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U2_012",
+      "name": "梦想与承诺表达词汇",
+      "definition": "表达远期理想、实现诺言与奋斗目标的常用名词和固定搭配。",
+      "explanation": "谈梦想时你用dream梦想、ambition雄心、promise承诺、determination决心、hope希望、plan计划这些词。表示设定目标用set a goal，实现诺言用keep a promise。写作时先写心中梦想，再用决心与计划一步步实现，语言即真挚又有步骤感。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把ambition实现目标与determination字义混排",
+        "把keep a promise介词搭配写错",
+        "把plan作动词后宾语缺恰当的to do"
+      ],
+      "example": "[仿题]She set a clear ___.\n解析：设定明确目标填goal。",
+      "keywords": ["梦想", "雄心", "承诺", "目标", "计划"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

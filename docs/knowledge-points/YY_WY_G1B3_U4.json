@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第三册 Unit 4 Amazing Art",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B3_U4_001",
+      "name": "现在完成进行时的构成",
+      "definition": "用have或has加been加现在分词表示从过去持续到现在的动作的时态。",
+      "explanation": "你学习现在完成进行时，结构是have或has加been再加动词ing形式，比如She has been painting。它强调动作从过去一直延续到现在，可能刚结束也可能还在进行。看到for和since引导的时段，或语境强调持续不断，就优先用它。先看主谓一致再补been加ing，结构就不会错。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "漏写been，写成has painting这种残缺结构",
+        "把has和been顺序写反，主谓搭配错误",
+        "与现在完成时混淆，忽略been加ing持续含义"
+      ],
+      "example": "[仿题]She ___ painting all day.\n解析：强调持续填has been。",
+      "keywords": ["现在完成进行时", "been", "现在分词", "持续性"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U4_002",
+      "name": "完成时与完成进行时区别",
+      "definition": "区分现在完成时强调结果、完成进行时强调持续而未中断的用法差异。",
+      "explanation": "比较两个时态时，你抓准重点不同即可。现在完成时强调动作已完成的结果，如I have painted the wall表示画完了；现在完成进行时强调动作持续进行的过程，如I have been painting表示还在画或刚停。上下文里表达连续不停或强调过程时用完成进行，句子的重心决定了选择。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "该强调过程却用完成时，丢失持续意味",
+        "完成式和完成进行式形式混淆写反",
+        "只看有没有for since，忽略话语重心"
+      ],
+      "example": "[仿题]I have been ___ it.\n解析：强调正在持续填doing。",
+      "keywords": ["时态辨析", "现在完成时", "持续性", "句子重心"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U4_003",
+      "name": "there be完全倒装句型",
+      "definition": "以there加be引导、谓语动词置于主语之前的完全倒装结构。",
+      "explanation": "there be句是最典型的部分倒装，其实它是完全倒装的一种，谓语be置于主语之前，如there is a painting。there是引导词不译，真正主语是后面的名词。主语复数时be也要用复数，如there are paintings。你注意主谓一致和there的位置，这类题基本不会出错。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把there当成真实主语，导致be人称错误",
+        "复数主语误用there is单数形式",
+        "there与be排列顺序颠倒，结构生硬"
+      ],
+      "example": "[仿题]There ___ many works here.\n解析：复数主语填are。",
+      "keywords": ["there be", "倒装", "主谓一致", "完全倒装"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U4_004",
+      "name": "here位于句首的完全倒装",
+      "definition": "以here加谓语加主语排列、但人称代词作主语时恢复正常语序的用法。",
+      "explanation": "here引导句子时可完全倒装，构成here加谓语加主语，如here comes the artist。但当主语是人称代词时，你们必须返回here加主语加谓语的正常顺序，如here he comes不能写成here comes he。你记住代词例外这一条，这里类倒装的选择就稳了。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "主语是人称代词时仍倒装，写成here comes he",
+        "把here句与there句的语序规则混用",
+        "here句中误用现在进行时态导致时态错乱"
+      ],
+      "example": "[仿题]Here ___ your picture.\n解析：名词主语倒装填comes。",
+      "keywords": ["here", "完全倒装", "代词例外", "语序"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U4_005",
+      "name": "倒装基础中主谓须知",
+      "definition": "倒装时谓语动词须与真正主语一致、人称代词恢复原序的基本原则。",
+      "explanation": "处理倒装题时你先找准真正的主语，因为谓语动词要与它保持一致。比如there be句里的be由后面的名词单复数决定，here句同理需按主语判断。还要记得人称代词作主语时要恢复正常语序，名词主语才保持倒装。这两条主谓与语序原则，是倒装入门的基石。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "倒装时找错真正主语，动词人称搞错",
+        "名词复数主语却配单数be",
+        "人称代词为主语仍强行倒装"
+      ],
+      "example": "[仿题]Here ___ your books.\n解析：复数名词主语填are。",
+      "keywords": ["真正主语", "主谓一致", "代词", "语序", "倒装"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U4_006",
+      "name": "艺术欣赏中倒装联想",
+      "definition": "在叙述画作时借助倒装引起强调，突出艺术主体与观感的结构。",
+      "explanation": "艺术语篇里有时用倒装来强调，比如Here is the masterpiece这类结构，把最想突出的主体放在句首。你先把正常语序想清楚，再决定是否移到句前增强语气。把握强调与流畅的平衡，赏析表达既生动又不失准确。阅读时看到倒装也更快定位画面主体。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "为强调强行倒装破坏句子通顺",
+        "把强调倒装与疑问倒装混淆",
+        "艺术语境里误用人称代词倒装造成怪异表达"
+      ],
+      "example": "[仿题]Here ___ the painting!\n解析：强调画作在眼前填is。",
+      "keywords": ["强调", "艺术语篇", "语序", "主谓语序"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U4_007",
+      "name": "绘画及视觉艺术词汇",
+      "definition": "描述油画、素描、色彩、画面构成与观察视角的关键名词。",
+      "explanation": "艺术赏析离不开painting绘画、sketch素描、oil painting油画、colour色彩、canvas画布、scene场景、detail细节这些词。谈论画面时你用the background背景、the foreground前景说明层次。先抓主题颜色与构图，再用detail指出引人之处，赏析就自然有序。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把sketch误拼成sketh漏字母",
+        "colour与color拼写英式美式混用而不一致",
+        "把scene与scenery混淆使用场合"
+      ],
+      "example": "[仿题]The ___ shows a village.\n解析：展示村庄的画填painting。",
+      "keywords": ["油画", "素描", "色彩", "构图", "细节"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U4_008",
+      "name": "作品风格与手法词汇",
+      "definition": "表达写实、抽象、印象派等创作手法与风格的常用形容词。",
+      "explanation": "评析作品时用realistic写实的、abstract抽象的、impressive令人印象深刻的、vivid生动的、detailed细致的这些形容词。先把作品的手法定性，再用具体表现支撑判断，如The colours are vivid。风格词作定语或表语使用正确，才能准确传达你对作品的评价。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把abstract误拼成abstrct相形近词混淆",
+        "把impressive写成impressvite形容词词形错误",
+        "realistic与reality词性混用不加后缀"
+      ],
+      "example": "[仿题]The style is very ___.\n解析：风格写实填realistic。",
+      "keywords": ["写实", "抽象", "风格", "生动", "手法"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U4_009",
+      "name": "画家创作活动词汇",
+      "definition": "描述画家创作、灵感来源与艺术追求的常用动词和名词。",
+      "explanation": "讲述画家的创作经历时用到create创作、inspire启发、paint绘画、express表达、design设计、imagination想象这些词。作品灵感常用inspire sb来表达启示。先讲创作动作，再讲灵感为何而来，最后谈想表达的感悟，结构清晰层次分明。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把inspire误写成inspirer当动词用",
+        "create与creative词性混用",
+        "把imagination误当成动词造句"
+      ],
+      "example": "[仿题]Nature ___ her to paint.\n解析：大自然启发填inspires。",
+      "keywords": ["创作", "灵感", "启发", "想象", "表达"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U4_010",
+      "name": "观赏与感受表达词汇",
+      "definition": "描述观众欣赏作品时的反应、情绪与联想的动词和名词。",
+      "explanation": "表达观众感受时你用admire钦佩、enjoy享受、appreciate欣赏、wonder惊叹、moved被打动、impressed印象深刻这些词。描述观感时先用appreciate点出欣赏态度，再用moved说明情绪变化。写观展感想，先写看到了什么，再写内心的触动，感受就立体丰盈了。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把appreciate误用接to do而不是名词",
+        "把moved误当主动语态使用",
+        "admire与wonder的情感强度混用"
+      ],
+      "example": "[仿题]We ___ this beautiful art.\n解析：欣赏艺术填appreciate。",
+      "keywords": ["欣赏", "钦佩", "感受", "触动", "感动"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U4_011",
+      "name": "艺术评论主观句式",
+      "definition": "用I think、In my view等表达对作品主观评价的常用句型。",
+      "explanation": "表达个人评价多用I think、In my view、to me这样的介词短语放在句首，后接评价内容。比如In my view, the painting is moving。先给出观点，再用because补充理由，评价更扎实。用in my view这类表达引导，观点和事实分开呈现，评论逻辑就更清晰了。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把in my view误写成in my opinion混搭使用",
+        "I think后直接加because造成句子冗余",
+        "把to me位置放错，干扰句子主干"
+      ],
+      "example": "[仿题]___ my view, it's great.\n解析：在我看来填In。",
+      "keywords": ["主观评价", "I think", "观点", "评论句式"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U4_012",
+      "name": "美术馆与展览场合词汇",
+      "definition": "描述参观美术馆、聆听讲解、观展体验的常用名词与动词词组。",
+      "explanation": "观展场合常用gallery画廊、exhibition展览、museum博物馆、guide讲解员、tour参观、collection藏品这些词。你描述观展流程时，先从gallery进入，再跟随guide或tour浏览，最后谈collection的亮点。把名词搭配guider与动词visit连用，观展表达就完整顺畅了。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把gallery误拼成galery漏掉一个l",
+        "把exhibition与exhibit词性混用",
+        "museum名词前冠词使用不当"
+      ],
+      "example": "[仿题]We visited the art ___.\n解析：参观画廊填gallery。",
+      "keywords": ["画廊", "展览", "博物馆", "藏品", "观展"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

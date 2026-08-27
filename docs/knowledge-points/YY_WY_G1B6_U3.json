@@ -1,0 +1,211 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第三册 Unit 3 War and Peace",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B6_U3_001",
+      "name": "关系代词引导定语从句",
+      "definition": "关系代词在从句中作主语或宾语引导定语从句。",
+      "explanation": "关系代词 who、whom、which、that 在定语从句中充当成分。作主语时用 who、which、that，作宾语时可用 whom 和 that 也可省略。比如 the boy who helped me 中 who 作主语。你判断用哪个词，就看先行词指人还是指物，再看它在从句里做什么成分，双管齐下就不会出错。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "指物又作宾语时误用 whom",
+        "关系代词在从句中重复出现，造成成分多余",
+        "把关系代词与指示代词混为一谈"
+      ],
+      "example": "[仿题]The woman ___ lives next door is kind.\n解析：先行词指人且作主语，填 who。",
+      "keywords": ["关系代词", "who", "which", "先行词", "定语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U3_002",
+      "name": "where与when引导从句",
+      "definition": "where 指地点，when 指时间，皆作从句状语。",
+      "explanation": "关系副词 where 和 when 在定语从句中作状语。先行词表地点就用 where，比如 the city where he lives；表时间就用 when，比如 the day when we met。你判断时先看先行词是地点还是时间，再看从句里缺不缺主语或宾语，缺主宾就用关系代词，缺状语才用 where 和 when。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "先行词表地点却误用 which，忽视状语功能",
+        "从句缺宾语时仍用 where 导致成分缺失",
+        "把 where 误用为关系代词作宾语"
+      ],
+      "example": "[仿题]This is the school ___ I studied.\n解析：先行词场所作状语，填 where。",
+      "keywords": ["where", "when", "关系副词", "状语", "先行词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U3_003",
+      "name": "whose引导的定语从句",
+      "definition": "whose 指代所属关系，后接名词引导从句。",
+      "explanation": "whose 表示所属关系，相当于名词的定语，后面必须接名词。比如 the man whose daughter is a doctor，whose daughter 表示那个男人的女儿。你写这类句子时，whose 后面一定要跟名词，构成所属短语。先行词无论是人还是物都可以用 whose，这点要注意区分于其他关系词。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "whose 后直接接动词而非名词",
+        "把 whose 与 who's 的拼写混淆",
+        "先行词是物时不敢用 whose 而误用其他词"
+      ],
+      "example": "[仿题]The boy ___ father is a teacher is smart.\n解析：所属关系后接名词，填 whose。",
+      "keywords": ["whose", "所属关系", "先行词", "名词", "定语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U3_004",
+      "name": "which与that的选择",
+      "definition": "从句缺主语宾语用 which 或 that 引导。",
+      "explanation": "先行词指物且从句缺主语或宾语时，which 和 that 基本可互换。但在只有 that 的特殊情况，比如先行词被 only 修饰，或者先行词是不定代词时，只能用 that。你用 which 还是 that，先判断有没有只能用 that 的特殊情形，没有就二者均可，有就固定选 that，判断就快准。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "先行词是不定代词时误用 which",
+        "先行词前有 only 修饰时误选 which 而不用 that",
+        "which 与 that 都能用时就完全混淆不加选择"
+      ],
+      "example": "[仿题]This is all ___ I can give you.\n解析：先行词是不定代词，只能用 that。",
+      "keywords": ["which", "that", "选择", "不定代词", "先行词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U3_005",
+      "name": "关系代词与副词的判定",
+      "definition": "依据先行词在从句中的作用选择关系词。",
+      "explanation": "选择关系词的关键是看它在从句里的功能。若从句缺主语或宾语，就选关系代词 who、which、that；若缺状语，就选关系副词 where、when、why。比如 I remember the day when we met，从句缺时间状语所以用 when。你先默读从句，看缺的是什么成分，再回填关系词，就不会选错。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "从句缺宾语仍用关系副词造成成分缺失",
+        "从句不缺状语却误用 where 或 when",
+        "只凭先行词是时间地点盲目选词不看成分"
+      ],
+      "example": "[仿题]I know the reason ___ he was late.\n解析：从句缺原因状语，填 why。",
+      "keywords": ["关系代词", "关系副词", "成分判断", "先行词", "where"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U3_006",
+      "name": "非限制性定语从句",
+      "definition": "非限制性从句用逗号隔开，通常用 which。",
+      "explanation": "非限制性定语从句与主句用逗号隔开，前面有短暂的停顿，起到补充说明作用，不用 that 引导。指物时常用 which。比如 the book，which I read，was good，which 引导补充说明。你判断是不是非限制性从句，看有没有逗号，有逗号就记住不能用 that、不能省略关系词，用 which 更稳妥。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "非限制性定语从句中误用 that",
+        "逗号后的关系代词被省略造成结构残缺",
+        "限制性与非限制性从句混淆使用关系词"
+      ],
+      "example": "[仿题]The school, ___ has a long history, is famous.\n解析：非限制性且指物，填 which。",
+      "keywords": ["非限制性", "逗号", "which", "补充说明", "定语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U3_007",
+      "name": "介词加关系代词",
+      "definition": "介词加 which 或 whom 引导定语从句。",
+      "explanation": "介词的宾语若是关系词，就把介词提到前面，构成介词加 which 或 whom 的结构，指人用 whom，指物用 which。比如 the house in which he lives。你写这种结构时，先确定从句里该用哪个介词，再把介词放在关系词前面。介词的选择取决于动词或名词的习惯搭配，要多积累固定用法。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "介词后误用 who 而不用 whom",
+        "介词从属关系词凑到前面却放错位置",
+        "介词的搭配选择错误导致语义不通"
+      ],
+      "example": "[仿题]The man to ___ I spoke is my uncle.\n解析：介词后用 whom，填 whom。",
+      "keywords": ["介词", "whom", "which", "定语从句", "搭配"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U3_008",
+      "name": "战争与和平主题词汇",
+      "definition": "涵盖战争破坏与和平重建的核心词汇。",
+      "explanation": "本单元战争与和平主题词汇，你可以按意义分组。战争相关有 conflict 冲突、battle 战斗，和平相关有 peace 和平、recover 恢复，情感相关有 memory 记忆、suffer 遭受。读战争历史类文章时先抓住这些关键词，再理清时间与因果，理解就有主心骨。你分组记忆，比零散背更牢固。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把 conflict 与 quarrel 混用忽略规模的差异",
+        "把 suffer 后漏掉介词 from 搭配残缺",
+        "把 battle 与 war 视为完全同义词互换",
+        "peace 与 piece 拼写混淆造成误用"
+      ],
+      "example": "[仿题]The war caused great ___ to the city.\n解析：指战争造成的破坏，填 damage。",
+      "keywords": ["conflict", "battle", "peace", "suffer", "战争"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U3_009",
+      "name": "定语从句中先行词的识别",
+      "definition": "先行词在从句中作宾语时关系代词可省略。",
+      "explanation": "先行词是定语从句修饰的对象，识别它很关键。当关系代词在从句中作宾语时，常可省略。比如 the book I bought，I 后面省略了 that，因为 that 是 bought 的宾语。你判断能否省略，先看从句缺主语还是宾语，缺宾语就多数可省，缺主语则不能省。学会这个规则，阅读长难句更轻松。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "从句缺主语时误省略关系代词导致缺主语",
+        "把先行词当成从句的一部分理解错位",
+        "宾语位置的关系代词该留时也误省"
+      ],
+      "example": "[仿题]The story ___ told us was true.\n解析：关系代词作宾语可省略，填 he/that。",
+      "keywords": ["先行词", "省略", "宾语", "主语", "关系代词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U3_010",
+      "name": "定语从句的谓语一致",
+      "definition": "which 引导从句时，谓语与先行词保持一致。",
+      "explanation": "定语从句的谓语动词要与先行词保持数的一致，而不是与关系词本身一致。比如 the boy who is... 用单数，the boys who are... 用复数。当先行词被 of 短语修饰时，看中心词。你写或改此类句子时，先找到先行词的单复数，再决定从句谓语形式，方向就对了。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "从句谓语只看 who 前紧邻名词而忽略真正先行词",
+        "被 of 短语修饰时以 of 后的名词定单复数",
+        "先行词复数却用单数谓语的失误"
+      ],
+      "example": "[仿题]The books that ___ on the desk are new.\n解析：先行词 books 复数，填 are。",
+      "keywords": ["先行词", "谓语", "一致", "单复数", "定语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U3_011",
+      "name": "和平现实主题词汇",
+      "definition": "涵盖和平渴求与冲突反思的主题词汇。",
+      "explanation": "表达对和平的向往，很多词汇你需要掌握。conflict 冲突、destroyed 被摧毁、rare 珍贵的、treasure 珍视、forgive 原谅，这些词常出现在反战类文章里。比如 they treasure peace 表示他们珍视和平。读文章写感悟时，用这些词传达对和平的珍视与对战争的反思，表达才有力。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "把 treasure 名词动词用法混淆",
+        "forgive 后漏掉宾语或介词搭配错误",
+        "expression 主题下词性转换不区分"
+      ],
+      "example": "[仿题]People should ___ the hard-won peace.\n解析：珍视和平，填 treasure。",
+      "keywords": ["treasure", "forgive", "peace", "反思", "和平"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U3_012",
+      "name": "战争主题作文的结构",
+      "definition": "按背景、经过、反思组织战争题材文章。",
+      "explanation": "写战争或反战题材作文，你可用背景、经过、反思三步。开头交代战争的历史背景或事件；中间描述战争的残酷经过或具体场面；结尾表达对和平的反思与呼吁。用 meanwhile、however、in the end 等过渡词衔接。你这样组织，逻辑连贯，主题突出，既显真情又条理分明。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "开头缺乏背景直接进入事件描述",
+        "经过与反思混淆没有清晰界限",
+        "结尾空洞没有点明反战主题",
+        "过渡词使用混乱破坏时间逻辑"
+      ],
+      "example": "[仿题]Meanwhile, the local people ___ the ruins.\n解析：待遇重建过程，填 rebuilt。",
+      "keywords": ["作文结构", "背景", "经过", "反思", "过渡词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

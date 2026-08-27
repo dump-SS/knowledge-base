@@ -1,0 +1,211 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第四册 Unit 1 Looking Forwards",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B7_U1_001",
+      "name": "will表达将来的预测",
+      "definition": "will 表示对将来的预测或临时决定。",
+      "explanation": "will 是表达将来的最常用方式，既可以表示对未来事件的预测，也可以表示说话时的临时决定。比如 It will rain tomorrow 表预测，I will answer it 表临时决定。你写作时，对未来作不太确定的推测或当场做决定，就用 will。它与 be going to 强调计划的语义有区别，注意区分使用场景。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把 will 用于表达既定计划而非预测",
+        "临时决定时误用 be going to 表达计划",
+        "will 后误接动词的过去式形式"
+      ],
+      "example": "[仿题]I think it ___ snow tonight.\n解析：表预测，填 will。",
+      "keywords": ["will", "预测", "将来时", "临时决定", "将来"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U1_002",
+      "name": "be going to表示计划",
+      "definition": "be going to 表示既定计划与意图。",
+      "explanation": "be going to 强调事先已有的打算或计划，也用来说明有迹象预示要发生的事。比如 I am going to buy a car 是我事先定好的计划。你表达早有的安排，或看到某种迹象推断将要发生，就用 be going to。它与 will 的临时决定语义正好相对，选哪个看你在什么时候做的决定。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "计划表达时误用临时决定的 will",
+        "be going to 中 be 动词与主语不一致",
+        "有迹象推断时用了 will 而没用 be going to"
+      ],
+      "example": "[仿题]We ___ going to visit the museum tomorrow.\n解析：既定计划且主语复数，填 are。",
+      "keywords": ["be going to", "计划", "意图", "迹象", "将来时"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U1_003",
+      "name": "现在进行时表将来安排",
+      "definition": "现在进行时表示按计划将发生的安排。",
+      "explanation": "一些动态动词用现在进行时可表示按计划或日程将要发生的动作，常用于已经定好的安排。比如 The plane is taking off at six。你表达已经确定的行程、会议或约会时，可以用现在进行时表将来。它比 be going to 更强调安排已定，阅读和写作中遇到这类动词要能识别它表将来的含义。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把表将来安排的进行时误当正在进行的动作",
+        "静态动词误用现在进行时表将来",
+        "安排的将来意缺失导致理解偏差"
+      ],
+      "example": "[仿题]The train ___ at 8 tomorrow morning.\n解析：按时刻表安排，填 is leaving。",
+      "keywords": ["现在进行时", "将来安排", "动态动词", "时刻表", "将来时"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U1_004",
+      "name": "将来完成时的用法",
+      "definition": "将来完成时表示到某时已完成某动作。",
+      "explanation": "将来完成时结构是 will have 加过去分词，表示到将来某一时刻为止已经完成的动作。常用 by 引出时间点，比如 By next month，I will have finished it。你表示将来某时点以前结束的事，就用这个时态。判断时看有没有 by 加将来时间的标志，有就用 will have done。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "将来完成时漏掉 have 直接写 will done",
+        "by 加时间点时误用一般将来时",
+        "过去分词的拼写形式记忆错误"
+      ],
+      "example": "[仿题]By 2030, we ___ completed the project.\n解析：到将来完成，填 will have。",
+      "keywords": ["将来完成时", "will have", "过去分词", "by", "时态"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U1_005",
+      "name": "情态动词表推测",
+      "definition": "情态动词用于推测事物的可能程度。",
+      "explanation": "情态动词可以用来表达对情况的推测，把握程度从高到低大致是先 must，再 may、might 更低。比如 He must be tired 把握很大，He might be tired 把握很小。你根据客观证据的多少选择对应的情态动词，证据越足用语气越强的 must，证据不足就选 might。注意 must 表推测时不能用于否定。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "把握较低时仍误用 must 表推测",
+        "在否定推测中用了 must 而应选 can't",
+        "表推测与表义务的情态动词语义混淆"
+      ],
+      "example": "[仿题]He ___ be at home, since his lights are on.\n解析：证据充分用 must，填 must。",
+      "keywords": ["情态动词", "推测", "must", "may", "把握"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U1_006",
+      "name": "must表必须与推测",
+      "definition": "must 表必须，也表示强烈推测。",
+      "explanation": "must 有两个主要用法：一是表必须、义务，比如 You must finish it；二是表强烈的肯定推测，比如 He must be ill。你区分两者看句子的语意，表职责义务时让必须，推测时译为一定。注意 must 表推测的否定形式是 can't，表必须的否定是 needn't，这个区别要记牢。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "must 表推测用否定形式 mustn't 造成错误",
+        "must 表必须表推测两种语义混用",
+        "表义务的回答用 must not 而非 need to 造成语义偏差"
+      ],
+      "example": "[仿题]You ___ be very tired after the hike.\n解析：强烈推测，填 must。",
+      "keywords": ["must", "必须", "推测", "can't", "情态动词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U1_007",
+      "name": "can与could表能力",
+      "definition": "can 表能力，could 表过去能力或委婉。",
+      "explanation": "can 表示现在的能力，could 表示过去的能力。比如 I can swim 现在会游泳，When I was young，I could run fast 过去能快速跑。请求或提出建议时用 could 更委婉，比如 Could you help me？你表达现在能力用 can，过去能力用 could，请求多用 could 显礼貌。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "用 can 表示过去的能力时态错误",
+        "请求时用 can 显得生硬而不够委婉",
+        "could 后误加动词的过去式形式"
+      ],
+      "example": "[仿题]He ___ speak three languages before.\n解析：过去能力用 could，填 could。",
+      "keywords": ["can", "could", "能力", "委婉", "情态动词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U1_008",
+      "name": "前瞻展望主题词汇",
+      "definition": "涵盖展望前景谋划未来的主题词汇。",
+      "explanation": "本单元前瞻展望词汇，你按计划与抱负两组记。计划类有 plan 计划、schedule 日程安排，抱负类有 ambition 抱负、vision 愿景、perspective 视角。读关于未来规划或人生展望的文章时，先抓这些关键词，再理清作者对未来的态度，理解就更到位。分组记忆让词汇落实更牢。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 vision 与 view 混用，分不清愿景与视野",
+        "schedule 的拼写记忆漏掉字母",
+        "perspective 与 prospect 混淆语义差异",
+        "ambition 作不可数名词错误使用"
+      ],
+      "example": "[仿题]Her long-term ___ is to become a scientist.\n解析：远大抱负，填 ambition。",
+      "keywords": ["vision", "ambition", "plan", "schedule", "前瞻"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U1_009",
+      "name": "计划与预测的表达区分",
+      "definition": "will 表预测，be going to 表计划。",
+      "explanation": "将来表达里，will 和 be going to 语义上各有侧重。will 侧重说话时的临时决定与对未来的预测，be going to 侧重事先的计划与有迹象的推断。你在写作时先想清楚动作是临时还是计划，临时用 will，事先安排用 be going to。分清这两类，将来时的使用就准确灵活了。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "事先计划却有搭配 be going to 误用 will",
+        "临时决定又误用 be going to 表达",
+        "有迹象推断时两个结构选错"
+      ],
+      "example": "[仿题]Look at the clouds; it ___ going to rain.\n解析：有迹象推断用 be going to，填 is。",
+      "keywords": ["will", "be going to", "预测", "计划", "区别"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U1_010",
+      "name": "might与may的推测",
+      "definition": "might 比 may 猜测程度更低。",
+      "explanation": "may 和 might 都表推测，把握都不算大，但 might 的语气更弱、可能性更低。比如 He may come 有可能来，He might come 可能性更小。你表达不确定的推测时，把握稍大用 may，把握极低或想显得更委婉就用 might。两者都后接动词原形，选择取决于你主观把握的大小。",
+      "difficulty": 2,
+      "frequency": 2,
+      "typical_errors": [
+        "把握极低时仍用 may 而非 might",
+        "might 后误接动词过去式",
+        "may 与 might 的委婉程度混用"
+      ],
+      "example": "[仿题]She ___ be late; I'm not sure at all.\n解析：把握极低用 might，填 might。",
+      "keywords": ["may", "might", "推测", "可能性", "委婉"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U1_011",
+      "name": "if从句用现在式表将来",
+      "definition": "if 从句中表将来用一般现在式。",
+      "explanation": "在真实条件句里，if 从句表示将来会发生的情况时，用一般现在式代替将来时。比如 If it rains tomorrow，we will stay home。你写作或改错时，看到 if 从句和主句都是将来内容，记住主句用 will，if 从句必须用一般现在式。这是最常见的时态搭配规则，漏掉一定失分。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "if 从句里误用 will 表将来",
+        "从句谓语与主语不一致数选错",
+        "主句与从句的时态搭配混乱"
+      ],
+      "example": "[仿题]If she ___ early, she can help us.\n解析：if 从句用一般现在式，填 arrives。",
+      "keywords": ["if从句", "现在式表将来", "主将从现", "时态", "条件句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U1_012",
+      "name": "展望话题作文的结构",
+      "definition": "围绕未来展望组织议论性文章的段落。",
+      "explanation": "写展望未来的作文，你可用现状、展望、建议的结构。开头描述当下对未来的期待，正文分段想象未来生活的具体图景，例如科技与生活的变化，结尾给出个人努力的方向与建议。用 in the future、meanwhile、besides 等过渡。这样写层次清楚，既有愿景又有思考。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "开头缺少对当下现实背景的交代",
+        "展望内容空泛没有具体图景",
+        "结尾没有落到个人行动或建议",
+        "过渡词使用不当造成思路跳跃"
+      ],
+      "example": "[仿题]In the future, ___ may become common.\n解析：展望新技术运用，填 robots。",
+      "keywords": ["作文结构", "展望", "未来", "建议", "过渡词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第四册 Unit 3 The World Meets China",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B7_U3_001",
+      "name": "普通句转化为强调句",
+      "definition": "把陈述句改写成 It is...that 强调结构。",
+      "explanation": "想让普通句子更有表现力，你可以把它改写成强调句。把要强调的成分放到 It is 和 that 之间，比如 I met him in Beijing 变成 It was in Beijing that I met him。你写作时想强调时间地点或对象，就用这个结构。注意强调句与从句的区分，转化后句子主干应保持完整。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "转化后 that 从句的主干被破坏不完整",
+        "强调句型与定语从句区分不清误用",
+        "强调的 be 动词与主句时态不一致"
+      ],
+      "example": "[仿题]改写：I saw her yesterday.\n解析：强调昨天，写 It was yesterday that I saw her。",
+      "keywords": ["强调句", "改写", "It is...that", "句型转化", "表现力"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U3_002",
+      "name": "普通句转化为倒装句",
+      "definition": "把部分状语提前到句首构成倒装。",
+      "explanation": "把否定状语或方位状语提前到句首，句子就变成倒装句，能增强语势。比如 Never have I seen such a view，把 never 提前引起部分倒装。你写作想让表达更有冲击力、更生动，可以尝试倒装。判断是否需要倒装，看句首是不是否定词或方位短语，是就部分倒装。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "否定词提前后未进行部分倒装",
+        "倒装句的语序写成完全倒装",
+        "假倒装与真倒装条件判断错误"
+      ],
+      "example": "[仿题]改写：I have never seen such beauty.\n解析：否定词提前，写 Never have I seen such beauty。",
+      "keywords": ["倒装句", "否定词", "部分倒装", "改写", "语序"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U3_003",
+      "name": "普通句转化为非谓语",
+      "definition": "把从句改写成非谓语短语。",
+      "explanation": "把含有从句的句子改写成非谓语，可以让表达更精炼。比如把 Because he was tired，he left 改成 Being tired，he left。你写作这类转换时，先让从句删去连接词和 be，再根据主动被动确定用现在分词还是过去分词。这是高级表达的重要技巧。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "从句改非谓语时不改主被动关系",
+        "主语不一致仍强行改写成非谓语",
+        "删连接词后漏掉必要的形式变化"
+      ],
+      "example": "[仿题]改写：Because he was moved, he cried.\n解析：删去 because 改用分词，写 Moved, he cried。",
+      "keywords": ["非谓语", "改写", "从句", "分词", "精炼"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U3_004",
+      "name": "普通句转化为从句",
+      "definition": "把简单句合并为从句表达。",
+      "explanation": "把多个简单句合并成含从句的复合句，能让表达更紧凑、逻辑更清楚。比如把 I like the book 和 The book is old 合并成 I like the book which is old。你写作时想表达事物之间更细腻的关系，就可以用从句连接。合并时找个合适的连接词，语义就通顺连贯了。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "合并后连接词选择错误语义不通",
+        "简单句间的逻辑关系未看清",
+        "合并后成分重复或残缺"
+      ],
+      "example": "[仿题]合并：This is the man. He helped me.\n解析：定语从句合并，写 This is the man who helped me。",
+      "keywords": ["从句", "合并", "复合句", "连接词", "改写"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U3_005",
+      "name": "用分词简化复合句",
+      "definition": "用分词短语替代状语或定语从句。",
+      "explanation": "你想让句子更简洁，就把可改写成分词的从句替换成分词短语。比如 the man who is standing there 改成 the man standing there。你改写时，先删去关系词和 be，再据主被动拆分词。作文里多用这种变化，句子就显得老练，这是提升写作档次的常用手法。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "把被动关系误写成分词短语的主动形式",
+        "删关系词后句子指代不清",
+        "定语改分词时主被动判断错误"
+      ],
+      "example": "[仿题]改写：the man who is standing there.\n解析：删 who is 用分词，写 the man standing there。",
+      "keywords": ["分词", "从句简化", "现在分词", "过去分词", "改写"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U3_006",
+      "name": "用被动增强书面表达",
+      "definition": "用被动语态增强表达的正式感。",
+      "explanation": "在书面交流中，使用被动语态能让表达更客观正式。比如把 People use English widely 改成 English is widely used。你写作正式话题时，想弱化动作执行者、突出结果时，就用被动语态。注意时态和人称与 be 一致。适当使用被动是高级表达的标志之一。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "被动语态的过去分词形式写错",
+        "被动结构前漏掉 be 动词，写成残留",
+        "需要突出执行者时却误用被动"
+      ],
+      "example": "[仿题]改写：People speak Chinese widely.\n解析：用被动，写 Chinese is widely spoken。",
+      "keywords": ["被动语态", "书面表达", "正式", "改写", "客观"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U3_007",
+      "name": "用不定式丰富句式",
+      "definition": "用不定式短语替代状语从句。",
+      "explanation": "不定式短语可以代替目的或结果状语从句，让句子更精简。比如把 In order that he could learn it 改成 To learn it。你写作时想表达目的，用表示目的的不定式简洁又自然。注意不定式表目的时逻辑主语要与主句一致，否则会形成悬垂结构，要格外小心。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "不定式目的状语逻辑主语不一致",
+        "把表结果的不定式与目的混用",
+        "不定式替代从句后丢失了必要的连接信息"
+      ],
+      "example": "[仿题]改写：He went there so that he could help.\n解析：用不定式，写 He went there to help。",
+      "keywords": ["不定式", "目的状语", "改写", "精简", "句式"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U3_008",
+      "name": "中外交流主题词汇",
+      "definition": "涵盖中外交往与国际视野的词汇。",
+      "explanation": "本单元中外交流词汇，你按交流与融合两组记。交流类有 communicate 交流、exchange 交换、bridge 纽带，融合类有 integrate 融合、embrace 拥抱、toward 面向世界。读跨文化文章时先抓这些关键词，再理清中外交往的现状与意义，理解就透彻。分组记忆更牢靠。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把 exchange 名词动词用法混淆",
+        "communicate 后漏掉 with 介词搭配残缺",
+        "integrate 与 segregate 语义相反混淆",
+        "bridge 名词作动词时用法不熟"
+      ],
+      "example": "[仿题]They ___ ideas through the international programme.\n解析：交流思想，填 exchange。",
+      "keywords": ["communicate", "exchange", "bridge", "integrate", "中外交流"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U3_009",
+      "name": "句式的多样化表达",
+      "definition": "变换句式避免单调增强表现力。",
+      "explanation": "一篇文章若通篇简单句，读起来就单调。你写作时要有意识地变换句式，长短句结合，用分词、强调、倒装、从句等丰满表达。比如描述景点既可写简单句也可用被动、分词润色。掌握多种句式并灵活切换，作文就显得层次丰富、语言老练，能有效提升分数。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "整篇只用简单句型变化单一",
+        "句式切换生硬破坏整体连贯",
+        "堆砌复杂句反而晦涩难懂",
+        "变换句式时忽略语义的准确性"
+      ],
+      "example": "[仿题]改造：The city is old. It attracts tourists.\n解析：合并用从句，写 The old city attracts tourists。",
+      "keywords": ["句式", "多样化", "变换", "表现力", "写作"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U3_010",
+      "name": "用it作形式主语",
+      "definition": "用 it 作形式主语避免头重脚轻。",
+      "explanation": "当真正的主语是一长串从句时，就用 it 作形式主语把真正的从句放到后面，避免头重脚轻。比如 That he won is surprising 改成 It is surprising that he won。你写作时遇到主语特别长，就用 it 开始。判断时看 it 后面是不是紧跟 be 或系动词，再找回真正的从句。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "it 作形式主语时漏掉引导词 that",
+        "把 it 形式主语误当定语从句结构",
+        "真正从句位置摆放错误造成表达混乱"
+      ],
+      "example": "[仿题]改写：That she came is wonderful.\n解析：用 it，写 It is wonderful that she came。",
+      "keywords": ["形式主语", "it", "that从句", "改写", "it作形式主语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U3_011",
+      "name": "文化差异表达词汇",
+      "definition": "涵盖文化差异与相互理解的词汇。",
+      "explanation": "谈论中外文化差异，这些词汇你要掌握。culture gap 文化差异、mutual 相互的、respect 尊重、tolerance 包容、custom 风俗习惯。读介绍不同文化习俗是否冲突的文章时，先抓这些词，再体会作者对文化差异的态度，理解就更到位。把词连成表达更利于记忆。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 custom 与 habit 混用，分不清风俗与习惯",
+        "mutual 与 mutual 拼写记忆混淆缺失",
+        "tolerance 的名词与动词形式转换不熟",
+        "respect 后漏掉介词 for 搭配残缺"
+      ],
+      "example": "[仿题]We should show ___ for different cultures.\n解析：表示对文化的尊重，填 respect。",
+      "keywords": ["culture gap", "mutual", "tolerance", "custom", "尊重"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U3_012",
+      "name": "文化交流作文的写法",
+      "definition": "围绕中外交流协作议论文结构。",
+      "explanation": "写中外文化交流作文，你可用意义、实例、建议结构。开头点明交流的意义，正文举例说明文化交流带来的融合与理解，结尾给出你促进交流的建议。用 to begin with、moreover、in conclusion 等过渡。多运用高级句型转化，作文既有内容也有文采。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "只谈文化差异而不谈交流意义",
+        "例证与观点脱离缺乏支撑",
+        "结尾建议空泛不具体",
+        "高级句型堆砌生硬不自然"
+      ],
+      "example": "[仿题]To begin with, cultural ___ benefits both sides.\n解析：文化交融有益，填 exchange。",
+      "keywords": ["作文结构", "文化交流", "意义", "建议", "过渡词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

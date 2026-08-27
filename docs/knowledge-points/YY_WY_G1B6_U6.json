@@ -1,0 +1,211 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第三册 Unit 6 Nature in Words",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B6_U6_001",
+      "name": "长难句的分析步骤",
+      "definition": "先找谓语动词再拆句子结构，逐步解析长难句。",
+      "explanation": "遇到长难句你先别急，按步骤来。第一步找准句子的谓语动词，判断主句有几个真实谓语。第二步把从句和插入语标记出来，理清主从关系。第三步去掉修饰成分，抓住主干意思再补齐细节。这样层层剥茧，再长的句子也能看明白。坚持练习这个流程，长句就不再可怕。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "不分词性就硬译，导致语序错乱",
+        "把从句当成主句，主句与从句关系判断错误",
+        "忽略插入语导致对主干的理解偏差",
+        "只盯字面词义而不分析句法结构"
+      ],
+      "example": "[仿题]分析：The boy who stood there was crying.\n解析：who 引导定语从句，主干是 The boy was crying。",
+      "keywords": ["长难句", "谓语动词", "主干", "从句", "拆分"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_002",
+      "name": "定语从句与主句的拆分",
+      "definition": "把定语从句从主句中分离出来分别理解。",
+      "explanation": "拆长句时识别定语从句很关键。它通常由 who、which、that、where 等关系词引导，修饰前面的名词。比如把 the book that I bought 拆开，主干是 the book，从句解释哪本书。你看到一个从句前有被修饰的名词，就先把它和主句剥开，分别理解再合起来，句子就通顺了。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "把定语从句误认为主句谓语动作",
+        "找不到被修饰的先行词就乱拆",
+        "多层定语从句嵌套时拆解顺序混乱"
+      ],
+      "example": "[仿题]The man ___ came yesterday is my uncle.\n解析：who 引导成分，主干是 The man is my uncle。",
+      "keywords": ["定语从句", "主句", "拆分", "先行词", "关系词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_003",
+      "name": "省略宾语从句的连接词",
+      "definition": "that 引导宾语从句常在动词后省略。",
+      "explanation": "宾语从句的连接词 that 在动词后面常常可以省略。比如 I think he is right，实际是 I think that he is right，that 省略了。你写句子时省略 that 没问题，但要注意省略后不要造成歧义。判断省略是否恰当，看去掉 that 后句子仍然通顺明确，就可以省。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "省略 that 后句子语义产生歧义",
+        "在宾语从句 The fact 等名词后误省略 that",
+        "从句较长时仍强行省略 that 导致混乱"
+      ],
+      "example": "[仿题]I believe ___ he will win.\n解析：that 可省略，填 that 或直接删。",
+      "keywords": ["省略", "that", "宾语从句", "连接词", "简化"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_004",
+      "name": "状语从句中的省略",
+      "definition": "状语从句在特定条件下可省略主语和 be 动词。",
+      "explanation": "状语从句当主语与主句主语一致时，可以省略从句的主语和 be 动词。比如 When (he was) young，he liked reading，就省略了 he was。你写句子时，只要从句主语和主句相同，且谓语是 be 动词，就可以一起省略。这个省略让表达更简洁，也是阅读中常见的现象。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "从句与主句主语不同时仍强行省略",
+        "从句谓语不是 be 动词时也错省",
+        "省略后谓语形式用错，未使用正确的分词形式"
+      ],
+      "example": "[仿题]While ___ in the garden, she sang loudly.\n解析：省略 her 与 be，填 singing。",
+      "keywords": ["省略", "状语从句", "主语一致", "be动词", "简洁"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_005",
+      "name": "非谓语动词的表达简练",
+      "definition": "用非谓语代替从句使句子更简练。",
+      "explanation": "非谓语动词是避免长句拖沓的好方法。比如把 Because he was tired，he slept 简成 Being tired，he slept。你把冗长的状语从句改成分词短语，句子立刻干净利落。写作时想表达从句的意思又嫌长，就先改成非谓语，前提是主语保持一致，这样既简练又不失准确。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "从句改分词时主语不一致造成悬垂",
+        "非谓语形式的主被动选择错误",
+        "改成分词后丢掉了从句原有的连接词"
+      ],
+      "example": "[仿题]___ by his words, she smiled.\n解析：被动感动用过去分词，填 Moved。",
+      "keywords": ["非谓语", "简练", "分词", "从句替换", "表达"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_006",
+      "name": "并列句中的省略规则",
+      "definition": "并列句中相同的成分可省略避免重复。",
+      "explanation": "并列句中如果两部分有重复的成分，后一部分可以省略。比如 He likes tea and I coffee，后半句省略了 likes。你写或分析并列句时，看到后半部分缺动词或缺宾语，往往是被省略了后半部分，实际与前文相同。理解省略的规则，阅读和翻译都更顺畅。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把省略的部分误解为缺失导致翻译错误",
+        "两并列部分结构不同时仍强行省略",
+        "省略后语义不清仍需还原正确部分"
+      ],
+      "example": "[仿题]She sings well and I (do) too.\n解析：后半省略 plays 之类的重复部分。",
+      "keywords": ["并列句", "省略", "重复成分", "翻译", "结构"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_007",
+      "name": "长句中插入语处理的技巧",
+      "definition": "识别并暂时忽略插入语以便理解句子主干。",
+      "explanation": "插入语常放在句中，前后用逗号或破折号隔开，起补充说明作用。阅读时你先把插入语圈出来略过，读完主干再回来看它。比如 The plan，as far as I know，will succeed，先把 as far as I know 去掉，主干是 The plan will succeed。这样处理，长难句的主干就清晰了。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "把插入语当成主句的一部分硬译",
+        "没有识别插入语导致句子主干判断错误",
+        "插入语前后的标点提示被忽略"
+      ],
+      "example": "[仿题]The team, I believe, ___ the match.\n解析：去掉插入语，主干填空，填 wins。",
+      "keywords": ["插入语", "主干", "标点", "长难句", "分析"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_008",
+      "name": "文字写景主题词汇",
+      "definition": "用于描绘自然景色的描写性词汇。",
+      "explanation": "本单元写景文字词汇很丰富。颜色类有 tranquil 宁静的、majestic 壮丽的，动态类有 glisten 闪烁、sparkle 闪耀，声音类有 rustle 沙沙作响、whisper 低语。读写景散文或作文时，用这些词把景色写活。你按感官分类记忆，写作时按视觉听觉嗅觉调用，画面感自然就出来了。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 glisten 与 glitter 混淆用于不同场景",
+        "写景词汇堆砌但不考虑主次",
+        "把 tranquil 与 traffic 等词拼写混淆",
+        "感官分类记忆不扎实导致用词错位"
+      ],
+      "example": "[仿题]The lake was ___ and clear.\n解析：形容湖面宁静清澈，填 tranquil。",
+      "keywords": ["tranquil", "majestic", "glisten", "写景", "宁静"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_009",
+      "name": "所有格的省略与用法",
+      "definition": "名词后的所有格常省略修饰相同的名词。",
+      "explanation": "当两个并列成分的物主对象相同时，后一个所有格的名词可以省略。比如 This pen is hers，还有一个具体情况，常见于比较句中。你看到这样的省略语部分，可以自动补全被省略的名词来理解。正确还原省略内容，阅读比较句和并列句时更准确。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "所有格省略后无法还原被省略的名词",
+        "省略时保留了多余的所有格造成重复",
+        "比多句子中的省略理解错误"
+      ],
+      "example": "[仿题]My book is red,but hers ___ blue.\n解析：省略了 is，还原为 hers is。",
+      "keywords": ["所有格", "省略", "比较句", "还原", "并列"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_010",
+      "name": "独立结构在长句中的处理",
+      "definition": "独立主格作状语需单独理解其逻辑关系。",
+      "explanation": "独立主格结构在长句中常作状语，前面有自己独立的主语，不一定与主句主语相同。比如 The weather being fine，we went out，前半部分是独立主格。阅读时你把它理解为状语，判断好天气与出门的条件或伴随关系。识别出独立主格，就能看清整句的逻辑层次。",
+      "difficulty": 4,
+      "frequency": 2,
+      "typical_errors": [
+        "把独立主格的主语误当成主句主语",
+        "看不清独立主格的状语功能而乱解",
+        "独立主格前后关系判断错误"
+      ],
+      "example": "[仿题]___ fine, we went swimming.\n解析：独立主格表条件，填 Weather being。",
+      "keywords": ["独立主格", "状语", "逻辑关系", "长句", "主语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_011",
+      "name": "嵌套复合句的逐层解析",
+      "definition": "多从句嵌套时由外向内逐层拆分解析。",
+      "explanation": "遇到多层嵌套的复合句，你从最外层的主句开始拆起。先找主句和第一层从句，再把每一层从句里的再下一层标记出来，一层层往下剥。比如一个宾语从句里又套着定语从句，就先看宾语从句，再看里面的定语从句。逐层解析，逻辑链条就清清楚楚。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "从内层拆起导致外层关系混乱",
+        "嵌套层级多时漏掉其中一层",
+        "主从句界限划分错误，理解跑偏"
+      ],
+      "example": "[仿题]The boy said (that) he liked the book (which) he got.\n解析：外宾内定，逐层为 said 加 like 加 got。",
+      "keywords": ["嵌套", "多层从句", "逐层拆分", "主句", "关系"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_012",
+      "name": "写景作文的句子美化",
+      "definition": "用非谓语和从句美化写景作文的语言。",
+      "explanation": "写景作文要语言优美，你可以使用多种句式。用非谓语描述动作，用定语从句补充细节，用省略让重复消失。比如把 The sun rose and it was golden 改写成 The golden sun rising，句子就灵动起来。写作时多变换句式，避免通篇简单句，文字就有画面感了。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "整篇只用简单句读起来平淡",
+        "句式的转变生硬破坏整体流畅",
+        "过度使用复杂句式反而晦涩难懂"
+      ],
+      "example": "[仿题]The ___ rose, painting the sky gold.\n解析：用分词美化，填 rising sun。",
+      "keywords": ["写景", "句式", "非谓语", "美化", "画面感"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

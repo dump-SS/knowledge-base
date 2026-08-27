@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第三册 Unit 1 Knowing Me, Knowing You",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B3_U1_001",
+      "name": "与现在事实相反的虚拟条件",
+      "definition": "条件句从句用过去时表达与现在事实相反的虚拟假设。",
+      "explanation": "你表达与现在事实相反、实际不存在的假设时用虚拟条件句，从句的动词用过去时，主句用 would 加动词原形。比如 If I were you, I would tell the truth 表示如果我是你，事实上我不是。写建议或设想时用这类句子表达委婉的情感，很有说服力。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "虚拟从句中 I 后用 was 而应统一使用 were",
+        "主句未用 would 而误写成 will 导致虚拟失效",
+        "从句动词错用现在时而未按过去时的虚拟要求"
+      ],
+      "example": "[仿题]如果我是你我会说实话。\n解析：If I were you, I would tell，虚拟从句用 were。",
+      "keywords": ["虚拟语气", "were", "would", "假设"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U1_002",
+      "name": "虚拟句中 be 用 were",
+      "definition": "与现在事实相反虚拟从句中 be 动词不分人称统一用 were。",
+      "explanation": "你写虚拟条件句时，无论主语是什么人称，从句中的 be 动词都用 were 而不是 was。比如 If he were calm, he would not argue 中从句用 were 表假设。这是虚拟语气与陈述语气的重要区别。做题看到 if 从句表假设时就要想到把 is 或 am 改写成 were。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "虚拟从句里第三人称用 was 而未统一改为 were",
+        "主句时又误沿用 were 加原形的结构不当",
+        "把虚拟的 were 当成单复数变化而错改成 is"
+      ],
+      "example": "[仿题]若他冷静就不会争吵。\n解析：If he were calm, he would not argue，从句 be 用 were。",
+      "keywords": ["were", "虚拟", "be 动词", "was"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U1_003",
+      "name": "虚拟主句用 would 加原形",
+      "definition": "虚拟条件句主句用 would 或 could 加动词原形表达结果。",
+      "explanation": "与现在相反虚拟句的主句谓语用 would、could、might 等情态词的过去式加动词原形。比如 If I knew her, I might call her 中 would call 是主句结果。它们不随主语单复变化。写虚拟主句时保留 would 这一标志，与 if 从句的过去式呼应，整个句子呈现假设语气。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "主句误用 will 而没改成 would 使虚拟失败",
+        "would 后误接动词过去式而非动词原形",
+        "主句主语单数时误给 would 加第三人称 s"
+      ],
+      "example": "[仿题]若认识她我可能会打电话。\n解析：If I knew her, I might call her，主句用 might 加原形。",
+      "keywords": ["would", "虚拟主句", "might", "原形"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U1_004",
+      "name": "虚拟语气表达委婉建议",
+      "definition": "用虚拟条件句委婉含蓄地提出建议与设想的用法。",
+      "explanation": "你想委婉给出建议时可用虚拟语气，因为它表达的是假设而非强迫。比如 If I were in your position, I would ask for help 委婉建议你向人求助。与直接说 You should 相比，虚拟句更软更易被接受。写人际矛盾处理的建议时用虚拟句式拉近距离，显得你站在对方角度思考。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "委婉建议误用生硬的必做情态词失去亲和感",
+        "虚拟建议句把 if 省略却仍完整保留 while 结构",
+        "主从句虚拟成分与时态呼应脱离原定语境"
+      ],
+      "example": "[仿题]若我是你我会求助。\n解析：If I were you, I would ask for help，委婉里提建议。",
+      "keywords": ["虚拟", "委婉", "建议", "would"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U1_005",
+      "name": "if 从句省略的倒装虚拟",
+      "definition": "省略 if 采用 were 提前构成倒装虚拟条件句的句法结构。",
+      "explanation": "你偶尔在正式书面中把 if 省略，改用 were 提到句首构成倒装虚拟句，比如 Were I you 等于 If I were you。这一结构更书面化、正式。用法主要是把 were、had 等助动词提前。写正式书信表达建议时恰当运用倒装虚拟句，能提升表达的品位与严谨度。",
+      "difficulty": 5,
+      "frequency": 3,
+      "typical_errors": [
+        "把 were 提前倒装后遗漏后面的主语成份",
+        "误把 does 或 did 倒装而违反虚拟倒装规则",
+        "if 省略又同时保留 were 造成双重冗余"
+      ],
+      "example": "[仿题]若换了是你你会怎样。\n解析：Were I you, how would I act，省略 if 的倒装虚拟。",
+      "keywords": ["倒装", "were", "虚拟", "省略 if"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U1_006",
+      "name": "人际沟通主题词汇",
+      "definition": "描述人际交往与沟通方式的核心英语词汇。",
+      "explanation": "你讨论人际关系会用 communicate 沟通、express 表达、respect 尊重、understanding 理解、patience 耐心等词。可说 communicate with each other 彼此沟通，express your feelings 表达你的感受。写人际话题作文时用这些词承载你对相处的理解，使观点清晰而有温度。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "communicate 表达沟通时拼写漏掉中间元音字母",
+        "表达感受 express 后误漏宾语 your feelings",
+        "耐心 patience 与病人 patient 词性混用"
+      ],
+      "example": "[仿题]我们要彼此沟通。\n解析：We should communicate with each other，communicate 表沟通。",
+      "keywords": ["communicate", "express", "understanding", "respect"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U1_007",
+      "name": "表达情绪感受的形容词",
+      "definition": "描述人在人际中情绪体验的常用形容词及 ed 与 ing 区分。",
+      "explanation": "你写人际关系时表情绪用 excited 兴奋的、frustrated 沮丧的、worried 担忧的、moved 被感动的等形容词。注意表示人自身感受用 ed 结尾，表示事让人产生感受用 ing 结尾，如 exciting 令人兴奋的。写沟通感受时按主语是人还是事来选择合适词尾。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "表示人感到兴奋却误用 exciting 未用 excited",
+        "表某事让人沮丧误用 frustrated 而未用 frustrating",
+        "ed 与 ing 词尾情绪词选择规则记颠倒"
+      ],
+      "example": "[仿题]我对结果感到沮丧。\n解析：I feel frustrated about it，人用 ed 结尾形容词。",
+      "keywords": ["excited", "frustrated", "ed", "ing"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U1_008",
+      "name": "化解矛盾的动词短语",
+      "definition": "描述化解冲突解决分歧过程常用的动词短语。",
+      "explanation": "你讨论人际冲突处理可用 deal with 处理、get rid of 摆脱、come to an agreement 达成一致、apologize to 道歉等短语。可以说 apologize to him for my words 为我的话向他道歉。写解决矛盾的记叙文时用这些短语按冲突如何化解的过程一步步展开叙述。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "处理问题误用 deal as 而未用 deal with 搭配",
+        "向某人道歉漏写介词 to 造成介词缺失",
+        "达成一致表达误把 agreement 拼写成 agreeement"
+      ],
+      "example": "[仿题]我为我的话向他道歉。\n解析：I apologized to him for my words，apologize to sb for sth。",
+      "keywords": ["deal with", "apologize", "come to an agreement", "冲突"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U1_009",
+      "name": "表达感谢与理解句型",
+      "definition": "表达感谢理解与体谅他人处境的礼貌英语句型。",
+      "explanation": "你拉近人际距离时可用 Thank you for understanding 感谢你的理解、I really appreciate it 我很感激、I see what you mean 我明白你的意思等句型。表达体谅可说 I understand how you feel。写致歉或感谢的信件时用这些句型传递情感，让语言显得真诚而体面。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "感谢某事误把 Thank for 后误接句子而不加动名词",
+        "appreciate 表达感激后误接 that 从句与英文结构偏离",
+        "体谅表达 I understand 后误接 you 造成成分多余"
+      ],
+      "example": "[仿题]感谢你的理解。\n解析：Thank you for understanding，for 后接动名词。",
+      "keywords": ["thank you", "appreciate", "understand", "感谢"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U1_010",
+      "name": "建议他人用的虚拟句型",
+      "definition": "组合虚拟语句与 should 建议给人际矛盾提出解决建议的用法。",
+      "explanation": "你给人际矛盾的建议时可以把虚拟语气与 should 建议结合。比如 If I were you, I would talk to him about it 以假设设身处地建议，也可用 You should communicate calmly 直陈建议。先设身处地虚拟，再给具体做法，论证更有层次。写建议信时结合两者让你的建议既圆融又可行。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "虚拟建议后却没给出具体可行做法的落实",
+        "should 建议句与虚拟假设句混搭时语序错乱",
+        "两种建议句式的层次衔接不自然"
+      ],
+      "example": "[仿题]若我是你我会平静沟通。\n解析：If I were you, I would communicate calmly，假设后给建议。",
+      "keywords": ["虚拟", "should", "建议", "沟通"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U1_011",
+      "name": "分词短语作状语表伴随",
+      "definition": "用分词短语作状语表达与主句同时进行的伴随状态。",
+      "explanation": "你描写人物说话时的神态动作可用分词短语作伴随状语。比如 He left, feeling upset 中 feeling upset 表带着不满离开。分词短语常省略主语而保留动作，让句子结构紧凑。写人际场景片段时用伴随状语刻画情绪细节，比冗长从句更简洁生动。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "伴随状语误留下自己的主语造成结构赘余",
+        "分词的现在分词与过去分词误选导致主被颠倒",
+        "伴随状语与主句之间标点配合不当"
+      ],
+      "example": "[仿题]他离开了，心里很沮丧。\n解析：He left, feeling upset，分词短语作伴随状语。",
+      "keywords": ["分词", "伴随状语", "feeling", "present participle"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U1_012",
+      "name": "时间状语描述沟通时机",
+      "definition": "用时间状语从句说明沟通发生的具体时间与场景。",
+      "explanation": "你说明沟通发生的时间点时用 when、while、after、before 等引导时间状语从句。比如 When they met, they talked things over 中 When 引相遇的节点。根据先后关系选用合适的引导词，配合主句时态呼应。写人际沟通的叙述用时间状语把过程组织的条理分明。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "沟通先后关系与连接词选择不匹配",
+        "时间状语从句时态与主句未协调作呼应",
+        "before 与 after 的先后语义用反"
+      ],
+      "example": "[仿题]他们见面时把事情谈开。\n解析：When they met, they talked it over，when 引时间。",
+      "keywords": ["when", "时间状语", "沟通", "after"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

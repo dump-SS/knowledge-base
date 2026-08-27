@@ -1,0 +1,211 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第二册 Unit 6 Survival",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B5_U6_001",
+      "name": "强调句的基本结构",
+      "definition": "It is...that 强调句中任一成分。",
+      "explanation": "强调句的套路是固定的：先把 It is 或 It was 放在句首，再把你想强调的部分往后放，接着用 that 引导剩下的部分。强调人时可以用 who 替换 that。判断方法很简单：去掉 It is...that 后的句子仍然完整，就是强调句，否则可能是定语从句。你学会这个剥离法，一眼就能识别。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "去掉 It is...that 后句子不完整，却误判为强调句",
+        "把强调时间状语的 it 从句与 it 作形式主语的句子混淆",
+        "强调人时一律用 who 而忽略 that 也可用",
+        "强调句的 be 动词与主语数不一致导致单复数错误"
+      ],
+      "example": "[仿题]It was in Beijing ___ I first met him.\n解析：强调地点状语，去掉 It was...that 句子完整，填 that。",
+      "keywords": ["强调句", "It is...that", "被强调部分", "剥离法", "句子结构"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U6_002",
+      "name": "强调句的时态选择",
+      "definition": "强调句的 be 动词用 is 或 was，取决于原句的时态属性。",
+      "explanation": "It is 还是 It was 取决于原句的时态。原句是现在时或将来时就用 It is，原句是过去时就用 It was。比如原句 He met her yesterday 是过去时，强调句就写 It was yesterday that。注意和原句谓语动词的时态呼应，不要自顾自用 is。你判断时先还原原句看时态，就选对了。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "原句是过去时却用 It is 造成时态前后矛盾",
+        "原句是现在完成时却用 It was 错搭",
+        "只关注强调部分而忽略还原原句的时态"
+      ],
+      "example": "[仿题]It ___ because of the rain that they postponed the match.\n解析：postponed 是过去时，所以填 was。",
+      "keywords": ["强调句", "时态", "It is", "It was", "be动词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U6_003",
+      "name": "直到才的强调句型",
+      "definition": "It was not until...that 强调直到某时才发生的动作。",
+      "explanation": "将 not...until 变成强调句时，你需把 not until 整体搬到 It is/was 后面，再接 that 从句。比如 He did not leave until 9 pm 变成 It was not until 9 pm that he left。注意原句的 not 被移到 until 前面，所以 that 从句里不再出现否定词。这是高考改错和翻译的高频考点，多练几遍就熟了。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "只把 until 搬到 It was 后面，漏掉 not 导致错误",
+        "that 从句里仍保留否定词造成双重否定",
+        "主句时态与强调句的 be 时态不一致"
+      ],
+      "example": "[仿题]It was not ___ midnight that he finished his homework.\n解析：直到午夜才完成，填 until。",
+      "keywords": ["not until", "强调句", "直到...才", "否定", "until"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U6_004",
+      "name": "强调句与定语从句的区分",
+      "definition": "用剥离法判断是强调句还是定语从句。",
+      "explanation": "这是考试最爱混考的难点。你记住一个妙招：把 It is 和 that 一起删掉，如果剩下的句子仍然语法完整，就是强调句；如果残缺或不通顺，就是定语从句。比如 It is the book that I bought，去掉后是 the book I bought，不完整，所以是定语从句。学会这个剥离法，看到 it 开头的句子就先用它检验。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "见到 It is...that 就一律判为强调句，不验证句子完整性",
+        "剥离后丢掉了必要的冠词或介词还觉得句子完整",
+        "定语从句中关系代词作宾语省略后误判为强调句"
+      ],
+      "example": "[仿题]It is the factory ___ we visited last year.\n解析：去掉 It is...that 后不完整，填 that/which 为定语从句。",
+      "keywords": ["强调句", "定语从句", "剥离法", "区分", "It is...that"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U6_005",
+      "name": "强调主语时的谓语一致",
+      "definition": "强调主语时，that 从句的谓语动词与被强调的主语保持数的一致。",
+      "explanation": "当强调句强调主语时，主句的 be 用 is 或 was，但 that 从句里的谓语动词数要与被强调的名词保持一致。比如 It is I who am wrong 中，I 是第一人称单数，所以从句谓语用 am。你写这类句子时，先确定被强调的主语是什么，再决定从句谓语的人称和数，不能只盯着 It is 不管后面。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "把 It is 的 is 当作从句谓语，导致 that 从句用错数",
+        "强调 I 时从句谓语用 is 而不是 am",
+        "强调复数主语时从句谓语仍用单数"
+      ],
+      "example": "[仿题]It is we who ___ responsible for the result.\n解析：we 对应复数，所以填 are。",
+      "keywords": ["强调句", "主谓一致", "主语", "谓语", "数的一致"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U6_006",
+      "name": "强调句中的疑问句式",
+      "definition": "变为一般疑问句将 is/was 提前，变为特殊疑问句将疑问词提前。",
+      "explanation": "强调句也能变问句。一般疑问句把 It is/was 改成 Is/Was it，比如 Was it you that did it？特殊疑问句则把疑问词放句首，后面接 is/was it that，比如 Who was it that called you？注意特殊疑问句里 that 不能省略，而且疑问词就是被强调的部分。你写这种句子时先确定疑问词再套结构。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "特殊疑问句里漏掉 that 或误用 what",
+        "一般疑问句的 is/was 没有提前到句首",
+        "把疑问词放中间而不是放句首"
+      ],
+      "example": "[仿题]___ was it that you met at the conference?\n解析：问人，填 Who。",
+      "keywords": ["强调句", "疑问句", "特殊疑问句", "一般疑问句", "疑问词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U6_007",
+      "name": "生存与幸存者词义辨析",
+      "definition": "survival 指生存的行为状态，survivor 指幸存下来的人或物。",
+      "explanation": "这两个词词根同源但含义不同。survival 是抽象名词，表示生存、存活的行为或状态，比如 the survival of the fittest 适者生存。survivor 是具体名词，指活下来的人或物，比如 the only survivor of the accident。你记一句话：survival 是事，survivor 是人。写作时想清楚是抽象概念还是具体的人，选词就对了。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "想说幸存者却用了 survival 造成语义错误",
+        "把 survivor 当不可数名词使用",
+        "生存行为与幸存者概念不分，同一句子混用"
+      ],
+      "example": "[仿题]The ___ of the earthquake was found in the ruins.\n解析：指幸存的人，填 survivor。",
+      "keywords": ["survival", "survivor", "生存", "幸存者", "词义辨析"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U6_008",
+      "name": "求生技能主题词汇",
+      "definition": "涵盖野外生存、应急求救等场景的核心词汇群。",
+      "explanation": "本单元求生技能主题词汇你可以分类记忆。先记 shelter 庇护所、supply 补给等生存所需名词，再掌握 survive 生存、adapt 适应等行为动词，最后补充 emergency 紧急情况、rescue 救援等场景词。读求生类文章时先提取这些关键词，再根据上下文推测细节，整体理解会更顺畅。",
+      "difficulty": 2,
+      "frequency": 2,
+      "typical_errors": [
+        "把 shelter 与 shade 混淆，分不清庇护所与阴凉处",
+        "把 rescue 与 recover 混用，分不清救援与恢复",
+        "把 emergency 的拼写误记为 emergenCy 缺失字母 e",
+        "把 adapt 与 adopt 混用，弄混适应与采纳"
+      ],
+      "example": "[仿题]The climbers built a ___ to protect themselves from the storm.\n解析：搭建庇护所，填 shelter。",
+      "keywords": ["survive", "shelter", "rescue", "emergency", "adapt"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U6_009",
+      "name": "野外与荒野短语区别",
+      "definition": "两个表示野外的短语，语义侧重不同。",
+      "explanation": "这两个短语都与野外有关，但范围不同。in the wild 侧重生物所处的自然野生环境，强调非人工饲养，比如 animals in the wild。in the wilderness 则强调没有人类居住的荒凉偏远地带，比如 lost in the wilderness。你写作文时，描述动物生存环境用 in the wild，描述探险求生场景用 in the wilderness。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "用 in the wild 描述极端荒凉地带的野外场景",
+        "用 in the wilderness 描述在动物园里的动物",
+        "两个短语互换使用，忽略语义侧重差异"
+      ],
+      "example": "[仿题]Many species are disappearing in the ___.\n解析：指野生自然环境，用 wild。",
+      "keywords": ["in the wild", "in the wilderness", "野外", "荒野", "自然环境"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U6_010",
+      "name": "应对与处理的用法区分",
+      "definition": "cope with 侧重成功应对困难，deal with 泛指处理各类事务。",
+      "explanation": "两个词组都表示处理，但侧重点不同。cope with 指在面对困难、压力时能够应付过来，含有成功克服的意味，比如 cope with the stress。deal with 的用法更广泛，可以处理问题、事务、任务等，不强调难度，比如 deal with the paperwork。你想表达好不容易撑过去就用 cope with，普通处理就用 deal with。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "用 cope with 描述日常简单事务，语义过重",
+        "把 cope with 与 deal with 视为完全同义互换",
+        "cope 后漏掉 with 直接接宾语"
+      ],
+      "example": "[仿题]She couldn't ___ with the pressure of the exam.\n解析：强调承受压力，填 cope。",
+      "keywords": ["cope with", "deal with", "应对", "处理", "压力"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U6_011",
+      "name": "求生类文章的因果推理",
+      "definition": "根据前因后果逻辑链推断结论的方法。",
+      "explanation": "读求生类文章，因果逻辑是主线索。你要学会用 because、therefore、as a result 等信号词定位原因和结果。比如文章说缺水和食物，那结果可能是遇险者濒临死亡或需要救援。先找信号词锁定因果链，再根据已知信息推断未知细节。你做推断题时先把因果词圈出来，理清链条再选答案。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "把并列关系误读为因果关系导致推理错误",
+        "忽略信号词，仅凭自己的经验猜测因果",
+        "把结果当成原因，因果方向倒置"
+      ],
+      "example": "[仿题]___ the lack of food, the explorer became weak.\n解析：因缺少食物而虚弱，填 Because of。",
+      "keywords": ["因果推理", "信号词", "because", "求生阅读", "逻辑"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U6_012",
+      "name": "求生作文的结构框架",
+      "definition": "按问题、措施、结果的逻辑顺序组织求生类短文。",
+      "explanation": "写求生类作文，你可以按三步走：开头描述面临的问题或困境，比如遇到自然灾害或迷路；中间写采取的措施，如寻找水源、搭建庇护所；结尾写结果或感悟。用 first of all、then、finally 等过渡词串联。这样层次分明，阅卷老师一眼就能看明白你的思路。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "开头直接写措施，没有交代背景和问题",
+        "过渡词使用不当，逻辑顺序混乱",
+        "结尾没有总结或感悟，文章显得头重脚轻"
+      ],
+      "example": "[仿题]First of all, the traveler found a ___ to stay safe.\n解析：先找安全地点，填 shelter。",
+      "keywords": ["作文框架", "问题", "措施", "结果", "过渡词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

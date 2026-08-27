@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第二册 Unit 3 Times Change!",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B5_U3_001",
+      "name": "It作形式主语的结构",
+      "definition": "用it代替真正主语从句置于主语位，从句后置的强调结构。",
+      "explanation": "为避免主语从句过长压于句首，常用it作形式主语，把真正的主语从句放后，如It is certain that technology improves life。这里的it只是占据主语位置。你写作时先写It is加形容词，再接that引导的主语从句，使得语序平稳又不失表达重点。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "形式主语it被省略造成无主语",
+        "真正主语从句的位置后置不当",
+        "it与that引导词混淆使用"
+      ],
+      "example": "[仿题]It is true ___ we grow.\n解析：真正主语从句填that。",
+      "keywords": ["形式主语", "主语从句", "it", "后置"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U3_002",
+      "name": "主语从句表必然结构",
+      "definition": "It is加important等形容词加主语从句表达必然必要性的结构。",
+      "explanation": "要说明某事是必要或明显的，用It is + 形容词 + that从句，比如It is necessary that we adapt。这种句式强调对事物的判断。你记往形容词决定评价基调，后面接that从句陈述被评价内容，表达必然或明显就明确有力。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "It is形容词后可接that漏加",
+        "把necessary误当名词使用",
+        "把主语从句用时态混乱而无依据"
+      ],
+      "example": "[仿题]It is vital ___ we plan.\n解析：必要的从句填that。",
+      "keywords": ["形式主语", "形容词", "that从句", "必然性"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U3_003",
+      "name": "主语从句与it灵活转换",
+      "definition": "把置于句首的主语从句改写为以it开头、从句后置的同义结构。",
+      "explanation": "同一句意既可直接把主语从句放句首，也可用it作形式主语把从句后置，如Whether it works matters也可写成It matters whether it works。你理解两种写法并不矛盾，可依据读感自由选择。先把握调整语序后的意义不变，主语从句与后置便都能驾驭。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "转换时丢失引导词，句意走样",
+        "把位置调整误写成重复两个主语",
+        "转换中主句谓语未随重排而调整"
+      ],
+      "example": "[仿题]It matters ___ we try.\n解析：后置从句引导用whether。",
+      "keywords": ["主语从句", "形式主语", "句序转换", "whether"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U3_004",
+      "name": "whether引导主语从句",
+      "definition": "主语从句表达是否时用whether引导并搭配单数谓语的用法。",
+      "explanation": "when表是否的主语从句要用whether引导，如Whether we succeed doesn't matter。这类从句作主语时，主句谓语常用单数。不要把if错误用作主语从句的引导词，句首一般保留whether。你判断从句是否表选择，并让主句与之呼应。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "主语从句用if替代whether",
+        "whether主语从句搭配复数谓语",
+        "whether引导词位置摆放错误"
+      ],
+      "example": "[仿题]___ we stay matters.\n解析：表选择用whether填Whether。",
+      "keywords": ["whether", "主语从句", "是否", "单数谓语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U3_005",
+      "name": "what引导名词性从句",
+      "definition": "what在主语从句中充当成分，指代所说所做的事情的用法。",
+      "explanation": "what在主语从句中既引导又作从句成分，指说话内容或所做的事，如What we need is more training。这里what既是引导词又是need的宾语。你看到从句缺成分又含具体所指就用what，保持主句谓语与被指事件一致。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "把what与that混用忘记成分功能",
+        "what主语从句谓语单复数配错",
+        "从句含所做的事却用which不当"
+      ],
+      "example": "[仿题]___ matters now is action.\n解析：所指的事填What。",
+      "keywords": ["what", "主语从句", "成分", "谓语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U3_006",
+      "name": "主语从句时态语序",
+      "definition": "主语从句用陈述语序并按时态按被指事实定时的搭配原则。",
+      "explanation": "主语从句一律使用陈述语序不倒装，时态则按被陈述事实发生的时间而定。如Whether he came matters用过去时说明事已发生。你写从句时先排好主谓顺序，再依据事实时间选用时态，既符合规范又传递恰当的时间信息。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "主语从句误用疑问倒装语序",
+        "从句时态脱离事实发生的时间",
+        "主句谓语时态与从句搭配错乱"
+      ],
+      "example": "[仿题]That he ___ late is known.\n解析：按事实过去填came。",
+      "keywords": ["主语从句", "陈述语序", "时态", "事实"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U3_007",
+      "name": "科技时代主题词汇",
+      "definition": "描述信息时代技术革新与社会进步的核心名词与动词。",
+      "explanation": "谈科技时代你会用到technology技术、data数据、innovation创新、network网络、digital数字的、modern现代的、advance进步这些词。表达技术发展用technical advance，说明数据增长用data grow。你把这些词与数字时代的话题结合记忆，讨论科技对社会影响时不词穷。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把technology误拼成techonology漏o",
+        "把innovation误拼成innvetion漏o",
+        "把digital误当成名词来造句"
+      ],
+      "example": "[仿题]New ___ changes our life.\n解析：新技术填technology。",
+      "keywords": ["科技", "数据", "创新", "网络", "数字化"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U3_008",
+      "name": "数字智能技术词汇",
+      "definition": "描述人工智能、智能手机与智能设备应用的常用名词与动词。",
+      "explanation": "智能生活离不开smartphone智能手机、AI人工智能、device设备、connect连接、automate自动化、intelligently智能地这些词。表达智能设备自动化用automate tasks，说明随身携带用carry a smartphone。你把这些融入科技话题，能更具体描述生活中智能技术的方方面面。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把smartphone漏掉拼接为smartphoneer",
+        "把automate误拼成automatee漏e",
+        "把AI缩写与人工智能全称混用不清"
+      ],
+      "example": "[仿题]Our ___ connects us.\n解析：智能设备填device。",
+      "keywords": ["智能", "设备", "连接", "自动化", "AI"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U3_009",
+      "name": "信息通信网络词汇",
+      "definition": "描述上网、社交平台与快速沟通的通信类常用名词动词。",
+      "explanation": "通信网络语境你会用到internet互联网、message消息、instant instant即时、online在线的、platform平台、spread传播这些词。表达网络互动用share online，说明迅速沟通用send a text message。你掌握在线分享与即时联系用语，写数字时代生活就自然贴切。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把internet首字母大小写误用",
+        "把platform误拼成platfrom颠倒字母",
+        "把onlin与with介词搭配错用"
+      ],
+      "example": "[仿题]We chat ___ the internet.\n解析：通过网络填over/on。",
+      "keywords": ["互联网", "在线", "平台", "即时", "分享"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U3_010",
+      "name": "生活方式变化词汇",
+      "definition": "描述科技使生活方式转变、习惯调整的常用名词与动词。",
+      "explanation": "科技改变生活时你用lifestyle生活方式、change改变、habit习惯、convenient方便的、replace取代、shift转变这些词。表达生活方式变化用change one's lifestyle，说明习惯调整用form a new habit。先讲旧方式，再谈新科技下如何转变，变化过程生动可见。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把convenient误拼成convedient漏n",
+        "把replace后面直接接人而丢掉对象",
+        "把lifestyle可数与抽象搭配混淆"
+      ],
+      "example": "[仿题]Tech ___ old habits.\n解析：取代旧习惯填replaces。",
+      "keywords": ["方式", "变化", "习惯", "方便", "取代"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U3_011",
+      "name": "科技影响评价表达",
+      "definition": "用评价句型表达科技带来的好处与局限带来的影响的句型。",
+      "explanation": "评价科技影响时你用It is加形容词加that的结构，如It is helpful that we can share instantly，也用bring好处、challenge带来挑战等表达。评价要客观，先谈科技带来的便利，再谈面临的风险与挑战。把好处与风险并举，评价更有说服力。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "It is句型中that与to用混",
+        "评价只谈好处不谈风险失衡",
+        "把bring challenges误拼成bring challanges"
+      ],
+      "example": "[仿题]It is helpful ___ we connect.\n解析：评价内容用that填that。",
+      "keywords": ["评价", "好处", "挑战", "It is", "平衡"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U3_012",
+      "name": "未来趋势展望句式",
+      "definition": "用主语从句等结构表达对未来科技发展的展望与猜想的句式。",
+      "explanation": "展望未来科技时你用It is likely that、It seems to me that、Whether we like it or not等主语从句开篇，再谈可能出现的趋势与需要适应的变化。写作时先别直接下判断，而是先表明推测，再用主语从句引出你对未来的期望与责任表达。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "主语从句it is likely漏that",
+        "展望以上谈判断使语气过强",
+        "Whether we like it or not拼错whether"
+      ],
+      "example": "[仿题]It ___ that AI will grow.\n解析：有可能填is likely。",
+      "keywords": ["展望", "趋势", "主语从句", "推测", "未来"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

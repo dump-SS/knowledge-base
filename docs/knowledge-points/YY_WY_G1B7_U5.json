@@ -1,0 +1,213 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第四册 Unit 5 Into the Unknown",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B7_U5_001",
+      "name": "综合运用多种从句",
+      "definition": "在综合语篇中合理解读多种从句。",
+      "explanation": "一篇综合语篇里，往往会同时出现名词性从句、定语从句和状语从句。你阅读时要先分清每一类从句的功能，名词从句当名词用，定语从句修饰名词，状语从句表时间原因等。判断时看连接词和从句在句中的位置。综合运用这些知识，长与复杂的文章就能读懂。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把定语从句误当成名词性从句理解",
+        "状语从句与宾语从句的功能混淆",
+        "多从句并存时快速跳跃导致目不接"
+      ],
+      "example": "[仿题]分类：He knows that the man who came is kind.\n解析：that 宾语从句内有 who 定语从句。",
+      "keywords": ["从句", "综合", "名词性从句", "定语从句", "状语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U5_002",
+      "name": "非谓语与从句的结合",
+      "definition": "非谓语与从句组合表达。",
+      "explanation": "高水平的表达常把非谓语和从句结合起来使用，句子显得层次丰富。比如 Having finished the task which was hard，he relaxed，既有完成分词又有定语从句。你写作时可以把从句和分词分层表达，一个表主谓关系，一个表修饰。组合使用让句子更凝练，也考验你的综合运用能力。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "分词与从句的修饰对象混淆",
+        "组合表达中主被动形式选错",
+        "多层结构嵌套后逻辑不清"
+      ],
+      "example": "[仿题]___ the work (that) he had, he left.\n解析：先完成再离开，填 Having done。",
+      "keywords": ["非谓语", "从句", "组合", "分词", "综合"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U5_003",
+      "name": "复合长句的整体分析",
+      "definition": "对复杂长句进行整体分析。",
+      "explanation": "面对含多从句和多修饰成分的长句，你要有整体的分析思路。先找准主句的主谓宾主干，再标记各类从句和修饰语，最后按逻辑关系串联起来理解。比如剥开一层层的从句和插入成分，主干就浮出水面。坚持整套流程分析，长难句就变得有条理，不像第一次看到那样吓人。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "只看局部不看整体导致主干抓错",
+        "分支从句与必然主干割裂",
+        "修饰成分分析过细反而乱了主干"
+      ],
+      "example": "[仿题]主干提取：The idea that he proposed which seems new is great.\n解析：主干是 The idea is great。",
+      "keywords": ["长句", "主干", "结构分析", "从句", "整体思维"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U5_004",
+      "name": "强调与倒装的综合使用",
+      "definition": "强调与倒装增强表达语势。",
+      "explanation": "强调和倒装都能增强语势，也可综合运用。比如 Never have I seen such a place 是否定词开头的倒装，It is here that I found it 是强调句。你写作想突出某个观点或营造氛围，可以灵活采用强调或倒装。综合运用时注意语序和时态，既要有气势又要正确。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "强调句与倒装句结构混用",
+        "否定词倒装后语序错误",
+        "综合运用时语义重点不突出"
+      ],
+      "example": "[仿题]Never ___ I met such a strange thing.\n解析：否定词倒装，填 did。",
+      "keywords": ["强调句", "倒装", "语势", "综合", "否定词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U5_005",
+      "name": "时态与语态的综合判断",
+      "definition": "根据语境判断时态与语态。",
+      "explanation": "综合运用语法时，时态与语态的判断要结合上下文。时态根据动作发生的时间来判断，语态看主语与动作是主动还是被动。比如 The work was done by him 是被动且过去。你判断时先问动作发生在何时，再问主语是施动还是受动，两者结合使用，句子的时态语态就锁定正确了。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "时态判断忽略上下文的时间交代",
+        "主语受动却用主动语态",
+        "被动结构与时态组合错误"
+      ],
+      "example": "[仿题]The novel ___ (write) by him last year.\n解析：过去被动，填 was written。",
+      "keywords": ["时态", "语态", "语境", "被动", "综合判断"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U5_006",
+      "name": "虚拟语气的综合运用",
+      "definition": "虚拟语气在句子中的正确使用。",
+      "explanation": "虚拟语气综合运用时要根据假设的对象判断句式。与现在相反用过去式，与过去相反用过去完成式，愿望和建议用特定结构。比如 If I were you，I would go，如果与过去相反则 If I had gone。你判断虚拟的类型，先看时间，再看说话者的愿望，找到对应的格式即可。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "与过去相反时误用一般过去式",
+        "建议虚拟与让步虚拟混用",
+        "were 在虚拟中误用为 was"
+      ],
+      "example": "[仿题]If he ___ known earlier, he would have come.\n解析：与过去相反用 past perfect，填 had。",
+      "keywords": ["虚拟语气", "if条件句", "与过去相反", "were", "愿望"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U5_007",
+      "name": "情态动词的综合选择",
+      "definition": "依据语义选择合适的情态动词。",
+      "explanation": "综合运用情态动词，要依据语义表推测程度、能力、义务等。must 表必须或强推测，can 表能力，may 表可能，should 表应该。你做题时先判断句意是表必须、能力、推测还是应该，再选对应的情态动词。结合语境和说话者的态度，就能准确锁定合适的情态动词。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "表能力与表推测的情态动词混淆",
+        "推测把握程度与情态动词不匹配",
+        "义务与推测语义未分开判断"
+      ],
+      "example": "[仿题]You ___ finish your homework first.\n解析：表应该，填 should。",
+      "keywords": ["情态动词", "推测", "能力", "义务", "选择"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U5_008",
+      "name": "未知探索主题词汇",
+      "definition": "涵盖探索未知与发现的词汇。",
+      "explanation": "本单元未知探索词汇，你按动作与状态两组记。动作类有 explore 探索、search 搜寻、investigate 调查，状态类有 mystery 神秘、unknown 未知的、phenomenon 现象。读探险或科普文章时先抓这些词，再理清作者的探索过程，理解就顺了。分组记忆让探索词汇落实更牢。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 explore 与 explode 拼写混淆",
+        "search 与 search for 搭配错用",
+        "investigate 后漏掉宾语残缺",
+        "phenomenon 复数形式记忆错误"
+      ],
+      "example": "[仿题]Scientists ___ the unknown deep sea.\n解析：探索深海，填 explore。",
+      "keywords": ["explore", "mystery", "unknown", "discover", "探索"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U5_009",
+      "name": "发现与发明的词义",
+      "definition": "discover 表发现，invent 表发明。",
+      "explanation": "discover 和 invent 含义不同。discover 指发现本来存在但不为人知的事物，比如 discover gold 发现金子。invent 指发明原本不存在的新东西，比如 invent the phone 发明电话。你判断词汇含义，就看这个东西是原已存在还是新造出来的，存在用 discover，造出来用 invent，绝不混淆。",
+      "difficulty": 2,
+      "frequency": 2,
+      "typical_errors": [
+        "发现已存在事物却误用 invent",
+        "把新发明误写成 discover 造成语义错",
+        "discover 与 invent 的分界记不清"
+      ],
+      "example": "[仿题]Edison ___ the light bulb.\n解析：新发明用 invent，填 invented。",
+      "keywords": ["discover", "invent", "发现", "发明", "词义"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U5_010",
+      "name": "综合语法的上下文判断",
+      "definition": "结合上下文综合判断语法结构。",
+      "explanation": "综合语法填空或改错，都要结合上下文来判断。看前后句的时态是否呼应，看连接词和结构是否匹配语境，看主谓是否一致。比如空格的时态依据上下文时间对照判断，结构依据连接的句子类型判断。你做题时先通读全文，再逐一判断每个空格对应的语法点，整体才能做对。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "只看单句不读上下文导致判断偏颇",
+        "时态与上下文不呼应未察觉",
+        "结构与语境的连接不匹配",
+        "主谓一致错误被忽略"
+      ],
+      "example": "[仿题]上下文：Yesterday he ___ (go) home early.\n解析：过去时间用过去式，填 went。",
+      "keywords": ["上下文", "判断", "时态", "结构", "主谓一致"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U5_011",
+      "name": "未知神秘的表达",
+      "definition": "表达神秘未知氛围的词汇。",
+      "explanation": "表达未知和神秘的语境，这些词很有用。mysterious 神秘的、unexplained 无法解释的、curiosity 好奇心、explore the unknown 探索未知。这些词常出现在悬疑和冒险文章里。你写作营造悬念时用它们，能增强气氛。比如 curiosity drives us to discover 好奇心促使我们去发现。",
+      "difficulty": 2,
+      "frequency": 2,
+      "typical_errors": [
+        "curiosity 与 curiosity 拼写混淆",
+        "mysterious 与 mystery 词性混用",
+        "explore the unknown 短语搭配漏词",
+        "营造悬念时词汇使用不当"
+      ],
+      "example": "[仿题]___ drives us to learn more.\n解析：好奇心驱使探索，填 Curiosity。",
+      "keywords": ["curiosity", "mysterious", "未知", "神秘", "探索"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U5_012",
+      "name": "探索话题作文的写法",
+      "definition": "围绕未知探索组织话题作文。",
+      "explanation": "写探索未知话题的作文，你可用悬念、过程、启示结构。开头制造悬念，比如提出一个未知问题吸引注意；正文描述探索的过程与发现成果；结尾谈探索带给你的启示与感悟。用 to begin with、however、in the end 等过渡。从设问到解答，文章既引人入胜又主题明确。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "开头悬念不够无法吸引读者",
+        "探索过程描述顺序混乱",
+        "没有总结探索的意义和启示",
+        "过渡词使用不当破坏悬念节奏"
+      ],
+      "example": "[仿题]To begin with, the cave was ___ mysterious.\n解析：营造未知氛围，填 completely。",
+      "keywords": ["作文结构", "悬念", "探索", "启示", "未知"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第四册 Unit 6 Space and Beyond",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B7_U6_001",
+      "name": "语篇连贯的衔接手段",
+      "definition": "用连接词和指代实现语篇连贯。",
+      "explanation": "一篇文章要连贯，就需要用衔接手段把句子和段落连起来。常见的有连接词 like however、therefore，以及指代词的运用。比如前面提到 a plan，后面用 it 指代，句子就前后呼应。你写作时多使用过渡词和指代，句子之间的联系就更紧密，文章读起来也能一气呵成。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "只用连接词而忽略指代照应",
+        "过渡词使用不当破坏逻辑衔接",
+        "指代不明导致前后句脱节"
+      ],
+      "example": "[仿题]He failed; ___, he kept trying.\n解析：转折衔接，填 however。",
+      "keywords": ["衔接", "连接词", "指代", "连贯", "语篇"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U6_002",
+      "name": "指代与实词的衔接",
+      "definition": "代词的指代与实词呼应衔接。",
+      "explanation": "语篇中代词要与它指代的实词相呼应，才能保持连贯。比如前文出现 the spaceship，后面用 it 指代，语义就连贯了。你阅读时要注意代词指代的对象，写作时提醒自己代词前面要有明确的实词。如果代词所指不清，句子衔接就断了，理解也会受阻。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "代词前缺少可指代的实词",
+        "代词的单复数与先行词不一致",
+        "指代对象随语境变化而错位"
+      ],
+      "example": "[仿题]The rocket lifted off; ___ went into orbit.\n解析：it 指代 rocket，填 it。",
+      "keywords": ["指代", "实词", "代词", "呼应", "衔接"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U6_003",
+      "name": "因果与转折的过渡",
+      "definition": "用因果转折词衔接语篇层次。",
+      "explanation": "因果和转折词是组织语篇层次的重要手段。because、therefore 表达因果关系，however、but 表转折。你用它们连接句子，就能清楚呈现推理和态度变化。比如结果句子前用 therefore，转折处用 however。分清两种逻辑关系选用对应连接词，语篇层次就分明了。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "因果关系误用转折连接词",
+        "therefore 与 however 语义混用",
+        "连接词位置放错导致层次不清"
+      ],
+      "example": "[仿题]It rained; ___, the picnic was postponed.\n解析：表结果填 therefore。",
+      "keywords": ["因果关系", "转折", "therefore", "however", "过渡"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U6_004",
+      "name": "否定词开头的倒装",
+      "definition": "否定副词提前引起部分倒装。",
+      "explanation": "当否定副词如 never、not only、hardly 放在句首时，主句要用部分倒装。比如 Never have I seen such a view。你写作想用否定词开头增强语势，就记得把助动词或 be 提到主语前。判断是否倒装，看句首是不是否定或半否定副词，是就部分倒装，语序要作调整。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "否定词开头未进行部分倒装",
+        "倒装时助动词选择错误",
+        "否定词放中间而非句首却误倒装"
+      ],
+      "example": "[仿题]Never ___ I changed my mind.\n解析：never 开头倒装，填 have。",
+      "keywords": ["倒装", "否定词", "部分倒装", "never", "语序"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U6_005",
+      "name": "only加状语的倒装",
+      "definition": "only 加状语提前引起部分倒装。",
+      "explanation": "only 加状语放在句首时，主句要部分倒装。比如 Only then did he realize the truth，只有那时他才意识到真相。你写作强调某一条件时用 only 开头，后面接状语和倒装。注意 only 强调的必须状语（副词、介词短语或 when 从句），强调主语则不倒装。区分清楚就正确了。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "only 强调主语时也误用倒装",
+        "only 后接非状语成分仍倒装",
+        "倒装的语序与助动词搭配错"
+      ],
+      "example": "[仿题]Only in this way ___ succeed.\n解析：only 加状语倒装，填 can we。",
+      "keywords": ["only", "倒装", "状语", "部分倒装", "强调"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U6_006",
+      "name": "so与neither倒装",
+      "definition": "表示同样时用 so 或 neither 承接。",
+      "explanation": "表达某人情况和前面相同，用 so 或 neither 开头倒装。肯定情况用 so，否定情况用 neither。比如 He likes it，so do I，I 也一样；He doesn't，neither does she。你写作回应前一句的态度时，用这个结构很地道。注意倒装句里的人称和助动词要一致。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "肯定承接误用 neither 而用 so",
+        "倒装句式的人称顺序写反",
+        "neither 后用了错误的助动词"
+      ],
+      "example": "[仿题]She can swim; so ___ I.\n解析：肯定也如此，填 can。",
+      "keywords": ["so", "neither", "倒装", "承接", "同一"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U6_007",
+      "name": "方位副词提前的完全倒装",
+      "definition": "方位副词提前引起完全倒装。",
+      "explanation": "方位或时间副词 like here、there、down 等提到句首时，句子常用完全倒装，动词整体移到主语前。比如 There comes the bus，公交车来了。你写描写性句子或强调方位时，把方位副词放句首，然后用完全倒装。注意主语若是代词则不倒装，这是区分要点。",
+      "difficulty": 4,
+      "frequency": 2,
+      "typical_errors": [
+        "主语是代词仍用完全倒装",
+        "倒装时动词位置放错",
+        "方位副词提前却不倒装"
+      ],
+      "example": "[仿题]___ goes the signal to the station.\n解析：方位副词倒装，填 There。",
+      "keywords": ["完全倒装", "方位副词", "there", "主语位置", "语序"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U6_008",
+      "name": "太空探索主题词汇",
+      "definition": "涵盖太空探索与天体的词汇。",
+      "explanation": "本单元太空探索词汇，你按行动与对象两组记。行动类有 launch 发射、orbit 绕行、exploration 探索，对象类有 space station 空间站、astronaut 宇航员、surface 表面。读太空探索文章时先抓这些关键词，再理清任务的过程，理解就顺。分组记忆让太空词汇更牢固。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 launch 与 lunch 拼写混淆",
+        "orbit 后误接介词搭配错误",
+        "astronaut 的拼写记忆缺失字母",
+        "surface 与其他表面词混用"
+      ],
+      "example": "[仿题]The rocket will ___ next week.\n解析：火箭发射，填 launch。",
+      "keywords": ["launch", "astronaut", "orbit", "space station", "探索"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U6_009",
+      "name": "天体的词汇积累",
+      "definition": "涵盖行星恒星等天体术语。",
+      "explanation": "谈论太空，天体词汇要认识。planet 行星、star 恒星、moon 卫星、solar system 太阳系、galaxy 星系。这些词常在科普文章中出现，比如 the solar system 由太阳和行星组成。你阅读天文科普时先认出这些词，再理解它们之间的关系。把天体词汇归类记忆更高效。",
+      "difficulty": 2,
+      "frequency": 2,
+      "typical_errors": [
+        "把 planet 与 star 概念混用",
+        "solar system 短语漏词或顺序错误",
+        "galaxy 与 universe 混用不区分范围",
+        "天体名词的复数形式错误"
+      ],
+      "example": "[仿题]The Earth is a ___ in the solar system.\n解析：地球是行星，填 planet。",
+      "keywords": ["planet", "star", "solar system", "galaxy", "天体"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U6_010",
+      "name": "语篇中的时态一致",
+      "definition": "语篇内保持时态语气一致。",
+      "explanation": "语篇连贯还包括时态的一致。叙述同一事件时，时态要前后呼应，除非有时间标志表明变化。比如讲述历史事件用过去式贯穿，讲一般规律用现在式。你在写作或改错时，检查相邻句子的时态是否协调，若前后逻辑先后明确，则要据此调整。时态一致让语篇更流畅。",
+      "difficulty": 4,
+      "frequency": 2,
+      "typical_errors": [
+        "叙述同一事件时态前后跳跃",
+        "时间标志与用错时态矛盾",
+        "改错时忽略上下文时态趋势"
+      ],
+      "example": "[仿题]语篇检查：She studies hard; she ___ well.\n解析：与 studies 一致用现在式，填 works。",
+      "keywords": ["时态一致", "语篇", "呼应", "时间标志", "连贯"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U6_011",
+      "name": "段间衔接词的积累",
+      "definition": "用承接词增强段落间连贯。",
+      "explanation": "段落之间也要用承接词保持连贯。besides 补充、on the other hand 另一方面、in conclusion 总结，这些词放在段首能提示读者结构的走向。你写作时按内容的关系选用合适的承接词，补充用 besides，对比用 on the other hand，总结用 in conclusion。段落衔接自然，文章才有整体感。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "承接词语义与段落内容不匹配",
+        "段际衔接词使用重复单调",
+        "对比与补充的关系选词出错"
+      ],
+      "example": "[仿题]___ , it is important to protect the environment.\n解析：补充句用 besides 或 also。",
+      "keywords": ["承接词", "段落", "besides", "对比", "总结"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U6_012",
+      "name": "太空话题作文的写法",
+      "definition": "围绕太空探索组织话题作文。",
+      "explanation": "写太空探索作文，你可用现状、意义、展望结构。开头介绍当前太空探索的成果与进展，正文论述探索的意义，比如科技带动和人类梦想，结尾展望未来并谈个人态度。用 in recent years、moreover、in the future 等过渡。综合运用倒装等句式，文章更有吸引力。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "开头材料过多冲淡主题",
+        "探索意义论述空泛没有实例",
+        "结尾展望缺乏个人观点",
+        "高级句式堆砌显得生硬"
+      ],
+      "example": "[仿题]In recent years, space ___ has developed fast.\n解析：指太空探索，填 exploration。",
+      "keywords": ["作文结构", "太空", "意义", "展望", "过渡词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

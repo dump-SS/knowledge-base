@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第一册 Unit 4 Friends Forever",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B4_U4_001",
+      "name": "who 引导定语从句指人",
+      "definition": "用关系代词 who 引导定语从句来修饰指人的先行词。",
+      "explanation": "你描述一个人时可用 who 引导定语从句，who 在从句中作主语。比如 a friend who helps me 中 who 指人且作主语。后面直接接谓语动词，无人称变化。写朋友介绍时用 who 让描述更丰富，注意 who 前后的动词与被修饰主语要保持一致。",
+      "difficulty": 2,
+      "frequency": 5,
+      "typical_errors": [
+        "who 在从句作主语时却误接主格 he 导致重复主语",
+        "修饰人的先行词误用 which 而应使用 who",
+        "who 后动词未与先行词单复数保持主谓一致"
+      ],
+      "example": "[仿题]帮助我的朋友是李华。\n解析：The friend who helps me is Li Hua，who 指人作主语。",
+      "keywords": ["who", "定语从句", "先行词", "关系代词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_002",
+      "name": "whom 作宾语指人",
+      "definition": "whom 引导定语从句并作从句宾语、修饰指人先行词的用法。",
+      "explanation": "你描述一个被某动作针对的人时，若关系词在从句中作宾语，指人用 whom。比如 the friend whom you trust，whom 作 trust 的宾语。在正式书面语中作宾语常用 whom，口语中常省略或用 who 替代。写英语时你按从句动词是否缺宾语来判断用 whom 才更准确。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "作宾语的关系词误用 who 且在正式语体中缺少 whom",
+        "宾语位置重复保留人称代词造成多余成分",
+        "把 whom 误当成主格加宾格用错句子成分"
+      ],
+      "example": "[仿题]你信任的朋友来了。\n解析：The friend whom you trust is here，whom 作宾语。",
+      "keywords": ["whom", "宾语", "定语从句", "关系代词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_003",
+      "name": "which 引导指物定语",
+      "definition": "用 which 引导定语从句修饰先行词为事物的名词。",
+      "explanation": "你描述一个物品或抽象事物时用 which，在从句中作主语或宾语。比如 a gift which I bought，which 作 bought 的宾语。作宾语时可省略，作主语不可省略。写友谊话题中的礼物等名词时搭配 which 引出描述，让句子信息更完整。注意指物才用 which。",
+      "difficulty": 2,
+      "frequency": 5,
+      "typical_errors": [
+        "指物关系词作宾语时理应保留却误用 who",
+        "which 作从句主语时误将其省略造成句子不完整",
+        "指物与指人的关系代词选用相互颠倒"
+      ],
+      "example": "[仿题]我买的礼物很漂亮。\n解析：The gift which I bought is nice，which 指物作宾语。",
+      "keywords": ["which", "指物", "定语从句", "先行词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_004",
+      "name": "非限定性定语从句用法",
+      "definition": "对先行词仅作补充说明、不限定范围的非限制性定语从句。",
+      "explanation": "你写完主句后想补充说明某人或某物时用非限定性定语从句，用逗号隔开，去掉后句子仍完整。例如 My friend, who is kind, helps me a lot，这里 who 从句只是补充朋友善良。它不能用 that 引导，指物用 which，指人用 who。写高级作文用它可让句子更流畅有层次。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "非限定性定语从句误使用 that 作关系词",
+        "非限定性从句遗漏逗号导致结构与限定用错了",
+        "误用 which 指代整个主句的情况造成语义偏差"
+      ],
+      "example": "[仿题]我的朋友很热心。\n解析：My friend, who is kind, helps much，非限定用逗号且不接 that。",
+      "keywords": ["非限定", "逗号", "which", "that"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_005",
+      "name": "which 与 who 的选择",
+      "definition": "依据先行词指人或指物决定关系代词用 who 还是 which。",
+      "explanation": "你遇到选 which 还是 who 的题时，关键是先看先行词指的是人还是物。指人填 who，指物填 which，再确认在从句中作主语还是宾语以决定是否可省略。综合判断时既要看指代对象，也要看从句成分。多练几道含人与物的对照题，你的直觉就会清晰起来。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "先行词指人时误填 which 而未考虑指代对象",
+        "判断是否省略时未考虑关系词在从句的句子成分",
+        "没有先定位先行词就急着填关系词造成误选"
+      ],
+      "example": "[仿题]帮助我的那个老师走了。\n解析：The teacher who helped me left，指人用 who。",
+      "keywords": ["which", "who", "先行词", "指人指物"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_006",
+      "name": "时态在从句中的呼应",
+      "definition": "主句与定语从句在时间逻辑下保持时态协调的用法。",
+      "explanation": "你写含定语从句的长句时，要按时间逻辑决定主句和从句的时态。若主句用过去时描述过去事件，从句常与之呼应；若从句表示主动经常发生的动作也可用一般现在时。比如 The friend whom you met yesterday 中用过去时。你需要从时间状语与前后文判断，让两句时态相互协调不突兀。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "主从句之间时间逻辑无序使用时态造成混乱",
+        "从句的时间状语为 yesterday 却仍用一般现在时描述",
+        "忽略句子时间逻辑让主句从句时态互相矛盾"
+      ],
+      "example": "[仿题]你昨天见的朋友很有趣。\n解析：The friend whom you met yesterday is fun，met 表昨天的过去。",
+      "keywords": ["时态呼应", "定语从句", "时态", "主从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_007",
+      "name": "友谊主题核心词汇",
+      "definition": "描述友谊与朋友相处关系的核心英语词汇。",
+      "explanation": "你写友谊话题会遇到 loyal 忠诚的、trust 信任、honest 诚实的、share 分享等词。可以说 a loyal friend 一位忠诚的朋友，再谈 trust 彼此信任。作文表达友谊可贵时用这些词比泛泛而谈更有力量。记忆时把形容品格的形容词与表达行为的名词分组归类，写作调用更顺手。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "表达忠诚误把 loyal 与 royal 两个词形混淆",
+        "信任 trust 表达时误与名词 truth 拼音混淆用错",
+        "形容朋友诚实误把 honest 的 h 发音与拼写搞乱"
+      ],
+      "example": "[仿题]他是一位忠诚的朋友。\n解析：He is a loyal friend，loyal 表示忠诚。",
+      "keywords": ["loyal", "trust", "honest", "share"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_008",
+      "name": "表示朋友关系的名词短语",
+      "definition": "描述不同类别朋友关系及相处状态的名词短语表达。",
+      "explanation": "你讨论朋友关系时可用 best friend 最好的朋友、close friend 亲密朋友、schoolmate 校友、companion 同伴等词。区分 the closest 亲密程度不同的朋友会让表达更精准。写友谊作文时用这类短语描述朋友类型，再搭配动词介绍朋友相处的情境，能提升描写的层次感。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "best friend 误写成复数又保留最高级含义表达混乱",
+        "表示亲密朋友误把 close 形容词与动词混淆",
+        "companion 与同学 friend 的概念范围区分不清"
+      ],
+      "example": "[仿题]她是我最好的朋友。\n解析：She is my best friend，用最高级 best 修饰。",
+      "keywords": ["best friend", "close friend", "companion", "朋友关系"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_009",
+      "name": "应对分歧的动词短语",
+      "definition": "描述朋友间解决分歧与维持友谊的常用动词短语。",
+      "explanation": "你讨论朋友偶有误会时用这些短语：make up 和好、forgive 原谅、get on well with 与相处融洽、work out 想通。可以说 They had a quarrel but soon made up 来表示吵架很快和好。写处理友情矛盾的作文时，用这些动词串联从争吵到和解的过程，表达就会自然流畅。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "表达和好误把 make up 与 makeup 名词形式混淆",
+        "原谅 forgive 表达时误接 to do 而非直接宾语",
+        "相处融洽短语中漏写 with 造成介词缺失"
+      ],
+      "example": "[仿题]他们吵了一架但很快和好。\n解析：They quarrelled but soon made up，make up 表示和好。",
+      "keywords": ["make up", "forgive", "get on", "和好"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_010",
+      "name": "表达支持与陪伴的动词",
+      "definition": "描述朋友在困难时给予支持陪伴所用动词的用法。",
+      "explanation": "你想要对方朋友支持与陪伴时可用 support、stand by 支持陪伴、encourage 鼓励、accompany 陪同等动词。比如 he always encourages me 表示他总是鼓励我。表示一直在你身边可说 stay by your side。写朋友间守望相助的表达时说 he offered me great support 更为地道自然。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "表达支持误把 support 当作形容词而当名词句型使用",
+        "陪伴 accompany 误拼成 company 混淆词串",
+        "鼓励 encourage 后误接 to do 并用错补足结构"
+      ],
+      "example": "[仿题]他总鼓励我。\n解析：He always encourages me，encourage 后接某人。",
+      "keywords": ["support", "encourage", "accompany", "陪伴"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_011",
+      "name": "描述人物特征的形容位置",
+      "definition": "多个形容词或从句修饰人时安排顺序与位置的用法。",
+      "explanation": "你描述朋友时会把形容词和定语从句组合起来定位他的特点。单个形容词放名词前，定语从句紧跟名词之后，比如 a kind friend who always helps me。写长描写时注意定语从句要紧贴先行词，不要被中间成分隔开造成歧义。位置正确句子读起来才清晰顺畅。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "定语从句与先行词之间插入修饰造成指代不清",
+        "多个形容词排序混乱让读者难以确定修饰对象",
+        "把定语从句放到名词前导致语法结构还原错误"
+      ],
+      "example": "[仿题]一位乐于助人的朋友。\n解析：a kind friend who often helps others，定语从句紧跟名词。",
+      "keywords": ["形容词", "定语从句", "位置", "修饰"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U4_012",
+      "name": "比较级表达关系深浅",
+      "definition": "用比较级表达朋友之间关系亲密程度的相对差异。",
+      "explanation": "你想比较朋友关系深浅时用比较级或最高级。比如 closer 更亲密、the closest 最亲密，还可说 like a brother to me 就像我兄弟。写作文时常说 she is the closest friend I've ever had 用最高级强调。注意比较级后接 than，最高级前用 the 且说明范围，位置别弄错。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "比较级 closer 后面误漏介词 than 的结构",
+        "最高级前漏写 the 造成冠词使用遗漏",
+        "比较对象不明确让比较级悬空无参照"
+      ],
+      "example": "[仿题]她是我最好的朋友。\n解析：She is the closest friend I've had，最高级用 the。",
+      "keywords": ["比较级", "最高级", "closer", "the"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

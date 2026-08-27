@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第二册 Unit 3 On the Move",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B2_U3_001",
+      "name": "一般现在时被动语态",
+      "definition": "用 am is are 加过去分词表达一般现在时的被动语态。",
+      "explanation": "你表达现在某事正被做、主语是动作的承受者时用一般现在时被动语态，结构为 am 或 is 加过去分词，或 are 加过去分词。比如 Football is played everywhere 表示足球被到处踢。被动形式随主语的人称与数选择 be 动词。写体育介绍可用它突出被说明的对象。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "被动语态误写成 is play 而未用过去分词 played",
+        "be 动词与主语人称数不匹配造成主被动不一致",
+        "把被动原形缺失 is 直接加过去分词"
+      ],
+      "example": "[仿题]足球被广泛踢。\n解析：Football is played everywhere，is 加过去分词构成被动。",
+      "keywords": ["被动语态", "is", "过去分词", "一般现在时"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U3_002",
+      "name": "一般过去时被动语态",
+      "definition": "用 was 或 were 加过去分词表示一般过去时的被动语态。",
+      "explanation": "你叙述过去某物被如何对待或改变时用一般过去时被动语态，结构为 was 或 were 加过去分词。比如 The game was invented in 1930 表示这项运动诞生于1930年。was 用于单数，were 用于复数。写运动发展史时用被动语态让叙述聚焦在对象本身。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "复数主语误用 was invented 而未用 were invented",
+        "过去被动的过去分词误写为动词过去式造成结构错",
+        "把过去时的 be 误换成现在时 is 造成时态混用"
+      ],
+      "example": "[仿题]这项运动发明于1930年。\n解析：The game was invented in 1930，用 was 加过去分词被动。",
+      "keywords": ["被动语态", "was", "过去分词", "过去时"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U3_003",
+      "name": "情态动词被动语态",
+      "definition": "情态动词后接 be 加过去分词表达情态含义的被动语态。",
+      "explanation": "你在被动结构中加入情态动词时，要把 can、must、should 放在 be 前面，再接过去分词。比如 The rules must be followed 中 must be followed 是被动要求。情态动词后永远接原形 be。写规则与建议时可配被动，显得客观而具有权威性。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "情态动词被动误写为 must followed 而未接 be",
+        "情态动词后误接 is 或 am 而不用原形 be",
+        "被动与情态动词的语序摆放颠倒结构错误"
+      ],
+      "example": "[仿题]规则必须被遵守。\n解析：The rules must be followed，情态后接 be 加过去分词。",
+      "keywords": ["被动", "情态动词", "must be", "过去分词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U3_004",
+      "name": "被动变主动的转换",
+      "definition": "在主被动转换时调整宾语与主语并补全 by 短语的方法。",
+      "explanation": "你从主动语态换到被动语态时，先把原宾语升为主语，原主语放入 by 后作介词宾语。比如 People play football 变 Football is played by people。时态由 be 动词保持原时态，原动词变成过去分词。写主动转被动练习时按这三步理顺成分，转换更快更不易错。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "转换时遗漏 by 短语而丢掉了动作的执行者",
+        "原动词未改成过去分词而是原样保留",
+        "be 动词未沿用原时态导致时态变化"
+      ],
+      "example": "[仿题]人打球。\n解析：The ball is played by people，主语宾语相互对调。",
+      "keywords": ["被动", "主动", "by", "转换"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U3_005",
+      "name": "被动语态制句式区分",
+      "definition": "区分及物与不及物动词决定能否构成被动语态的方法。",
+      "explanation": "你判断一个句子能否被动，关键是看动词是不是及物动词，因为只有带宾语的及物动词才能构成被动。不及物动词如 happen、arrive 没有宾语，不能被动。比如 An accident happened 与 They built the stadium 相比前者不可被动。做题先判动词是否及物再谈被动。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "不及物动词 happen 误改成被动造成句子不成立",
+        "除及物动词外把无宾语结构强行被动化",
+        "被动判定时未先确认动词是否需接宾语"
+      ],
+      "example": "[仿题]事故发生了。\n解析：An accident happened，happen 不及物不能被动。",
+      "keywords": ["被动", "及物动词", "不及物", "happen"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U3_006",
+      "name": "运动出行主题词汇",
+      "definition": "描述体育运动与出行方式的核心英语词汇。",
+      "explanation": "你谈论运动出行会用 sport 运动、competition 比赛、player 选手、route 路线、journey 旅程等词。可说 take part in a competition 参加比赛，plan a journey 规划旅程。记忆时可把表示运动的与表示出行的词分开归组，写运动与旅行话题时按组调用更顺手。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "竞赛 competition 误拼成 competition 字母顺序错误",
+        "选手 player 误与播放 play 的动词混淆词性",
+        "旅程 journey 与旅行 trip 的语义特点混用"
+      ],
+      "example": "[仿题]他参加了比赛。\n解析：He took part in a competition，competition 表比赛。",
+      "keywords": ["competition", "player", "journey", "sport"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U3_007",
+      "name": "描述运动动作的动词",
+      "definition": "描述参与运动与训练锻炼动作的常用动词及搭配。",
+      "explanation": "你描述运动动作时常用 train 训练、practise 练习、score 得分、kick 踢、jump 跳等动词。比如 train hard for the race 为比赛刻苦训练，score a goal 进了一球。第三短语宾语搭配要准确。写运动经历作文时用这类动词刻画动作细节让叙述生动。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "score 进球时误与 goal 搭配少一宾语造成残缺",
+        "训练 train 后误接原形而应区分配 as 结构",
+        "practise 后误接动词原形而应接动名词"
+      ],
+      "example": "[仿题]他进了一个球。\n解析：He scored a goal，score 后接宾语 goal。",
+      "keywords": ["train", "practise", "score", "动作"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U3_008",
+      "name": "描述交通出行的短语",
+      "definition": "描述搭乘与换乘交通工具的常用动词短语。",
+      "explanation": "你说明出行方式时常用 take the bus 乘公交、by train 坐火车、get off 下车、catch the flight 赶飞机等表达。可说 I get to school by bike 表示我骑车去上学。注意 take 接交通工具，by 直接接名词放句尾表方式。写出行介绍用这些短语既简洁又地道。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "乘公交误写 take the bus 却漏掉冠词 the",
+        "by 表方式时误接冠词 a 或 the 造成多余",
+        "get off 下车与 get on 上车的方向搞反"
+      ],
+      "example": "[仿题]我骑车上学。\n解析：I go to school by bike，by 直接接交通工具。",
+      "keywords": ["take the bus", "by bike", "get off", "交通"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U3_009",
+      "name": "比较级描述运动水平",
+      "definition": "用比较级表达运动水平高低与他人相较的句式。",
+      "explanation": "你想比较两人或两次表现时用比较级，形容词或副词比较级加 than 比较对象。比如 He runs faster than me 中 faster than 表比我快。注意比较级的变化规则以及 than 后比较对象的完整性。写运动表现对比时用比较级凸显差异，论述更清晰有力。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "比较对象缺失 than 使比较结构悬空不成立",
+        "多音节比较级误直接用 more 重复加 er 变形",
+        "比较级与原级的使用情境切换不恰当"
+      ],
+      "example": "[仿题]他跑得比我快。\n解析：He runs faster than me，用 faster than 表比较。",
+      "keywords": ["比较级", "than", "faster", "比较对象"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U3_010",
+      "name": "表示目的与原因的表达",
+      "definition": "用不定式或介词短语表达运动出行动机的表达方式。",
+      "explanation": "你说做某事的目的或原因时可用 to 不定式表示目的，如 I go jogging to keep healthy 表示我晨跑去保持健康。也可用 for 介词短语说明缘故。写运动理由时用 to do 明确目的，配合承接句让行文自然。分清目的与结果，目的常用不定式表达更贴合。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "表目的误用使 for 介词而好用 to 不定式更贴切",
+        "to 不定式表目的时写错动词原形形式",
+        "目的与结果表达混用让句意方向不清晰"
+      ],
+      "example": "[仿题]我晨跑去保持健康。\n解析：I jog to keep healthy，用 to 不定式表目的。",
+      "keywords": ["不定式", "目的", "to", "keep"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U3_011",
+      "name": "表示频率的运动习惯",
+      "definition": "用频度副词描述参与运动的频率和习惯的用法。",
+      "explanation": "你描述运动频率时用 always、often、usually、sometimes、hardly ever、never 等副词，置于行为动词之前。比如 He hardly ever misses a game 表示他几乎不缺席。依实际情况选择匹配的频率副词。写运动习惯介绍时用这些词穿插分布，会让人看出你运动的规律与坚持。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "频率副词放错位置置于句尾造成语序不当",
+        "hardly ever 与 never 的频率含义混淆使用",
+        "频度副词与助动词 be 的位置搭配错乱"
+      ],
+      "example": "[仿题]他几乎不缺席比赛。\n解析：He hardly ever misses a game，副词放在动词前。",
+      "keywords": ["频度副词", "hardly ever", "习惯", "频率"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U3_012",
+      "name": "名词所有格表所属",
+      "definition": "用名词所有格表示运动与他人事物的所属关系。",
+      "explanation": "你表达某物属于某人或某队时用名词所有格，单数名词后加撇号 s，如 the player's shoes，复数以 s 结尾的名词只加撇号。比如 the team's victory 表示队伍的胜利。写运动话题时表示所属用此结构简洁清楚，注意以复数形式收尾时的撇号位置。",
+      "difficulty": 2,
+      "frequency": 2,
+      "typical_errors": [
+        "复数名词目前误把撇号放在 s 前写成 s'",
+        "单数名词所有格漏写撇号加 s 造成表达欠缺",
+        "所属与人称代词的用法区别混淆不清"
+      ],
+      "example": "[仿题]队伍的胜利来之不易。\n解析：The team's victory is hard won，用名词所有格表所属。",
+      "keywords": ["所有格", "撇号", "所属", "名词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

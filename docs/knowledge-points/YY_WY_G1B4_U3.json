@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第一册 Unit 3 Faster, Higher, Stronger",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B4_U3_001",
+      "name": "独立主格结构的构成",
+      "definition": "由名词或代词加分词不定式、形容词等形式构成独立于主谓的结构。",
+      "explanation": "独立主格结构就是名词或代词加上非谓语等成分，作句子的独立成分，如The match over, we left。这里The match是逻辑主语，over是补充说明，整个结构与主句主语无关。你用它对现在分词、过去分词、不定式、形容词等作第二部分，就能写出精炼的复杂句型。",
+      "difficulty": 5,
+      "frequency": 4,
+      "typical_errors": [
+        "独立主格与主句之间漏加逗号分隔",
+        "把独立主格的逻辑主语写成动词原形",
+        "该用过去分词而误用现在分词，主被动不分"
+      ],
+      "example": "[仿题]Everything ___, we started.\n解析：准备完毕分词填ready。",
+      "keywords": ["独立主格", "名词", "分词", "逻辑主语", "独立成分"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U3_002",
+      "name": "独立主格表时间伴随",
+      "definition": "用独立主格说明与之同时发生或先后衔接的时间或伴随情形的用法。",
+      "explanation": "独立主格可表达与主句同时或衔接的详情，比如The crowd cheering, the players ran in表示人群欢呼的同时队员们进场。它往往描述身边的伴随景象或时间的推进。你先确定逻辑主语与第二个部分的动作关系，是主动用分词ing，被动用过去分词，就能准确传达伴随动作。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "伴随的时间先后与主句逻辑颠倒",
+        "分词主被动不分，造成伴随动作歧义",
+        "独立主格结构拆成两套主语，乱了关联"
+      ],
+      "example": "[仿题]The fans ___, the singer came.\n解析：人群欢呼填cheering。",
+      "keywords": ["独立主格", "时间", "伴随", "分词", "同时"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U3_003",
+      "name": "独立主格表原因条件",
+      "definition": "用独立主格说明主句动作发生的原因或成立前提条件的用法。",
+      "explanation": "独立主格也可以表达原因或条件，比如The weather being fine, we went hiking相当于Because the weather was fine。它把原因或前提化为独立成分置于主句前。你理解独立主格是省略since条件连接词的简洁写法，把逻辑主语与分词配好，句子的因果层次就更清晰了。",
+      "difficulty": 5,
+      "frequency": 4,
+      "typical_errors": [
+        "原因独立主格误加because造成结构重复",
+        "逻辑主语与分词形式不匹配，语法错误",
+        "把原因与伴随两种独立主格混用"
+      ],
+      "example": "[仿题]The sun ___, it was hot.\n解析：太阳当空填shining。",
+      "keywords": ["独立主格", "原因", "条件", "连接词省略"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U3_004",
+      "name": "分词独立什么区别",
+      "definition": "说明一般分词状语与独立主格在逻辑主语一致性上的本质区别。",
+      "explanation": "普通分词作状语时，它的逻辑主语必须与主句主语一致；而独立主格有自己的逻辑主语，常与主句主语不同。比如Comparing two teams的主语是句子主语，而Jack being late则带上独立主语Jack。做题时先判断分词是否自带逻辑主语，自带就是独立主格。",
+      "difficulty": 5,
+      "frequency": 4,
+      "typical_errors": [
+        "分不清普通分词与独立主格的逻辑主语",
+        "把自带主语的独立主格误当普通分词",
+        "悬空分词与独立主格混淆，主谓语序错乱"
+      ],
+      "example": "[仿题]Time ___, we hurry.\n解析：时间单独作主语填passing。",
+      "keywords": ["分词", "独立主格", "逻辑主语", "区别"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U3_005",
+      "name": "with复合结构用法",
+      "definition": "用with加宾语加补足语构成与独立主格功能相似的复合结构。",
+      "explanation": "with复合结构是with加名词再加介词短语或分词等，如with the score tied。它与独立主格功能相仿，常作伴随或方式状语。with后接现在分词表主动、过去分词表被动，接介词短语表状态。你判断补足语的主动被动关系后选择分词形式，句子细节就生动了起来。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "with后补足语分词语态选择错误",
+        "把with复合结构与普通with短语混淆",
+        "with结构作状语时结尾缺少逗号分隔"
+      ],
+      "example": "[仿题]He slept with the window ___.\n解析：窗户开着补足语填open。",
+      "keywords": ["with结构", "独立主格", "补足语", "伴随"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U3_006",
+      "name": "独立主格逻辑主谓关系",
+      "definition": "判断独立主格逻辑主语与其成分间的主动或被动关系的原则。",
+      "explanation": "独立主格中，逻辑主语与第二个部分之间也存在主被动关系。若逻辑主语主动发出动作，则分词用ing；若是承受者，则用过去分词，比如His leg broken, he couldn't run。你先把逻辑主语找出来，再看它与分词的关系，从而确定采用ing还是过去分词。",
+      "difficulty": 5,
+      "frequency": 3,
+      "typical_errors": [
+        "逻辑主语主动却用过去分词表达",
+        "逻辑主语受动却误用现在分词",
+        "找出逻辑主语时受主句主语干扰"
+      ],
+      "example": "[仿题]Her arms ____, she waved.\n解析：手臂举起主动填raised。",
+      "keywords": ["逻辑主语", "主被动", "现在分词", "过去分词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U3_007",
+      "name": "体育运动比赛词汇",
+      "definition": "描述球类、田径、对抗等运动项目的分类名称与比赛术语。",
+      "explanation": "体育话题你掌握match比赛、competition竞赛、champion冠军、athlete运动员、final决赛、team team队伍、score得分这些词。介绍一项运动时先用项目名称，再谈赛制与规则。表达赛事进行用hold a match，表达夺冠用win the championship，术语一就位表达就专业了。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把champion当动词而缺少后缀ship",
+        "把match与game的词义区分不当",
+        "把championship误拼成championchip漏字母"
+      ],
+      "example": "[仿题]The ___ scored a goal.\n解析：运动员进球填athlete。",
+      "keywords": ["比赛", "竞赛", "冠军", "运动员", "得分"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U3_008",
+      "name": "竞技精神拼搏词汇",
+      "definition": "描述全力以赴、永不放弃与体育精神的常用名词和动词。",
+      "explanation": "竞技精神离不开spirit精神、determined坚定、struggle拼搏、never give up永不放弃、fair play公平竞赛、faith信念这些词。写运动员的坚持用到stay strong、fight to the end等富有力度的表达。先写场内表现，再谈背后的拼搏信念，运动员的形象就立体有力。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把spirit误写与sprite字形近似单词混淆",
+        "把determined误当名词缺少ment后缀",
+        "把struggle与strategy词义混淆"
+      ],
+      "example": "[仿题]Their ___ never died.\n解析：他们的斗志填spirit。",
+      "keywords": ["精神", "拼搏", "信念", "公平竞赛", "坚持"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U3_009",
+      "name": "比赛过程描述词汇",
+      "definition": "描述比赛开始、激烈进行、胜负落定的关键名词与动词。",
+      "explanation": "描述赛场动态你得用begin开始、compete角逐、cheer呐喊、support支持、win赢得、lose失败、advance晋级这些词。叙述一场比赛按开场、对抗、结局铺开，用cheer为队友加油，用advance进入下一轮。把比赛的过程用相关动词串联起来，叙事就紧张而有画面感。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把compete与complete形近词混淆",
+        "把advance误当名词使用缺少ment",
+        "把cheer的搭配cheer sb on写错介词"
+      ],
+      "example": "[仿题]They ___ to the final.\n解析：晋级决赛填advanced。",
+      "keywords": ["竞争", "呐喊", "晋级", "赢", "输"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U3_010",
+      "name": "体育成绩记录表达",
+      "definition": "表达打破纪录、创造新绩与衡量成绩构成的常用名词和搭配。",
+      "explanation": "谈到成绩你用record纪录、break a record打破纪录、achieve实现、figure数值、ranking排名这些词。描述破纪录用break the record，说明名次用rank first。先写运动员创造的成绩，再用破了什么纪录点明突破，评价既有事实又有分量。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把break a record漏掉冠词a",
+        "把ranking与rang词形混淆",
+        "把achieve的过去分词误写成achieved忘ed"
+      ],
+      "example": "[仿题]He broke the world ___.\n解析：打破世界纪录填record。",
+      "keywords": ["纪录", "打破", "名次", "成绩", "突破"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U3_011",
+      "name": "团队合作基础词汇",
+      "definition": "描述队员协作、沟通配合与集体成功的常用名词与动词。",
+      "explanation": "团队运动的核心是make a team teamwork合作、communicate沟通、cooperate配合、trust信任、strategy策略、goal goal目标。表达达成协作目标用achieve the goal，说明队友默契用work well together。你写团队项目时先谈成员分工合作，再写默契带来的整体胜利，主题就突出了。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把teamwork与momentum混用而误解词义",
+        "把cooperate误拼成coopercte漏字母",
+        "把strategy扩展误写成strategyed"
+      ],
+      "example": "[仿题]Good ___ wins matches.\n解析：良好合作填teamwork。",
+      "keywords": ["团队合作", "沟通", "信任", "策略", "目标"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U3_012",
+      "name": "运动收获价值表达",
+      "definition": "用it is加形容词加不定式说明运动带给身心成长的价值的句型。",
+      "explanation": "表达运动的收获常用It is + 形容词 + to do的结构，如It is rewarding to exercise regularly。它说明运动让人健康、自信、坚韧。你先描述运动的益处，再用这个句型点明价值，说明从运动中的成长。句式的形式主语it要保留，真正的主语由to do表达，评价就既自然又有深度。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "It is句型漏掉to do不定式中心成分",
+        "把It is形容词to do改成doing形式",
+        "形式主语it被省略造成句子缺主语"
+      ],
+      "example": "[仿题]It is good ___ daily.\n解析：每天运动利于用to exercise。",
+      "keywords": ["形式主语", "不定式", "运动价值", "成长"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

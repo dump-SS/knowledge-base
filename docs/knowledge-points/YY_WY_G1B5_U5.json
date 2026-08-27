@@ -1,0 +1,212 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第二册 Unit 5 A Delicate World",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B5_U5_001",
+      "name": "主谓一致的三大原则",
+      "definition": "谓语动词须与主语在数上保持一致，遵循语法一致、意义一致与就近一致原则。",
+      "explanation": "你要判断谓语单复数，先问主语到底是哪个词。语法一致看主语本身是单数还是复数，比如 a book 就用 is。意义一致要看整体语义，像 the news 虽是复数拼写却按单数处理。就近一致则在 either...or 这类结构里生效，谓语跟离它最近的词一致。做题先锁定真正的主语，再套用对应的原则，方向就不会错。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把离谓语最近的介词宾语当成主语来判断单复数",
+        "把 the news、mathematics 等复数拼写词按复数处理",
+        "either...or 结构里不看就近而按第一个名词判断",
+        "并列主语用 and 连接时误判为就近一致而用单数"
+      ],
+      "example": "[仿题]The girl, together with her friends, ___ going to the party.\n解析：真正主语是 the girl，单数，故选 is。",
+      "keywords": ["语法一致", "意义一致", "就近一致", "主语", "谓语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_002",
+      "name": "就近原则的主谓一致结构",
+      "definition": "用 either...or 连接并列主语时，谓语与较近的名词一致。",
+      "explanation": "你记牢一个口诀：遇到 or、nor 连接的复合主语，谓语数跟着离它最近的名词走。比如 Neither the teacher nor the students are 中，离谓语近的是复数 students，所以用 are。注意 either...or 与 neither...nor 的规则相同。做题先把 or 后面的名词圈出来，再决定单复数，考试填空常在这里设坑。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "只盯着 or 前的名词不动，忽略离谓语更近的词",
+        "neither...nor 结构误用复数导致谓语不一致",
+        "把 either...or 的谓语按两个名词相合来判断成复数"
+      ],
+      "example": "[仿题]Either you or he ___ in charge of this task.\n解析：就近看 he，单数，故选 is。",
+      "keywords": ["就近原则", "either...or", "neither...nor", "主谓一致", "谓语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_003",
+      "name": "主语加伴随短语的主谓一致",
+      "definition": "主语后接 with、along with 等短语时，谓语仍随主语本身一致。",
+      "explanation": "你要牢牢记住，with 引出的成分是修饰性的伴随状语，不是真正的主语。所以 The captain, along with his sailors, was 中，谓语仍然看 captain 用单数。besides 也同理。判断时把 with 及之后的部分先划掉，剩下核心主语再定单复数，这是最稳的做法。这类题喜欢把短语写长来迷惑你。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把 with 后的复数名词当主语而误用复数谓语",
+        "along with 结构里按就近原则误判导致用错",
+        "未先划掉伴随短语，直接对整个长句的数判断出错"
+      ],
+      "example": "[仿题]The singer, together with her fans, ___ on the stage.\n解析：核心主语是 singer，单数，故选 is。",
+      "keywords": ["伴随短语", "with", "along with", "主谓一致", "核心主语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_004",
+      "name": "集合名词作主语的一致",
+      "definition": "family、team 作主语时，谓语的数随整体或个体语义而定。",
+      "explanation": "集合名词没有固定的单复数答案，关键在于语义重心。如果句子表达整个家庭作为一个整体，比如 The family is large，就用单数。如果强调里面每个成员各自分头动作，比如 The family are arguing，就用复数。你把主语还原成整体还是个体去想清楚，谓语自然就对。别死记单一规则。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "一律把 family、team 当成单数，忽略强调个体的场景",
+        "把集合名词误当成不可数名词而始终用单数",
+        "整体与个体两种语义切换时仍用同一谓语数"
+      ],
+      "example": "[仿题]The class ___ divided into two groups by the teacher.\n解析：强调班级整体被划分，用单数 is。",
+      "keywords": ["集合名词", "family", "team", "整体", "个体"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_005",
+      "name": "there be句型的主谓一致",
+      "definition": "there be 后接多个并列名词时，be 动词与最近的一个名词保持一致。",
+      "explanation": "there be 是一种特殊的倒装结构，真正的主语在 be 后面。当后面有几个并列名词时，be 只跟最近的那个对齐。比如 There is a pen and two books 中，最近的是单数 a pen，所以用 is。你先看 be 后面紧挨着的名词是单数还是复数，再决定谓语形式，这类题就能稳拿分。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "看 be 后远处的复数名词而误用 are，忽略就近",
+        "把 there 当成主语而用单数谓语",
+        "there be 与 have 混用造成结构混乱"
+      ],
+      "example": "[仿题]There ___ mangoes and an apple on the table.\n解析：最近名词是 apple 单数，故选 is。",
+      "keywords": ["there be", "就近一致", "主谓一致", "倒装", "be动词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_006",
+      "name": "特殊名词作主语的单复数",
+      "definition": "news 等形复义单词作主语时，谓语用单数。",
+      "explanation": "很多名词拼写带 s 但语义上是单数，你要特别留心。news、physics、mathematics 这类词虽以 s 结尾，却按单数处理。而 information 是不可数名词，也只能搭配单数谓语。判断时先问这个名词能不能数，能用 an 或两个的才考虑复数。牢记这几个高频例词，做题就不容易翻车。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "看到 news 以 s 结尾就误用复数谓语",
+        "把不可数的 information 后面接上 are",
+        "把 mathematics 等学科名词当成复数处理"
+      ],
+      "example": "[仿题]The news about the climate change ___ surprising.\n解析：news 视为单数，故选 is。",
+      "keywords": ["news", "不可数名词", "单数谓语", "学科名词", "特殊名词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_007",
+      "name": "delicate类柔弱词汇辨析",
+      "definition": "delicate 义指精巧细嫩，fragile 义指易碎易折。",
+      "explanation": "这两个词都含脆弱之意，但侧重点不同。delicate 常指外部构造精巧、经不起折腾，比如 delicate 的花、细嫩的皮肤，也能形容精致的工艺。fragile 则突出材质易碎，像 fragile 的玻璃杯一碰就破。你在自然生态话题里读到时，结合物件本身特点来判断，选词就准确了。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "把 fragile 用在形容工艺精致而不是易碎的场景",
+        "用 delicate 形容坚硬结实的器物造成误读",
+        "两者混用不区分构造精巧与材质易碎"
+      ],
+      "example": "[仿题]Be careful with the ___ glass vase from Japan.\n解析：玻璃易碎，用 fragile 最贴切。",
+      "keywords": ["delicate", "fragile", "脆弱", "易碎", "辨析"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_008",
+      "name": "生态保护类主题词汇",
+      "definition": "覆盖保护、退化等生态主题的核心词汇群。",
+      "explanation": "学本单元的主题词汇，你可以按语义串成一条线：先记 ecosystem 生态系统、conservation 保护这类高频名词，再掌握 degrade 退化、recover 恢复这类动词，最后补充 endangered 濒危的、balance 平衡作描述。读生态文章时先抓这些关键词，再结合词根记派生词，词汇量就能快速扩张。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 endangered 与 dangerous 混用，分不清濒危与危险",
+        "把 ecosystem 与 ecology 混用，忽视系统与分支差异",
+        "把 degrade 与 downgrade 混用，分不清退化与降级",
+        "记不住 conserve 与 reserve 的保护与保留差异"
+      ],
+      "example": "[仿题]The ___ of the wetlands helps many birds survive.\n解析：此处填 conservation，意为保护湿地。",
+      "keywords": ["ecosystem", "conservation", "endangered", "degrade", "生态"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_009",
+      "name": "die out表灭绝的用法",
+      "definition": "die out 表逐渐消失，become extinct 表已绝迹。",
+      "explanation": "描写物种灭绝时，die out 侧重逐渐消失的动态过程，常用进行时表达正在灭绝，比如 Some species are dying out。become extinct 则强调不再存在的最终状态，用 become 或 be 连用表已绝迹。你用哪个，取决于想强调正在消亡还是已经灭绝，语义重心一明确，表达就自然准确。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把 die out 误写成 die away，混淆消失与减弱",
+        "用 die out 描述已彻底绝迹的最终结果",
+        "become extinct 误接进行时而违背其状态性用法"
+      ],
+      "example": "[仿题]Many rare birds are ___ because of habitat loss.\n解析：强调正在消失，用 dying out。",
+      "keywords": ["die out", "become extinct", "灭绝", "物种", "消失"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_010",
+      "name": "环保举措的固定搭配",
+      "definition": "表保护、建立保护区、呼吁等环保举措的固定搭配。",
+      "explanation": "本单元表环保举措的短语你要成套记忆。protect...from 表示保护免受侵害;set up a nature reserve 指建立自然保护区;call for 呼吁采取行动。写作描述环保措施时把这些短语串进句子，表达既地道又加分。你边造句边记，比孤立背短语更持久，考场上也能随手拈来。",
+      "difficulty": 2,
+      "frequency": 2,
+      "typical_errors": [
+        "protect 的宾语前漏掉介词 from 造成结构残缺",
+        "把 set up 与 put up 混谈不区分建立保护区的对象",
+        "call for 与 call on 混用，分不清呼吁与号召搭配"
+      ],
+      "example": "[仿题]We should protect the young trees ___ strong winds.\n解析：保护树木免受风袭，填 from。",
+      "keywords": ["protect...from", "set up", "call for", "自然保护", "环保举措"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_011",
+      "name": "生态共生的描写表达",
+      "definition": "用依存、和谐等表达，描写自然界生物相互依赖的关系。",
+      "explanation": "写生态关系时，你要会表达互相依存。可以用 depend on each other 强调依赖，用 live in harmony 表示和谐共存，用 be closely connected 描述紧密联系。比如 The bees and the flowers depend on each other for survival，就把共生讲清楚了。把这些表达练熟，写自然主题的作文就生动可信。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把 depend on 误写成 depend 而漏掉介词 on",
+        "harmony 后误加 with 却未接名词导致结构错误",
+        "把共生误译为 common 造成语义偏差",
+        "be connected to 与 be connected with 不分场合混用"
+      ],
+      "example": "[仿题]Many birds ___ on trees for shelter and food.\n解析：依赖树木生存，填 depend。",
+      "keywords": ["depend on", "harmony", "共生", "依存", "生态关系"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_012",
+      "name": "生态阅读中的指代判断",
+      "definition": "借助前后文判断代词在生态篇章中所指代的对象的方法。",
+      "explanation": "读生态文章时，代词指代常考。你要顺着句意往前找最近的、且与代词单复数一致的名词。比如 they 出现在谈论 birds 的语境里，就回头锁定对应的复数名词。遇到嵌套长句，先划掉插入成分，再锁定主句里的名词。养成边读边回指的阅读习惯，能明显提高主旨与细节题正确率。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "只看紧跟代词的名词而忽略更靠前的真正指代对象",
+        "忽略代词单复数，把复数 they 误指到单数名词",
+        "在长句中未去除插入语，导致指代锁定错误词"
+      ],
+      "example": "[仿题]The fish moved; they were frightened by the noise.\n解析：they 指代前句复数 the fish。",
+      "keywords": ["指代", "代词", "回指", "生态阅读", "上下文"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

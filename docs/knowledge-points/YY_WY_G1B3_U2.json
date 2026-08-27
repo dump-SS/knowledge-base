@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第三册 Unit 2 Making a Difference",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B3_U2_001",
+      "name": "与过去事实相反的虚拟假设",
+      "definition": "从句用 had 加过去分词表达与过去事实相反的虚拟假设。",
+      "explanation": "你表达与过去事实相反的假设时用虚拟条件句，从句用 had 加过去分词，主句用 would have 加过去分词。比如 If I had known, I would have helped 表示我当初若知道就会帮忙，实际不知道。它专门用于谈论过去未发生的假设。写公益回顾时可用它反思可能不同的选择。",
+      "difficulty": 5,
+      "frequency": 4,
+      "typical_errors": [
+        "从句误用过去时不采用 had 加过去分词的虚拟结构",
+        "主句未用 would have 而误写成 would 加原形",
+        "虚拟过去句中 had 被误写成 have 造成结构错"
+      ],
+      "example": "[仿题]若我知道我就会帮忙。\n解析：If I had known, I would have helped，过去虚拟用 had done。",
+      "keywords": ["虚拟语气", "had", "过去", "would have"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U2_002",
+      "name": "过去虚拟主句结构",
+      "definition": "与过去事实相反虚拟句主句用 would have 加过去分词。",
+      "explanation": "与过去相反的虚拟句主句结果用 would have、could have 或 might have 加过去分词。比如 If I had gone, I could have met you 中 could have met 表本可能见到你。它与 from 从句的 had done 呼应。你只需注意主句保留 have 及分词形式，虚拟语气即完整成立。",
+      "difficulty": 5,
+      "frequency": 4,
+      "typical_errors": [
+        "主句误写 would 加原形而漏掉 have 的既有成分",
+        "主句 that have 加的分词误写成动词过去式",
+        "could have 与 would have 的情态含义选用偏差"
+      ],
+      "example": "[仿题]若去了我本可遇见你。\n解析：If I had gone, I could have met you，主句用 could have done。",
+      "keywords": ["would have", "could have", "虚拟主句", "分词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U2_003",
+      "name": "过去虚拟的委婉假设反思",
+      "definition": "用与过去相反的虚拟条件句表达对过去选择的反思与假设。",
+      "explanation": "你想反思过去可改变的瞬间时用与过去相反的虚拟句，如 If we had acted earlier, the damage would have been smaller 表示若早点行动损失会小些。它常用来表达遗憾、假设与吸取教训。写公益行动后的反思作文时用这类虚拟句，谦逊表达你从经历中的收获。",
+      "difficulty": 5,
+      "frequency": 3,
+      "typical_errors": [
+        "表达对过去的遗憾误用与现在相反的虚拟结构",
+        "反思句子主语被动时丢了 been 造成被动残缺",
+        "假设反思与事实陈述交替时结构混淆"
+      ],
+      "example": "[仿题]若早点行动损失会小些。\n解析：If we had acted earlier, damage would be smaller，表委婉反思。",
+      "keywords": ["虚拟", "反思", "had", "遗憾"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U2_004",
+      "name": "三种类型虚拟条件句对比",
+      "definition": "现在未来过去三类虚拟条件句的时态搭配对比。",
+      "explanation": "你掌握虚拟条件句要区分类型：与现在相反用过去时加 would 原形，与未来相反可用 were to 或 should，与过去相反用 had done 加 would have done。你做题时先判断假设针对哪一时段，再选择对应的时态组合，三类别混淆。分类清晰后虚拟题就不难解。",
+      "difficulty": 5,
+      "frequency": 4,
+      "typical_errors": [
+        "现在虚拟与过去虚拟的从句时态选择颠倒",
+        "未来虚拟误用与现在相同的时态组合",
+        "三类虚拟搭配组合记混张冠李戴"
+      ],
+      "example": "[仿题]若当初努力我现在就毕业了。\n解析：If I had studied hard, I would have graduated，过去虚拟。",
+      "keywords": ["虚拟", "现在", "过去", "未来"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U2_005",
+      "name": "公益行动主题词汇",
+      "definition": "描述志愿服务与公益慈善行动的核心英语词汇。",
+      "explanation": "你谈论公益会用 volunteer 志愿者、charity 慈善、donation 捐赠、campaign 运动、serve the community 服务社区等词。可说 take part in a charity campaign 参与慈善活动，make a donation 捐款。写公益活动作文时用这些词描绘你的付出与收获，主题鲜明又温暖人心。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "志愿者 volunteer 误拼成 voluunteer 元音重复",
+        "捐赠 donation 与 donate 动词名词词性混淆",
+        "慈善 campaign 误与公司的 campaign 义重叠混用"
+      ],
+      "example": "[仿题]我们组织了一场慈善活动。\n解析：We held a charity campaign，campaign 表活动。",
+      "keywords": ["volunteer", "charity", "donation", "community"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U2_006",
+      "name": "描述志愿服务的动词短语",
+      "definition": "描述参与志愿服务与助人行动的常用动词短语。",
+      "explanation": "你介绍自己公益经历时常用 take part in 参加、give back 回馈、care for 关怀、offer help 提供帮助等短语。可说 care for the elderly 关怀老人，give back to the community 回馈社区。写志愿活动报告时按你参加的环节选择短语，叙述真实而饱满。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "关怀老人误拿 care of 与 care for 的接法混淆",
+        "回馈社区时误漏 give back 后的介词 to",
+        "提供帮助 offer 后误把宾语作介词处理而造成残缺"
+      ],
+      "example": "[仿题]我们关怀孤寡老人。\n解析：We care for the elderly，care for 表关怀。",
+      "keywords": ["take part in", "care for", "give back", "公益"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U2_007",
+      "name": "表达则人的公益举措",
+      "definition": "表达愿为他人服务的公益行为与意愿的常用句式。",
+      "explanation": "你表达提供公益帮助时可说 offer one's help 提供帮助、do one's part 尽自己一份力、make a contribution to 为……做出贡献。比如 make a contribution to the community 为社区做贡献。写倡议与表白意愿时用这些句式，既体现主动性又具感染力。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "做贡献误把 contribution 拼写成 cotributuon 字母错",
+        "尽自己一份力表达时漏写 one's 的限定成分",
+        "为社区贡献的介词 to 误漏掉造成结构残缺"
+      ],
+      "example": "[仿题]我要为社区做贡献。\n解析：I will make a contribution to the community，to 引对象。",
+      "keywords": ["contribution", "one's part", "贡献", "公益"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U2_008",
+      "name": "过去完成时的公益回顾",
+      "definition": "用过去完成时回顾公益行动中先发生的前序经历。",
+      "explanation": "你回顾公益活动时谈到某动作发生在过去另一动作之前，可用 had 加过去分词，比如 We had prepared, then carried out the plan 中 prepared 在前的已完成。它与虚拟句 had done 结构类似但表示陈述而非假设。写志愿回顾按时序用过去完成时交代前情，让叙述有先后层次。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "先发生的前序动作误用过去进行时打乱先后",
+        "had 加动词过去式误当过去完成使用结构错误",
+        "过去完成与一般过去陈述的衔接处理不当"
+      ],
+      "example": "[仿题]就绪后才实施计划。\n解析：After we had prepared, we carried out it，先发生用 had done。",
+      "keywords": ["过去完成时", "had", "回顾", "先后"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U2_009",
+      "name": "一般过去时叙述公益经历",
+      "definition": "用一般过去时叙述过去参加的公益活动的经过与结果。",
+      "explanation": "你回顾一次公益经历时用一般过去时叙述过去发生的事件，动词变过去式，配合 last year 等过去时间状语。比如 Last year we held a fair for charity 中 held 表示举办过。叙述整个活动时保持过去时一致，按事件发生的先后依次展开，阅读起来线索清晰。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "叙述已办过的公益活动时误把动词保留原形",
+        "过去时间状语与动词时态不匹配造成表述混乱",
+        "叙述中途把过去时切回现在时破坏延续"
+      ],
+      "example": "[仿题]去年我们办慈善义卖。\n解析：Last year we held a fair，用过去式 held 叙述。",
+      "keywords": ["过去时", "held", "经历", "公益"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U2_010",
+      "name": "被动语态描述公益现状",
+      "definition": "用被动语态描述公益行动中事件受影响的客观状况。",
+      "explanation": "你在公益话题中描述事件被怎么做时用被动语态，如 The campaign was organized by students 表示活动由学生们组织。强调动作承受者时被动比主动更合适。写公益进展或成效时可灵活用被动突出事件本身，配主动以作对比，使叙述客观见章法而饱满。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "过去被动的组织误写成 organized 未保留 was",
+        "被动结构被误加 by 冗余使主动信息重复",
+        "被动时态与主从句其它时态不协调呼应"
+      ],
+      "example": "[仿题]活动由学生组织。\n解析：The campaign was organized by students，was organized 被动。",
+      "keywords": ["被动", "被动语态", "was organized", "组织"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U2_011",
+      "name": "表达公益呼吁的句型",
+      "definition": "就公益行动面向他人发起号召与呼吁的多种句型。",
+      "explanation": "你向他人发起公益呼吁可用 Please 祈使句、We should 应当、Let's 让我们、It is everyone's duty to 是每个人的责任等句型。比如 It is our duty to help those in need 帮助有需要的人是我们的责任。写公益倡议书时综合使用这些句式，号召有力又能打动人。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "It is duty to 中漏掉不定式 to 造成残缺",
+        "祈使句号召后误加无主语造成人称表达混乱",
+        "呼吁句型语气运用与对象场景不相匹配"
+      ],
+      "example": "[仿题]帮助他人是我们责任。\n解析：It is our duty to help others，duty 后接不定式。",
+      "keywords": ["呼吁", "duty", "let's", "公益"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U2_012",
+      "name": "感受公益收获的表达",
+      "definition": "表达参加公益后内心感悟与收获的常用句式和词汇。",
+      "explanation": "你分享公益感悟时可以说 I feel proud of 我为……骄傲、It makes me realise 它让我明白、the sense of achievement 成就感等表达。比如 I feel proud of helping others 我因帮助他人而骄傲。写公益收获作文时用这类句式呈现心理转变，让文章既有行动也有思考，情感真切。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "be proud of 的 of 误漏掉造成介词缺失",
+        "成就感的 achievement 拼写时字母位置常搞错",
+        "表达内心感受时与前面的行动叙述衔接不自然"
+      ],
+      "example": "[仿题]我为自己助人而骄傲。\n解析：I feel proud of helping others，proud of 后接动名词。",
+      "keywords": ["proud of", "achievement", "感动", "收获"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

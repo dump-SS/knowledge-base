@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第二册 Unit 2 Let's Celebrate!",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B2_U2_001",
+      "name": "过去进行时表持续动作",
+      "definition": "用过去进行时描述过去某刻正在进行或发生的动作。",
+      "explanation": "你描述过去某一时刻正在进行的动作时用过去进行时，结构为 was 或 were 加现在分词。比如 While I was celebrating, it started to rain 中 was celebrating 表示正在庆祝。它常与过去某时间点或过去时事件搭配，凸显进行中的背景。写节日场景描写时用它绘出生动的瞬间画面。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "主语是复数时误用 was celebrating 而未用 were",
+        "过去进行时与一般过去时混淆表达单一动作",
+        "忘记现在分词变化规则而误写动词变分形式错误"
+      ],
+      "example": "[仿题]她那时正在跳舞。\n解析：She was dancing then，用 was 加现在分词表进行。",
+      "keywords": ["过去进行时", "was", "现在分词", "进行"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_002",
+      "name": "when 与 while 用法",
+      "definition": "用 when 与 while 连接过去同时发生动作的时间状语从句。",
+      "explanation": "你表达过去两个动作同时发生时，连词 when 和 while 帮你组织时间。while 后接延续性进行动作，when 后可接较短暂或瞬间动作。比如 While they were celebrating, he sang a song 中用 while 引出延续背景。写节日叙事时用对这两个词，时间逻辑就更清晰明白。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "while 后误接瞬间动词而应按延续进行动作对待",
+        "when 与 while 的连接对象与动作长短搭配错配",
+        "从句动词形式未按 while 加现在分词规则处理"
+      ],
+      "example": "[仿题]他们庆祝时他唱了歌。\n解析：While they were celebrating, he sang，while 引出进行背景。",
+      "keywords": ["when", "while", "时间状语从句", "进行时"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_003",
+      "name": "if 引导与现在相反的假设",
+      "definition": "条件句 if 从句用过去时表与现在事实相反的假设用法。",
+      "explanation": "你想表达与现在事实相反的假设时用虚拟条件句，从句动词用过去时，主句用 would 加动词原形。比如 If I were you, I would join this festival 表示如果我是你，说明实际上不是。be 动词在虚拟条件句里不分人称统一用 were。写假设建议时用这类句子语气更委婉含蓄。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "虚拟从句中 I 后用 was 而应统一用 were",
+        "主句未用 would 而误写成一般将来 will 虚拟失效",
+        "从句时态用现在时而未使用过去的虚拟暗示"
+      ],
+      "example": "[仿题]如果我是你我会参加。\n解析：If I were you, I would join it，虚拟从句用 were。",
+      "keywords": ["虚拟语气", "if", "were", "would"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_004",
+      "name": "虚拟语气主句的结构",
+      "definition": "与现在事实相冲突虚拟条件句的主句用 would 加原形的规则。",
+      "explanation": "你在与现在相反的虚拟句里，主句谓语要用 would、could、might 等加行为动词原形。比如 He would come if he had time 中 would come 是主句。它们不因主语单复数变化。写虚拟主句时记住保留 would 这一标志词，与 if 从句的过去时呼应，整体呈现假设的口吻。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "虚拟主句误用 will 而非 would 造成时态错位",
+        "would 后误接动词过去式而应接动词原形",
+        "主句主语是单数时误加 would 的三单形式 s"
+      ],
+      "example": "[仿题]若他有空他会来。\n解析：He would come if he had time，would 后接动词原形。",
+      "keywords": ["would", "虚拟主句", "could", "动词原形"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_005",
+      "name": "节日庆祝主题词汇",
+      "definition": "描述节日庆祝活动与气氛的核心英语词汇。",
+      "explanation": "你谈论节日会用 celebrate 庆祝、festival 节日、parade 游行、firework 烟花、gather 团聚等词。比如 celebrate the Spring Festival 我欢度春节，watch fireworks 观赏烟花。写作时把这些词串联进你庆节的经历，既贴近主题展现出浓厚的节日气息。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "firework 表烟花时误拼为 firework 复数形式遗漏",
+        "庆祝 celebrate 误拼成 celebret 缺少字母的拼写",
+        "节日期间 activity 与活动名词的单复数没有用对"
+      ],
+      "example": "[仿题]我们观看烟花。\n解析：We watch fireworks，firework 常用复数表烟花。",
+      "keywords": ["celebrate", "festival", "parade", "firework"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_006",
+      "name": "描述节日传统与习俗词汇",
+      "definition": "描述节日传统仪式与风俗习惯的常用英语词汇。",
+      "explanation": "你介绍节日传统时可用 tradition 传统、decorate 装饰、ceremony 仪式、custom 风俗、dumpling 饺子等词。比如 keep up the tradition 保持传统，decorate the house 装饰房屋。写节日习俗作文时就着 custom、tradition 组织内容，让读者真切感受到你的节日文化。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "习俗 custom 与顾客 customer 词义拼写混淆",
+        "装饰 decorate 后误把宾语 house 前的 the 漏掉",
+        "传统 tradition 与形容词 traditional 词性混用"
+      ],
+      "example": "[仿题]我们要装饰房子。\n解析：We decorate the house，decorate 表装饰。",
+      "keywords": ["tradition", "custom", "decorate", "ceremony"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_007",
+      "name": "不可数名词节日的量表达",
+      "definition": "不可数名词在节日语境下依量词表达数量与程度的规则。",
+      "explanation": "你在节日话题常遇到不可数名词，如 news、information、rubbish 等，它们不能加 s，也不能用 a 直接限定，需要用量词或其他手段表达数量。比如 some decorations 表一些装饰。节日语境注意不可数名词与 a lot of、much 搭配。写庆祝活动清单时按名词可数性选择量词。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "不可数名词 news 误加复数 s 造成可数化错误",
+        "用 a 直接限定不可数名词造成冠词使用不当",
+        "表达许多时误用 many 与不可数名词匹配"
+      ],
+      "example": "[仿题]好多消息传来。\n解析：Much news came，much 搭配不可数名词 news。",
+      "keywords": ["不可数名词", "量词", "many", "much"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_008",
+      "name": "表示感恩祝福的表达",
+      "definition": "表达节日祝福感谢与美好祝愿的常用英语句型。",
+      "explanation": "你在节日向亲友送上祝福可用 Happy New Year! 新年快乐、Thank you for 感谢你、wish you a joyful holiday 愿你节日快乐等。表达祝愿时用 wish sb sth 结构，比如 I wish you happiness。写信或贺卡时礼貌用语开头，再表达具体祝福，情感自然而有温度。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "祝福语 wish you a ... 中 a 后误接复数名词",
+        "表达感谢时 for 后误接动词短语而非名词或动名词",
+        "祝愿句型忘写双宾语 wish 后的受词"
+      ],
+      "example": "[仿题]祝你端午快乐。\n解析：I wish you a happy Dragon Boat Festival，用 wish sb sth。",
+      "keywords": ["wish", "祝福", "感谢", "句型"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_009",
+      "name": "描述节日气氛的表达",
+      "definition": "描述节日氛围热烈欢快气氛的形容词与常用搭配。",
+      "explanation": "你描写节日气氛常用 lively 热闹的、joyful 快乐的、warm 温暖的、peaceful 平静的等形容词，如 a lively square 热闹的广场。表示空气中满溢气氛可说 full of joy 充满欢乐。写节日场景片段时用这类词烘托情绪，让描写立体而不空洞。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "lively 与 lively 形容词与副词拼写混用",
+        "表达快乐氛围误用 joyful 与 glad 语境偏差",
+        "full of joy 表达中漏掉 of 造成介词缺失"
+      ],
+      "example": "[仿题]广场上充满欢乐。\n解析：The square is full of joy，full of 表充满。",
+      "keywords": ["lively", "joyful", "气氛", "full of"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_010",
+      "name": "表示时间顺序的连接词",
+      "definition": "按时间先后描述节日活动顺序的连接词用法。",
+      "explanation": "你说过节日的先后活动时用 first、then、next、after that、finally 等表顺序的连接词。比如 First we prepare food, then we watch the parade 中先做准备再看游行。写节日安排时按时间轴依次使用这些词，让叙述先后清晰，读者一目了然。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "两动作先后顺序的连接词形乱用导致时间倒错",
+        "叙述时漏用顺序词使活动先后关系不清楚",
+        "first 与 finally 在段首段尾位置错放"
+      ],
+      "example": "[仿题]先准备食物再看游行。\n解析：First prepare food, then watch the parade，用顺序词。",
+      "keywords": ["first", "then", "finally", "顺序"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_011",
+      "name": "情态动词推测用法初识",
+      "definition": "用 must 与 may 对现在事实进行轻量推测判断的用法。",
+      "explanation": "你依据线索对现状作推测时，把握肯定的程度选 must、may 或 can't。must 表非常肯定，may 表可能，can't 表否定推测。比如 He must be at the festival 表示他一定在。写推测句型时按把握程度选用情态词，表达更有分寸感，容易让读者信服。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把握很确定却误用 may 而应采用 must 表更强推断",
+        "否定推测误用 mustn't 而不恰当用 can't 表否定",
+        "推测结构中误接动词过去式而未用现在原形"
+      ],
+      "example": "[仿题]他一定在庆祝现场。\n解析：He must be at the festival，must 表强烈推测。",
+      "keywords": ["must", "may", "推测", "情态动词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U2_012",
+      "name": "英译表达节日的固定搭配",
+      "definition": "表达过节过节日的固定动词搭配与介词使用的规范。",
+      "explanation": "你表达过节的有固定说法，如 celebrate a festival 过节、give gifts 赠送礼物、prepare for it 为之准备、spring to mind 浮现脑海等。用 celebrate 配合节日名词是核心。写节日做法时合理安排这些搭配，比如先准备再庆祝，句子通顺且更显地道。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "过节固定表达误把 celebrate 用成 congratulation 混用",
+        "准备某节日的介词 for 误漏掉造成结构缺失",
+        "give gifts 表达赠送时双宾语位置摆放错乱"
+      ],
+      "example": "[仿题]我们庆祝愚人节。\n解析：We celebrate April Fool's Day，用 celebrate 接节日。",
+      "keywords": ["celebrate", "give gifts", "准备", "固定搭配"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

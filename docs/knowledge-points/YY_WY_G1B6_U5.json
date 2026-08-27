@@ -1,0 +1,213 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第三册 Unit 5 Learning from Nature",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B6_U5_001",
+      "name": "主语从句的结构与判断",
+      "definition": "从句在句中作主语时，整个从句充当主语成分。",
+      "explanation": "主语从句就是主语从句。它作主语时，句首可以是 what、that、whether 引导的连接词。比如 That he will come is clear，that 引导整个主语从句。你判断时问主句的谓语动词到底是谁发出的，如果这个发出来的是整个从句，那就是主语从句。识别出来了，改错填空就有方向。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把主语从句误判为宾语从句，成分定位错误",
+        "主语从句较长时谓语动词数误判为复数",
+        "that 引导主语从句在句首被误省略",
+        "把 what 引导的主语从句与疑问句混淆"
+      ],
+      "example": "[仿题]___ he said surprised us all.\n解析：他所说的事作主语，填 What。",
+      "keywords": ["主语从句", "连接词", "what", "that", "句子成分"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U5_002",
+      "name": "宾语从句的连接词选择",
+      "definition": "宾语从句用 that、whether、疑问词等连接。",
+      "explanation": "宾语从句的连接词根据语义选择。陈述用 that，疑问用 whether 或 if，特殊疑问用相应疑问词。比如 I wonder whether he will come。你选择连接词时，先看主句动词表达什么，动词是陈述就选 that，动词是疑问就先判断有没有疑问词。这样思路清晰，不易混淆。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "宾语从句缺连接词造成结构残缺",
+        "that 与 whether 混用区分不了陈述与疑问",
+        "if 在特殊条件下误用而漏掉了 whether",
+        "连接词多余的增添造成成分多余"
+      ],
+      "example": "[仿题]I asked ___ he would attend the meeting.\n解析：疑问宾语从句，填 whether。",
+      "keywords": ["宾语从句", "连接词", "whether", "that", "疑问词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U5_003",
+      "name": "表语从句的连接词",
+      "definition": "表语从句在系动词后作表语。",
+      "explanation": "表语从句跟在系动词 be 等后面，说明主语是什么。连接词可以是 that、what、whether、why 等。比如 The reason is that he was ill，that 引导表语从句。你识别表语从句，看它是否紧跟在系动词之后。判断连接词看从句内在含义，缺什么成分就用相应的疑问词。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "表语从句误用 because 而非 that 表达原因",
+        "系动词后漏掉 that 造成连接残缺",
+        "表语从句的连接词用错造成语义偏差"
+      ],
+      "example": "[仿题]The trouble is ___ we have no time.\n解析：表语从句，填 that。",
+      "keywords": ["表语从句", "系动词", "that", "what", "连接词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U5_004",
+      "name": "同位语从句的识别",
+      "definition": "同位语从句对名词的内容进行补充说明。",
+      "explanation": "同位语从句对抽象名词的内容进行补充说明。比如 The idea that we should recycle is good，idea 的内容就是 recycle。你判断是不是同位语从句，看 that 后面的内容是否解释前面的名词，能对上就是同位语从句。注意同位语从句的 that 只起连接作用，不在从句中充当成分。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "把同位语从句与定语从句混淆难分",
+        "同位语从句缺 that 造成结构残缺",
+        "先行名词识别错误导致从句归属错位"
+      ],
+      "example": "[仿题]The news ___ we won cheered us.\n解析：解释 news 的内容，填 that。",
+      "keywords": ["同位语从句", "抽象名词", "that", "说明", "news"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U5_005",
+      "name": "名词性从句的整体概念",
+      "definition": "主语宾语表语同位语从句统称名词性从句。",
+      "explanation": "名词性从句就是指从句在句中充当名词的角色，包括主语从句、宾语从句、表语从句和同位语从句四种。它们的共同点是都用连接词引导，在句中起名词作用。你把这四类放在一起比较记忆，抓住它们在句中的不同位置，也就把握了整个名词性从句的体系。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "四种名词性从句的句法位置分不清",
+        "把名词性从句与定语从句一概而论",
+        "判断名词性从句时忽略了句子成分的完整性"
+      ],
+      "example": "[仿题]___ he said remains a question.\n解析：what 引导主语从句，填 What。",
+      "keywords": ["名词性从句", "主语从句", "宾语从句", "表语从句", "同位语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U5_006",
+      "name": "what引导名词性从句",
+      "definition": "what 在从句中作成分，相当于所的内容。",
+      "explanation": "what 引导名词性从句时，在从句中充当主语、宾语或表语，意思是指所的内容。比如 What he said 是他所说的话，其中 what 作 said 的宾语。你写作时想表达一件具体的事，却一时找不到名词，可以用 what 引导的从句代替。注意 what 不能被 that 取代，作主语时从句要有完整的谓语动词。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把 what 与 that 混用在名词性从句中",
+        "what 从句内部缺主谓成分结构残缺",
+        "what 从句中 what 作主语时却漏写了谓语动词"
+      ],
+      "example": "[仿题]This is ___ I want to express.\n解析：所表达的内容，填 what。",
+      "keywords": ["what", "名词性从句", "所的内容", "成分", "连接词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U5_007",
+      "name": "whether与if的用法",
+      "definition": "whether 可引导各类名词性从句，if 常引导宾语从句。",
+      "explanation": "whether 和 if 都能表是否，但有分工。whether 可以引导宾语从句也可以引导主语、表语从句，if 通常只引导宾语从句。同位语从句和句首主语从句上只能用 whether。比如 Whether he comes is unknown，句首只能用它。你做选择时先看位置再选词。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "句首主语从句误用 if 替代 whether",
+        "介词后漏掉 whether 而误用 if",
+        "whether 与 if 互换不区分位置限制"
+      ],
+      "example": "[仿题]___ she will come doesn't matter.\n解析：句首主语从句只能用 whether，填 Whether。",
+      "keywords": ["whether", "if", "连接词", "主语从句", "宾语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U5_008",
+      "name": "师法自然主题词汇",
+      "definition": "涵盖向自然学习和仿生领域的词汇。",
+      "explanation": "本单元讲师法自然，你要掌握几个核心词。learn from nature 向自然学习，imitate 模仿，biomimicry 仿生学，inspire 启发，wisdom 智慧。这些词常出现在讲人类从动植物获得灵感的文章里。读这类文章时先抓这些关键词，再理清自然给人类的启示，理解就透彻了。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 imitate 与 inspire 混淆含义相反",
+        "biomimicry 的拼写记忆错误",
+        "把 wisdom 与 wise 词性混用",
+        "learn from 后漏掉宾语造成残缺"
+      ],
+      "example": "[仿题]Scientists ___ the way birds fly to design planes.\n解析：模仿自然，填 imitate。",
+      "keywords": ["imitate", "inspire", "生物仿生", "wisdom", "师法自然"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U5_009",
+      "name": "名词性从句的主谓一致",
+      "definition": "单个名词性从句作主语，谓语用单数。",
+      "explanation": "一个名词性从句作主语时，即使内容看起来复数，谓语动词也用单数。比如 What they need is patience，从句 What they need 整体看作单数，所以用 is。你判断时把整个从句当做一个整体主语，谓语就用单数形式，不要在从句里看到复数就改谓语。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "从句里出现复数词时误把谓语改成复数",
+        "多个名词性从句并列时忽略了整体单数处理",
+        "主句谓语与从句内部动词数判断混淆"
+      ],
+      "example": "[仿题]What he wants ___ freedom.\n解析：从句整体作主语用单数，填 is。",
+      "keywords": ["名词性从句", "主谓一致", "单数谓语", "整体主语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U5_010",
+      "name": "as if引导表语从句",
+      "definition": "as if 引导表语从句表示仿佛。",
+      "explanation": "as if 可以引导表语从句，跟在 It seems 或 It looks 等后面。比如 It looks as if it is going to rain。这时从句用陈述语气还是虚拟语气，看内容是否真实。与事实一致用陈述，明显假想用虚拟。多在语境里体会，就自然能判断该用哪种语气了。",
+      "difficulty": 4,
+      "frequency": 2,
+      "typical_errors": [
+        "as if 表语从句一律用虚拟语气不分真假",
+        "as if 与 as though 被错误地彻底分开认识",
+        "as if 引导表语从句时漏掉 be 动词"
+      ],
+      "example": "[仿题]It seems ___ he has been there.\n解析：表语从句表仿佛，填 as if。",
+      "keywords": ["as if", "表语从句", "仿佛", "虚拟语气", "It seems"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U5_011",
+      "name": "引出名词性从句的it用法",
+      "definition": "it 作形式主语或宾语代替后面的名词从句。",
+      "explanation": "名词性从句较长时，常用 it 作形式主语或宾语，把真正从句后置。比如 It is important that we should help，It 是形式主语，真正主语是 that 从句。你写句子时，若从句作主语太长，就用 it 开头，把从句放到后面。反过来阅读时，也要识别 it 后真正的从句，理解就会更准。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "it 作形式主语后漏掉引导词 that",
+        "把形式主语 it 与代词的 it 混用分辨不清",
+        "it 后从句的位置放置错误造成表达不畅"
+      ],
+      "example": "[仿题]It is true ___ he told the truth.\n解析：真正主语是 that 从句，填 that。",
+      "keywords": ["it", "形式主语", "形式宾语", "名词性从句", "外置"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U5_012",
+      "name": "师法自然议论文的结构",
+      "definition": "围绕自然启发人类的主题展开议论文。",
+      "explanation": "写师法自然类议论文，你先提出自然给人类的启示这个总观点。正文用具体例证支撑，比如从鸟的翅膀想到飞机设计，从蛛丝想到新型材料。每个例子配一段分析，说明从中获得的灵感。结尾总结人应敬畏自然、向自然学习的道理。逻辑层次清楚，主旨就突出。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "例证与自然启示的观点脱节",
+        "只罗列例子没有分析启示的意义",
+        "观点空泛没有落到具体的仿生应用上",
+        "结尾没有升华到敬畏自然的高度"
+      ],
+      "example": "[仿题]Nature, as a ___ , teaches us endless wisdom.\n解析：自然作老师，填 teacher。",
+      "keywords": ["议论文", "例证", "仿生", "启示", "自然"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

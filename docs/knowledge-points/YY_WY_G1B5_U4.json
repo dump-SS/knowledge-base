@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第二册 Unit 4 Breaking Boundaries",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B5_U4_001",
+      "name": "宾语从句时态呼应规则",
+      "definition": "主句为过去时宾语从句时态相应后移以保持一致时态的原则。",
+      "explanation": "当主句用过去时，宾语从句的时态一般要往过去推一格，如He said (that) he liked getting...。一般现在变一般过去、一般过去变过去完成。你判断主句时间，若为过去则相应调整从句动词。但若从句表客观真理或仍在进行时，可保持原时态不变。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "主句过去从句却保留现在时",
+        "一般过去误推两次变成过去完成",
+        "object时态呼应整体判断受损"
+      ],
+      "example": "[仿题]She said she ___ ready.\n解析：主句过去时填was。",
+      "keywords": ["宾语从句", "时态呼应", "过去时", "主句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U4_002",
+      "name": "一般从句时态相应推移",
+      "definition": "主句过去时宾语从句的时态按引语规则做一般时态后移的规律。",
+      "explanation": "把直接引语改成间接引语时，若主句是过去时，宾语从句时态要相应后移：一般现在变一般过去，现在进行变过去进行，一般过去变过去完成，将来时变过去将来。你先找原句时态，再按推移表更替，宾语从句与新主句保持时间一致。",
+      "difficulty": 5,
+      "frequency": 4,
+      "typical_errors": [
+        "一般现在句漏变成一般过去",
+        "将来时漏变过去将来will变为would",
+        "把进行时该推移却保留原状"
+      ],
+      "example": "[仿题]He said he ___ to go.\n解析：will变would填would。",
+      "keywords": ["间接引语", "时态推移", "宾语从句", "will变would"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U4_003",
+      "name": "客观真理不随主时态变",
+      "definition": "宾语从句表达客观真理或规律时，即使主语过去时也保持原时态。",
+      "explanation": "当宾语从句讲的是客观真理、自然规律或常识时，时态不随主句变化，如The teacher said (that) the earth moves around the sun。虽然主句是过去时，从句仍用一般现在时。你判断从句内容是否为永恒真理，是的话无须后移时态，照常保持原形。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "客观真理句仍按主句推移时态",
+        "把常识句错误降为过去时",
+        "忽视主句主谓一致时忽略从句主语"
+      ],
+      "example": "[仿题]He said light ___ faster.\n解析：客观规律用一般现在填travels。",
+      "keywords": ["客观真理", "时态保持", "一般现在时", "宾语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U4_004",
+      "name": "间接引语时态变化",
+      "definition": "由直接引语变间接引语时宾语从句时态相应推移的处理方法。",
+      "explanation": "把直接引语改为间接引语时，除时态推移外还要注意语序与连接词。陈述改为that引导，一般现在变过去，如He said \"I am tired\"变成He said (that) he was tired。你同时处理时态与主语人称改变，并把句号改写为从属结构，转换主体完整。",
+      "difficulty": 5,
+      "frequency": 4,
+      "typical_errors": [
+        "引语变间接时漏改主语人称",
+        "时态后移与语序调整不同步",
+        "漏加that或把从句当成独立句"
+      ],
+      "example": "[仿题]She said she ___ tired.\n解析：am变was填was。",
+      "keywords": ["间接引语", "时态变化", "人称调整", "that"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U4_005",
+      "name": "宾语从句保留原时态",
+      "definition": "宾语从句表达当前持续事实或明确事实时可不受主句时约束的例外。",
+      "explanation": "在某些情况下宾语从句时态可保留原状态，如从句表达已经完成但与现在息息相关，或说话时仍成立的状态。你判断从句所指是否跨越主句时间持续到当下，若是则可保持原时态。不是所有从句都一律推移，灵活判断更准确。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "该保持时态的句子误推移成过去",
+        "把持续事实一概推移丢真实感",
+        "主句现在时也误推移从句时态"
+      ],
+      "example": "[仿题]He said the dog ___ here now.\n解析：持续状态可保留填is。",
+      "keywords": ["时态", "持续事实", "宾语从句", "例外"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U4_006",
+      "name": "wish宾语从句时态",
+      "definition": "wish后的宾语从句按虚拟语气使用的特殊时态搭配规则。",
+      "explanation": "动词wish后接宾语从句时，从句要用虚拟语气：与现在相反用一般过去时，与过去相反用过去完成时。如I wish I knew the answer指现在，I wish I had gone则指过去与事实相反。你判断愿望指向现在还是过去，据此选用相应虚拟时态。",
+      "difficulty": 5,
+      "frequency": 4,
+      "typical_errors": [
+        "wish从句误用一般现在真实时态",
+        "对过去愿望误用一般过去而非完成",
+        "把were误写成was虚位出错"
+      ],
+      "example": "[仿题]I wish I ___ taller.\n解析：现在愿望虚拟填were。",
+      "keywords": ["wish", "虚拟语气", "宾语从句", "时态"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U4_007",
+      "name": "边界突破主题词汇",
+      "definition": "描述跨越界限、开拓创新与突破限制的核心名词与动词。",
+      "explanation": "谈突破边界的你会用到boundary边界、break through突破、limit限制、challenge挑战、explore探索、go beyond超越这些词。表达突破界限用break the boundary，说明超越自我用go beyond yourself。你把这些与创新相关的词成组记忆，写变革叙事时信手拈来。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把boundary误拼成boundarry漏a",
+        "把break through的介词through误写",
+        "把go beyond 误写成go the beyond"
+      ],
+      "example": "[仿题]Science breaks old ___.\n解析：突破旧边界填boundaries。",
+      "keywords": ["边界", "突破", "超越", "探索", "挑战"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U4_008",
+      "name": "跨界交流合作词汇",
+      "definition": "描述跨越地域文化、建立联结与开展合作的常用名词与动词。",
+      "explanation": "跨界合作离不开cooperate合作、collaborate协作、share分享、communicate沟通、connect衔接、global全球化这些词。表达国际合作用cooperate globally，说明分享资源用share resources。你把沟通与合作词汇组合使用，再谈跨界带来的整体收益，主题突出而有力。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把collaborate误拼成collocrate漏b",
+        "把cooperate误拼成cooptivate漏e",
+        "把cooperate with漏掉介词with"
+      ],
+      "example": "[仿题]Countries cooperate ___ each other.\n解析：互相合作填with。",
+      "keywords": ["合作", "协作", "沟通", "分享", "全球化"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U4_009",
+      "name": "探索创新突破词汇",
+      "definition": "描述尝试创新、提出新法并取得突破的常用动词与名词。",
+      "explanation": "创新突破需要innovate创新、invent发明、experiment尝试、discover发现、solve解决、create创造这些词。表达创新方法用innovate new ways，说明解决问题用solve the problem。写作描述突破时按发现问题、反复实验、最终创新破局的顺序铺陈，逻辑清晰。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把innovate误拼成invente混淆",
+        "把experiment误拼成expiriment漏e",
+        "把create creative词性混搭"
+      ],
+      "example": "[仿题]They ___ a new way.\n解析：创新新方法填innovated/created。",
+      "keywords": ["创新", "发明", "尝试", "发现", "创造"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U4_010",
+      "name": "学科跨界融合词汇",
+      "definition": "描述不同学科互补融合、交叉形成新领域的常用名词与动词。",
+      "explanation": "学科融合会用interdisciplinary跨学科的、combine结合、field领域、knowledge知识、科技融合blend、connection联系这些词。表达跨学科运用combine science with art，说明领域交叉用a new field。你描述融合时先指明两个领域，再用combine与blend点明结合点。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把interdisciplinary误拼漏interior缀",
+        "把combine A with B漏介词with",
+        "把field范围与区分类名词混淆"
+      ],
+      "example": "[仿题]It combines science ___ art.\n解析：与艺术结合填with。",
+      "keywords": ["跨学科", "结合", "融合", "领域", "联系"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U4_011",
+      "name": "文化理解差异词汇",
+      "definition": "描述不同文化差异、习俗对比与相互理解的关键名词动词。",
+      "explanation": "化解差异用understand理解、respect尊重、tradition传统、custom习俗、culture文化、differ不同这些词。表达尊重文化用respect the culture，说明习俗差异用different customs。你讲文化时先谈尊重与理解，再看具体习俗的差异，沟通隔阂便少了许多。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把tradition误拼成tradiction漏字母",
+        "把customs与costumes混淆形近词",
+        "把culture与cultural词性混用"
+      ],
+      "example": "[仿题]Respect the local ___.\n解析：尊重当地习俗填customs。",
+      "keywords": ["文化", "习俗", "尊重", "传统", "理解"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U4_012",
+      "name": "交流桥梁表达句式",
+      "definition": "用桥通比方面句说明沟通理解与建立联系的表达方式。",
+      "explanation": "表达建立联系你可用build a bridge搭建桥梁、connect people联系、share stories分享，句式It helps bridge the gap很有力。说明促进理解用promote understanding，表达铺路用pave the way for。你先写推举一座联结双方的桥，再谈它带来的理解合作，主题深邃而动人。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把bridge the gap漏冠词the",
+        "把promote understanding拼写失误",
+        "把pave the way用的介词for漏写"
+      ],
+      "example": "[仿题]It helps ___ the gap.\n解析：弥合隔阂填bridge。",
+      "keywords": ["桥梁", "沟通", "理解", "联结", "合作"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第三册 Unit 1 Face Values",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B6_U1_001",
+      "name": "虚拟语气在建议从句中的用法",
+      "definition": "建议类动词后的宾语从句用 should 加动词原形表虚拟。",
+      "explanation": "凡是表示建议的动词，像 suggest、advise、recommend，后面接宾语从句时，从句谓语要用 should 加动词原形。比如 He suggested that we should go early。这里应该补上 should 表达主观建议，而不是陈述事实。你做题时先判断动词是不是表建议，如果是，就把 should 加上，别被时态干扰了判断。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "suggest 后从句谓语写成现在时，漏掉 should 加原形",
+        "把 suggest 错当普通动词，宾语从句仍按时态处理",
+        "从句谓语用了过去式而非 should 加原形",
+        "混淆 suggest 作建议与作暗示时的句式差异"
+      ],
+      "example": "[仿题]He suggested that we ___ the project at once.\n解析：表建议，从句用 should 加原形，填 should start。",
+      "keywords": ["suggest", "建议从句", "should", "虚拟语气", "宾语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U1_002",
+      "name": "虚拟语气在要求从句中的用法",
+      "definition": "insist 等表要求的动词，其宾语从句用虚拟语气。",
+      "explanation": "表示要求、命令、坚持的动词，如 demand、require、insist、order，后面的宾语从句也要用 should 加动词原形。比如 The teacher required that everyone should attend。注意 insist 有两个含义：表示坚持主张时用虚拟语气，表示坚持说某事实时反而用陈述语气。你判断时先看 insist 是表主张还是表陈述，再决定语气。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "demand 后从句谓语不写 should 加原形而写成直陈式",
+        "insist 表无法扭转的事实主张时也误用虚拟语气",
+        "order 后从句的谓语时态错误，没有用原形",
+        "把 require 的宾语从句当成普通宾语从句处理"
+      ],
+      "example": "[仿题]The rules require that everyone ___ on campus.\n解析：表要求用虚拟，填 should keep。",
+      "keywords": ["demand", "insist", "要求从句", "should", "虚拟语气"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U1_003",
+      "name": "形容词后的虚拟从句",
+      "definition": "在 necessary 等形容词后的从句中常用虚拟语气。",
+      "explanation": "一些形容词也能触发虚拟语气，常见的有 necessary、important、essential、vital。当它们作表语或出现在 It is necessary that 这种结构中时，后面的主语从句用 should 加动词原形。比如 It is important that you should come early。你遇到 It is 加这类形容词开头，就自动反应出后面要用虚拟语气了。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "It is important that 从句谓语漏掉 should 用直陈式",
+        "把 necessary 后面的从句当成普通时态处理",
+        "essential 后从句谓语误用 V-ing 形式",
+        "在 it is vital 的结构中用了 wrong 的时态"
+      ],
+      "example": "[仿题]It is essential that we ___ prepared.\n解析：形容词后虚拟，填 should be。",
+      "keywords": ["necessary", "essential", "重要形容词", "虚拟语气", "主语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U1_004",
+      "name": "wish从句的虚拟语气",
+      "definition": "wish 后的宾语从句用过去式表未实现的愿望。",
+      "explanation": "wish 表示愿望时，后面的宾语从句要用虚拟语气。与现在事实相反用过去式，如 I wish I knew；与过去事实相反用过去完成式，如 I wish I had known。你判断时先看愿望是针对现在还是过去，针对现在用一般过去式，针对过去用 had 加过去分词。这是易混点，多对比两句就能分清。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "wish 从句用一般现在式而非过去式",
+        "针对过去的愿望用了过去式而不是 had done 形式",
+        "把 wish 从句的虚拟与 hope 从句的真实混为一谈"
+      ],
+      "example": "[仿题]I wish I ___ more time for reading.\n解析：针对现在的愿望用过去式，填 had。",
+      "keywords": ["wish", "愿望", "虚拟语气", "过去式", "宾语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U1_005",
+      "name": "与事实相反的虚拟条件句",
+      "definition": "与现在事实相反，从句用过去式，主句用 would 加原形。",
+      "explanation": "这是虚拟语气最核心的句型。与现在事实相反时，if 从句的谓语用过去式，主句用 would 加动词原形。比如 If I were you，I would go。注意 be 动词一律用 were，不管主语是什么。你写这类句子时，先确认是现在还是过去事实，现在对照过去式，过去对照 had done，主句再对应 would 系列。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "if 从句里 be 动词用 was 而不是 were",
+        "与现在事实相反时主句用了 will 而非 would",
+        "主句谓语没有加 would，只写了原形动词",
+        "把 if 从句与主句的时态搭配弄反"
+      ],
+      "example": "[仿题]If I ___ you, I would tell the truth.\n解析：与现在事实相反，从句用过去式，填 were。",
+      "keywords": ["if条件句", "were", "would", "虚拟语气", "与现在相反"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U1_006",
+      "name": "虚拟语气的should省略",
+      "definition": "虚拟句中 should 常省略，谓语直接用动词原形。",
+      "explanation": "在建议、要求、要紧等虚拟结构中，should 常常可以省略，省略后谓语仍然用动词原形。比如 He suggested that we go early，实际就是省略了 should。你做题时，看到这类词后面的从句谓语是原形，就明白这是虚拟语气，should 被省掉了。别误以为原形是错误表达，这里是规范用法。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "把省略 should 后的动词原形误判为语法错误",
+        "should 省略后却把谓语写成单数第三人称形式",
+        "在不该省 should 的强调句里也随意省略",
+        "没意识到原形形式就是 should 型虚拟标志"
+      ],
+      "example": "[仿题]He insisted that the plan ___ changed at once.\n解析：省略 should，填 be。",
+      "keywords": ["should省略", "动词原形", "虚拟语气", "suggest", "insist"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U1_007",
+      "name": "value的名词语动词用法",
+      "definition": "value 作名词表价值，作动词表重视并估价。",
+      "explanation": "value 一词多具词性。作名词时表价值、重要性，比如 the value of friendship；作动词时表重视、珍视，比如 I value your opinion，偶尔也表估价。你写作时注意它在句中的位置：名词常作主语或宾语，动词在动词位置。区分依据是上下文，看到前有助动词或 to 就用原形动词。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把动词 value 后面直接接形容词，误当成名词用法",
+        "value 作动词时忘了宾语，搭配残缺",
+        "把 valuableness 误造词代替名词 value"
+      ],
+      "example": "[仿题]She truly ___ the time spent with her family.\n解析：作动词表珍视，填 values。",
+      "keywords": ["value", "名词", "动词", "珍视", "词性转换"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U1_008",
+      "name": "价值观念主题词汇",
+      "definition": "涵盖外表、评价、价值等话题的核心词汇群。",
+      "explanation": "本单元谈价值观念，你要掌握一批关键主题词。先记 appearance 外表、standard 标准、opinion 观点这些议论名词，再补充 judge 判断、respect 尊重等动词，最后积累 social value 等短语。读讨论美丑与价值的文章时先抓这些词，再理清作者立场，理解就不会跑偏。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把 appearance 与 presence 混淆，分不清外表与到场",
+        "把 opinion 拼写成 opinon 漏掉字母 i",
+        "把 respect 后漏掉介词，接头搭配错误",
+        "standard 与 criteria 混用，分不清单数与复数形式"
+      ],
+      "example": "[仿题]We shouldn't judge people only by their ___.\n解析：指外表相貌，填 appearance。",
+      "keywords": ["appearance", "standard", "opinion", "judge", "价值"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U1_009",
+      "name": "外貌与相貌的词义",
+      "definition": "appearance 指外貌，looks 指外观印象，语义略不同。",
+      "explanation": "appearance 和 looks 都可指外貌，但侧重有差。appearance 较正式，涵盖外在的样貌、外表，也可以指出现。looks 常以复数形式出现，偏重给人的视觉印象，口语中更常用。比如 Her appearance is neat，He cares about his looks。你想郑重描述外貌用 appearance，随意谈印象用 looks。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "用 appearance 描述随意的视觉印象显得生硬",
+        "把 looks 当单数名词使用",
+        "把 appearance 与 looks 视为完全等价随意互换"
+      ],
+      "example": "[仿题]He paid great attention to his ___.\n解析：谈论给人的视觉印象，用 looks。",
+      "keywords": ["appearance", "looks", "外貌", "印象", "词义差异"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U1_010",
+      "name": "judge...by的用法",
+      "definition": "judge...by 表示依据某标准来判断人或物。",
+      "explanation": "judge...by 是常见固定搭配，表示依据某种标准来判断。比如 Don't judge a book by its cover，不要以貌取人。你用这个结构时，by 后面接判断依据的名词，judge 后面接被判断的对象。写作表达观点、讨论以貌取人话题时，用它来亮出态度很自然。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "judge 后漏掉介词 by 直接接判断标准",
+        "把 judge...by 与 judge...as 的搭配对象混淆",
+        "判断依据未放对位置，句子结构错乱"
+      ],
+      "example": "[仿题]Never ___ others by their appearance alone.\n解析：以貌取人为题，填 judge。",
+      "keywords": ["judge...by", "判断", "标准", "以貌取人", "固定搭配"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U1_011",
+      "name": "as if从句的虚拟语气",
+      "definition": "as if 后从句可用虚拟语气表不真实或假想。",
+      "explanation": "as if 表示仿佛、就像，后面的从句常用虚拟语气来强调并非真实。与现在事实相反用过去式，比如 He talks as if he knew everything。有时也用陈述语气表较真实的比较。你判断时看内容是否真实，若是明显假想就选虚拟语气，语气与时态的选择直接反映作者的态度。",
+      "difficulty": 4,
+      "frequency": 2,
+      "typical_errors": [
+        "as if 从句用一般现在式而漏掉虚拟过去式",
+        "把 as if 与 as though 完全分开记而忽视二者可互换",
+        "真实现象也一律用虚拟语气造成错误"
+      ],
+      "example": "[仿题]She spoke as if she ___ the truth.\n解析：假想不知情，用过去完成式，填 had known。",
+      "keywords": ["as if", "as though", "虚拟语气", "仿佛", "假想"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U1_012",
+      "name": "价值观议论文的段落结构",
+      "definition": "围绕外表、价值等主题组织议论文的引论论证段落。",
+      "explanation": "写价值观念类议论文，你可用经典三段法。引言亮出观点，比如人不应以貌取人；主体段落用论据支撑，先说理由再用实例证明；结尾总结并重申观点。过渡用 firstly、besides、in conclusion 等词。列论点时注意每个段落一个中心，层次清晰，观点才有说服力。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "引言没有明确观点，阅卷者抓不住主旨",
+        "一个段落塞进多个论点，逻辑混乱",
+        "论证只列观点不给例证，缺乏说服力",
+        "结尾重复引言全文，没有总结或升华"
+      ],
+      "example": "[仿题]Firstly, we should ___ not to judge by looks.\n解析：引出论证，填 remember。",
+      "keywords": ["议论文", "结构", "论点", "过渡词", "价值观念"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第二册 Unit 2 Improving Yourself",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B5_U2_001",
+      "name": "同位语从句that引导",
+      "definition": "用that引导同位语从句对前面的抽象名词内容作补充说明的用法。",
+      "explanation": "同位语从句用来解释名词所指的具体内容，常用that引导，如the idea that we should rest。这里the idea是中心名词，后面that引导的内容解释它到底指什么。你看到已被说明含义的名词后接that从句，就能识别出同位语从句，理解名词所指就更清楚。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "把同位语从句的that误写成whether",
+        "把同位语从句错看成定语从句",
+        "同位语从句名词后漏写引导词"
+      ],
+      "example": "[仿题]the fact ___ he came\n解析：说明事实内容填that。",
+      "keywords": ["同位语从句", "that", "抽象名词", "补充说明"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U2_002",
+      "name": "同位语从句whether引导",
+      "definition": "同位语从句表达是否时用whether引导而不用if的用法。",
+      "explanation": "同位语从句中表示是否用whether引导，不用if，如the question whether he will come。although在多数名词性从句中不能替代whether，只有宾语从句在某条件下才可用if。你看到中心名词性的同位语从句表达是否，直接用whether最保险，不引入if歧义。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "同位语从句用if替代whether",
+        "把whether内容误用that表示真伪",
+        "同位语从句whether后语序误倒装"
+      ],
+      "example": "[仿题]the doubt ___ it works\n解析：表是否用whether。",
+      "keywords": ["同位语从句", "whether", "是否", "抽象名词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U2_003",
+      "name": "同位语与定语从句区别",
+      "definition": "区分解释内容的同位语从句与修饰名词的定语从句的关系代差异。",
+      "explanation": "同位语从句与定语从句易混淆，关键看连接词担不担当从句成分。同位语从句的that只起连接作用，不充当成分，如the news that he won中的that不指news。而定语从句的that或which作从句成分，如the news (that/which) I heard。你据此判断是否充当成分。",
+      "difficulty": 5,
+      "frequency": 4,
+      "typical_errors": [
+        "把定语从句的that误当成同位语",
+        "把同位语从句误判为修饰关系",
+        "无法判断连接词在从句中的成分"
+      ],
+      "example": "[仿题]the idea that he wrote\n解析：明确写作内容填同位语。",
+      "keywords": ["同位语从句", "定语从句", "that", "成分"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U2_004",
+      "name": "同位语说明抽象名词",
+      "definition": "同位语从句对idea、fact、news等抽象名词所指内容加以明确的作用。",
+      "explanation": "同位语从句常跟在idea、fact、news、belief、thought这类抽象名词之后，把名词所指具体化，如the belief that we can improve。这些名词意义较抽象，需要用从句交代究竟是什么。你识别中心名词是抽象名词时，重点看后面的从句是否解释它。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "抽象名词后误用疑问词而非that",
+        "分不清同位语从句修饰哪一名词",
+        "把抽象名词的复数形式误配合复数动词"
+      ],
+      "example": "[仿题]the belief ___ we can\n解析：解释信念内容填that。",
+      "keywords": ["抽象名词", "同位语", "fact", "belief"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U2_005",
+      "name": "同位语从句that不省略",
+      "definition": "同位语从句中的引导词that通常保留不可省略的语法规则。",
+      "explanation": "同位语从句中的that一般不可省略，它提示紧随其后的是补足解释，如the news that she won。若省略that会让结构与解释含糊不清。你看到抽象名词加从句时，务必保留that使句子完整，写作中就能避免省略错误造成歧义。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "同位语从句误省引导词that",
+        "把可省that的宾语从句与此混淆",
+        "省略that后句子的结构含混难辨"
+      ],
+      "example": "[仿题]the news ___ passed\n解析：同位语that不可省填that。",
+      "keywords": ["同位语", "that", "不可省", "结构完整"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U2_006",
+      "name": "同位语从句位置分割",
+      "definition": "同位语从句紧跟在名词后或因插成分而与名词分离的位置现象。",
+      "explanation": "同位语从句通常紧跟被解释的名词，但有时会插入其他成分使其与名词分离，此时需据名词与从句的意义来确定关系。你找到抽象名词，再看其后内容是否在解释它，即可判断是否为被分割的同位语。理解位置变动，阅读复杂句就不慌张。",
+      "difficulty": 5,
+      "frequency": 3,
+      "typical_errors": [
+        "被分割的同位语当作与名词无关",
+        "插入成分干扰对句子主干的判断",
+        "把分割后的从句误作另一独立句子"
+      ],
+      "example": "[仿题]the plan, we hope, ___ works\n解析：解释计划内容填that。",
+      "keywords": ["同位语", "分割", "位置", "插入语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U2_007",
+      "name": "自我提升主题词汇",
+      "definition": "描述自我提升、进步改善与全面发展理念的核心名词与动词。",
+      "explanation": "谈自我提升你会用到improve改善、progress进步、develop发展、effort努力、habit习惯、goal目标这些词。表达提升自我用improve oneself，说明持续进步用make progress。你按明确目标、养成习惯、一步步进步的顺序使用这些词，自我成长的脉络就清晰可见。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把progress误拼成progess漏r",
+        "把improve oneself漏介词等结构",
+        "把make progress误拼成make progresses"
+      ],
+      "example": "[仿题]She wants to ___ herself.\n解析：提升自我填improve。",
+      "keywords": ["提升", "进步", "习惯", "目标", "努力"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U2_008",
+      "name": "学习习惯养成词汇",
+      "definition": "描述阅读练习、坚持复习等良好学习习惯的建立与维系的词汇。",
+      "explanation": "好习惯离不开practice练习、review复习、schedule计划、consistent持之以恒的、routine常规、regular定期的这些词。表达养成习惯用develop a habit，说明坚持复习用review regularly。你先确定每天固定时段，再用consistent与regular坚持执行，习惯就慢慢形成了。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把consistent误拼成consistend漏t",
+        "把develop a habit漏冠词a",
+        "把routine与routinely词性混用"
+      ],
+      "example": "[仿题]Form a ___ of reading.\n解析：养成阅读常规填routine。",
+      "keywords": ["习惯", "练习", "复习", "坚持", "计划"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U2_009",
+      "name": "时间管理坚持词汇",
+      "definition": "描述安排时间、专注投入与长期坚持提升的常用名词动词。",
+      "explanation": "高效提升靠manage管理、arrange安排、focus专注、concentrate集中、stick to坚持、discipline自律这些词。表达安排时间用manage your time，表明坚持下去用stick to the plan。你先把时间段妥帖分配，再靠discipline与focus保证执行，提升才有着落。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把manage your time漏掉your",
+        "把stick to误拼成stickon介词错误",
+        "把discipline名词当动词用错词性"
+      ],
+      "example": "[仿题]You must manage your ___.\n解析：管理时间填time。",
+      "keywords": ["时间管理", "专注", "坚持", "自律", "安排"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U2_010",
+      "name": "反思改进表达词汇",
+      "definition": "描述审视不足、寻求反馈与持续改进过程的常用名词动词。",
+      "explanation": "进步需要self-reflection自省、feedback反馈、improve改进、learn学习、adjust调整、review回顾这些词。表达听取建议用accept feedback，说明调整方向用adjust the method。你先定期反思不足，再结合反馈和调整，让改进有起点也有方向。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把self-reflection误拼成self-reflectiion",
+        "把feedback漏写不可数用法",
+        "把adjust误拼成aduest漏j"
+      ],
+      "example": "[仿题]Ask for some ___.\n解析：寻求反馈填feedback。",
+      "keywords": ["自省", "反馈", "调整", "改进", "反思"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U2_011",
+      "name": "目标设定行动规划",
+      "definition": "表达设定目标、制定计划并落实行动的提升路径相关词汇。",
+      "explanation": "实现提升要set a goal设定目标、plan规划、action行动、step步骤、track track进度、achieve实现这些词。表达分步骤推进用take small steps，说明跟踪进度用keep track of。你先把大目标分解成小步骤，再按plan逐一推进并跟踪，目标最终得以实现。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把keep track of漏介词of",
+        "把set a goal漏冠词a",
+        "把step与steps单复数把握不稳"
+      ],
+      "example": "[仿题]Set a realistic ___.\n解析：设定现实目标填goal。",
+      "keywords": ["目标", "计划", "步骤", "行动", "实现"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U2_012",
+      "name": "自信成长表达词汇",
+      "definition": "描述增强自信、接纳自我与主动成长的重要名词与动词。",
+      "explanation": "自我提升还要build confidence自信、believe相信、acknowledge承认、grow成长、value重视、potential潜力这些词。表达增强自信用build up confidence，说明相信潜能用believe in your potential。你先把小成就当作积累，再逐步相信并兑现潜能，自信自然成长。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把belief与believe词性混用",
+        "把build up confidence漏掉up",
+        "把potential误拼成potentional漏a"
+      ],
+      "example": "[仿题]Believe in your ___.\n解析：相信潜能填potential。",
+      "keywords": ["自信", "相信", "接纳", "成长", "潜能"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

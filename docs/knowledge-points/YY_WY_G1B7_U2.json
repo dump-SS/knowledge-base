@@ -1,0 +1,211 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第四册 Unit 2 Lessons in Life",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B7_U2_001",
+      "name": "情态动词加完成时的结构",
+      "definition": "情态动词加 have 加过去分词表对过去的推测。",
+      "explanation": "情态动词加 have 加过去分词，用来对过去发生的事情进行推测或判断。比如 must have done 表非常肯定过去发生，may have done 表有几分可能。你判断时先确定是对现在还是过去的推测，对过去推测就用情态动词加 have done。这个结构是把情态与完成时结合的常见考点。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "对过去的推测漏掉 have 直接用原形",
+        "must have done 中误写为 must has done",
+        "过去推测与现在推测的结构混淆"
+      ],
+      "example": "[仿题]He must ___ left early.\n解析：对过去推测，填 have。",
+      "keywords": ["情态动词", "have done", "过去推测", "must", "完成时"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U2_002",
+      "name": "must加完成时的推测",
+      "definition": "must have done 表示对过去某事很有把握的推测。",
+      "explanation": "must have done 表示说话人非常肯定过去某一情况已经发生。比如 He must have missed the bus，他一定错过了公交车。你用在证据相当充分、确信无疑的场合。注意它的否定形式和疑问形式不直接用 must，而要用 can't have done 或 need 相关的表达，这是容易踩雷的地方。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "must have done 的否定误用 mustn't have done",
+        "must have done 疑问形式误用 must",
+        "把握很大却误用不太肯定的 may have done"
+      ],
+      "example": "[仿题]She must have ___ the secret.\n解析：已发生的过去动作，填 known。",
+      "keywords": ["must have done", "推测", "过去", "一定", "把握"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U2_003",
+      "name": "否定推测的结构用法",
+      "definition": "can't have done 表示对过去情况几乎肯定的否定推测。",
+      "explanation": "can't have done 表达了几乎不可能的否定推测，相当于一定没做某事。比如 He can't have gone home，他肯定没回家。你表达十分肯定某事在过去没有发生时用这个结构。注意它与 must have done 正好相对，一肯定一否定，别混淆了方向，构造时记得用 can't。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "否定推测误用 mustn't have done 而非 can't",
+        "方向搞反，肯定与否定推测互换",
+        "can't have done 中误加 be 造成结构冗余"
+      ],
+      "example": "[仿题]He can't have ___ the door;it was locked.\n解析：几乎肯定没开，填 opened。",
+      "keywords": ["can't have done", "否定推测", "过去", "不可能", "情态动词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U2_004",
+      "name": "could加完成时的用法",
+      "definition": "could have done 表过去本可以却未做或委婉推测。",
+      "explanation": "could have done 用法较多，最常见的是表示过去本来可以做到却没有做，带有遗憾或惋惜的语气。比如 You could have passed，本可以通过却没通过。它也用于对过去可能性较低的推测。你表达对过去机会错过的遗憾时用这个结构，语气委婉又自然。",
+      "difficulty": 4,
+      "frequency": 2,
+      "typical_errors": [
+        "把 could have done 误解为中性的过去能力",
+        "本可做到却未做时误用 must have done 的把握",
+        "could have done 后接动词原形漏掉 have"
+      ],
+      "example": "[仿题]You could have ___ the chance then.\n解析：本可抓住机会，填 seized。",
+      "keywords": ["could have done", "本可以", "遗憾", "过去", "推测"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U2_005",
+      "name": "may与might加完成时",
+      "definition": "may have done 表可能，might 表示把握更低。",
+      "explanation": "may have done 和 might have done 都表示对过去某事可能有发生的推测，把握都不太高，might 更低。比如 He may have forgotten it 他可能忘了，改为 might 把握更小。你表达过去情况不确定、只是猜测时用它们。根据你主观把握的大小，决定选 may 还是 might。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把握越低时还使用 may have done 而非 might",
+        "推测过去时漏掉 have 的完成形式",
+        "may 与 might 的把握程度使用颠倒"
+      ],
+      "example": "[仿题]She might have ___ the point just now.\n解析：只是猜测可能错过，填 missed。",
+      "keywords": ["may have done", "might", "可能", "过去推测", "把握"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U2_006",
+      "name": "should加完成时的用法",
+      "definition": "should have done 表本应做却未做的责备或遗憾。",
+      "explanation": "should have done 表示过去本应做某事却没有做，带有后悔或责备的意味。比如 You should have told me，你本应该告诉我却没说。它的否定式 shouldn't have done 表本不该做却做了。你表达对过去没能尽到责任或失误的遗憾时，用这个结构，语气明确地指出了问题所在。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "本应做却未做时误用 can't have done",
+        "忘加 have 而写成 should do 表过去",
+        "否定式与肯定式的语义方向颠倒"
+      ],
+      "example": "[仿题]You should have ___ earlier.\n解析：本应更早完成，填 finished。",
+      "keywords": ["should have done", "本应", "遗憾", "责备", "过去"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U2_007",
+      "name": "不必做的完成时表达",
+      "definition": "needn't have done 表过去本不必做却做了。",
+      "explanation": "needn't have done 表示过去本来不必做某件事，但事实上却做了，语意里带有后悔或觉得多余。比如 We needn't have brought so much food，本不必带这么多食物却带了。它与 didn't need to 容易混淆，后者有时表示不必做而且确实没做。你根据是否真的做了来判断该用哪个。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "needn't have done 与 didn't need to 混用",
+        "本不必做却做了时误用 didn't need to 的语意",
+        "needn't have done 后漏掉过去分词形式"
+      ],
+      "example": "[仿题]You needn't have ___ so early.\n解析：本不必早到却早到，填 arrived。",
+      "keywords": ["needn't have done", "本不必", "后悔", "过去", "情态动词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U2_008",
+      "name": "人生哲理主题词汇",
+      "definition": "涵盖人生感悟与处世智慧的主题词汇。",
+      "explanation": "本单元人生哲理词汇，你按感悟与态度两组记。感悟类有 lesson 教训、reflection 反思、experience 经验，态度类有 cherish 珍惜、regret 后悔、mature 成熟。读谈成长与领悟的文章时先抓这些关键词，再体会作者想传递的道理，理解就更深刻。分组记忆帮助沉淀。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 reflection 当作规则变化误加复数导致混乱",
+        "cherish 后漏掉宾语造成搭配残缺",
+        "regret doing 与 regret to do 语义混淆",
+        "mature 与 muture 拼写错误"
+      ],
+      "example": "[仿题]I regret ___ so much time.\n解析：后悔过去已做，填 wasting。",
+      "keywords": ["lesson", "reflection", "cherish", "regret", "人生"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U2_009",
+      "name": "regret的动名词与不定式",
+      "definition": "regret doing 表后悔已做，regret to do 表遗憾要做。",
+      "explanation": "regret 后接两种补语，语义不同。regret doing 表示后悔曾经做过的某事，比如 I regret saying that。regret to do 表示遗憾地要做某件还未做的事，常与 to say、to tell 连用。你判断动作是否已发生，已发生用动名词，未发生又是对即将要说的事表遗憾，就用不定式。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "后悔已做却误用 regret to do",
+        "regret doing 中动名词形式写错",
+        "把 regret it 与 regret... 结构混淆"
+      ],
+      "example": "[仿题]I regret to ___ you the bad news.\n解析：遗憾地告知未发生，填 tell。",
+      "keywords": ["regret", "动名词", "不定式", "后悔", "遗憾"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U2_010",
+      "name": "现实与真相的词义",
+      "definition": "reality 指客观现实，truth 指真实真相。",
+      "explanation": "reality 和 truth 都与真实有关，但侧重不同。reality 强调客观存在的现实，比如 face the reality 面对现实。truth 强调与事实相符的真相、真理，比如 tell the truth 说实话。你写作时描述客观处境用 reality，强调事实事实本身用 truth。根据语境选词就更准确。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "面对现实误用 truth 替代 reality",
+        "把 truth 与 fact 完全混用不加区分",
+        "reality 与 realistic 的词性混用"
+      ],
+      "example": "[仿题]You should face the ___ bravely.\n解析：面对客观现实，填 reality。",
+      "keywords": ["reality", "truth", "现实", "真相", "词义"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U2_011",
+      "name": "情态动词推测的语意层次",
+      "definition": "情态动词加 have done 各表不同把握的推测。",
+      "explanation": "对过去进行推测时，不同情态动词加 have done 表达的把握程度不同。must 最强，几乎必定；can't 几乎必然否定；may might 较弱；could 则留有遗憾或更多变数。你做题时先判断把握大小和正反方向，再选对应情态动词。把把握从强到弱排好序，选择就有依据了。",
+      "difficulty": 4,
+      "frequency": 2,
+      "typical_errors": [
+        "把握程度与情态动词不匹配误选",
+        "肯定与否定推测的方向弄反",
+        "把过去推测混为现在推测用时态错误"
+      ],
+      "example": "[仿题]He ___ have won, but he was careless.\n解析：本可能赢却失误，填 could。",
+      "keywords": ["情态动词", "推测", "把握", "have done", "层次"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U2_012",
+      "name": "人生感悟作文的结构",
+      "definition": "按经历、感悟、启示组织人生话题文章。",
+      "explanation": "写人生感悟类作文，你可用经历、领悟、启示三步。开头叙述一段具体的人生经历或事件，中间分析从中得到的教训与感悟，结尾升华到普遍的人生启示并表达积极态度。用 whenever、as a result、in summary 等过渡。这样从具体到抽象，主题自然深刻。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "经历描述过长冲淡了感悟重点",
+        "感悟与经历之间缺乏关联分析",
+        "结尾空喊口号没有落到具体启示",
+        "过渡词使用不当破坏叙事流畅"
+      ],
+      "example": "[仿题]From this experience, I learned the value of ___.\n解析：从经历得出价值，填 patience。",
+      "keywords": ["作文结构", "经历", "感悟", "启示", "人生"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第三册 Unit 5 What an Adventure!",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B3_U5_001",
+      "name": "过去分词作时间状语",
+      "definition": "用过去分词短语表示动作发生时间，句首常伴when once等词的用法。",
+      "explanation": "过去分词作时间状语，相当于时间状语从句的省略形式，比如Seen from the hill 相当于 When it is seen from the hill。作状语时它表示被动或已完成，主语就是句子的主干主语。你判断时先确认动作是被动的，再看它和主句动作的时间先后，就能准确选用过去分词来表达时间。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "把过去分词主动义的词误用，Time was等结构混乱",
+        "作时间状语时忘了省略状语从句主语与be",
+        "把过去分词短语与其他非谓语形式混用分不清"
+      ],
+      "example": "[仿题]___ by his words, she left.\n解析：被动伴随离开，填Deeply moved。",
+      "keywords": ["过去分词", "时间状语", "被动", "从句省略"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U5_002",
+      "name": "过去分词作原因状语",
+      "definition": "用过去分词短语说明主句动作发生原因，对应because引导从句的用法。",
+      "explanation": "过去分词作原因状语往往相当于because或since引导的原因从句，如Worried about the storm, they stayed home。这类结构突出被动与已完成的背景原因。做题时先找主句主语与分词动词的主被动关系，作原因时分词逻辑主语就是句子主语。理解被动和原因两层含义就能灵活应用。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "把因为用because再引自分词，结构重复混淆",
+        "分词逻辑主语与主句主语不一致，悬空修饰错误",
+        "把原因状语被动写成主动，语义颠倒"
+      ],
+      "example": "[仿题]___ with cold, he shook.\n解析：因寒冷而发抖，填Shaken。",
+      "keywords": ["过去分词", "原因状语", "被动", "because"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U5_003",
+      "name": "过去分词作条件状语",
+      "definition": "用过去分词短语表示条件，相当于if引导的条件状语从句省略句。",
+      "explanation": "过去分词作条件状语相当于if从句的省略，比如Given more time 相当于 If I am given more time。这里given是过去分词，表示被给予，句子的默认主语就是主句的主语。你判断时看这个分词动作是否被动、是否表达假设条件，配合条件意义翻译，就能准确还原省略的条件句。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "把given当介词漏讲条件，忽略被动含义",
+        "条件状语的主语与主句主语不一致导致歧义",
+        "把过去分词条件与现在分词条件混淆"
+      ],
+      "example": "[仿题]___ more time, I'd finish.\n解析：如果被给予填Given。",
+      "keywords": ["过去分词", "条件状语", "if从句", "被动"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U5_004",
+      "name": "过去分词作让步状语",
+      "definition": "用过去分词短语表示尽管的情况，对应though引导让步从句的省略。",
+      "explanation": "过去分词作让步状语，相当于although或though引导的让步从句省略形式，如Exhausted, he kept climbing 相当于 Though he was exhausted。分词表示被动与已完成，逻辑主语仍为主句主语。翻译时读出虽然后的转折，就能判断它到底是让步还是别的状语功能。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "让步与原因状语混而不分，转折译不出来",
+        "逻辑主语悬空，分词修饰对象不明",
+        "把though与过去分词结构重复叠加，句子冗余"
+      ],
+      "example": "[仿题]___ tired, he went on.\n解析：虽疲惫仍继续，填Exhausted。",
+      "keywords": ["过去分词", "让步状语", "被动", "though"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U5_005",
+      "name": "过去分词与主语逻辑关系",
+      "definition": "判断过去分词动作的承受者与主句主语是否对应一致的语法原则。",
+      "explanation": "过去分词作状语时，分词的逻辑主语必须和主句的主语一致，且分词多表示被动或已经完成。如果逻辑主语不一致，就成了悬空分词，是语法病句。做题时你先圈出主句主语，再判断分词动作是被它承受还是它主动发出的。只有被动加主谓一致两条同时满足，句子才成立。",
+      "difficulty": 5,
+      "frequency": 4,
+      "typical_errors": [
+        "分词逻辑主语与主句主语不一致，造成悬空修饰",
+        "分词主动被动不分，把主动动作写成过去分词",
+        "未审主句主语直接填，导致主语承接出错"
+      ],
+      "example": "[仿题]___ by the tree, the dog sat.\n解析：狗被绑于树填Tied。",
+      "keywords": ["逻辑主语", "被动", "悬空分词", "一致性"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U5_006",
+      "name": "过去分词独立成分用法",
+      "definition": "一般说来从句、已固定语块等过去分词作独立解释性成分的惯用法。",
+      "explanation": "有些过去分词短语已成为固定独立成分，不能机械套主语规则，如generally speaking、compared with、given that等。你记这类时先当成整体搭配记牢，尤其compared with表比较、given that表考虑到。做题时若遇到这些固定语块形的分词，优先按固定含义处理而不是死抠被动。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把compared with误写完成compare with主动形式",
+        "套用主语规则时把独立成分逻辑弄反",
+        "given that与considering混用动词形式"
+      ],
+      "example": "[仿题]___ with last year, it's better.\n解析：与去年相比填Compared。",
+      "keywords": ["过去分词", "固定语块", "compared with", "独立成分"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U5_007",
+      "name": "冒险旅途主题词汇",
+      "definition": "描述户外探险、登山、远足等冒险活动的核心名词与动词。",
+      "explanation": "冒险话题离不开excitement刺激、adventure冒险、expedition远征、climb攀登、hike远足、explore探索、danger危险、bravery勇敢这些词。读冒险游记时通过climb、explore这类动作词追踪人物行迹。写作用上an unforgettable journey等表达，让冒险故事既有动作又有人物心理，读起来更生动。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把expedition误拼成expedffition少字母",
+        "冒险与探险词义混淆，adventure和venture乱用",
+        "把bravery这种名词当形容词放在be后"
+      ],
+      "example": "[仿题]Their ___ across the desert began.\n解析：横穿沙漠远征填expedition。",
+      "keywords": ["冒险", "远征", "攀登", "探索", "勇敢"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U5_008",
+      "name": "挑战与克服困难词汇",
+      "definition": "表达面对挑战、克服障碍与坚定意志的重要动词和名词。",
+      "explanation": "讲述冒险经历的困难时你用overcome克服、challenge挑战、perseverance毅力、determination决心、desperate绝望、obstacles障碍这些词。先从要不要放弃的困惑写起，再写如何鼓起勇气坚持坚持到底。使用determination后接介词to do的形式，能清晰表达坚决做某事的决心。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把determination误写成determined，词性混淆",
+        "overcome过去式写成overcomed，未熟记变化",
+        "obstacles单复数理解不当，误丢复数后缀"
+      ],
+      "example": "[仿题]She overcame many ___.\n解析：克服障碍用复数填obstacles。",
+      "keywords": ["挑战", "克服", "决心", "毅力", "障碍"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U5_009",
+      "name": "旅途见闻与记叙衔接",
+      "definition": "用时间与地点过渡词串起冒险经历的顺序和场景转换的句型。",
+      "explanation": "写冒险记叙文时你用at first、then、later、after that、finally等连接先后事件，用there、here、near the river等交代地点。先按经过顺序排好事件，再选择恰当的时间与地点词衔接，读者才能跟上你的旅程。一段一重点，理顺次序，冒险故事才清晰耐看。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "atfirst与first混淆，忽略了表示起初的语义",
+        "过渡词堆砌跳跃，时间逻辑混乱不清",
+        "finally与finally后面的过去时态搭配错乱"
+      ],
+      "example": "[仿题]___ we reached the top.\n解析：最终到达用过去时填Finally。",
+      "keywords": ["时间顺序", "连词", "空间转换", "记叙", "过渡"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U5_010",
+      "name": "惊讶赞叹情感表达",
+      "definition": "表达冒险中惊喜、惊叹、震撼等强烈情感的感叹与词汇手段。",
+      "explanation": "冒险途中常有惊叹，你可用What a view、How amazing这类感叹句，也可用amazed惊讶的、astonished震惊的、incredible难以置信的形容词。先描述眼前场面，再用感叹句和态度形容词表达你的震撼。写感叹句注意What加名词与How加形容词的结构区别，感叹才准确有力。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "感叹句What和How的位置颠倒，结构套错",
+        "What a view误用How来强调名词中心",
+        "amazed作谓语而误当成主动语态"
+      ],
+      "example": "[仿题]___ amazing the view is!\n解析：强调形容词用How。",
+      "keywords": ["感叹句", "惊讶", "amazed", "惊叹", "现场感"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U5_011",
+      "name": "冒险教育意义表达",
+      "definition": "用it is加形容词加不定式说明从冒险中获得的经验教育意义的句式。",
+      "explanation": "总结冒险的收获时，常用It is + 形容词 + for/to + 不定式的句式，如It is important to be brave。你用它说明冒险让人学会勇敢、坚持、团队合作。先说冒险经历，再用此句型提炼教育意义，经历与感悟结合，文章就更有深度和说服力。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "It is形容词to do缺少to，结构残缺",
+        "漏掉for sb限定对象，泛指含糊",
+        "把to do写成doing形式，不定式搭配失误"
+      ],
+      "example": "[仿题]It is great ___ together.\n解析：一起很棒的用to work。",
+      "keywords": ["形式主语", "不定式", "教育意义", "句式"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B3_U5_012",
+      "name": "户外装备与安全词汇",
+      "definition": "描述登山骑行等所需装备器材及安全防护的常用名词。",
+      "explanation": "户外活动要讲装备与安全，你会用到helmet头盔、map地图、compass指南针、torch手电、rope绳索、emergency紧急情况、firstaid急救这些词。先认识各类装备名字，再学习how to use与safety tips的搭配。介绍装备时用be equipped with携带设备，表达更正式准确。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把compass误拼成compass少写一个s",
+        "firstaid漏掉连字符，不符合固定写法",
+        "把helmet当成动词用，词性理解错误"
+      ],
+      "example": "[仿题]Wear a ___ for safety.\n解析：戴头盔填helmet。",
+      "keywords": ["装备", "头盔", "指南针", "急救", "安全"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第三册 Unit 2 A Life's Work",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B6_U2_001",
+      "name": "现在分词作状语",
+      "definition": "现在分词表主动进行，作伴随原因等状语。",
+      "explanation": "现在分词作状语是让句子更简洁的重要手段。它作伴随、原因、时间状语时，状语与主句需共用同一逻辑主语。比如 Hearing the news，he jumped with joy，hearing 就是现在分词作时间状语。你写作想简化复合句时，可以把从句改写成分词短语，前提是主从句主语相同。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "分词部分与主句主语不一致，逻辑主语错位",
+        "把主动关系写成过去分词，被动才能用过去分词",
+        "分词前误加连词 that，滥用从句结构"
+      ],
+      "example": "[仿题]___ along the street, she met an old friend.\n解析：主动伴随，填 Walking。",
+      "keywords": ["现在分词", "状语", "伴随动作", "时间状语", "主动"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U2_002",
+      "name": "过去分词作状语",
+      "definition": "过去分词表被动完成，作伴随原因等状语。",
+      "explanation": "过去分词作状语表示被动的动作，主语与分词之间是承受关系。比如 Seen from above，the city looks different，city 是被看到的，所以用过去分词。你判断用哪个分词，就看主句主语与动作之间是主动还是被动，主动用现在分词，被动用过去分词，方向对了就稳了。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "主动关系却用过去分词，逻辑被动化错误",
+        "分词作状语时忽略了与主句主语的一致性",
+        "把过去分词误与助动词连用，造成时态混乱"
+      ],
+      "example": "[仿题]___ from the hill, the lake looks beautiful.\n解析：湖泊被看，用过去分词，填 Seen。",
+      "keywords": ["过去分词", "状语", "被动", "逻辑主语", "完成"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U2_003",
+      "name": "分词短语作定语",
+      "definition": "分词短语在名词后作定语修饰。",
+      "explanation": "分词短语可以放在名词后代替定语从句。现在分词表主动进行，比如 the man standing there；过去分词表被动完成，比如 the book written by him。你写英语时，想简练就删去关系代词和 be，直接用分词。判断标准仍是主语与动作的主动被动关系，表主动用现在分词，被动用过去分词。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把被动语义写成现在分词，误把原形动词加 ing",
+        "分词定语与中心词的主动被动关系判断错误",
+        "分词短语放错位置，前后指代不清"
+      ],
+      "example": "[仿题]The bridge ___ last year is still strong.\n解析：桥是被建造，用过去分词，填 built。",
+      "keywords": ["分词", "定语", "现在分词", "过去分词", "修饰"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U2_004",
+      "name": "独立主格结构",
+      "definition": "主语加分词等构成独立成分作状语。",
+      "explanation": "当分词的逻辑主语和主句主语不同时，就要用独立主格结构。它由自己的主语加分词、不定式或介词短语构成，比如 The work done，he left。你写这种结构时，先判断分词的逻辑主语是不是主句主语，如果不是，就把那个自己的主语补上，结构才完整。独立主格是高考写作加分点，值得掌握。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "分词逻辑主语不同却省略了自己的主语",
+        "把独立主格误写成完整从句而非无连词结构",
+        "独立主格的前后主语关系混乱指代不明"
+      ],
+      "example": "[仿题]Time ___, we'll finish the task today.\n解析：独立主格，时间允许，填 permitting。",
+      "keywords": ["独立主格", "逻辑主语", "分词", "状语", "复杂结构"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U2_005",
+      "name": "with复合结构",
+      "definition": "with 加宾语加补语构成复合结构。",
+      "explanation": "with 复合结构由 with 加宾语再加补语构成，补语可以是分词、形容词、介词短语等。它常作状语表达伴随状态，比如 He slept with the window open。你写描写场景的句子时，用 with 结构能一次交代多项背景信息。判断补语形式，看宾语与补语的关系是主动还是被动来决定分词形态。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "with 复合结构中重复加了谓语动词使结构残缺",
+        "with 后的宾语与补语关系判断错导致分词用反",
+        "把 with 复合结构与独立主格结构混为一谈"
+      ],
+      "example": "[仿题]He ran fast with his heart ___ fast.\n解析：心脏主动跳动，用现在分词，填 beating。",
+      "keywords": ["with复合结构", "宾语", "补语", "分词", "伴随"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U2_006",
+      "name": "现在与过去分词区别",
+      "definition": "现在分词表主动进行，过去分词表被动完成。",
+      "explanation": "这是分词的核心区别，你要抓主动被动这条主线。现在分词多表主动或进行，过去分词多表被动或完成。比如 the moving film 是令人感动的电影，the moved audience 是被感动的观众。你根据逻辑主语与动词的关系判断，是发出动作用现在分词，是承受动作用过去分词，选择就准确。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把令人感动写成过去分词，语义搞反",
+        "只看形式不看逻辑关系，选错分词",
+        "动态与静态语境下分词的语态误判"
+      ],
+      "example": "[仿题]The ___ story moved everyone.\n解析：故事令人感动，用现在分词，填 touching。",
+      "keywords": ["现在分词", "过去分词", "主动", "被动", "语态"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U2_007",
+      "name": "分词作宾语补足语",
+      "definition": "分词在感官使役动词后接宾语作补语。",
+      "explanation": "感官动词和使役动词后面可以接宾语加现在分词或过去分词作补语。感官动词如 see、hear、watch 后表主动进行用现在分词，表完成被动用过去分词。比如 I saw him running，I saw the window broken。还有使役动词 keep、have 等同样规律。判断补语看宾语与动作的主被动关系，再选分词形式。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "感官动词后误用动词原形而漏掉分词",
+        "宾语与补语间用被动却选现在分词",
+        "把 see 后省略 to 与分词结构混淆"
+      ],
+      "example": "[仿题]I saw the students ___ basketball.\n解析：主动进行用现在分词，填 playing。",
+      "keywords": ["分词", "宾语补足语", "感官动词", "使役动词", "补语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U2_008",
+      "name": "匠心职业主题词汇",
+      "definition": "涵盖工匠技艺与职业敬业的主题词汇。",
+      "explanation": "本单元谈匠心与职业，这些词汇你要成套掌握。先记 craft 手艺、artisan 工匠、occupation 职业这类名词，再补充 devote 投入、master 掌握等动词，最后记住 n 形容词 dedicated 敬业的心。读工匠人物传记或职业介绍时，先抓这些关键词，再把握人物的敬业精神，文章脉络就清晰了。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把 craft 与 crafts 的用法混用忽视单复数搭配",
+        "把 artisan 与 artist 混淆，分不清工匠与艺术家",
+        "occupation 与 profession 混用忽视语境差异",
+        "把 dedicated 与 devoted 视为完全等价互换"
+      ],
+      "example": "[仿题]The ___ spent years mastering his skill.\n解析：指手艺人，填 artisan。",
+      "keywords": ["craft", "artisan", "occupation", "devote", "敬业"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U2_009",
+      "name": "分词状语的逻辑主语",
+      "definition": "分词状语逻辑主语须与主句主语一致。",
+      "explanation": "使用分词作状语时，分词的逻辑主语必须与主句主语一致，否则就是悬垂分词。比如 Walking home，I saw a dog，逻辑主语都是 I，正确。如果两者不一致，就得改成独立主格或从句。你写完分词状语后，先问一问动作的发出者是不是主句主语，是就通顺，否就需改写。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "分词逻辑主语与主句主语不一致仍硬用分词",
+        "悬垂分词中无法判断动作的发出者是谁",
+        "逻辑主语不同时没改用独立主格或者从句"
+      ],
+      "example": "[仿题]___ the room, we found the table broken.\n解析：动作发出者是 we，逻辑主语一致，填 Entering。",
+      "keywords": ["逻辑主语", "分词状语", "悬垂分词", "主句主语", "一致"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U2_010",
+      "name": "分词与从句的结构转换",
+      "definition": "分词短语可与从句相互转化以简练表达。",
+      "explanation": "同一个意思，既可用定语或状语从句，也可用分词短语更简练地表达。既然 the man who is standing there 可以简为 the man standing there。你把从句变分词时，通常删去关系代词和 be 动词，再按主被动关系拆分词。写作想丰富句式，就练习在本句与分词短语间来回转换，表达会更灵活。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "转换时把 be 动词和分词一起保留造成重复",
+        "从句变分词时没有先判断主被动关系",
+        "转换后句意发生改变，破坏原意"
+      ],
+      "example": "[仿题]改写：The boy who is crying is my son.\n解析：去掉 who is，保留现在分词，写成 the boy crying。",
+      "keywords": ["从句转换", "分词短语", "简练表达", "关系代词", "改写"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U2_011",
+      "name": "职业生涯主题词汇",
+      "definition": "涵盖职业选择与敬业精神的核心词汇。",
+      "explanation": "描述职业生涯的词汇，你可以按职业发展顺序记忆。起步相关有 career 生涯、ambition 志向，前行相关有 progress 进步、achieve 实现，结果相关有 accomplishment 成就。比如 a life devoted to his career 表示献身事业的一生。谈职业规划或人物成就时，把这些词串进句子，表达既专业又有层次。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 career 与 occupation 视为完全同义互换",
+        "devote...to 中 to 后误接动词原形",
+        "accomplishment 与 achievement 混用不加区分",
+        "把 ambition 与 ability 混淆拼写错误"
+      ],
+      "example": "[仿题]He has devoted his whole life ___ his career.\n解析：devote...to 中 to 为介词，填 to。",
+      "keywords": ["career", "ambition", "devote", "accomplishment", "职业"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U2_012",
+      "name": "工匠精神议论文的写法",
+      "definition": "围绕敬业钻研组织议论文的立论与例证。",
+      "explanation": "写工匠精神话题，你先要立一个明确观点，比如专注源于热爱。接着用论据支撑：先举一个匠人专注的例证，再分析专注带来的价值，最后联系现实谈启示。过渡词用 first、moreover、therefore 串联。你关注每个段落紧紧围绕一个分论点，事例与说理结合，文章就有说服力。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "观点空泛没有落到具体品质上",
+        "事例与分论点脱节，论证不呼应",
+        "段落堆砌多个分论点，逻辑层次不清",
+        "结尾未回扣观点而另起无关话题"
+      ],
+      "example": "[仿题]First, we should appreciate the ___ of craftsmen.\n解析：引出敬业的品质，填 dedication。",
+      "keywords": ["议论文", "立论", "例证", "敬业", "工匠精神"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

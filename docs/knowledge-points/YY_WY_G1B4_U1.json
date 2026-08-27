@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第一册 Unit 1 Laugh Out Loud!",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B4_U1_001",
+      "name": "recommend从句虚拟语气",
+      "definition": "recommend等愿望动词的宾语从句需用should加动词原形的虚拟形式。",
+      "explanation": "你遇到recommend、suggest、insist、propose这类表示建议要求的动词时，它们后面的宾语从句要用虚拟语气，即从句谓语用should加动词原形，且should常可省略。比如He recommended (that) you (should) go。判断依据是主句动词的语义，是否表建议、要求或坚持。掌握后主语与动词原形就搭对了。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "宾语从句真实时态选用was，而不用动词原形",
+        "should误加第三人称s，写错动词形式",
+        "分不清哪些动词要接虚拟语气而误用直陈式"
+      ],
+      "example": "[仿题]He suggested that she ___ early.\n解析：suggest接虚拟填(should) leave。",
+      "keywords": ["recommend", "suggest", "虚拟语气", "should", "宾语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U1_002",
+      "name": "虚拟语气在主语从句",
+      "definition": "It is加表示建议愿望的形容词引导的主语从句需用should加原形。",
+      "explanation": "当句式为It is + important / necessary / natural等表达建议或必要性的形容词加that从句时，从句也要用虚拟语气，谓语用should加动词原形。比如It is necessary that you (should) prepare。你判断这类句型时看前面的形容词是否传达要求或愿望，是的话就套should加原形，弄清主语与形式主语即可正确书写。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "It is necessary从句误用真实时态作谓语",
+        "分不清形容词是否涉及建议而漏用虚拟",
+        "should后动词误加时态变化"
+      ],
+      "example": "[仿题]It is vital that he ___ calm.\n解析：It is形容虚拟填stay。",
+      "keywords": ["虚拟语气", "主语从句", "should", "It is", "形容词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U1_003",
+      "name": "If only引导的虚拟感叹",
+      "definition": "用If only加虚拟语气表达对现在事实的遗憾愿望的用法。",
+      "explanation": "你看到If only开头的句子时，它表达但愿、要是多好的强烈愿望，后面必须用虚拟语气。对现在的愿望用一般过去时，对过去的事实用过去完成时，如If only I were taller。if only与I wish表达类似，都表示难以实现的愿望。注意were用法，主语再配合虚拟时态选择就是重点。",
+      "difficulty": 5,
+      "frequency": 4,
+      "typical_errors": [
+        "If only后的谓语误用真实一般现在时",
+        "对过去愿望误用一般过去而不是过去完成时",
+        "把were误写成was，虚拟语气be变形出错"
+      ],
+      "example": "[仿题]If only I ___ taller now.\n解析：现在愿望用虚拟填were。",
+      "keywords": ["If only", "虚拟语气", "wish", "愿望", "叹息"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U1_004",
+      "name": "现在wish虚拟语气结构",
+      "definition": "用wish加一般过去时表达对现在事实不切实际的愿望的句式。",
+      "explanation": "wish表示不大可能实现的愿望，其宾语从句用虚拟语气。对现在的愿望，从句谓语用一般过去时，如I wish I knew the answer（我但愿知道答案）。若愿望与现在相反，还会用到were等be变体。你判定时抓两个要点：一是wish引发的愿望，二是时间指向现在，据此选一般过去时。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "wish从句误用一般现在时，未用过去式",
+        "把wish的愿望谓语写成过去进行时",
+        "对现在愿望输用Are变体把控不熟"
+      ],
+      "example": "[仿题]I wish I ___ taller.\n解析：现在愿望填were。",
+      "keywords": ["wish", "虚拟语气", "一般过去时", "现在愿望"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U1_005",
+      "name": "对过去事实的wish表达",
+      "definition": "用wish加过去完成时表达对已经发生的过去事实的后悔与遗憾。",
+      "explanation": "当你后悔过去已经发生的事时，用wish加过去完成时had done，如I wish I had studied harder（我但愿当时更努力）。这与对现在的愿望不同，现在是动词过去式，过去则须用过去完成时。你判断时间指向过去，就用had加过去分词，将遗憾说得准确而真挚。",
+      "difficulty": 5,
+      "frequency": 3,
+      "typical_errors": [
+        "对过去事实用一般过去时而不是had done",
+        "把had done写成had been doing时态多余",
+        "时间指向弄反，过去愿望误写成现在形式"
+      ],
+      "example": "[仿题]I wish I ___ it then.\n解析：过去遗憾填had said。",
+      "keywords": ["wish", "过去完成时", "遗憾", "后悔", "虚拟语气"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U1_006",
+      "name": "as if引导虚拟语气",
+      "definition": "用as if加虚拟时态表达非真实仿佛状态的比喻性句子。",
+      "explanation": "当as if或as though表示仿佛、好像这种不真实的比喻时，从句用虚拟语气。对现在的假设用一般过去时，对过去的假设用过去完成时，如He talks as if he knew everything。你判断是否真实：若明显不符事实，就用虚拟；若与实际一致，也可用真实时态。主句现在时配as if虚拟最常见。",
+      "difficulty": 5,
+      "frequency": 3,
+      "typical_errors": [
+        "as if后面一直用真实时态而不区分虚拟",
+        "对过去假设误用一般过去时而非过去完成时",
+        "把as if主语从句主语配错导致人称错位"
+      ],
+      "example": "[仿题]He acts as if he ___ rich.\n解析：仿佛但非事实填were。",
+      "keywords": ["as if", "虚拟语气", "比喻", "仿佛", "过去时"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U1_007",
+      "name": "幽默滑稽表达词汇",
+      "definition": "描述笑点、滑稽、逗趣与使人发笑情形的核心名词和形容词。",
+      "explanation": "谈论幽默你用到joke笑话、funny滑稽的、amuse逗笑、hilarious令人捧腹的、laughter笑声、humor幽默这些词。讲述好笑细节先用funny或hilarious点出效果，再用动词描述逗笑他人的过程。读幽默短文时抓住joke和laugh追踪笑点所在，就能准确理解作者的用意。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把hilarious误当普通好义词使用于平淡语境",
+        "laughter与laugh混淆词性，名词动词不分",
+        "把funny误写成funsy等臆造拼写"
+      ],
+      "example": "[仿题]Her joke made us ___.\n解析：逗笑使大笑填laugh。",
+      "keywords": ["幽默", "滑稽", "逗笑", "笑声", "笑话"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U1_008",
+      "name": "make接原形的使役用法",
+      "definition": "用make加宾语加动词原形表达逗得某人做某事的使役结构。",
+      "explanation": "表达使某人发出某动作时用make sb do，do为动词原形不带to，如Her story made me laugh。使役动词还包含have和let，都接原形。被动时make sb do要变成be made to do还原to。你按主动省to、被动还to的口诀记忆，使役结构就不会用错。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "主动make sb do误加to，写成made me to laugh",
+        "被动句中忘记还原to，写成made to laugh丢to",
+        "把make使役与get sb to do混淆"
+      ],
+      "example": "[仿题]It made me ___ out loud.\n解析：使役接原形填laugh。",
+      "keywords": ["make sb do", "使役动词", "原形", "被动还原"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U1_009",
+      "name": "娱乐表演类词汇",
+      "definition": "表达综艺、脱口秀、喜剧与表演场景相关的基础名词与动词。",
+      "explanation": "娱乐话题常涉及stand-up comedy脱口秀、show演出、actor演员、performance表演、audience观众、entertainment娱乐、impress打动这些词。介绍一场表演时先用show点出活动，再写actor与audience的互动。把握entertain与entertainment的词性变化，写作时能更灵活地描述娱乐体验。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "audience单复数一致性判断出错",
+        "把entertain动词与名词entertainment搞混",
+        "performance与audience层次理解欠缺"
+      ],
+      "example": "[仿题]The ___ laughed loudly.\n解析：观众大笑填audience。",
+      "keywords": ["表演", "演员", "观众", "脱口秀", "娱乐"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U1_010",
+      "name": "表达笑点的转折句式",
+      "definition": "先用铺垫再用转折揭示笑点，讲笑话时常用的连接与表达方式。",
+      "explanation": "讲笑话讲究铺垫与转折。你先用平实的话描述寻常情境，再用but、then、suddenly引出出乎意料的结果，让听众在反差中发笑。句式上可用funny thing is、to my surprise引出转折。不断调整笑点的铺垫长度，听者才觉得自然且好笑。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "铺垫与笑点转折连接生硬，没有对比反差",
+        "to my surprise后时态使用混乱",
+        "把funny thing is错用在非笑话语境"
+      ],
+      "example": "[仿题]He looked serious, ___ he joked.\n解析：表转折填but。",
+      "keywords": ["转折", "铺垫", "笑点", "对比", "反差"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U1_011",
+      "name": "情感反应强调表达",
+      "definition": "用so加形容词等结构表达好笑、无奈等强烈情感的强调句式。",
+      "explanation": "表达被逗乐或无语的强烈情绪时，用so加形容词、too加形容词加to do、such加名词短语等强调结构。比如It's so funny that I just laugh。你根据修饰的是名词还是形容词选such还是so，再用从句说明结果，情绪表达既强烈又自然。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把so接形容词错接名词，such so混用",
+        "so funny that句型中that误写成逗号",
+        "too与enough程度表达不分"
+      ],
+      "example": "[仿题]It was ___ funny that we cried.\n解析：强调形容词填so。",
+      "keywords": ["so", "强调", "如此", "结果状语", "such"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U1_012",
+      "name": "幽默故事叙述要点",
+      "definition": "按时序展开、突出反差心理来叙述有趣经历的记叙状写方法。",
+      "explanation": "叙述一件趣事时，你按beginning、middle、ending设置顺序，先用时间连接词then、afterwards推进，再在提醒处放大笑点。心理上由正常到意外的落差最重要，可用first...but then...构成对比。控制好节奏与详略，让读者顺着你的安排自然发笑。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "叙事时序颠倒，笑点提前或滞后",
+        "主次不分，把无关细节详尽展开",
+        "反差铺垫不足导致笑点无力"
+      ],
+      "example": "[仿题]___ I felt nervous, then happy.\n解析：起始时间词填First/At first。",
+      "keywords": ["叙事", "时序", "反差", "记叙文", "铺垫"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第一册 Unit 6 At One with Nature",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B6_U6_001",
+      "name": "现在进行时表示将来安排",
+      "definition": "用现在进行时表达已安排好或将发生的计划的用法。",
+      "explanation": "你谈论已经计划好且不久会发生的安排时可用现在进行时。常见于 go、come、leave、arrive 等移动动词，比如 I am leaving for the mountains tomorrow 表示明天出发去山里，已经安排好。它比 will 更强调计划性。写日程或近期行动时用现在进行时比 will 更贴切。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "表示已安排好的事误用 will 而未用现在进行时表达计划",
+        "动作动词乱用成现在进行的延续态违背移动意图",
+        "现在进行表将来时仍保留 will 造成将来时双重表达"
+      ],
+      "example": "[仿题]我明天出发去山里。\n解析：I am leaving for the mountains tomorrow，moving 表已安排。",
+      "keywords": ["现在进行时", "将来安排", "leave", "计划"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_002",
+      "name": "现在完成时表示持续影响",
+      "definition": "用现在完成时表达过去动作对现在仍有影响的用法。",
+      "explanation": "你强调过去发生的事对现在仍有影响或持续到此刻时用现在完成时，结构为 have 或 has 加过去分词。比如 I have lived here for years 表示我在这里住了多年至今。它重在现在的结果，往往与 for、since 连用。写自然感悟时用它能连接过去与现在。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "与 since 连用却误用一般过去时脱离现在影响",
+        "第三人称单数主语误用 have done 而未用 has done",
+        "过去分词形式与过去式混用造成完成结构错误"
+      ],
+      "example": "[仿题]我在这里住了三年。\n解析：I have lived here for three years，用现在完成时表持续。",
+      "keywords": ["现在完成时", "have", "持续性", "过去分词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_003",
+      "name": "for 与 since 用法",
+      "definition": "for 表持续时长与 since 表起始点搭配现在完成的用法。",
+      "explanation": "你用现在完成时描述持续时间时，for 后接时间段，如 for two years；since 后接时间点或从句，如 since 2020、since I was a child。两者都常见于完成时。写长时段的环保或居住经历时用对 for 和 since，能准确表达时间跨度，避免与一般过去时间状语混淆。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "for 后误接时间点而应用时间段补语",
+        "since 从句后误用一般现在时拖带动词时态",
+        "把 for 与 since 的起点与时长两种含义颠倒"
+      ],
+      "example": "[仿题]我自2020年起住这里。\n解析：I have lived here since 2020，since 后接时间点。",
+      "keywords": ["for", "since", "现在完成时", "时间段"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_004",
+      "name": "现在完成时与过去时比较",
+      "definition": "现在完成时重在影响与一般过去时重在过去事件的对比。",
+      "explanation": "你写含过去事件的句子要分清两种时态：现在完成时强调动作对现在的影响或延续，一般过去时只叙述过去发生的且与现在无关的事件。比如 I have seen the river 强调我见过了，impact 巨大；I saw it yesterday 只说明昨天见过。看句子是否与现在有关来选时态。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "强调过去影响却误用一般过去时不体现现状态",
+        "只叙述过去动作却误用完成时造成时间陈述含混",
+        "两时态的时间状语选用不当让语义矛盾"
+      ],
+      "example": "[仿题]我已看过那条河。\n解析：I have seen the river，重在现在结果用完成时。",
+      "keywords": ["现在完成时", "一般过去时", "对比", "影响"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_005",
+      "name": "动词的现在分词变化规则",
+      "definition": "动词变现在分词时在词尾加ing及其各类变化规则。",
+      "explanation": "你用现在进行时或动名词时要会把动词变成现在分词。一般直接加 ing，以不发音 e 结尾的要去 e 加 ing，如 live 变 living；重读闭音节末尾要双写辅音加 ing，如 run 变 running。你写现在进行时常因拼写规则而失分，牢记这几条变化规律能有效避免错误。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "以 e 结尾的 live 误加成 liveing 而未去 e",
+        "重读闭音节动词 run 未双写 n 直接加 ing",
+        "一般动词误额外去字母或双写造成拼写偏差"
+      ],
+      "example": "[仿题]他正在跑步。\n解析：He is running，重读闭音节双写 n 再加 ing。",
+      "keywords": ["现在分词", "加ing", "双写", "去e"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_006",
+      "name": "过去分词的规则与不规则",
+      "definition": "动词构成过去分词时规则加ed与不规则变化的对应规则。",
+      "explanation": "你写现在完成时要用过去分词，规则动词一般加 ed，特殊性变化与过去式相关；不规则动词如 go 变 gone、see 变 seen 需靠记忆。写完成时句子时先确定动词属于规则还是不规则，规则按规律变化，不规则从清单检索。多积累 have done 结构，运用会更熟练。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "不规则动词 see 误按其过去式 seen 重复加 ed",
+        "规则过去分词直接套用不规则形式导致可错行",
+        "现在完成时漏写 have 单独保留过去分词短语"
+      ],
+      "example": "[仿题]他们已经离开了。\n解析：They have left，不规则 left 作过去分词。",
+      "keywords": ["过去分词", "规则变化", "不规则变化", "完成时"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_007",
+      "name": "与大自然的和谐词汇",
+      "definition": "描述人与自然和谐相处关系的核心英语词汇。",
+      "explanation": "你讨论人与自然的主题会用到 harmony 和谐、balance 平衡、nature 自然、sustainable 可持续的等词。比如 live in harmony with nature 表示与自然和谐相处，sustainable development 可持续发展。写生态保护作文时这些词是高激活点，用词准确能凸显你的主题意识。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "表达和谐误把 harmony 与 harmony 形容词形式混用",
+        "可持续 sustainable 误拼成 sufferable 一类的词",
+        "与自然和谐相处介词 with 误漏掉造成结构缺失"
+      ],
+      "example": "[仿题]我们应与自然和谐相处。\n解析：We should live in harmony with nature，用 in harmony。",
+      "keywords": ["harmony", "nature", "balance", "sustainable"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_008",
+      "name": "描述自然风光的地理词汇",
+      "definition": "描述山川河流等自然景观的核心地理英语词汇。",
+      "explanation": "你描写风景会用这些地理词：river 河流、mountain 山、valley 山谷、plateau 高原、plain 平原、desert 沙漠。可说 a winding river 蜿蜒的河流，Valley 山谷等。记忆时把地形词按海拔高低或类型分组记更清晰，写游记或描写自然景观时就能随手用来描绘。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "高原 plateau 与平原 plain 两个词形混淆",
+        "盆地或谷地 valley 误与 value 单词串记混",
+        "地形名词复数的用法与所修饰的数量搭配错乱"
+      ],
+      "example": "[仿题]山谷里有一条河。\n解析：There is a river in the valley，用 valley 表山谷。",
+      "keywords": ["river", "mountain", "valley", "plateau"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_009",
+      "name": "表示保护生态的固定短语",
+      "definition": "描述保护自然与环境行动常用的动词短语搭配。",
+      "explanation": "你表达环保行动时常用 protect the environment 保护环境、save resources 节约资源、reduce pollution 减少污染、plant trees 植树等短语。比如 plant trees 让你为环保出力这一说法很常用。写环保倡议书时用这些短语——列出措施，简洁而有力。注意 protect 与 against 搭配表具体防范。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "保护环境误把 protect the environment 的 the 省略掉",
+        "减少污染表达时误用 reduce 与 pollution 搭配错误",
+        "倡议中把动词短语句式误用成无主语表达"
+      ],
+      "example": "[仿题]我们应多种树。\n解析：We should plant more trees，plant trees 表植树。",
+      "keywords": ["protect", "reduce pollution", "plant trees", "资源"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_010",
+      "name": "there be 与完成时组合",
+      "definition": "there be 结构在现在完成时中的have been构成用法。",
+      "explanation": "你想表达曾经存在或有过哪些东西用 there has been 或 there have been 的形式，表示持续至今的存在。比如 there has been much rain 表示雨下了很多一直到现在。此时动词用过去分词 been，there be 句型的 be 随就近名词单复数选择 has 或 have。写现状描述时用这一结构很自然。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "there 结构完成时误用 there has 而未用 there has been",
+        "就近名词单复数为复数却误用 has been 而非 have been",
+        "完成时的 been 被遗漏写成 there has much rain"
+      ],
+      "example": "[仿题]这里下过很多雨。\n解析：There has been much rain，用 there has been。",
+      "keywords": ["there be", "完成时", "has been", "存在"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_011",
+      "name": "主谓一致在现在进行时",
+      "definition": "现在进行时中 be 动词随主语人称和数变化的规则。",
+      "explanation": "你写现在进行时要把 be 动词与主语对应：I 后用 am，第三人称单数用 is，复数或用 you 用 are。比如 The bird is flying，birds are flying。be 动词必须与主语一致，例如主语单数配 is 复数配 are。写进行时句子时先确认主语人称与数，再选取正确 be 动词。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "复数主语 birds 误用 is 而未用 are 保持一致",
+        "I 做主语时误用 is 而未用 am 进行时搭配",
+        "第三人称单数主语误用 are 造成主谓不一致"
+      ],
+      "example": "[仿题]鸟正在飞。\n解析：The birds are flying，复数主语配 are。",
+      "keywords": ["be 动词", "现在进行时", "主谓一致", "fly"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U6_012",
+      "name": "感官连系动词的基础用法",
+      "definition": "look 等感官动词作连系动词接形容词补语的基础用法。",
+      "explanation": "你描写景色或感受时可用 look、sound、smell、taste 等感官动词作系动词，后接形容词而非副词。比如 The valley looks beautiful 表示山谷看起来很美。它们表示人的感官判断，后面不加副词直接加形容词。写自然描写时用这些词能让画面生动，语言也更自然。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "感官系动词后误接形容词与副词的使用不分",
+        "look 后误接副词 beautifully 而非形容词 beautiful",
+        "感觉动词与 be 动词交替时句式结构运用不当"
+      ],
+      "example": "[仿题]山谷看起来美丽。\n解析：The valley looks beautiful，feel 感官词后接形容词。",
+      "keywords": ["系动词", "感官", "形容词", "look"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

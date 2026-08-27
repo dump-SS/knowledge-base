@@ -1,0 +1,212 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第四册 Unit 4 Everyday Economics",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B7_U4_001",
+      "name": "复合定语从句的结构",
+      "definition": "复合定语从句由主句加多从句构成。",
+      "explanation": "复合定语从句指主句中包含一个以上从句，这些从句共同修饰先行词或彼此嵌套。比如 The book that I bought which is helpful is new，内含两个从句。你分析这类句子时，先找主句主干，再逐个辨别充当定语的从句，理清它们各自的先行词。逐层剥离，复杂结构就清晰了。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "多个从句的主从关系理不清",
+        "找不到每个从句对应的先行词",
+        "把内层从句误当成主句谓语"
+      ],
+      "example": "[仿题]The man ___ is my friend likes music.\n解析：who 引导内层定语从句，填 who。",
+      "keywords": ["复合定语从句", "主句", "先行词", "嵌套", "结构"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U4_002",
+      "name": "多层定语从句的嵌套",
+      "definition": "多层定语逐层修饰不同的先行词。",
+      "explanation": "多层嵌套的定语从句是长难句难点。它由一层套一层构成，每层定语从句修饰不同的名词。比如 the house that I visited which was built long ago，先是 visited 修饰 house，再是 built 修饰房子。你理解时由外向内逐层找先行词，先看最近的名词，再向外扩展，环环相扣就清楚了。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "内层从句的先行词定位错误",
+        "层与层之间关系混乱",
+        "只读外层忽略内层导致歧义"
+      ],
+      "example": "[仿题]The book (that I like) (which is new) is good.\n解析：逐层拆，外层 which 修饰 book。",
+      "keywords": ["嵌套", "多层定语", "先行词", "逐层", "长难句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U4_003",
+      "name": "定语从句与先行词的隔开",
+      "definition": "先行词与从句之间常被修饰语隔开。",
+      "explanation": "为保持句子平衡，先行词与定语从句之间常会插入其他修饰成分。比如 the largest city in Asia that I've visited，先行词 city 和 that 从句之间隔着 in Asia。你读这样的句子时，先跳过中间的插入成分，找到真正被修饰的先行词，再理解从句，就能避免张冠李戴。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把插入成分误当先行词",
+        "分隔部分的位置判断错误",
+        "找不到真正被修饰的名词"
+      ],
+      "example": "[仿题]The bridge (across the river) that ___ long is new.\n解析：先行词是 bridge，填 is。",
+      "keywords": ["分隔", "先行词", "插入成分", "定语从句", "长难句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U4_004",
+      "name": "介词提前的定语从句",
+      "definition": "介词加关系代词构成高级定语。",
+      "explanation": "当关系代词在从句中作介词宾语时，可用介词加 which 或 whom 的高级表达。比如 the city in which he lives。你选用哪个介词取决于从句动词或名词的固定搭配。写此类从句时，把介词提到关系词前，语义更书面、正式，是高级作文的常用加分结构。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "介词从属关系词时误用 who 不用 whom",
+        "介词的固定搭配选择错误",
+        "介词放回从句后又误加关系词造成重复"
+      ],
+      "example": "[仿题]The school ___ which she teaches is famous.\n解析：习惯搭配于学校教书，填 in。",
+      "keywords": ["介词", "which", "whom", "定语从句", "高级结构"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U4_005",
+      "name": "as引导非限制定语",
+      "definition": "as 引导非限制性定语从句表正如。",
+      "explanation": "as 可以引导非限制性定语从句，指代整个主句，常译作正如。比如 As is known to all，China is large。as 从句可放在句首或句尾。你写作引用众所周知的观点时，用 as 引导的从句开头很得体。判断是不是 as 引导的定语从句，看它是否指代整个主句内容。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "as 引导的从句与 which 指代主句混淆",
+        "as 从句中连接词缺失造成残缺",
+        "as 从句放句首时误用逗号以外的标点"
+      ],
+      "example": "[仿题]___ everyone knows, water is essential.\n解析：指代整个主句作正如，填 As。",
+      "keywords": ["as", "非限制性", "正如", "定语从句", "指代主句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U4_006",
+      "name": "of which表示所属关系",
+      "definition": "of which 结构表示所属关系。",
+      "explanation": "of which 用于定语从句表示所属，相当于 whose，常表达整体中的一部分。比如 the room，the window of which is broken。你用它时，of which 跟在名词后，表示这个名词是所修饰对象中的一员。书面语中比 whose 更正式，常出现在正式书面表达与阅读中。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "of which 与 whose 的结构转换不熟",
+        "of which 前漏掉所属的名词",
+        "把 of which 误当普通 which 使用"
+      ],
+      "example": "[仿题]The house, the door of ___ is red, is mine.\n解析：所属关系用 of which，填 which。",
+      "keywords": ["of which", "whose", "所属关系", "定语从句", "正式表达"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U4_007",
+      "name": "定语从句中的数量表达",
+      "definition": "定语从句中表达整体中的一部分。",
+      "explanation": "表达整体中的一部分时，可用 some of which、most of whom 等结构。比如 Many students，some of whom are absent，其中 some of whom 表示其中一部分。你写作人数或数量关系时用这个结构很自然。判断用 who 还是 which，看先行词指人还是指物，再选用相应的结构。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "指人的先行词却误用 some of which",
+        "部分与整体的数量表达语序颠倒",
+        "把该用的 whom 写成了 which"
+      ],
+      "example": "[仿题]The team, most of ___ are young, won.\n解析：指人用 whom，填 whom。",
+      "keywords": ["some of which", "of whom", "数量", "整体", "定语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U4_008",
+      "name": "经济生活主题词汇",
+      "definition": "涵盖消费储蓄收益的日常经济词汇。",
+      "explanation": "本单元日常经济词汇，你按消费与理财两组记。消费类有 purchase 购买、budget 预算、expense 开支，理财类有 save 储蓄、invest 投资、profit 利润。读经济生活类文章时先抓这些关键词，再理清收支和理财逻辑，理解就清楚。分组记忆让经济词汇落实更牢。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 purchase 与 chase 拼写混淆",
+        "budget 后误接动词原形缺 to",
+        "invest 后漏掉 in 介词搭配残缺",
+        "expense 与 expense 复数形式使用错"
+      ],
+      "example": "[仿题]She made a ___ every month to save money.\n解析：每月做预算，填 budget。",
+      "keywords": ["budget", "purchase", "invest", "saving", "经济"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U4_009",
+      "name": "收入与消费的词汇",
+      "definition": "涵盖收入支出与消费选择的词汇。",
+      "explanation": "讨论收入与消费，这些词你要掌握。income 收入、spend 花费、consume 消费、afford 负担得起、household 家庭的。比如 ability to afford 承担能力。读讲家庭收支或消费观念的文章时，先抓这些词，理清收入与支出的对比关系，理解就更到位。把这些词连成表达能加深记忆。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 spend 后误加从句而漏掉 on 搭配",
+        "afford 前漏掉 can 或 be able to",
+        "consume 与 assume 拼写混淆",
+        "income 与 outcome 语义方向混淆"
+      ],
+      "example": "[仿题]They can't ___ a new house this year.\n解析：负担不起，填 afford。",
+      "keywords": ["income", "afford", "consume", "spend", "消费"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U4_010",
+      "name": "复杂定语从句的识别",
+      "definition": "通过找先行词识别复杂定语从句。",
+      "explanation": "识别复杂定语从句的关键是先找先行词。先行词通常是关系词前面的名词，再据此判断从句所起的作用。比如从句前有名词被修饰，关系词指代该名词，就是定语从句。你阅读长句时，先锁定关系词，再回看前面的名词，两者对应上就能确认是不是定语从句，主从关系就分明了。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "关系词前名词干扰项多导致定位失败",
+        "先行词与关系词的单复数不对应",
+        "把非限制与限制性从句混淆"
+      ],
+      "example": "[仿题]The book (which I borrowed) is about economy.\n解析：which 指代 book 作定语，填从句。",
+      "keywords": ["先行词", "识别", "关系词", "复杂", "定语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U4_011",
+      "name": "经济与节俭的词义",
+      "definition": "economic 关经济，economical 重节省。",
+      "explanation": "economic 和 economical 形近义不同。economic 与经济有关，比如 economic growth 经济增长；economical 侧重节省、节约，比如 an economical car 省油的车。你写作时描述经济现象用 economic，形容划算节制用 economical。看清楚上下文是关经济还是省钱，选词就准确了。",
+      "difficulty": 2,
+      "frequency": 2,
+      "typical_errors": [
+        "形容省钱却用了 economic 而非 economical",
+        "经济现象又误用 economical 描述",
+        "两个词拼写记混交换使用"
+      ],
+      "example": "[仿题]The plan is ___ in terms of cost.\n解析：强调省成本，填 economical。",
+      "keywords": ["economic", "economical", "经济", "节省", "词义"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B7_U4_012",
+      "name": "生活经济作文的写法",
+      "definition": "围绕日常理财消费组织议论文。",
+      "explanation": "写生活经济作文，你可用现象、分析、建议结构。开头描述常见的消费或理财现象，比如冲动消费盛行；正文分析其利与弊，多用数据或实例；结尾给出理性的消费建议。用 for instance、as a result、therefore 等过渡。这样从现象到结论，条理清楚有说服力。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "现象描述过于空泛缺乏具体实例",
+        "分析利弊时立场摇摆不定",
+        "建议与现象不匹配没有针对性",
+        "过渡词使用不当破坏论证逻辑"
+      ],
+      "example": "[仿题]For instance, many young people buy things they ___.\n解析：举例说明冲动消费，填 can't afford。",
+      "keywords": ["作文结构", "现象", "分析", "建议", "理财"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

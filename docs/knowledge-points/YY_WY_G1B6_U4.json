@@ -1,0 +1,211 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第三册 Unit 4 A Glimpse of the Future",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B6_U4_001",
+      "name": "不定式作目的状语",
+      "definition": "to 加动词原形表目的。",
+      "explanation": "不定式在句首或句尾都可表目的，意义上相当于 in order to 或 so as to。比如 To catch the bus，he got up early，to catch 是目的。你判断状语是不是表目的，就问为什么要做这件事，能回答出来就是用不定式。写作时不定式放句首可强调目的，但注意与主句不是同一主语就不要用。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "目的状语与主句主语不一致造成逻辑错误",
+        "不定式作目的状语时误用动名词形式",
+        "否定式写错位置，写成 not 加不加 to 的混乱"
+      ],
+      "example": "[仿题]___ more about the future, he read many books.\n解析：表目的，填 To learn。",
+      "keywords": ["不定式", "目的状语", "to", "in order to", "目的"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U4_002",
+      "name": "动名词作主语",
+      "definition": "动名词放在句首作主语表抽象行为。",
+      "explanation": "动名词作主语放在句首，谓语动词用单数。比如 Learning English is important，Learning 是动名词作主语。你写句子时，把一个动词行为当作主语，就把动词加 ing 放在句首，谓语用 is。注意动名词作主语表达的是一种抽象习惯或行为，不定式作主语常表具体某次动作，要注意区分。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "动名词作主语时谓语用了复数形式",
+        "把动名词作主语与现在分词作状语混淆",
+        "动名词与不定式作主语时混用不区分语义"
+      ],
+      "example": "[仿题]___ a new language is challenging.\n解析：表抽象行为，填 Learning。",
+      "keywords": ["动名词", "主语", "抽象行为", "谓语单数", "ing"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U4_003",
+      "name": "非谓语作宾语补足语",
+      "definition": "非谓语在宾语后作补语补充说明。",
+      "explanation": "非谓语动词在宾语后作宾语补足语，补充说明宾语的状态。常见于感官动词和使役动词后。用不定式表动作全过程，用现在分词表主动进行，用过去分词表被动完成。比如 I saw him cross the street 强调全过程，I saw him crossing 强调正在进行。你选哪个看想强调完整还是进行。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "感官动词后误用 to do 代替 do 或 v-ing",
+        "宾语与补语之间被动关系却用现在分词",
+        "没有区分补语语义的完整与进行"
+      ],
+      "example": "[仿题]I heard the children ___ happily.\n解析：主动进行用现在分词，填 singing。",
+      "keywords": ["非谓语", "宾语补足语", "感官动词", "现在分词", "不定式"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U4_004",
+      "name": "动名词与不定式作宾语的区别",
+      "definition": "某些动词后接动名词或不定式语义不同。",
+      "explanation": "有些动词后接动名词和不定式含义差别很大，你要重点记忆。比如 remember doing 记得做过的事，remember to do 记住要去做；stop doing 停止正在做的事，stop to do 停下来去做另一件事。你遇到这类动词时，先看句意是已发生还是未发生，再决定用动名词还是不定式，语义就准了。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "remember 后混淆已做与未做的语义",
+        "stop 后忘记分清中止与转去做另一件事的差异",
+        "forget 后动名词与不定式互换不区分"
+      ],
+      "example": "[仿题]He stopped ___ to answer the phone.\n解析：停下手头事去接电话，填 to do。",
+      "keywords": ["动名词", "不定式", "remember", "stop", "forget"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U4_005",
+      "name": "非谓语动词作原因状语",
+      "definition": "分词短语作原因状语放在句首或句尾。",
+      "explanation": "分词说明原因时，相当于 because 引导的从句。主动原因用现在分词，被动原因用过去分词。比如 Being tired，he went to bed，因为累了所以去睡觉。你写句子时，先判断原因是主动还是被动，再选分词形式。分词作原因状语可以简化句子，写作时比用从句更简洁。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "被动原因却用现在分词而非过去分词",
+        "分词原因状语逻辑主语与主句不一致",
+        "分词前加 because 造成连词多余"
+      ],
+      "example": "[仿题]___ late, he missed the bus.\n解析：主动原因，填 Being。",
+      "keywords": ["原因状语", "分词", "主动", "被动", "逻辑主语"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U4_006",
+      "name": "非谓语动词作结果状语",
+      "definition": "不定式或分词表意想不到的结果。",
+      "explanation": "非谓语可表结果，不定式多表意料之外的结果，比如 He woke up to find himself in hospital。分词表自然而然的结果，比如 The car crashed，injuring two people。你写结果状语时，想表达意外结果用不定式，自然结果用分词。判断清楚后选择对应的非谓语形式，语义就流畅了。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "自然结果误用不定式表达意外",
+        "不定式结果状语前缺少 enough 或 only 等修饰",
+        "结果状语与目的状语混淆分不清"
+      ],
+      "example": "[仿题]He worked hard only ___ nothing.\n解析：意外结果用不定式，填 to get。",
+      "keywords": ["结果状语", "不定式", "分词", "意外", "自然"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U4_007",
+      "name": "非谓语动词的否定式",
+      "definition": "非谓语动词的否定式在前面加 not。",
+      "explanation": "非谓语动词的否定形式很简单，直接在非谓语前面加 not。比如 Not knowing what to do，he stayed silent。无论是不定式、动名词还是分词，否定式都是 not 加非谓语本身。你写否定时，注意 not 要放在非谓语结构的最前面，不能插在 to 和动词原形之间。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "不定式的否定式写成 to not do 而非 not to do",
+        "动名词否定式把 not 写在 ing 后面",
+        "分词的否定式漏掉 not 直接用了肯定形式"
+      ],
+      "example": "[仿题]___ what to do, he asked for help.\n解析：否定分词，填 Not knowing。",
+      "keywords": ["否定式", "not", "非谓语", "不定式", "分词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U4_008",
+      "name": "未来展望主题词汇",
+      "definition": "涵盖科技展望与未来想象的词汇。",
+      "explanation": "本单元未来展望词汇，你按科技与想象分两组记。科技类有 drone 无人机、robot 机器人、AI 人工智能，想象类有 foresee 预见、predict 预测、vision 愿景。读未来科技文章时先抓这些词，再理清作者对未来的态度是乐观还是谨慎，理解就全面了。你分类记忆效率更高。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "把 predict 与 prevent 拼写混淆",
+        "把 foresee 当作及物动词却漏掉宾语",
+        "vision 与 view 混用，分不清愿景与视野",
+        "AI 全称 artificial intelligence 拼写错误"
+      ],
+      "example": "[仿题]It is hard to ___ what life will be like.\n解析：预见未来，填 predict。",
+      "keywords": ["predict", "foresee", "vision", "AI", "未来"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U4_009",
+      "name": "glimpse与look辨析",
+      "definition": "glimpse 指一瞥，look 指主动查看。",
+      "explanation": "glimpse 和 look 都跟看有关，但侧重不同。glimpse 强调无意中瞥见、短暂看到，比如 catch a glimpse of。look 强调主动地看，比如 take a look at。你写作文时，想表达无意中瞟到用 glimpse，主动观察用 look。两个词后接 at 的搭配也要注意区分。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "glimpse 后漏掉介词 at 直接接宾语",
+        "把 glimpse 当成主动观察而非无意一瞥",
+        "glimpse 与 glance 混淆不分短暂与快速"
+      ],
+      "example": "[仿题]I caught a ___ of the famous actor.\n解析：无意瞥见，填 glimpse。",
+      "keywords": ["glimpse", "look", "瞥见", "主动看", "辨析"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U4_010",
+      "name": "未来科技类议论文写法",
+      "definition": "围绕科技对人类的影响展开议论文。",
+      "explanation": "写未来科技议论文，你可用利弊论证法。开头提出科技发展的趋势，正文分两段，一段写科技带来的好处和便利，另一段写潜在问题与风险，结尾表达你个人的看法和展望。用 on the one hand、on the other hand、in conclusion 等过渡。这样写条理清晰，观点全面。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "只写优点不写缺点，缺少辩证分析",
+        "优缺点段落顺序颠倒，过渡不自然",
+        "结尾没有个人观点，只是简单重复前文",
+        "举例不具体，空泛谈论科技影响"
+      ],
+      "example": "[仿题]On the one hand, AI makes life more ___.\n解析：科技带来的便利，填 convenient。",
+      "keywords": ["议论文", "科技", "利弊", "展望", "未来"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U4_011",
+      "name": "非谓语作条件状语",
+      "definition": "分词短语代替 if 从句表条件。",
+      "explanation": "分词短语作条件状语相当于 if 从句，比如 Given more time，he could finish，given 表示如果被给予。主动条件用现在分词，被动条件用过去分词。你写句子时，先判断条件是主动还是被动，再选分词形式。这个结构在书面语中很常见，能使表达更加简洁自然。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "被动条件误用现在分词而非过去分词",
+        "条件状语逻辑主语与主句主语不一致",
+        "把条件状语与原因状语混淆"
+      ],
+      "example": "[仿题]___ more carefully, the work would be perfect.\n解析：工作被做，填 Done。",
+      "keywords": ["条件状语", "分词", "主动", "被动", "if从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B6_U4_012",
+      "name": "非谓语动词的时态语态",
+      "definition": "非谓语分一般式与完成式以及主动被动。",
+      "explanation": "非谓语动词也有时态和语态变化。一般式表与谓语同时或之后发生，完成式表在谓语之前发生。主动语态和被动语态根据逻辑主语与动作的关系决定。比如 Having finished his work，he left，完成式强调先做完。你写句子时先确定时间先后，再确定主被动，就能写出正确的非谓语形式。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "完成式与一般式的时间先后搞反",
+        "被动语态该用 being done 却用 done",
+        "非谓语时态与主句谓语时态不一致"
+      ],
+      "example": "[仿题]___ the exam, he relaxed.\n解析：先完成考试，用完成式，填 Having passed。",
+      "keywords": ["非谓语", "时态", "语态", "完成式", "被动"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

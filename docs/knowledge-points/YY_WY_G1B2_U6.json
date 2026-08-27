@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第二册 Unit 6 Earth First",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B2_U6_001",
+      "name": "主动语态转被动语态",
+      "definition": "把主动句中的宾语升为主语并改动词为被动态的转换方法。",
+      "explanation": "你从主动句换到被动句时，先把原来的宾语提到主语位置，原主语放入 by 后作介词宾语，be 动词保持原时态，行为动词变过去分词。比如 People protect the earth 变 The earth is protected by people。做题按宾语升主、动词变被动两步操作，转换准确快捷。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "转换时误丢 by 短语而丢失了动作的执行者",
+        "原动词未改成过去分词而误用成原形保留",
+        "be 动词未随原时态调整造成时态错误"
+      ],
+      "example": "[仿题]人们保护地球。\n解析：The earth is protected by people，宾语升为主语被动化。",
+      "keywords": ["主动转被动", "by", "过去分词", "转换"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U6_002",
+      "name": "被动语态中的时态保持",
+      "definition": "转被动时 be 动词延续原时态表示时态的正确用法。",
+      "explanation": "你转被动时最容易忽略时态，be 动词的形式要延续原句时态：原一般现在时被动用 am is are，一般过去时用 was were，现在完成时用 have been。比如环保事件若为过去叙述用 was protected。做题先锁定原时态再定 be 的形式，被动时态才不会错乱。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "原为过去时被修改成 am 现在时造成时态变化",
+        "完成时被动未用 been 而滥写 is 语法错误",
+        "被动时态的 be 形式随主语单复选择失误"
+      ],
+      "example": "[仿题]森林曾被过度砍伐。\n解析：The forest was overcut，过去时被动用 was。",
+      "keywords": ["被动", "时态", "was", "been"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U6_003",
+      "name": "被动语态中省略动作施动者",
+      "definition": "动作执行者已知或无关紧要时省略句子中 by 短语。",
+      "explanation": "当被动句的动作执行者无需强调或未知时，你可以省去 by 短语。比如 Waste is recycled 只说废品被回收，没说被谁。此时重点转移到动作承受者上。写作时根据语境决定是否保留 by，需要突出谁做的才写出来。检测被动语义完整性时看主语能否接受动作即可。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "施动者未知却硬补 by 让句子显多余",
+        "需要强调执行者时却误把 by 删掉丢失信息",
+        "省略 by 后误以为可以同位加介词结构"
+      ],
+      "example": "[仿题]垃圾被回收利用。\n解析：Waste is recycled，施动者不明可省略 by。",
+      "keywords": ["被动", "by", "省略", "施动者"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U6_004",
+      "name": "省略不定式重复部分的表达",
+      "definition": "省略谓语中重复的不定式内容保持句子简洁的用法。",
+      "explanation": "你避免重复表达某些会重复出现的句子时可以省略共同部分。比如 We should stop wasting and (stop) polluting 中重复的 stop 可省。省略原则是保持意思完整，不产生歧义。写环保倡议连举多条动作时可把重复的动词省去，使句子更简洁紧凑而不罗嗦。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "省略共同动词后残留多余成分使句子不简洁",
+        "省略过度导致句子语义理解变含糊歧义",
+        "并列结构省略时结构对称被破坏"
+      ],
+      "example": "[仿题]停止浪费并停止污染。\n解析：Stop wasting and polluting，重复动词可省略一。",
+      "keywords": ["省略", "简洁", "并列", "环保"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U6_005",
+      "name": "so 与 such 的省略用法",
+      "definition": "用 so 或 such 省略重复成分以增强表达程度的用法。",
+      "explanation": "你为避免重复已出现的内容时 so 与 such 也有体现：如 I think so 表示我也这么认为，省略了具体内容。这类省略让对话简洁自然。写作时用 so 去省略已明确的内容，不赘述又表达清楚。不过省略要建立在上下文清晰的前提下再进行。",
+      "difficulty": 3,
+      "frequency": 2,
+      "typical_errors": [
+        "Think so 前上下文不够清楚就贸然省略导致指代不明",
+        "so 省略意思后接续成分放置位置不当",
+        "省略与完整表达之间应用场景混用"
+      ],
+      "example": "[仿题]我认为也是如此。\n解析：I think so，隐去重复后表达简洁。",
+      "keywords": ["so", "省略", "简洁", "对话"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U6_006",
+      "name": "环保生态主题词汇",
+      "definition": "描述环境保护与生态状况的核心英语词汇。",
+      "explanation": "你讨论环保会用 environment 环境、pollution 污染、recycle 回收、endangered 濒危的、carbon 碳等词。可说 pollution control 污染防治，recycle waste 回收废品。写作时用这些词组织环保观点，主题意识即刻凸显。记忆时把污染、回收、保护等分类归纳更利于调用。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "污染 pollution 误拼成 pulution 字母位置颠倒",
+        "回收 recycle 误拼成 recylce 元音交换字母错位",
+        "环境保护表达中冠词 environment 前漏 the"
+      ],
+      "example": "[仿题]污染必须被治理。\n解析：Pollution must be controlled，pollution 表污染。",
+      "keywords": ["environment", "pollution", "recycle", "eco"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U6_007",
+      "name": "描述垃圾处理的短语",
+      "definition": "描述废弃物处理与分类回收的常用动词短语。",
+      "explanation": "你讨论垃圾处置用 throw away 扔掉、sort rubbish 分类垃圾、reduce waste 减少垃圾、reuse 再利用等短语。可说 reduce, reuse and recycle 减量再利用回收这成常见环保口号。写垃圾分类作文时把这些短语作为措施依次提出，让方案有道理又可执行。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "扔掉 throw away 的 away 误漏掉造成短语残缺",
+        "减少垃圾误把 reduce 与 reuse 搭配方向搞反",
+        "分类垃圾 sort 后漏接宾语 rubbish 造成残缺"
+      ],
+      "example": "[仿题]我们应减少垃圾。\n解析：We should reduce waste，reduce waste 表减量。",
+      "keywords": ["throw away", "reduce waste", "recycle", "垃圾"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U6_008",
+      "name": "浅层推测情态词汇",
+      "definition": "用情态动词对环保现状作推测时表达确定程度的用法。",
+      "explanation": "你依据现状做轻量推测时可用 may、might、must、can't 等情态词表达不同的确定程度。比如 The problem may be serious 表示问题或许严重，must be 则表示极肯定。写环保分析时按依据可靠的强弱选择情态词，表达严谨客观，让你的判断容易被读者接受。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "强确定的推测误用 may 而未用 must 表更肯定",
+        "否定推测误用 mustn't 而用 should 表许可意混淆",
+        "推测句中误接动词原形后的过去分词结构错乱"
+      ],
+      "example": "[仿题]污染或许是严重的。\n解析：The problem may be serious，may 表不确定推测。",
+      "keywords": ["may", "must", "推测", "情态动词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U6_009",
+      "name": "主被动混用的复杂句型",
+      "definition": "主被动结合表达中正确区分主动宾语义成分的用法。",
+      "explanation": "你在同一句里既写主动又写被动时，要严格区分成分：主语若发出动作为主动，若承受动作为被动。比如 We recycle plastic, which is reused 前一部分主动后一部分被动。写环保长句时把主动与被动的语义对应好，主语角色一旦弄错整体含义就会颠倒。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "主语实际承受动作却误排成主动形式",
+        "主被动穿插时动词是否为及物判断失当",
+        "主被动结合让句子时态与语义不再自洽"
+      ],
+      "example": "[仿题]塑料被我们回收再利用。\n解析：Recycled plastic is reused by us，被动承接主被动。",
+      "keywords": ["被动", "主动", "主被动", "混用"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U6_010",
+      "name": "复合名词表环保概念",
+      "definition": "用复合名词形式表达环保相关概念与装置的用法。",
+      "explanation": "你表达环保装置与概念时可用复合名词，如 greenhouse gas 温室气体、waste water 废水、solar energy 太阳能、wind power 风能。这些由两个名词组合而成，常成一个固定概念。写环保倡议时用这类复合名词准确定名，既简洁又专业，让表达更有科普质感。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "温室气体误写成两个词不加连接却存词序颠倒",
+        "太阳能 solar energy 误组合成 energy solar 顺序错",
+        "复合名词复数时只在单词词尾加 s 位置记错"
+      ],
+      "example": "[仿题]风能很重要。\n解析：Wind power matters，wind power 表风能。",
+      "keywords": ["greenhouse gas", "solar energy", "wind power", "复合"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U6_011",
+      "name": "表达环保倡议的句型",
+      "definition": "就保护环境提出建议倡议的多种句型使用方式。",
+      "explanation": "你发出环保倡议可用 Let's... 提议、Why not...? 建议、we should 表达应当、it's high time to... 到了该做的时候等句型。比如 Let's protect the environment 让我们保护环境。写倡议书时依次用这些句式给出行动号召，语气亲切又有推动力，让人愿意响应你的呼吁。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "Let's 后误接动词过去式而应用动词原形",
+        "the high time to 结构中漏掉 to 不定式残缺",
+        "倡议句式之间劝导语气运用不相协调"
+      ],
+      "example": "[仿题]让我们保护环境吧。\n解析：Let's protect the environment，Let's 后接动词原形。",
+      "keywords": ["let's", "倡议", "should", "句型"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U6_012",
+      "name": "冠词指代环保对象",
+      "definition": "在环保话题中正确使用定冠词 the 指代特定义事物。",
+      "explanation": "你可以用定冠词 the 指明特定环保对象，the environment 表环境本身，the earth 表地球。第二次提及的词往往加 the 表示上文已经提到。写环保文章时先在首句引出对象，后续沿用 the 保持一致，这样指代清晰明确，读者不会迷路更易理解。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "再次提及名词时未加 the 显得指代不清",
+        "泛指环境误加 the 与特指使用场景混淆",
+        "专有与普通名词的冠词使用规则掌握偏颇"
+      ],
+      "example": "[仿题]我们要爱护环境。\n解析：We should take care of the environment，特指用 the。",
+      "keywords": ["the", "定冠词", "特指", "environment"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

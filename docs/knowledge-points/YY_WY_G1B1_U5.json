@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第一册 Unit 5 Into the Wild",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B5_U5_001",
+      "name": "that 引导定语从句",
+      "definition": "用关系代词 that 引导修饰人或物的定语从句。",
+      "explanation": "你描述人或物都可用 that 作关系代词，可指人也可指物，比 who 或 which 适用范围更广。比如 an animal that lives in the forest 中 that 指动物作主语。that 在从句中既可作主语又可作宾语，作宾语时可省略。写自然主题描述动物时用 that 很方便。",
+      "difficulty": 2,
+      "frequency": 5,
+      "typical_errors": [
+        "that 作从句主语时误将其省略造成句子结构残缺",
+        "that 后误重复写同类关系词造成双重成分",
+        "非限定性定语从句中误用 that 而应改用 which"
+      ],
+      "example": "[仿题]住在森林的动物很警惕。\n解析：The animal that lives in the forest is wary，that 指物。",
+      "keywords": ["that", "定语从句", "关系代词", "指人指物"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_002",
+      "name": "关系词作宾语可省略",
+      "definition": "关系代词在定语从句中作宾语时省略的规则。",
+      "explanation": "you 若关系词 that、which、whom 在定语从句中作宾语，可以省略不写。比如 the animal (that) we protect，that 作 protect 的宾语即可省。但作主语时绝不能省，因为句子的主语就靠它承担。做题时先判断关系词在从句中扮演主语还是宾语，再决定能否省略。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "关系词作宾语时误将其当作主语而不敢省略",
+        "作主语的关系词被错误省略造成从句缺主语",
+        "省略宾语后未相应调整从句动词使其悬空"
+      ],
+      "example": "[仿题]我们保护的动物越来越少。\n解析：The animal we protect is rare，作宾语的 that 省去。",
+      "keywords": ["省略", "宾语", "关系代词", "定语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_003",
+      "name": "that 与 which 选词",
+      "definition": "限定性定语从句中用 that 或 which 指物的选词依据。",
+      "explanation": "你指物时可限定从句里用 that 或 which 均可，但一些固定情形下 that 更受青睐，如先行词被最高级、序数词或 everything、all 等词修饰时多用 that。而 which 常作补充或正式书面表达。做题时若看到先行词有这类前置修饰词，优先考虑 that 更稳妥合理。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "先行词含最高级修饰时误选 which 而没有用 that",
+        "一律用 which 而忽视了 that 在特定情形的优先",
+        "固定只认 which 忽略了指物也可用 that 的规则"
+      ],
+      "example": "[仿题]这是你所见过最壮的动物。\n解析：This is the strongest animal that you've seen，最高级后接 that。",
+      "keywords": ["that", "which", "最高级", "选词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_004",
+      "name": "关系副词 where 引导从句",
+      "definition": "先行词表地点时用关系副词 where 引导定语从句。",
+      "explanation": "你描述地点或场所时，若先行词表地点且关系词在从句中作地点状语，用 where 引导。比如 a forest where animals live 中 where 指在森林里。注意它作状语而非名词成分，与 which 等代词不同。写野外生境介绍时用 where 引出动物栖息地，表达会很自然。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "地点先行词误用 which 且从句缺少地点状语关系",
+        "where 在从句中误再重复写副词 there 造成多余",
+        "把 where 当成名词性关系代填写于主语位置"
+      ],
+      "example": "[仿题]动物居住的森林覆盖着雪。\n解析：The forest where animals live is snowy，where 表地点。",
+      "keywords": ["where", "关系副词", "地点", "定语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_005",
+      "name": "关系词作主语的主谓一致",
+      "definition": "关系词作主语时从句谓语须与先行词保持一致的规则。",
+      "explanation": "当关系词在定语从句中作主语时，从句的谓语动词要与先行词的单复数保持一致。比如 The animal that lives here 中 lives 与单数 animal 匹配，若是复数 animals 则用 live。写描述性定语从句时要先看清先行词是单数还是复数，再决定从句谓语形式，这是常见的易错点。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "先行词为复数时从句谓语仍写作单数形式",
+        "单数先行词误配复数谓语造成主谓不一致",
+        "先行词在从句中的真实单复数判断错误"
+      ],
+      "example": "[仿题]生活在此的动物很稀有。\n解析：The animals that live here are rare，复数配复数。",
+      "keywords": ["主谓一致", "先行词", "谓语", "定语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_006",
+      "name": "人与自然的野外词汇",
+      "definition": "描述野生动植物与其栖息环境的核心英语词汇。",
+      "explanation": "你写自然野外主题会用到 wildlife 野生动物、habitat 栖息地、forest 森林、species 物种、wild 野生的等词。比如 the natural habitat 自然栖息地，protect rare species 保护珍稀物种。记忆时把表示动物、表示环境、表示保护的词分别归类，写作时准确调用单词会更有现场感。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "species 单复数同形时误加复数 s 造成拼写错误",
+        "栖息地 habitat 误拼成 habitab 遗漏末尾字母",
+        "保护珍稀物种时误把 rare 与 rear 拼写混淆"
+      ],
+      "example": "[仿题]森林是许多动物的栖息地。\n解析：The forest is a habitat for many animals，habitat 表栖息地。",
+      "keywords": ["wildlife", "habitat", "species", "forest"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_007",
+      "name": "描述动物特点的词汇",
+      "definition": "描述动物外形特征与生活习性的常用形容词词汇。",
+      "explanation": "你描写动物时常用 golden 金色的、rapid 迅速的、fierce 凶猛的、friendly 友好的等形容词。可以说 a rapid runner 快速的奔跑者或 a fierce appearance 凶猛的外表。记忆时可把描述外表和描述习性的词分组记，写说明文介绍一种动物时可用这些词丰富细节。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "描写迅猛误把 fierce 与 arouse 一类的词搞混",
+        "rapid 表达迅速时误与 quickly 副词混用位置",
+        "描述习性与描述外表的形容词归类错乱"
+      ],
+      "example": "[仿题]它是迅猛的奔跑者。\n解析：It is a rapid runner，rapid 作形容词修饰名词。",
+      "keywords": ["fierce", "rapid", "friendly", "习性"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_008",
+      "name": "描述动物动作的动词短语",
+      "definition": "描述动物活动与移动方式的常用动词及短语。",
+      "explanation": "你介绍动物行为时常用 fly 飞行、hunt 捕猎、breed 繁殖、migrate 迁徙、hibernate 冬眠等动词。描述单只动物时注意动词加 s，比如 a bird migrates south in winter 表示鸟儿冬天南迁。记忆时可把进食、移动、繁衍动作分组，写动物习作时用起来更有条理。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "描述单只动物习惯时未给 migrate 等动词加单三 s",
+        "迁徙 migrate 与冬眠 hibernate 的语义场景混淆",
+        "表达捕猎 hunt 时误接 for 结构用错搭配"
+      ],
+      "example": "[仿题]这种鸟冬天南迁。\n解析：The bird migrates south in winter，migrate 表迁徙。",
+      "keywords": ["migrate", "hunt", "hibernate", "动作"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_009",
+      "name": "程度副词修饰形容词位置",
+      "definition": "程度副词修饰形容词时摆放位置与搭配的用法。",
+      "explanation": "你想强调动物特点程度时用 very、quite、extremely 等程度副词，放在形容词之前一起修饰名词。比如 extremely dangerous 极其危险。注意这些副词修饰形容词而非名词，别放错位置变成修饰名词。写描述时把握好数量和位置，语气就更有力度，表达也准确。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "程度副词误放到名词之前造成修饰对象错位",
+        "把 very 误用来修饰普通形容词而搭配过散",
+        "extremely 与形容词拼写组合时漏掉连写细节"
+      ],
+      "example": "[仿题]这里非常危险。\n解析：It is extremely dangerous，程度副词置于形容词前。",
+      "keywords": ["程度副词", "形容词", "extremely", "位置"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_010",
+      "name": "一般现在时描述自然规律",
+      "definition": "用一般现在时陈述自然现象与动物客观规律的方法。",
+      "explanation": "你介绍自然规律或动物习性时用一般现在时，因为这类内容具有客观真理性。比如 Birds fly south in winter，用以表示客观迁徙规律，不因时间点改变。第三人称单数注意加 s。写科普说明文介绍动物习性时，用一般现在时整篇表达会更显客观可靠。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "陈述客观自然规律时误用成过去时描述",
+        "单数主语的动物未给行为动词加第三人称单数s",
+        "把一次性事件混入一般现在时的客观叙述中"
+      ],
+      "example": "[仿题]候鸟冬天南飞。\n解析：Migratory birds fly south in winter，客观规律用一般现在时。",
+      "keywords": ["一般现在时", "自然规律", "客观", "单三"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_011",
+      "name": "保护动物的建议表达",
+      "definition": "用情态建议句式表达保护动物的措施与建议。",
+      "explanation": "你表达保护动物建议时通常用 We should 或 It is important to 等句型。比如 We should protect endangered animals 表示我们应该保护濒危动物。should 后接动词原形，这个句式既表达义务又语气得当。写环保类建议的作文时，用这类句式一条条提出措施逻辑清晰。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "should 后误接动词过去式而非动词原形",
+        "el重要句式中误让 It is 后面的 to 缺失",
+        "建议措施缺少主语或情态动词造成句子不完整"
+      ],
+      "example": "[仿题]我们应该保护濒危动物。\n解析：We should protect endangered animals，should 后接原形。",
+      "keywords": ["should", "保护建议", "endangered", "措施"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B5_U5_012",
+      "name": "定语从句与主句的衔接",
+      "definition": "主句与定语从句连接时保持结构连贯的正确方法。",
+      "explanation": "你把主句和定语从句连成长句时，要先把先行词找出来放在从句之前，再用关系词把从句与它相接。顺序是先写主句的核心，再顺势引出修饰成分。比如 The panda, which lives in China, is lovely 中先写主句再补充修饰。写长句时保持主句结构完整，从句紧扣先行词才连贯。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "写长句时主句结构被从句切断造成语序混乱",
+        "没有先识别先行词就乱用关系词连接",
+        "主句与从句之间缺标点让句子衔接不清晰"
+      ],
+      "example": "[仿题]生活中国的熊猫很可爱。\n解析：The panda, which lives in China, is lovely，从句紧随主句。",
+      "keywords": ["主句", "定语从句", "衔接", "先行词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

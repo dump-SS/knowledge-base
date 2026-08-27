@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 选择性必修 第一册 Unit 6 Nurturing Nature",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B4_U6_001",
+      "name": "介词加which的定语从句",
+      "definition": "which在介词后指物，置于先行词与从句之间引导定语从句的结构。",
+      "explanation": "定语从句中被修饰的是物时，可在从句前用介词加which，如the house in which I live。这里的which指向上文的house，介词则根据动词或先行词的搭配而定。你先把先行词和介词关系理顺，再写介词加which连接从句，句子既准确又书面化。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "介词与先行词搭配选择错误",
+        "指物却误用指人的whom",
+        "介词加which后从句仍多写一个which"
+      ],
+      "example": "[仿题]The box in ___ the toy sat is old.\n解析：物用介词加which填which。",
+      "keywords": ["定语从句", "which", "介词", "先行词"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U6_002",
+      "name": "介词加whom的定语从句",
+      "definition": "whom在介词后指人，作介词宾语的定语从句结构。",
+      "explanation": "当被修饰的对象是人且需夸大介词主打，使用介词加whom，如the teacher to whom I spoke。whom是who的宾语形式，只能用于介词后作宾语。你先判断先行词是人还是物，人则选用whom，物则用which，介词依搭配确定，定语从句便准确到位。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "指人的从句漏who误用which",
+        "介词后应接whom却使用主格who",
+        "把介词加whom写成关系词再补一个"
+      ],
+      "example": "[仿题]The man with ___ you spoke left.\n解析：介词后指人填whom。",
+      "keywords": ["whom", "介词", "定语从句", "指人"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U6_003",
+      "name": "介词加which的原形保留",
+      "definition": "介词置于关系词前时其中的介词不省略且关系词指物不可换用。",
+      "explanation": "在介词加which结构里，介词紧跟并紧抱which之前，关系代词不可换成that。如the reason for which he left。that不能出现在介词后，只能用which或whom。你保证保留介词并指物选which，若要that则须把介词后移到从句末尾，两种写法皆可成句。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "介词后误用that引导定语从句",
+        "介词前置后又省略掉介词",
+        "把介词与关系词顺序颠倒"
+      ],
+      "example": "[仿题]The pen ___ which I write is new.\n解析：介词with加which填with。",
+      "keywords": ["介词", "which", "that不可", "定语从句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U6_004",
+      "name": "定语从句介词的选择",
+      "definition": "根据从句动词短语或先行词搭配确定定语从句所需介词的原则。",
+      "explanation": "选择介词主要看两点：一是从句动词固定搭配的介词，如be interested in中的in；二是名词先行词搭配的介词，如the key to中的一个。你先默写出动词或名词的正常搭配，再把该介词提到关系词之前。把握搭配源头，介词就不容易选错。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "凭记忆瞎选介词而脱离搭配",
+        "动词搭配的介词与名词搭配混用",
+        "介词遗漏直接让从句缺少连接成分"
+      ],
+      "example": "[仿题]The book ___ which I care is old.\n解析：care about用about。",
+      "keywords": ["介词", "搭配", "动词短语", "固定搭配"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U6_005",
+      "name": "who与whom指人区别",
+      "definition": "定语从句中who作主格、whom作宾语格，介词后只能跟whom的规则。",
+      "explanation": "指人的定语从句里，从句缺少主语时用who，缺少宾语时用whom，如the girl who sings、the boy whom we saw。whom尤其出现在介词之后作宾语，如with whom。你判断关系词在从句中作什么成分，作主语则who，作宾语或介词宾语则whom，选择便不会出错。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "从句缺宾语却误用who",
+        "从句缺主语却误用whom",
+        "介词后就选who而非whom"
+      ],
+      "example": "[仿题]The girl ___ sings is my friend.\n解析：从句缺主语填who。",
+      "keywords": ["who", "whom", "主格", "宾格", "指人"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U6_006",
+      "name": "介词前置与后置变换",
+      "definition": "定语从句中介词置于关系词前或移到从句末尾的两种语序变换。",
+      "explanation": "含介词短语的定语从句可把介词放在关系词前，即介词加which whom，也可把介词移到从句末尾，用that或省略关系词，比如the man whom I talked with也可说the man I talked with。你把握两种语序等效的原则，根据交际需要自由选择，表达更灵活。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "两种语序变换时介词遗漏",
+        "介词后置却误保留which",
+        "把两种介词位置混搭在一起"
+      ],
+      "example": "[仿题]the girl I wrote ___ \n解析：write to把to后置填to。",
+      "keywords": ["介词", "前置", "后置", "which", "语序"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U6_007",
+      "name": "生态保护主题词汇",
+      "definition": "描述自然环境、生态保护与可持续发展理念的核心名词与动词。",
+      "explanation": "生态保护话题常见protect保护、ecosystem生态系统、wildlife野生动物、sustainable可持续的、conserve保育、resource资源这些词。表达保护自然用protect the environment，说明可持续理念用sustainable development。这些词连起来能完整展开人与自然的关系，主题性强且常用。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把environment误拼成envrionment漏n",
+        "把sustainable误拼成sustainabble漏字母",
+        "把conserve与preserveth意义相差混淆"
+      ],
+      "example": "[仿题]We should ___ wildlife.\n解析：保护野生动物填protect。",
+      "keywords": ["保护", "生态", "野生动物", "可持续", "资源"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U6_008",
+      "name": "人与自然和谐词汇",
+      "definition": "描述人类尊重自然、与自然共处共生的理念与行为的名词动词。",
+      "explanation": "讲人与自然和谐你用harmony和谐、respect尊重、coexist共处、relationship关系、balance平衡、care关爱这些词。表示与自然和谐共处用live in harmony with，表达尊重环境用respect nature。写作人与自然主题时用这些词阐释理念与行动，关系就更深邃动人。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把harmony误拼成harmmosy漏字母",
+        "live in harmony with漏介词in",
+        "把coexist带iti拼为co-exist时连写错误"
+      ],
+      "example": "[仿题]We live in ___ with nature.\n解析：和谐共处填harmony。",
+      "keywords": ["和谐", "尊重", "共处", "平衡", "关爱"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U6_009",
+      "name": "资源保护再生词汇",
+      "definition": "描述节约能源、循环再生与资源可持续利用的常用名词动词。",
+      "explanation": "资源保护用到recycle回收、reuse再利用、reduce减少、save energy节约能源、natural resources自然资源、renewable可再生的这些词。说明循环利用用recycle materials，说明可再生用renewable energy。你把这些3R理念动词记牢，表达节能环保具体而不空泛。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把recycle与reuse语义区分不清",
+        "renewable漏后缀able拼写错误",
+        "把reduce与reduction词性混用，缺少右后缀"
+      ],
+      "example": "[仿题]Please ___ this water.\n解析：循环利用填recycle。",
+      "keywords": ["回收", "再利用", "减少", "节能", "可再生"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U6_010",
+      "name": "环境问题描述词汇",
+      "definition": "描述污染、温室效应、物种减少等环境问题来源的常用名词。",
+      "explanation": "谈环境问题你用pollution污染、garbage垃圾分类、waste浪费、endanger危害、extinct灭绝、climate change气候变化这些词。表达防止污染用prevent pollution，说明物种灭绝用species become extinct，亦云温室效应greenhouse effect。这些词在环保文章里几乎必现。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把pollution误拼成pollunent漏字母",
+        "把extinct误当形容词主语混用",
+        "把greenhouse effect漏词一块表达不清"
+      ],
+      "example": "[仿题]Air ___ harms health.\n解析：空气污染填pollution。",
+      "keywords": ["污染", "垃圾", "浪费", "濒危", "气候"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U6_011",
+      "name": "生态保护行动词组",
+      "definition": "描述植树、净水、倡议等具体环保行动的常用词组与句式。",
+      "explanation": "保护行动有plant trees植树、save water节约水、clean up清理、speak up倡议、takeaction采取行动、spread awareness传播意识这些词组。表示行动起来用take action to do，倡导保护用protect...from污染。写倡导段时先用祈使句呼吁行动，再给出具体做法，呼吁便有力可行。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "把take action误写丢失行动语义",
+        "plant trees漏冠词或复数错写",
+        "把protect from的from写成of"
+      ],
+      "example": "[仿题]Let's ___ the river.\n解析：清理河道填clean up。",
+      "keywords": ["植树", "行动", "倡议", "节水", "清理"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B4_U6_012",
+      "name": "环保责任合作表达",
+      "definition": "用责任、合作与共同努力的表达说明环保因人而动的意义。",
+      "explanation": "环保人人有责，你会用到responsibility责任、jointly共同、together一起、shared共享的、community社区、effort努力这些词。说明人人责任用everyone's responsibility，强调合力用work together。先肯定个人的举手之劳，再谈全社会的共同行动，责任感与团结感溢于言表。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "把responsibility误拼成responsible混淆词性",
+        "把jointly误拼成jinotly漏字母",
+        "把shared共同与sharing动态混淆"
+      ],
+      "example": "[仿题]___ we can protect it.\n解析：一起努力填Together。",
+      "keywords": ["责任", "共同", "合作", "社区", "努力"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}

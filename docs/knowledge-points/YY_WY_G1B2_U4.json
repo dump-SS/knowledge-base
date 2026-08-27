@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（外研版2019） 必修 第二册 Unit 4 Stage and Screen",
+  "l2_points": [
+    {
+      "id": "YY_WY_G1_B2_U4_001",
+      "name": "过去完成时表示过去先发生",
+      "definition": "用 had 加过去分词表示过去某个时间点之前已经发生的动作。",
+      "explanation": "你表达在过去某时之前就已经完成的动作时用过去完成时，结构为 had 加过去分词。比如 By the time I arrived, the show had started 中 show had started 表示演出在先发生。它常与 by 时间点或过去的另一个动作配合，强调先后顺序。写倒叙时用它交代事情发生的起点。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "过去完成时误写成 had 加动词过去式而非过去分词",
+        "时间点在先却误用一般过去时看不出先后层次",
+        "had 被误写成 have 造成现在完成与过去混淆"
+      ],
+      "example": "[仿题]我到时演出已经开始了。\n解析：The show had started when I arrived，had done 表先发生。",
+      "keywords": ["过去完成时", "had", "过去分词", "before"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U4_002",
+      "name": "过去完成与过去时对比",
+      "definition": "过去完成时强调过去先发生与一般过去时陈述单纯过去对比。",
+      "explanation": "你区分两种时态时记得：过去完成时表示过去某个动作之前完成的动作，一般过去时只表示过去发生的动作。比如 He finished the play 只说他完成了，He had finished before you came 强调在你来之前已完成。当句子里有前后两个过去动作时用完成时标先后。",
+      "difficulty": 4,
+      "frequency": 4,
+      "typical_errors": [
+        "存在先后两动作时误把之前用一般过去时",
+        "只叙述一个过去动作却误乱加 had 造成赘余",
+        "先后顺序判断错误导致时态关系颠倒"
+      ],
+      "example": "[仿题]你来之前他就完成了演出。\n解析：He had finished before you came，之前动作用完成时。",
+      "keywords": ["过去完成时", "一般过去时", "先后", "before"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U4_003",
+      "name": "when 引导的时间状语从句",
+      "definition": "用 when 引导时间状语从句表达主句发生的时间背景。",
+      "explanation": "你交代主句事件发生的时间可用 when 引导的时间状语从句，when 可表示当时的某一时刻。比如 When I entered the theatre, the play was on 中 when 引出进剧场的时间。主句与从句的动作时态需按语境搭配。写叙事性介绍时用 when 点明发生时机，因果关系更清晰。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "when 从句中误用现在时态而违背过去语境",
+        "主句与从句时态呼应关系处理不恰当",
+        "when 与 while 的时间从句用法混用错代"
+      ],
+      "example": "[仿题]我进剧院时演出开始了。\n解析：When I entered, the play was on，when 引出时间背景。",
+      "keywords": ["when", "时间状语从句", "时态", "时间"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U4_004",
+      "name": "because 引导的原因从句",
+      "definition": "用 because 引导原因状语从句说明主句发生的理由。",
+      "explanation": "你解释事件发生的原因时用 because 引导原因状语从句，比如 I like the film because it is moving 表示我因为影片感人而喜欢它。because 直接引出理由，语气自然明确。写作时注意 because 从句表原因，与表示转折的 but 区分开。论据写作常借助它连接观点与依据。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "表原因却误用转折连词 but 造成逻辑方向错",
+        "because 从句缺少主语只写 from 造成结构残缺",
+        "because 与 so 同时并列使用造成双重连接"
+      ],
+      "example": "[仿题]我喜欢这电影因为它感人。\n解析：I like the film because it is moving，because 引原因。",
+      "keywords": ["because", "原因状语从句", "理由", "因为"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U4_005",
+      "name": "主从复合句的连接词呼应",
+      "definition": "主句与状语从句之间连接词的选取与时态呼应规则。",
+      "explanation": "你写主从复合句时要让连接词与主句逻辑相对应：时间用 when、while，原因用 because，条件用 if，让步用 although。同时主句与从句时态需相互呼应，过去叙述通篇保持一致。写复杂长句时先定主从句关系再选词，配合时态让句式连贯顺畅。",
+      "difficulty": 4,
+      "frequency": 3,
+      "typical_errors": [
+        "无论主句那一层逻辑全用 when 造成连接错位",
+        "复合句主句与从句时态互不呼应随意切换",
+        "although 与 but 同句连用造成结构冗余"
+      ],
+      "example": "[仿题]虽然票贵我还是去了。\n解析：Although the ticket was dear, I went，让步连词 although 引导。",
+      "keywords": ["although", "when", "because", "复合句"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U4_006",
+      "name": "戏剧影视主题词汇",
+      "definition": "描述戏剧电影与舞台表演核心的英语词汇。",
+      "explanation": "你谈论戏剧影视会用 stage 舞台、performance 表演、play 剧本、audience 观众、scene 场景、director 导演等词。可说 a wonderful performance 精彩的演出，the director of the film 电影导演。记忆时把台前幕后的名词分组归类，写作评价作品时按角色准确调用。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "集合名词 audience 前面却误漏掉定冠词 the",
+        "stage 舞台与 scene 场景两个词的语义搅合",
+        "导演 director 误拼成 rectror 一类字母错误"
+      ],
+      "example": "[仿题]观众喜欢这场表演。\n解析：The audience enjoy the performance，performance 表表演。",
+      "keywords": ["stage", "performance", "audience", "scene"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U4_007",
+      "name": "表达观感的形容词",
+      "definition": "评价戏剧电影思想情感与观感的常用形容词。",
+      "explanation": "你评价一部作品时用 moving 感人的、boring 无聊的、exciting 激动人心的、impressive 令人印象深刻的等形容词。可说 an impressive performance 一场令人印象深刻的演出。写影评时可把这些能传达主观感受的词放入 be 后或名词前，让评价更有感染力而凸显你的判断。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "评价作品时 moving 与 moved 的主客感受混淆",
+        "exciting 与 bored 词尾 ed 与 ing 用法颠倒",
+        "impressive 与 impress 动词形容词词性混用"
+      ],
+      "example": "[仿题]这场演出令人印象深刻。\n解析：The performance is impressive，impressive 表令人印象深。",
+      "keywords": ["impressive", "moving", "exciting", "观感"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U4_008",
+      "name": "描述电影情节的表达",
+      "definition": "描述电影情节发展与转折进展的常用动词短语。",
+      "explanation": "你复述电影情节时可用 take place 发生、turn out 结果、based on 基于、come out 上映等短语。比如 The story takes place in a small town 故事发生在一座小镇，The film came out last year 电影去年上映。描述剧情发展时用这些短语串联起开头、过程与结局。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "剧情发生误用 happen 却漏掉 take place 与时搭配",
+        "based on 中的 on 误漏掉造成介词缺失",
+        "上映 come out 与结局 turn out 的词义混淆"
+      ],
+      "example": "[仿题]这部电影去年上映。\n解析：The film came out last year，come out 表上映。",
+      "keywords": ["take place", "turn out", "based on", "情节"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U4_009",
+      "name": "such 与 so 的表达用法",
+      "definition": "such 修饰名词与 so 修饰形容词来加强程度的用法区别。",
+      "explanation": "你想强调程度时 such 用于修饰名词，如 such a good film；so 用于修饰形容词或副词，如 so good。是 such a 还是 so 取决于后面修饰的是名词还是形容词。写影评表达赞美时按这个依据选择，避免 such 与 so 混用导致句子别扭而失分。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "修饰形容词时误把 such 当作修饰名言的成份来用",
+        "such a 后接复数名词致单复数搭配出错",
+        "so 直接修饰名词造成词性误配表达别扭"
+      ],
+      "example": "[仿题]它是一部这么好的电影。\n解析：It is such a good film，such 修饰名词短语。",
+      "keywords": ["such", "so", "词性", "程度"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U4_010",
+      "name": "一般过去时叙述电影经历",
+      "definition": "用一般过去时叙述看戏剧电影过往经历的用法。",
+      "explanation": "你回顾一次看戏或看电影的经历时用一般过去时叙述，动词改为过去式，并配 yesterday、last night 等过去状语。比如 Last week I watched a wonderful film 中 watched 表过去。叙述完整经历时保持过去时的一致，让时间线索清晰而不混乱。写影评先叙事再用过去时打底。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "叙述过去看经历时误把动词保留原形不变化",
+        "过去状语与动词时态不匹配造成时间混乱",
+        "中途叙述突然切回现在时破坏事件一致性"
+      ],
+      "example": "[仿题]上周我看了部精彩电影。\n解析：Last week I watched a wonderful film，用过去时叙述。",
+      "keywords": ["一般过去时", "watched", "过去状语", "经历"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U4_011",
+      "name": "表达喜好与推荐句型",
+      "definition": "用动词句型表达对作品的偏好与向他人推荐的方式。",
+      "explanation": "你表达喜欢某部作品可说 I enjoy watching it 或 I'm a big fan of it，推荐时说 you should not miss it 你不能错过。like 后接动名词，want 后接不定式，句型需记牢。写影评分享时先表态再推荐，用这些句型让表达既真诚又有号召力。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "enjoy 后误接动词原形而应接动名词",
+        "想要推荐误用 want 后接名词结构不完整",
+        "like 与 enjoy 后接成分形式选用不一致"
+      ],
+      "example": "[仿题]我喜欢看电影。\n解析：I enjoy watching films，enjoy 后接动名词。",
+      "keywords": ["enjoy", "动名词", "推荐", "喜好"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    },
+    {
+      "id": "YY_WY_G1_B2_U4_012",
+      "name": "形容最高级评价作品",
+      "definition": "用最高级描述对作品整体评价的最优程度的用法。",
+      "explanation": "你评价某部作品为最佳时用最高级，结构为 the 加最高级或 the most 加多音节形容词。比如 the most exciting film I've ever seen 我看过的最激动人心的电影。最高级前用 the 且常配 ever seen 表经历范围。写观影评价用最高级凸显最强感受，语气十分有份量。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "最高级 missing 前的 the 造成冠词遗漏",
+        "多音节词误同时添 the most 与 er 双重叠加",
+        "ever 经历的限定范围被省略造成信息不完整"
+      ],
+      "example": "[仿题]这是我看过最打动人的。\n解析：This is the most moving film I've ever seen，最高级加 ever。",
+      "keywords": ["最高级", "the most", "ever", "作品"],
+      "prerequisites": [],
+      "source_version": "外研版2019"
+    }
+  ]
+}
