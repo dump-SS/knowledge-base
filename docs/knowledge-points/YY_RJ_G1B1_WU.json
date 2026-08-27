@@ -1,0 +1,209 @@
+{
+  "module_path": "英语（人教版2019） 必修 第一册 Welcome Unit",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B1_WU_001",
+      "name": "一般现在时的用法",
+      "definition": "表示经常性动作、习惯、客观事实或当前状态，常与频率副词连用的时态。",
+      "explanation": "你用它来谈日常习惯和客观真理。判断依据不是句子有没有时间词，而是它表达的是不是反复发生的动作或不变的规律。比如 I get up at seven 讲的是每天的习惯，Water boils at 100°C 讲的是客观事实。注意频率副词 always、usually、often 要放在行为动词前、be 动词后。若句子既有动作又有频率副词，往往就该用一般现在时。",
+      "difficulty": 2,
+      "frequency": 5,
+      "typical_errors": [
+        "把客观真理误用过去时，如错写 Water boiled at 100°C",
+        "频率副词放错位置，直接放在句首造成语序错误",
+        "分不清时态，把日常习惯动作误用成过去时或将来时"
+      ],
+      "example": "[仿题]用正确形式填空：He ______ (go) to school by bus every day.\n解析：填 goes，every day 表习惯，主语三单加-s。",
+      "keywords": ["一般现在时", "频率副词", "客观事实", "日常习惯", "习惯动作"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_WU_002",
+      "name": "第三人称单数动词变化规则",
+      "definition": "一般现在时主语为第三人称单数时，动词需按规则加-s或-es的变形方法。",
+      "explanation": "你写句子前先看主语是不是 he、she、it 或单数名词，是就必须改动词。多数动词直接加-s，如 plays、likes；以 s、x、ch、sh、o 结尾加-es，如 watches、goes；辅音字母加 y 结尾把 y 变 i 再加-es，如 study→studies。与其背规则，不如每次动笔都先问自己：主语是三单吗？这句话动词要不要变形。",
+      "difficulty": 2,
+      "frequency": 5,
+      "typical_errors": [
+        "把所有句子主语都当三单或都不当三单，忽略主语单复数",
+        "直接给动词加-s 而不按词尾规则处理，如错写 gos",
+        "变 y 为 i 时忽略前提，看到 y 就乱改，如错写 playies"
+      ],
+      "example": "[仿题]选择：She ______ (watch) TV after school.\n解析：填 watches，三单加-es。",
+      "keywords": ["第三人称单数", "动词变形", "-s规则", "-es规则", "主谓变化"],
+      "prerequisites": ["YY_RJ_G1_B1_WU_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_WU_003",
+      "name": "主谓一致的判断",
+      "definition": "谓语动词的单复数必须与主语一致，不受插入成分干扰的判断原则。",
+      "explanation": "你的原则是找真正的主语再定谓语。做这类题先圈出主语，别被中间隔着的人、地点或介词短语带偏。单数主语配单数动词，复数主语配复数动词。an apple and an orange 是复数，而 every 后面接单数名词仍是单数。遇到可疑成分先用括号括起来，眼不见心不烦，主语就清楚了。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "被名词性插入语干扰，用修饰成分的数来定谓语动词",
+        "看到 and 连接的词就一律当复数，忽略就近原则类特例",
+        "主语从句或 every 结构时判断错误，动词用错单复数"
+      ],
+      "example": "[仿题]A boy with his parents ______ (be) playing there.\n解析：填 is，真正主语是 A boy。",
+      "keywords": ["主谓一致", "谓语动词", "主语识别", "单复数", "就近一致"],
+      "prerequisites": ["YY_RJ_G1_B1_WU_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_WU_004",
+      "name": "人称代词与物主代词的选用",
+      "definition": "根据在句中作主语、宾语还是表所属，正确选择主格、宾格和物主代词的方法。",
+      "explanation": "你看这个词在句中担什么角色。作主语用主格 I、you、he；作宾语（动词或介词后）用宾格 me、him、them；表示某人的用形容词性物主代词 my、his，后面必须接名词。反身代词 myself、himself 只在动作回落到主语自己时用。养成习惯：先问在句中当主语还是宾语，再选格。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把主格误用做宾语，如错写 He saw I",
+        "形容词性物主代词后忘加名词，如错写 this is my",
+        "混淆物主代词与反身代词，在不该用的时候用了 myself"
+      ],
+      "example": "[仿题]This is my sister. I love ______ (she).\n解析：填 her，作 love 宾语用宾格。",
+      "keywords": ["人称代词", "主格宾格", "物主代词", "代词选择", "句中成分"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_WU_005",
+      "name": "一般现在时与现在进行时的区分",
+      "definition": "用一般现在时表习惯、用现在进行时表此刻正在发生的动作的选用规则。",
+      "explanation": "你抓两个信号：一个是状态词 one、these days 提示正在进行；一个时间是 always、every day 提示习惯。现在进行时结构是 be+doing，强调动作还没结束，比如 I am reading now；一般现在时强调习惯或事实，比如 I read every night。遇到 always 修主动词且表抱怨时可现进行，但基础判断先看是否此刻正在发生。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "见到 be 就认为现在进行时，把习惯动作写成 being done",
+        "用一般现在时不加-s，主语三单又忘变形",
+        "把短暂现在动作误用一般现在时，丢失进行时的语感"
+      ],
+      "example": "[仿题]Look! They ______ (play) basketball on the playground.\n解析：填 are playing，Look 提示正在进行。",
+      "keywords": ["一般现在时", "现在进行时", "be+doing", "时态区分", "此刻正在"],
+      "prerequisites": ["YY_RJ_G1_B1_WU_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_WU_006",
+      "name": "自我介绍的基本表达",
+      "definition": "用姓名、年龄、学校与爱好等句型向他人介绍自己的交际表达方式。",
+      "explanation": "你向新同学介绍自己时按顺序给信息：My name is... 说姓名，I'm from... 说来源，I go to... 说学校，I like/love... 说爱好。句式要完整，含谓语动词，别只说碎片化的单词。语言想自然，可以加 Nice to meet you 开头。这是 Welcome Unit 的核心交际任务，考场上作文也常以自我介绍开头。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "自我介绍只说单词短语，句子缺 be 或实义动词",
+        "把 I like 误写成 I liking 或 I am like，动词形式用错",
+        "重复使用同一句型，四处都是 My name is 造成单调"
+      ],
+      "example": "[仿题]根据提示写一句自我介绍：我是李华，来自北京。\n解析：I'm Li Hua from Beijing. 注意介词 from 使用。",
+      "keywords": ["自我介绍", "I'm from", "I like", "My name is", "介绍句型"],
+      "prerequisites": ["YY_RJ_G1_B1_WU_004"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_WU_007",
+      "name": "谈论个人爱好的句型",
+      "definition": "询问和表达喜欢与否所用 like、enjoy 加动名词等结构的固定搭配。",
+      "explanation": "你谈爱好最常用 like/enjoy/love 加动名词或名词，例如 I enjoy reading，I like music。询问别人用 What do you like doing，回答用 He likes playing. 注意 like 后接动词要变-ing 或加 to do，不能直接说 I like play。这是摸底常考点，填空和作文都常考。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "like 后直接接动词原形，如错写 I like play football",
+        "疑问句语序用错，把 What do you doing 写成双动词",
+        "enjoy 后误接 to do，忽略 enjoy doing 的固定搭配"
+      ],
+      "example": "[仿题]I enjoy ______ (read) novels in my free time.\n解析：填 reading，enjoy doing 固定搭配。",
+      "keywords": ["兴趣爱好", "enjoy doing", "like doing", "询问爱好", "固定搭配"],
+      "prerequisites": ["YY_RJ_G1_B1_WU_004"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_WU_008",
+      "name": "校园与学科相关词汇",
+      "definition": "与学校设施、课程与活动相关的常用词汇及搭配的实际运用。",
+      "explanation": "你认识多少校园词决定你能读懂多少校园场景。学校说 school，教学楼说 teaching building，操场是 playground，课程有 math、English、physics、chemistry。学科词的首字母在专有语境常大写，成绩用 grades 或 marks。记词别孤立背，要连搭配一起记，如 take notes 记笔记, attend class 上课。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "混淆学科与场所词汇，把 playground 误当教学楼",
+        "漏掉固定搭配，把 make notes 错当成 take notes",
+        "拼写时学科词首字母该大写不大写，专有语境错误"
+      ],
+      "example": "[仿题]Where do you usually ______ notes in class?\n解析：填 take，固定搭配 take notes 表示记笔记。",
+      "keywords": ["校园词汇", "学科词汇", "固定搭配", "take notes", "场所词"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_WU_009",
+      "name": "be going to 表计划",
+      "definition": "用 is/am/are going to 加动词原形表示打算或预测的结构。",
+      "explanation": "你用 be going to 说已打算好的事或能看出的迹象。结构是 be 动词按主语变化再加 going to 和动词原形，如 I am going to visit my grandparents. 它和 will 都表将来，但 be going to 更强调有准备或计划，而 will 往往是临时决定。判断依据是看语气里有没有事先打算的意思。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "忘记变 be 动词，直接说 I going to 少 is/am/are",
+        "going to 后误接动名词或过去式，未用动词原形",
+        "混淆 be going to 与 will 的语用差别，临时决定也用前者"
+      ],
+      "example": "[仿题]I ______ (visit) the museum next Sunday.\n解析：填 am going to visit，表已计划好的将来。",
+      "keywords": ["be going to", "将来计划", "will 对比", "动词原形", "打算"],
+      "prerequisites": ["YY_RJ_G1_B1_WU_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_WU_010",
+      "name": "简单句的基本结构",
+      "definition": "由主语加谓语谓语部分构成、可含宾语或状语完整表达意义的句子框架。",
+      "explanation": "你把英语句子的骨架记住：主语在前，谓语动词是关键，必须有动词句子才成立。常见结构有主谓、主谓宾、主谓宾宾补等，例如 I study、I like music. 写长句别堆词，先保证主谓齐全，再用状语扩展。遇到句子成分题，先找动词，再反推主语和宾语，答案往往就清楚了。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "写出的句子漏动词，多处只有名词短语不成句",
+        "主谓宾顺序颠倒，把宾语放到主语前面",
+        "把修饰成分误当主干，找不到真正的谓语动词"
+      ],
+      "example": "[仿题]判断句子主干：The tall boy in blue likes playing football.\n解析：主干是 The boy likes football，其余是修饰成分。",
+      "keywords": ["简单句", "句子成分", "主谓宾", "谓语动词", "句子结构"],
+      "prerequisites": ["YY_RJ_G1_B1_WU_004"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_WU_011",
+      "name": "描述人物特征的表达",
+      "definition": "用 be 加形容词和 has 加名词搭配描述人的外貌与性格的方法。",
+      "explanation": "你描述一个人分两条线走：外貌用 be+形容词或 have/has+名词，如 He is tall、She has long hair；性格用 be+形容词，如 He is friendly. 记住固定搭配：build 用 build、hair 用 hair 配形容词，He has a big nose 说五官。写人物描写作文时，把外貌和性格分开讲，句子主谓宾结构要完整，避免碎片表达。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把 has 和 is 混用，用错 be 与 have 描述五官外貌",
+        "描述外貌只堆形容词，缺少 be 或 have 动词",
+        "性格与外貌混在一起写，句子结构混乱无人称呼应"
+      ],
+      "example": "[仿题]用正确形式：My brother ______ tall and strong.\n解析：填 is，描述身高外貌用 be+形容词。",
+      "keywords": ["人物描写", "外貌特征", "性格表达", "be 形容词", "has 名词"],
+      "prerequisites": ["YY_RJ_G1_B1_WU_004"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_WU_012",
+      "name": "新生适应期常用会话口语",
+      "definition": "在认识新同学、请求帮助等场景中使用的礼貌会话句型。",
+      "explanation": "你会在开学季大量用到简单会话。第一次见人用 Nice to meet you；要帮忙说 Could you help me；想认识对方问 May I know your name。口语重语气和完整度，反意表达用 Could you... 比 Can you... 更礼貌。常春试听力或情景对话，记住关键功能句后，遇到场景题按功能匹配即可。",
+      "difficulty": 1,
+      "frequency": 3,
+      "typical_errors": [
+        "把 Can 与 Could 礼貌层级混用，请求语气不够得体",
+        "回答用语错位，用 Nice to see you 混淆见面对用 Nice to meet you",
+        "会话答语不全，只回应单个词显得生硬不礼貌"
+      ],
+      "example": "[仿题]初次见面，对方说 Nice to meet you，你应回答什么？\n解析：答 Nice to meet you too，表示也认识你很高兴。",
+      "keywords": ["日常会话", "礼貌用语", "Nice to meet", "请求帮助", "功能句型"],
+      "prerequisites": ["YY_RJ_G1_B1_WU_006"],
+      "source_version": "人教版2019"
+    }
+  ]
+}
