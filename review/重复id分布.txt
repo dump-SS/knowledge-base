@@ -1,0 +1,20 @@
+重复 id 分布（check_links.py 附带发现，供低置信度筛选时参考）
+=============================================================
+含义：以下文件对的 l2_points 中存在相同 id，即"id"在库内不唯一。
+影响：断链检查按集合去重，仍有效（断链总数 0）；但 review 时按 id 定位知识点会指向多个条目。
+
+重复 id 总数: 67
+文件对（重叠 id 数）:
+  SW_G1B2_JYBD.json / SW_G1B2_JYBZ.json        -> 7 个 id 重叠 (SW_G1_B2_JYBD_001..007)
+  YY_WY_G1B1_U2.json / YY_WY_G1B2_U2.json     -> 12 个 id 重叠 (YY_WY_G1_B2_U2_001..012)
+  YY_WY_G1B1_U3.json / YY_WY_G1B3_U3.json     -> 11 个 id 重叠 (YY_WY_G1_B3_U3_*)
+  YY_WY_G1B1_U4.json / YY_WY_G1B4_U4.json     -> 12 个 id 重叠 (YY_WY_G1_B4_U4_*)
+  YY_WY_G1B1_U5.json / YY_WY_G1B5_U5.json     -> 12 个 id 重叠 (YY_WY_G1_B5_U5_*)
+  YY_WY_G1B1_U6.json / YY_WY_G1B6_U6.json     -> 12 个 id 重叠 (YY_WY_G1_B6_U6_*)
+  YY_WY_G1B3_U3.json / YY_WY_G1B3_U4.json     -> 1 个 id 重叠
+
+观察：
+  - 英语 YY_WY_G1B1_U3..U6 四个文件里的 id 册号写成了 B2/B3/B4/B5/B6（应为 B1），
+    与同单元后续册文件（G1B3_U3、G1B4_U4 等）的 id 撞车 —— 疑似复制模板时未改册号。
+  - 生物 JYBD/JYBZ 两个文件共享 SW_G1_B2_JYBD_* 前缀的 id，疑似知识点重复收录。
+  - 源目录只读，以上仅记录，不做修改。
