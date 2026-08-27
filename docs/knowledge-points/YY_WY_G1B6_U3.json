@@ -14,7 +14,13 @@
         "把关系代词与指示代词混为一谈"
       ],
       "example": "[仿题]The woman ___ lives next door is kind.\n解析：先行词指人且作主语，填 who。",
-      "keywords": ["关系代词", "who", "which", "先行词", "定语从句"],
+      "keywords": [
+        "关系代词",
+        "who",
+        "which",
+        "先行词",
+        "定语从句"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +37,16 @@
         "把 where 误用为关系代词作宾语"
       ],
       "example": "[仿题]This is the school ___ I studied.\n解析：先行词场所作状语，填 where。",
-      "keywords": ["where", "when", "关系副词", "状语", "先行词"],
-      "prerequisites": [],
+      "keywords": [
+        "where",
+        "when",
+        "关系副词",
+        "状语",
+        "先行词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +62,16 @@
         "先行词是物时不敢用 whose 而误用其他词"
       ],
       "example": "[仿题]The boy ___ father is a teacher is smart.\n解析：所属关系后接名词，填 whose。",
-      "keywords": ["whose", "所属关系", "先行词", "名词", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "whose",
+        "所属关系",
+        "先行词",
+        "名词",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +87,16 @@
         "which 与 that 都能用时就完全混淆不加选择"
       ],
       "example": "[仿题]This is all ___ I can give you.\n解析：先行词是不定代词，只能用 that。",
-      "keywords": ["which", "that", "选择", "不定代词", "先行词"],
-      "prerequisites": [],
+      "keywords": [
+        "which",
+        "that",
+        "选择",
+        "不定代词",
+        "先行词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +112,17 @@
         "只凭先行词是时间地点盲目选词不看成分"
       ],
       "example": "[仿题]I know the reason ___ he was late.\n解析：从句缺原因状语，填 why。",
-      "keywords": ["关系代词", "关系副词", "成分判断", "先行词", "where"],
-      "prerequisites": [],
+      "keywords": [
+        "关系代词",
+        "关系副词",
+        "成分判断",
+        "先行词",
+        "where"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U3_001",
+        "YY_WY_G1_B6_U3_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +138,16 @@
         "限制性与非限制性从句混淆使用关系词"
       ],
       "example": "[仿题]The school, ___ has a long history, is famous.\n解析：非限制性且指物，填 which。",
-      "keywords": ["非限制性", "逗号", "which", "补充说明", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "非限制性",
+        "逗号",
+        "which",
+        "补充说明",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,8 +163,16 @@
         "介词的搭配选择错误导致语义不通"
       ],
       "example": "[仿题]The man to ___ I spoke is my uncle.\n解析：介词后用 whom，填 whom。",
-      "keywords": ["介词", "whom", "which", "定语从句", "搭配"],
-      "prerequisites": [],
+      "keywords": [
+        "介词",
+        "whom",
+        "which",
+        "定语从句",
+        "搭配"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -134,7 +189,13 @@
         "peace 与 piece 拼写混淆造成误用"
       ],
       "example": "[仿题]The war caused great ___ to the city.\n解析：指战争造成的破坏，填 damage。",
-      "keywords": ["conflict", "battle", "peace", "suffer", "战争"],
+      "keywords": [
+        "conflict",
+        "battle",
+        "peace",
+        "suffer",
+        "战争"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -151,8 +212,16 @@
         "宾语位置的关系代词该留时也误省"
       ],
       "example": "[仿题]The story ___ told us was true.\n解析：关系代词作宾语可省略，填 he/that。",
-      "keywords": ["先行词", "省略", "宾语", "主语", "关系代词"],
-      "prerequisites": [],
+      "keywords": [
+        "先行词",
+        "省略",
+        "宾语",
+        "主语",
+        "关系代词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -168,8 +237,16 @@
         "先行词复数却用单数谓语的失误"
       ],
       "example": "[仿题]The books that ___ on the desk are new.\n解析：先行词 books 复数，填 are。",
-      "keywords": ["先行词", "谓语", "一致", "单复数", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "先行词",
+        "谓语",
+        "一致",
+        "单复数",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -185,7 +262,13 @@
         "expression 主题下词性转换不区分"
       ],
       "example": "[仿题]People should ___ the hard-won peace.\n解析：珍视和平，填 treasure。",
-      "keywords": ["treasure", "forgive", "peace", "反思", "和平"],
+      "keywords": [
+        "treasure",
+        "forgive",
+        "peace",
+        "反思",
+        "和平"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -203,7 +286,13 @@
         "过渡词使用混乱破坏时间逻辑"
       ],
       "example": "[仿题]Meanwhile, the local people ___ the ruins.\n解析：待遇重建过程，填 rebuilt。",
-      "keywords": ["作文结构", "背景", "经过", "反思", "过渡词"],
+      "keywords": [
+        "作文结构",
+        "背景",
+        "经过",
+        "反思",
+        "过渡词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

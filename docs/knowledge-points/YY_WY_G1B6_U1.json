@@ -15,7 +15,13 @@
         "混淆 suggest 作建议与作暗示时的句式差异"
       ],
       "example": "[仿题]He suggested that we ___ the project at once.\n解析：表建议，从句用 should 加原形，填 should start。",
-      "keywords": ["suggest", "建议从句", "should", "虚拟语气", "宾语从句"],
+      "keywords": [
+        "suggest",
+        "建议从句",
+        "should",
+        "虚拟语气",
+        "宾语从句"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -33,8 +39,16 @@
         "把 require 的宾语从句当成普通宾语从句处理"
       ],
       "example": "[仿题]The rules require that everyone ___ on campus.\n解析：表要求用虚拟，填 should keep。",
-      "keywords": ["demand", "insist", "要求从句", "should", "虚拟语气"],
-      "prerequisites": [],
+      "keywords": [
+        "demand",
+        "insist",
+        "要求从句",
+        "should",
+        "虚拟语气"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -51,8 +65,16 @@
         "在 it is vital 的结构中用了 wrong 的时态"
       ],
       "example": "[仿题]It is essential that we ___ prepared.\n解析：形容词后虚拟，填 should be。",
-      "keywords": ["necessary", "essential", "重要形容词", "虚拟语气", "主语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "necessary",
+        "essential",
+        "重要形容词",
+        "虚拟语气",
+        "主语从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -68,8 +90,16 @@
         "把 wish 从句的虚拟与 hope 从句的真实混为一谈"
       ],
       "example": "[仿题]I wish I ___ more time for reading.\n解析：针对现在的愿望用过去式，填 had。",
-      "keywords": ["wish", "愿望", "虚拟语气", "过去式", "宾语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "wish",
+        "愿望",
+        "虚拟语气",
+        "过去式",
+        "宾语从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -86,8 +116,16 @@
         "把 if 从句与主句的时态搭配弄反"
       ],
       "example": "[仿题]If I ___ you, I would tell the truth.\n解析：与现在事实相反，从句用过去式，填 were。",
-      "keywords": ["if条件句", "were", "would", "虚拟语气", "与现在相反"],
-      "prerequisites": [],
+      "keywords": [
+        "if条件句",
+        "were",
+        "would",
+        "虚拟语气",
+        "与现在相反"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -104,8 +142,16 @@
         "没意识到原形形式就是 should 型虚拟标志"
       ],
       "example": "[仿题]He insisted that the plan ___ changed at once.\n解析：省略 should，填 be。",
-      "keywords": ["should省略", "动词原形", "虚拟语气", "suggest", "insist"],
-      "prerequisites": [],
+      "keywords": [
+        "should省略",
+        "动词原形",
+        "虚拟语气",
+        "suggest",
+        "insist"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -121,7 +167,13 @@
         "把 valuableness 误造词代替名词 value"
       ],
       "example": "[仿题]She truly ___ the time spent with her family.\n解析：作动词表珍视，填 values。",
-      "keywords": ["value", "名词", "动词", "珍视", "词性转换"],
+      "keywords": [
+        "value",
+        "名词",
+        "动词",
+        "珍视",
+        "词性转换"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -139,7 +191,13 @@
         "standard 与 criteria 混用，分不清单数与复数形式"
       ],
       "example": "[仿题]We shouldn't judge people only by their ___.\n解析：指外表相貌，填 appearance。",
-      "keywords": ["appearance", "standard", "opinion", "judge", "价值"],
+      "keywords": [
+        "appearance",
+        "standard",
+        "opinion",
+        "judge",
+        "价值"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -156,7 +214,13 @@
         "把 appearance 与 looks 视为完全等价随意互换"
       ],
       "example": "[仿题]He paid great attention to his ___.\n解析：谈论给人的视觉印象，用 looks。",
-      "keywords": ["appearance", "looks", "外貌", "印象", "词义差异"],
+      "keywords": [
+        "appearance",
+        "looks",
+        "外貌",
+        "印象",
+        "词义差异"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -173,7 +237,13 @@
         "判断依据未放对位置，句子结构错乱"
       ],
       "example": "[仿题]Never ___ others by their appearance alone.\n解析：以貌取人为题，填 judge。",
-      "keywords": ["judge...by", "判断", "标准", "以貌取人", "固定搭配"],
+      "keywords": [
+        "judge...by",
+        "判断",
+        "标准",
+        "以貌取人",
+        "固定搭配"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -190,8 +260,16 @@
         "真实现象也一律用虚拟语气造成错误"
       ],
       "example": "[仿题]She spoke as if she ___ the truth.\n解析：假想不知情，用过去完成式，填 had known。",
-      "keywords": ["as if", "as though", "虚拟语气", "仿佛", "假想"],
-      "prerequisites": [],
+      "keywords": [
+        "as if",
+        "as though",
+        "虚拟语气",
+        "仿佛",
+        "假想"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -208,7 +286,13 @@
         "结尾重复引言全文，没有总结或升华"
       ],
       "example": "[仿题]Firstly, we should ___ not to judge by looks.\n解析：引出论证，填 remember。",
-      "keywords": ["议论文", "结构", "论点", "过渡词", "价值观念"],
+      "keywords": [
+        "议论文",
+        "结构",
+        "论点",
+        "过渡词",
+        "价值观念"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

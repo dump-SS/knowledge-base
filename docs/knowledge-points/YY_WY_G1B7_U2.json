@@ -14,7 +14,13 @@
         "过去推测与现在推测的结构混淆"
       ],
       "example": "[仿题]He must ___ left early.\n解析：对过去推测，填 have。",
-      "keywords": ["情态动词", "have done", "过去推测", "must", "完成时"],
+      "keywords": [
+        "情态动词",
+        "have done",
+        "过去推测",
+        "must",
+        "完成时"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +37,16 @@
         "把握很大却误用不太肯定的 may have done"
       ],
       "example": "[仿题]She must have ___ the secret.\n解析：已发生的过去动作，填 known。",
-      "keywords": ["must have done", "推测", "过去", "一定", "把握"],
-      "prerequisites": [],
+      "keywords": [
+        "must have done",
+        "推测",
+        "过去",
+        "一定",
+        "把握"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +62,16 @@
         "can't have done 中误加 be 造成结构冗余"
       ],
       "example": "[仿题]He can't have ___ the door;it was locked.\n解析：几乎肯定没开，填 opened。",
-      "keywords": ["can't have done", "否定推测", "过去", "不可能", "情态动词"],
-      "prerequisites": [],
+      "keywords": [
+        "can't have done",
+        "否定推测",
+        "过去",
+        "不可能",
+        "情态动词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +87,16 @@
         "could have done 后接动词原形漏掉 have"
       ],
       "example": "[仿题]You could have ___ the chance then.\n解析：本可抓住机会，填 seized。",
-      "keywords": ["could have done", "本可以", "遗憾", "过去", "推测"],
-      "prerequisites": [],
+      "keywords": [
+        "could have done",
+        "本可以",
+        "遗憾",
+        "过去",
+        "推测"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +112,16 @@
         "may 与 might 的把握程度使用颠倒"
       ],
       "example": "[仿题]She might have ___ the point just now.\n解析：只是猜测可能错过，填 missed。",
-      "keywords": ["may have done", "might", "可能", "过去推测", "把握"],
-      "prerequisites": [],
+      "keywords": [
+        "may have done",
+        "might",
+        "可能",
+        "过去推测",
+        "把握"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +137,16 @@
         "否定式与肯定式的语义方向颠倒"
       ],
       "example": "[仿题]You should have ___ earlier.\n解析：本应更早完成，填 finished。",
-      "keywords": ["should have done", "本应", "遗憾", "责备", "过去"],
-      "prerequisites": [],
+      "keywords": [
+        "should have done",
+        "本应",
+        "遗憾",
+        "责备",
+        "过去"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,8 +162,16 @@
         "needn't have done 后漏掉过去分词形式"
       ],
       "example": "[仿题]You needn't have ___ so early.\n解析：本不必早到却早到，填 arrived。",
-      "keywords": ["needn't have done", "本不必", "后悔", "过去", "情态动词"],
-      "prerequisites": [],
+      "keywords": [
+        "needn't have done",
+        "本不必",
+        "后悔",
+        "过去",
+        "情态动词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -134,7 +188,13 @@
         "mature 与 muture 拼写错误"
       ],
       "example": "[仿题]I regret ___ so much time.\n解析：后悔过去已做，填 wasting。",
-      "keywords": ["lesson", "reflection", "cherish", "regret", "人生"],
+      "keywords": [
+        "lesson",
+        "reflection",
+        "cherish",
+        "regret",
+        "人生"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -151,7 +211,13 @@
         "把 regret it 与 regret... 结构混淆"
       ],
       "example": "[仿题]I regret to ___ you the bad news.\n解析：遗憾地告知未发生，填 tell。",
-      "keywords": ["regret", "动名词", "不定式", "后悔", "遗憾"],
+      "keywords": [
+        "regret",
+        "动名词",
+        "不定式",
+        "后悔",
+        "遗憾"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -168,7 +234,13 @@
         "reality 与 realistic 的词性混用"
       ],
       "example": "[仿题]You should face the ___ bravely.\n解析：面对客观现实，填 reality。",
-      "keywords": ["reality", "truth", "现实", "真相", "词义"],
+      "keywords": [
+        "reality",
+        "truth",
+        "现实",
+        "真相",
+        "词义"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -185,8 +257,16 @@
         "把过去推测混为现在推测用时态错误"
       ],
       "example": "[仿题]He ___ have won, but he was careless.\n解析：本可能赢却失误，填 could。",
-      "keywords": ["情态动词", "推测", "把握", "have done", "层次"],
-      "prerequisites": [],
+      "keywords": [
+        "情态动词",
+        "推测",
+        "把握",
+        "have done",
+        "层次"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -203,7 +283,13 @@
         "过渡词使用不当破坏叙事流畅"
       ],
       "example": "[仿题]From this experience, I learned the value of ___.\n解析：从经历得出价值，填 patience。",
-      "keywords": ["作文结构", "经历", "感悟", "启示", "人生"],
+      "keywords": [
+        "作文结构",
+        "经历",
+        "感悟",
+        "启示",
+        "人生"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

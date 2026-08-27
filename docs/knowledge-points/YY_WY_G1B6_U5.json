@@ -15,7 +15,13 @@
         "把 what 引导的主语从句与疑问句混淆"
       ],
       "example": "[仿题]___ he said surprised us all.\n解析：他所说的事作主语，填 What。",
-      "keywords": ["主语从句", "连接词", "what", "that", "句子成分"],
+      "keywords": [
+        "主语从句",
+        "连接词",
+        "what",
+        "that",
+        "句子成分"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -33,8 +39,16 @@
         "连接词多余的增添造成成分多余"
       ],
       "example": "[仿题]I asked ___ he would attend the meeting.\n解析：疑问宾语从句，填 whether。",
-      "keywords": ["宾语从句", "连接词", "whether", "that", "疑问词"],
-      "prerequisites": [],
+      "keywords": [
+        "宾语从句",
+        "连接词",
+        "whether",
+        "that",
+        "疑问词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -50,8 +64,16 @@
         "表语从句的连接词用错造成语义偏差"
       ],
       "example": "[仿题]The trouble is ___ we have no time.\n解析：表语从句，填 that。",
-      "keywords": ["表语从句", "系动词", "that", "what", "连接词"],
-      "prerequisites": [],
+      "keywords": [
+        "表语从句",
+        "系动词",
+        "that",
+        "what",
+        "连接词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -67,8 +89,16 @@
         "先行名词识别错误导致从句归属错位"
       ],
       "example": "[仿题]The news ___ we won cheered us.\n解析：解释 news 的内容，填 that。",
-      "keywords": ["同位语从句", "抽象名词", "that", "说明", "news"],
-      "prerequisites": [],
+      "keywords": [
+        "同位语从句",
+        "抽象名词",
+        "that",
+        "说明",
+        "news"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -84,8 +114,19 @@
         "判断名词性从句时忽略了句子成分的完整性"
       ],
       "example": "[仿题]___ he said remains a question.\n解析：what 引导主语从句，填 What。",
-      "keywords": ["名词性从句", "主语从句", "宾语从句", "表语从句", "同位语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "名词性从句",
+        "主语从句",
+        "宾语从句",
+        "表语从句",
+        "同位语从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U5_001",
+        "YY_WY_G1_B6_U5_002",
+        "YY_WY_G1_B6_U5_003",
+        "YY_WY_G1_B6_U5_004"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -101,8 +142,16 @@
         "what 从句中 what 作主语时却漏写了谓语动词"
       ],
       "example": "[仿题]This is ___ I want to express.\n解析：所表达的内容，填 what。",
-      "keywords": ["what", "名词性从句", "所的内容", "成分", "连接词"],
-      "prerequisites": [],
+      "keywords": [
+        "what",
+        "名词性从句",
+        "所的内容",
+        "成分",
+        "连接词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -118,8 +167,16 @@
         "whether 与 if 互换不区分位置限制"
       ],
       "example": "[仿题]___ she will come doesn't matter.\n解析：句首主语从句只能用 whether，填 Whether。",
-      "keywords": ["whether", "if", "连接词", "主语从句", "宾语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "whether",
+        "if",
+        "连接词",
+        "主语从句",
+        "宾语从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -136,7 +193,13 @@
         "learn from 后漏掉宾语造成残缺"
       ],
       "example": "[仿题]Scientists ___ the way birds fly to design planes.\n解析：模仿自然，填 imitate。",
-      "keywords": ["imitate", "inspire", "生物仿生", "wisdom", "师法自然"],
+      "keywords": [
+        "imitate",
+        "inspire",
+        "生物仿生",
+        "wisdom",
+        "师法自然"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -153,8 +216,15 @@
         "主句谓语与从句内部动词数判断混淆"
       ],
       "example": "[仿题]What he wants ___ freedom.\n解析：从句整体作主语用单数，填 is。",
-      "keywords": ["名词性从句", "主谓一致", "单数谓语", "整体主语"],
-      "prerequisites": [],
+      "keywords": [
+        "名词性从句",
+        "主谓一致",
+        "单数谓语",
+        "整体主语"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -170,8 +240,16 @@
         "as if 引导表语从句时漏掉 be 动词"
       ],
       "example": "[仿题]It seems ___ he has been there.\n解析：表语从句表仿佛，填 as if。",
-      "keywords": ["as if", "表语从句", "仿佛", "虚拟语气", "It seems"],
-      "prerequisites": [],
+      "keywords": [
+        "as if",
+        "表语从句",
+        "仿佛",
+        "虚拟语气",
+        "It seems"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U5_003"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -187,8 +265,16 @@
         "it 后从句的位置放置错误造成表达不畅"
       ],
       "example": "[仿题]It is true ___ he told the truth.\n解析：真正主语是 that 从句，填 that。",
-      "keywords": ["it", "形式主语", "形式宾语", "名词性从句", "外置"],
-      "prerequisites": [],
+      "keywords": [
+        "it",
+        "形式主语",
+        "形式宾语",
+        "名词性从句",
+        "外置"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -205,7 +291,13 @@
         "结尾没有升华到敬畏自然的高度"
       ],
       "example": "[仿题]Nature, as a ___ , teaches us endless wisdom.\n解析：自然作老师，填 teacher。",
-      "keywords": ["议论文", "例证", "仿生", "启示", "自然"],
+      "keywords": [
+        "议论文",
+        "例证",
+        "仿生",
+        "启示",
+        "自然"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

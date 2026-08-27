@@ -14,7 +14,13 @@
         "临时与计划决定混淆时态"
       ],
       "example": "[仿题]The robot ______ (help) us tomorrow.\n解析：填 will help，明天将来动作用 will 加原形。",
-      "keywords": ["一般将来时", "will do", "将来动作", "原形", "预测"],
+      "keywords": [
+        "一般将来时",
+        "will do",
+        "将来动作",
+        "原形",
+        "预测"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "to 后接动词形式错误"
       ],
       "example": "[仿题]They are going ______ (build) a new lab.\n解析：填 to build，be going to 后接动词原形。",
-      "keywords": ["be going to", "计划将来", "事先打算", "to do", "结构"],
-      "prerequisites": [],
+      "keywords": [
+        "be going to",
+        "计划将来",
+        "事先打算",
+        "to do",
+        "结构"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B7_U1_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "进行与完成的语义混淆"
       ],
       "example": "[仿题]By 2030, they will ______ (finish) the project.\n解析：填 have finished，到将来完成用 will have done。",
-      "keywords": ["将来进行", "将来完成", "will have done", "will be doing", "时态"],
-      "prerequisites": [],
+      "keywords": [
+        "将来进行",
+        "将来完成",
+        "will have done",
+        "will be doing",
+        "时态"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B7_U1_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,16 @@
         "推测句中情态后接动词形式错误"
       ],
       "example": "[仿题]The door is locked; he ______ be inside.\n解析：填 may 或 must，据此判断为可能或必定。",
-      "keywords": ["情态动词", "推测", "must", "may", "can't"],
-      "prerequisites": [],
+      "keywords": [
+        "情态动词",
+        "推测",
+        "must",
+        "may",
+        "can't"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B7_U1_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,7 +112,14 @@
         "情态动词后接 to do 误加 to"
       ],
       "example": "[仿题]You ______ (should/can) obey the law.\n解析：填 should 或 must，表达义务与建议。",
-      "keywords": ["情态动词", "能力", "义务", "建议", "can", "must"],
+      "keywords": [
+        "情态动词",
+        "能力",
+        "义务",
+        "建议",
+        "can",
+        "must"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -99,8 +136,16 @@
         "alien 外星人与 foreign 故词混用"
       ],
       "example": "[仿题]______ (AI/Ais) can help with learning.\n解析：填 AI，人工智能，缩写专有用法。",
-      "keywords": ["科幻主题", "AI", "robot", "太空", "未来"],
-      "prerequisites": [],
+      "keywords": [
+        "科幻主题",
+        "AI",
+        "robot",
+        "太空",
+        "未来"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B7_U1_005"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -116,8 +161,16 @@
         "advance 名词动词形式混用"
       ],
       "example": "[仿题]Scientists ______ (create/created) a new robot.\n解析：填 created，创造，过去发生的动作。",
-      "keywords": ["科技动词", "invent", "create", "transform", "创造"],
-      "prerequisites": [],
+      "keywords": [
+        "科技动词",
+        "invent",
+        "create",
+        "transform",
+        "创造"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B7_U1_005"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -133,7 +186,13 @@
         "情节时间线混乱时序不清"
       ],
       "example": "[仿题]When the alarm ______ (ring), we will leave.\n解析：填 rings，主句将来用一般现在时表将来。",
-      "keywords": ["科幻句型", "将来时", "情态动词", "情节发展", "when从句"],
+      "keywords": [
+        "科幻句型",
+        "将来时",
+        "情态动词",
+        "情节发展",
+        "when从句"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +209,13 @@
         "change the way 后接从句结构错误"
       ],
       "example": "[仿题]AI has a big ______ (impact/influence) on life.\n解析：填 impact，影响，have an impact on 搭配。",
-      "keywords": ["科技影响", "impact", "affect", "改变生活", "改善"],
+      "keywords": [
+        "科技影响",
+        "impact",
+        "affect",
+        "改变生活",
+        "改善"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,8 +232,16 @@
         "愿望句缺实现条件显得空洞"
       ],
       "example": "[仿题]I would like ______ (visit) the moon.\n解析：填 to visit，would like to do，想登月。",
-      "keywords": ["愿望表达", "would like", "might", "可能性", "梦想"],
-      "prerequisites": [],
+      "keywords": [
+        "愿望表达",
+        "would like",
+        "might",
+        "可能性",
+        "梦想"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B7_U1_005"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -184,7 +257,13 @@
         "sustainable 拼写漏字母"
       ],
       "example": "[仿题]He wants a ______ (robot/robots) servant.\n解析：填 robot，机器人仆人，单数定语。",
-      "keywords": ["未来设想", "virtual reality", "智慧城市", "机器人", "可持续"],
+      "keywords": [
+        "未来设想",
+        "virtual reality",
+        "智慧城市",
+        "机器人",
+        "可持续"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,8 +280,16 @@
         "推测语气的过去形式配错"
       ],
       "example": "[仿题]He should ______ (have/has) finished it earlier.\n解析：填 have，should have done 表本应完成。",
-      "keywords": ["should have done", "情态动词", "本应做", "遗憾", "过去未成"],
-      "prerequisites": [],
+      "keywords": [
+        "should have done",
+        "情态动词",
+        "本应做",
+        "遗憾",
+        "过去未成"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B7_U1_005"
+      ],
       "source_version": "人教版2019"
     }
   ]

@@ -14,7 +14,13 @@
         "状语与主句间的逻辑词缺失"
       ],
       "example": "[仿题]______ (feel) cold, he put on a coat.\n解析：填 Feeling，主语主动感觉冷，用现在分词。",
-      "keywords": ["现在分词", "作状语", "逻辑主语", "doing", "分词结构"],
+      "keywords": [
+        "现在分词",
+        "作状语",
+        "逻辑主语",
+        "doing",
+        "分词结构"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,7 +37,13 @@
         "过去分词形式写错拼写"
       ],
       "example": "[仿题]______ (compare) with him, I am slower.\n解析：填 Compared，与…相比，被动关系用过去分词。",
-      "keywords": ["过去分词", "作状语", "被动关系", "done", "分词结构"],
+      "keywords": [
+        "过去分词",
+        "作状语",
+        "被动关系",
+        "done",
+        "分词结构"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -48,8 +60,17 @@
         "分词与主句主语不一致成分错误"
       ],
       "example": "[仿题]______ (give) a chance, he would do better.\n解析：填 Given，若给机会，表条件被动。",
-      "keywords": ["分词状语", "条件", "Given", "被动", "假设"],
-      "prerequisites": [],
+      "keywords": [
+        "分词状语",
+        "条件",
+        "Given",
+        "被动",
+        "假设"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B6_U2_001",
+        "YY_RJ_G1_B6_U2_002"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +86,17 @@
         "主动被动改写判断反了"
       ],
       "example": "[仿题]Because she was tired, she stopped → ______.\n解析：Being tired, she stopped，同主语主动。",
-      "keywords": ["改写", "分词状语", "从句简化", "逻辑主语", "主被动"],
-      "prerequisites": [],
+      "keywords": [
+        "改写",
+        "分词状语",
+        "从句简化",
+        "逻辑主语",
+        "主被动"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B6_U2_001",
+        "YY_RJ_G1_B6_U2_002"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,7 +112,13 @@
         "nutrition 与 nutrient 词形混用"
       ],
       "example": "[仿题]A ______ (balance/balanced) diet keeps you healthy.\n解析：填 balanced，均衡的，balanced diet 搭配。",
-      "keywords": ["健康饮食", "balanced diet", "nutrition", "蛋白质", "维生素"],
+      "keywords": [
+        "健康饮食",
+        "balanced diet",
+        "nutrition",
+        "蛋白质",
+        "维生素"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -99,7 +135,13 @@
         "锻炼频度副词位置写错"
       ],
       "example": "[仿题]I ______ (go/goes) jogging every day.\n解析：填 go，go jogging 固定搭配，I 后用原形。",
-      "keywords": ["锻炼词汇", "exercise", "go jogging", "work out", "健身"],
+      "keywords": [
+        "锻炼词汇",
+        "exercise",
+        "go jogging",
+        "work out",
+        "健身"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -116,7 +158,13 @@
         "insomnia 与 sleeping disorder 概念混用"
       ],
       "example": "[仿题]It is hard for me to ______ (asleep/fall) asleep.\n解析：填 fall，fall asleep 入睡，固定搭配。",
-      "keywords": ["睡眠词汇", "fall asleep", "insomnia", "作息规律", "睡够"],
+      "keywords": [
+        "睡眠词汇",
+        "fall asleep",
+        "insomnia",
+        "作息规律",
+        "睡够"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +181,13 @@
         "take a break 中 a 漏写或书写不完整"
       ],
       "example": "[仿题]Take a ______ (break/breaking) when you feel tired.\n解析：填 break，休息，take a break 固定搭配。",
-      "keywords": ["减压放松", "relax", "reduce stress", "take a break", "放松"],
+      "keywords": [
+        "减压放松",
+        "relax",
+        "reduce stress",
+        "take a break",
+        "放松"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +204,13 @@
         "建议内容流于空泛缺具体做法"
       ],
       "example": "[仿题]It is important ______ (keep) a healthy habit.\n解析：填 to keep，It is important to do，保持健康习惯。",
-      "keywords": ["健康建议", "It is important to", "You should", "习惯", "建议句型"],
+      "keywords": [
+        "健康建议",
+        "It is important to",
+        "You should",
+        "习惯",
+        "建议句型"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +227,13 @@
         "junk food 与 junk 食物词义混淆"
       ],
       "example": "[仿题]We have to avoid ______ (stay) up late.\n解析：填 staying，avoid 后接动名词，避免熬夜。",
-      "keywords": ["不良习惯", "stay up late", "skip breakfast", "垃圾食品", "熬夜"],
+      "keywords": [
+        "不良习惯",
+        "stay up late",
+        "skip breakfast",
+        "垃圾食品",
+        "熬夜"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +250,13 @@
         "tired 与 exhausted 程度搭配不当"
       ],
       "example": "[仿题]I feel ______ (energy/energetic) today.\n解析：填 energetic，精力充沛的，形容词作表语。",
-      "keywords": ["身体状态", "energetic", "weak", "tired", "精力"],
+      "keywords": [
+        "身体状态",
+        "energetic",
+        "weak",
+        "tired",
+        "精力"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +273,13 @@
         "give up 与 give in 语义混用"
       ],
       "example": "[仿题]You should get into the habit of ______ (exercise).\n解析：填 exercising，habit of 后接动名词，养成习惯。",
-      "keywords": ["改变习惯", "get into the habit", "cut down on", "开始做", "建议"],
+      "keywords": [
+        "改变习惯",
+        "get into the habit",
+        "cut down on",
+        "开始做",
+        "建议"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

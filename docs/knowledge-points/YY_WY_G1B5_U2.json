@@ -14,7 +14,12 @@
         "同位语从句名词后漏写引导词"
       ],
       "example": "[仿题]the fact ___ he came\n解析：说明事实内容填that。",
-      "keywords": ["同位语从句", "that", "抽象名词", "补充说明"],
+      "keywords": [
+        "同位语从句",
+        "that",
+        "抽象名词",
+        "补充说明"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "同位语从句whether后语序误倒装"
       ],
       "example": "[仿题]the doubt ___ it works\n解析：表是否用whether。",
-      "keywords": ["同位语从句", "whether", "是否", "抽象名词"],
-      "prerequisites": [],
+      "keywords": [
+        "同位语从句",
+        "whether",
+        "是否",
+        "抽象名词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "无法判断连接词在从句中的成分"
       ],
       "example": "[仿题]the idea that he wrote\n解析：明确写作内容填同位语。",
-      "keywords": ["同位语从句", "定语从句", "that", "成分"],
-      "prerequisites": [],
+      "keywords": [
+        "同位语从句",
+        "定语从句",
+        "that",
+        "成分"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "把抽象名词的复数形式误配合复数动词"
       ],
       "example": "[仿题]the belief ___ we can\n解析：解释信念内容填that。",
-      "keywords": ["抽象名词", "同位语", "fact", "belief"],
-      "prerequisites": [],
+      "keywords": [
+        "抽象名词",
+        "同位语",
+        "fact",
+        "belief"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,15 @@
         "省略that后句子的结构含混难辨"
       ],
       "example": "[仿题]the news ___ passed\n解析：同位语that不可省填that。",
-      "keywords": ["同位语", "that", "不可省", "结构完整"],
-      "prerequisites": [],
+      "keywords": [
+        "同位语",
+        "that",
+        "不可省",
+        "结构完整"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +132,15 @@
         "把分割后的从句误作另一独立句子"
       ],
       "example": "[仿题]the plan, we hope, ___ works\n解析：解释计划内容填that。",
-      "keywords": ["同位语", "分割", "位置", "插入语"],
-      "prerequisites": [],
+      "keywords": [
+        "同位语",
+        "分割",
+        "位置",
+        "插入语"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,7 +156,13 @@
         "把make progress误拼成make progresses"
       ],
       "example": "[仿题]She wants to ___ herself.\n解析：提升自我填improve。",
-      "keywords": ["提升", "进步", "习惯", "目标", "努力"],
+      "keywords": [
+        "提升",
+        "进步",
+        "习惯",
+        "目标",
+        "努力"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +179,13 @@
         "把routine与routinely词性混用"
       ],
       "example": "[仿题]Form a ___ of reading.\n解析：养成阅读常规填routine。",
-      "keywords": ["习惯", "练习", "复习", "坚持", "计划"],
+      "keywords": [
+        "习惯",
+        "练习",
+        "复习",
+        "坚持",
+        "计划"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +202,13 @@
         "把discipline名词当动词用错词性"
       ],
       "example": "[仿题]You must manage your ___.\n解析：管理时间填time。",
-      "keywords": ["时间管理", "专注", "坚持", "自律", "安排"],
+      "keywords": [
+        "时间管理",
+        "专注",
+        "坚持",
+        "自律",
+        "安排"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +225,13 @@
         "把adjust误拼成aduest漏j"
       ],
       "example": "[仿题]Ask for some ___.\n解析：寻求反馈填feedback。",
-      "keywords": ["自省", "反馈", "调整", "改进", "反思"],
+      "keywords": [
+        "自省",
+        "反馈",
+        "调整",
+        "改进",
+        "反思"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +248,13 @@
         "把step与steps单复数把握不稳"
       ],
       "example": "[仿题]Set a realistic ___.\n解析：设定现实目标填goal。",
-      "keywords": ["目标", "计划", "步骤", "行动", "实现"],
+      "keywords": [
+        "目标",
+        "计划",
+        "步骤",
+        "行动",
+        "实现"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +271,13 @@
         "把potential误拼成potentional漏a"
       ],
       "example": "[仿题]Believe in your ___.\n解析：相信潜能填potential。",
-      "keywords": ["自信", "相信", "接纳", "成长", "潜能"],
+      "keywords": [
+        "自信",
+        "相信",
+        "接纳",
+        "成长",
+        "潜能"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

@@ -14,7 +14,12 @@
         "与现在完成时混淆，忽略been加ing持续含义"
       ],
       "example": "[仿题]She ___ painting all day.\n解析：强调持续填has been。",
-      "keywords": ["现在完成进行时", "been", "现在分词", "持续性"],
+      "keywords": [
+        "现在完成进行时",
+        "been",
+        "现在分词",
+        "持续性"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "只看有没有for since，忽略话语重心"
       ],
       "example": "[仿题]I have been ___ it.\n解析：强调正在持续填doing。",
-      "keywords": ["时态辨析", "现在完成时", "持续性", "句子重心"],
-      "prerequisites": [],
+      "keywords": [
+        "时态辨析",
+        "现在完成时",
+        "持续性",
+        "句子重心"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "there与be排列顺序颠倒，结构生硬"
       ],
       "example": "[仿题]There ___ many works here.\n解析：复数主语填are。",
-      "keywords": ["there be", "倒装", "主谓一致", "完全倒装"],
-      "prerequisites": [],
+      "keywords": [
+        "there be",
+        "倒装",
+        "主谓一致",
+        "完全倒装"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "here句中误用现在进行时态导致时态错乱"
       ],
       "example": "[仿题]Here ___ your picture.\n解析：名词主语倒装填comes。",
-      "keywords": ["here", "完全倒装", "代词例外", "语序"],
-      "prerequisites": [],
+      "keywords": [
+        "here",
+        "完全倒装",
+        "代词例外",
+        "语序"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U4_003"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,17 @@
         "人称代词为主语仍强行倒装"
       ],
       "example": "[仿题]Here ___ your books.\n解析：复数名词主语填are。",
-      "keywords": ["真正主语", "主谓一致", "代词", "语序", "倒装"],
-      "prerequisites": [],
+      "keywords": [
+        "真正主语",
+        "主谓一致",
+        "代词",
+        "语序",
+        "倒装"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U4_003",
+        "YY_WY_G1_B3_U4_004"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,7 +134,12 @@
         "艺术语境里误用人称代词倒装造成怪异表达"
       ],
       "example": "[仿题]Here ___ the painting!\n解析：强调画作在眼前填is。",
-      "keywords": ["强调", "艺术语篇", "语序", "主谓语序"],
+      "keywords": [
+        "强调",
+        "艺术语篇",
+        "语序",
+        "主谓语序"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -116,7 +156,13 @@
         "把scene与scenery混淆使用场合"
       ],
       "example": "[仿题]The ___ shows a village.\n解析：展示村庄的画填painting。",
-      "keywords": ["油画", "素描", "色彩", "构图", "细节"],
+      "keywords": [
+        "油画",
+        "素描",
+        "色彩",
+        "构图",
+        "细节"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +179,13 @@
         "realistic与reality词性混用不加后缀"
       ],
       "example": "[仿题]The style is very ___.\n解析：风格写实填realistic。",
-      "keywords": ["写实", "抽象", "风格", "生动", "手法"],
+      "keywords": [
+        "写实",
+        "抽象",
+        "风格",
+        "生动",
+        "手法"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +202,13 @@
         "把imagination误当成动词造句"
       ],
       "example": "[仿题]Nature ___ her to paint.\n解析：大自然启发填inspires。",
-      "keywords": ["创作", "灵感", "启发", "想象", "表达"],
+      "keywords": [
+        "创作",
+        "灵感",
+        "启发",
+        "想象",
+        "表达"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +225,13 @@
         "admire与wonder的情感强度混用"
       ],
       "example": "[仿题]We ___ this beautiful art.\n解析：欣赏艺术填appreciate。",
-      "keywords": ["欣赏", "钦佩", "感受", "触动", "感动"],
+      "keywords": [
+        "欣赏",
+        "钦佩",
+        "感受",
+        "触动",
+        "感动"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +248,12 @@
         "把to me位置放错，干扰句子主干"
       ],
       "example": "[仿题]___ my view, it's great.\n解析：在我看来填In。",
-      "keywords": ["主观评价", "I think", "观点", "评论句式"],
+      "keywords": [
+        "主观评价",
+        "I think",
+        "观点",
+        "评论句式"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +270,13 @@
         "museum名词前冠词使用不当"
       ],
       "example": "[仿题]We visited the art ___.\n解析：参观画廊填gallery。",
-      "keywords": ["画廊", "展览", "博物馆", "藏品", "观展"],
+      "keywords": [
+        "画廊",
+        "展览",
+        "博物馆",
+        "藏品",
+        "观展"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

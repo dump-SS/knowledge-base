@@ -14,7 +14,13 @@
         "非限制性从句也误用 that 引导"
       ],
       "example": "[仿题]填空：This is the oldest temple ___ (that/which) we visited。\n解析：最高级必须用 that",
-      "keywords": ["that", "限制性", "定语从句", "最高级", "通用关系词"],
+      "keywords": [
+        "that",
+        "限制性",
+        "定语从句",
+        "最高级",
+        "通用关系词"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "把 which 用于指人先行词"
       ],
       "example": "[仿题]填空：the temple at ___ which we prayed。\n解析：pray at 用 at which",
-      "keywords": ["which", "指物", "介词提前", "介词加which", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "which",
+        "指物",
+        "介词提前",
+        "介词加which",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U1_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "作主语的 who 与作宾语的 whom 混淆"
       ],
       "example": "[仿题]填空：The man ___ (whom/who) we met is a guide。\n解析：作宾语介词对象用 whom",
-      "keywords": ["who", "whom", "指人", "介词提前", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "who",
+        "whom",
+        "指人",
+        "介词提前",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U1_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,16 @@
         "whose 后误接动词而不接名词"
       ],
       "example": "[仿题]填空：The town ___ (whose/of which) walls remain is ancient。\n解析：所属关系用 whose",
-      "keywords": ["whose", "of which", "所属", "定语", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "whose",
+        "of which",
+        "所属",
+        "定语",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U1_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,8 +112,17 @@
         "非限制性从句中错省略关系词"
       ],
       "example": "[仿题]改写：The wall that we saw。\n解析：作宾语，可省为 The wall we saw",
-      "keywords": ["省略", "作宾语", "限制性", "关系代词", "口语"],
-      "prerequisites": [],
+      "keywords": [
+        "省略",
+        "作宾语",
+        "限制性",
+        "关系代词",
+        "口语"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U1_003",
+        "YY_RJ_G1_B2_U1_004"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -99,8 +138,16 @@
         "which 指代整句时被误当指代名词"
       ],
       "example": "[仿题]填空：The tower，___ (which/that) stands tall，is old。\n解析：逗号后不用 that 用 which",
-      "keywords": ["非限制性", "逗号", "which", "整句指代", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "非限制性",
+        "逗号",
+        "which",
+        "整句指代",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U1_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -116,7 +163,13 @@
         "restore 拼写漏字母"
       ],
       "example": "[仿题]选词：修护古桥用 ___（restore/protect）。\n解析：修复还原用 restore",
-      "keywords": ["heritage", "preserve", "protect", "restore", "文化遗产"],
+      "keywords": [
+        "heritage",
+        "preserve",
+        "protect",
+        "restore",
+        "文化遗产"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +186,13 @@
         "damage 动词名词词形混用"
       ],
       "example": "[仿题]填空：The site is ___ (threaten) by pollution。\n解析：被动用 threatened",
-      "keywords": ["damage", "threaten", "at risk", "威胁", "破坏"],
+      "keywords": [
+        "damage",
+        "threaten",
+        "at risk",
+        "威胁",
+        "破坏"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +209,13 @@
         "contribute to 后误接动词原形"
       ],
       "example": "[仿题]填空：取救了，很多志愿者 ___（take part）in 修复。\n解析：参加用 took part",
-      "keywords": ["take part in", "be involved in", "contribute to", "参与", "保护行动"],
+      "keywords": [
+        "take part in",
+        "be involved in",
+        "contribute to",
+        "参与",
+        "保护行动"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +232,13 @@
         "把 value 误当可数名词加复数"
       ],
       "example": "[仿题]填空：这栋楼 ___(be of) great value。\n解析：of 后接抽象名词，is of",
-      "keywords": ["be of great value", "of 结构", "价值", "抽象名词", "地道表达"],
+      "keywords": [
+        "be of great value",
+        "of 结构",
+        "价值",
+        "抽象名词",
+        "地道表达"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +255,13 @@
         "把 rebuild 拼写成 rebuid 少字母"
       ],
       "example": "[仿题]选词：重新建造古城用 ___（rebuild/restore）。\n解析：重建用 rebuild",
-      "keywords": ["rebuild", "restore", "recover", "重建", "复原"],
+      "keywords": [
+        "rebuild",
+        "restore",
+        "recover",
+        "重建",
+        "复原"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +278,13 @@
         "artefact 拼写漏字母"
       ],
       "example": "[仿题]选词：这座古遗址是文化 ___（site/relics）。\n解析：遗址用地名 site",
-      "keywords": ["heritage site", "remains", "relics", "artefact", "遗址"],
+      "keywords": [
+        "heritage site",
+        "remains",
+        "relics",
+        "artefact",
+        "遗址"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

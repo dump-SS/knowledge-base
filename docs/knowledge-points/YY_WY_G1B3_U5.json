@@ -14,7 +14,12 @@
         "把过去分词短语与其他非谓语形式混用分不清"
       ],
       "example": "[仿题]___ by his words, she left.\n解析：被动伴随离开，填Deeply moved。",
-      "keywords": ["过去分词", "时间状语", "被动", "从句省略"],
+      "keywords": [
+        "过去分词",
+        "时间状语",
+        "被动",
+        "从句省略"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "把原因状语被动写成主动，语义颠倒"
       ],
       "example": "[仿题]___ with cold, he shook.\n解析：因寒冷而发抖，填Shaken。",
-      "keywords": ["过去分词", "原因状语", "被动", "because"],
-      "prerequisites": [],
+      "keywords": [
+        "过去分词",
+        "原因状语",
+        "被动",
+        "because"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "把过去分词条件与现在分词条件混淆"
       ],
       "example": "[仿题]___ more time, I'd finish.\n解析：如果被给予填Given。",
-      "keywords": ["过去分词", "条件状语", "if从句", "被动"],
-      "prerequisites": [],
+      "keywords": [
+        "过去分词",
+        "条件状语",
+        "if从句",
+        "被动"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "把though与过去分词结构重复叠加，句子冗余"
       ],
       "example": "[仿题]___ tired, he went on.\n解析：虽疲惫仍继续，填Exhausted。",
-      "keywords": ["过去分词", "让步状语", "被动", "though"],
-      "prerequisites": [],
+      "keywords": [
+        "过去分词",
+        "让步状语",
+        "被动",
+        "though"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,18 @@
         "未审主句主语直接填，导致主语承接出错"
       ],
       "example": "[仿题]___ by the tree, the dog sat.\n解析：狗被绑于树填Tied。",
-      "keywords": ["逻辑主语", "被动", "悬空分词", "一致性"],
-      "prerequisites": [],
+      "keywords": [
+        "逻辑主语",
+        "被动",
+        "悬空分词",
+        "一致性"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U5_001",
+        "YY_WY_G1_B3_U5_002",
+        "YY_WY_G1_B3_U5_003",
+        "YY_WY_G1_B3_U5_004"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +135,15 @@
         "given that与considering混用动词形式"
       ],
       "example": "[仿题]___ with last year, it's better.\n解析：与去年相比填Compared。",
-      "keywords": ["过去分词", "固定语块", "compared with", "独立成分"],
-      "prerequisites": [],
+      "keywords": [
+        "过去分词",
+        "固定语块",
+        "compared with",
+        "独立成分"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U5_005"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,7 +159,13 @@
         "把bravery这种名词当形容词放在be后"
       ],
       "example": "[仿题]Their ___ across the desert began.\n解析：横穿沙漠远征填expedition。",
-      "keywords": ["冒险", "远征", "攀登", "探索", "勇敢"],
+      "keywords": [
+        "冒险",
+        "远征",
+        "攀登",
+        "探索",
+        "勇敢"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +182,13 @@
         "obstacles单复数理解不当，误丢复数后缀"
       ],
       "example": "[仿题]She overcame many ___.\n解析：克服障碍用复数填obstacles。",
-      "keywords": ["挑战", "克服", "决心", "毅力", "障碍"],
+      "keywords": [
+        "挑战",
+        "克服",
+        "决心",
+        "毅力",
+        "障碍"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +205,13 @@
         "finally与finally后面的过去时态搭配错乱"
       ],
       "example": "[仿题]___ we reached the top.\n解析：最终到达用过去时填Finally。",
-      "keywords": ["时间顺序", "连词", "空间转换", "记叙", "过渡"],
+      "keywords": [
+        "时间顺序",
+        "连词",
+        "空间转换",
+        "记叙",
+        "过渡"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +228,13 @@
         "amazed作谓语而误当成主动语态"
       ],
       "example": "[仿题]___ amazing the view is!\n解析：强调形容词用How。",
-      "keywords": ["感叹句", "惊讶", "amazed", "惊叹", "现场感"],
+      "keywords": [
+        "感叹句",
+        "惊讶",
+        "amazed",
+        "惊叹",
+        "现场感"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +251,12 @@
         "把to do写成doing形式，不定式搭配失误"
       ],
       "example": "[仿题]It is great ___ together.\n解析：一起很棒的用to work。",
-      "keywords": ["形式主语", "不定式", "教育意义", "句式"],
+      "keywords": [
+        "形式主语",
+        "不定式",
+        "教育意义",
+        "句式"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +273,13 @@
         "把helmet当成动词用，词性理解错误"
       ],
       "example": "[仿题]Wear a ___ for safety.\n解析：戴头盔填helmet。",
-      "keywords": ["装备", "头盔", "指南针", "急救", "安全"],
+      "keywords": [
+        "装备",
+        "头盔",
+        "指南针",
+        "急救",
+        "安全"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

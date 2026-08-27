@@ -14,7 +14,13 @@
         "多从句并存时快速跳跃导致目不接"
       ],
       "example": "[仿题]分类：He knows that the man who came is kind.\n解析：that 宾语从句内有 who 定语从句。",
-      "keywords": ["从句", "综合", "名词性从句", "定语从句", "状语从句"],
+      "keywords": [
+        "从句",
+        "综合",
+        "名词性从句",
+        "定语从句",
+        "状语从句"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +37,16 @@
         "多层结构嵌套后逻辑不清"
       ],
       "example": "[仿题]___ the work (that) he had, he left.\n解析：先完成再离开，填 Having done。",
-      "keywords": ["非谓语", "从句", "组合", "分词", "综合"],
-      "prerequisites": [],
+      "keywords": [
+        "非谓语",
+        "从句",
+        "组合",
+        "分词",
+        "综合"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +62,17 @@
         "修饰成分分析过细反而乱了主干"
       ],
       "example": "[仿题]主干提取：The idea that he proposed which seems new is great.\n解析：主干是 The idea is great。",
-      "keywords": ["长句", "主干", "结构分析", "从句", "整体思维"],
-      "prerequisites": [],
+      "keywords": [
+        "长句",
+        "主干",
+        "结构分析",
+        "从句",
+        "整体思维"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U5_001",
+        "YY_WY_G1_B7_U5_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +88,16 @@
         "综合运用时语义重点不突出"
       ],
       "example": "[仿题]Never ___ I met such a strange thing.\n解析：否定词倒装，填 did。",
-      "keywords": ["强调句", "倒装", "语势", "综合", "否定词"],
-      "prerequisites": [],
+      "keywords": [
+        "强调句",
+        "倒装",
+        "语势",
+        "综合",
+        "否定词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +113,16 @@
         "被动结构与时态组合错误"
       ],
       "example": "[仿题]The novel ___ (write) by him last year.\n解析：过去被动，填 was written。",
-      "keywords": ["时态", "语态", "语境", "被动", "综合判断"],
-      "prerequisites": [],
+      "keywords": [
+        "时态",
+        "语态",
+        "语境",
+        "被动",
+        "综合判断"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +138,16 @@
         "were 在虚拟中误用为 was"
       ],
       "example": "[仿题]If he ___ known earlier, he would have come.\n解析：与过去相反用 past perfect，填 had。",
-      "keywords": ["虚拟语气", "if条件句", "与过去相反", "were", "愿望"],
-      "prerequisites": [],
+      "keywords": [
+        "虚拟语气",
+        "if条件句",
+        "与过去相反",
+        "were",
+        "愿望"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,8 +163,16 @@
         "义务与推测语义未分开判断"
       ],
       "example": "[仿题]You ___ finish your homework first.\n解析：表应该，填 should。",
-      "keywords": ["情态动词", "推测", "能力", "义务", "选择"],
-      "prerequisites": [],
+      "keywords": [
+        "情态动词",
+        "推测",
+        "能力",
+        "义务",
+        "选择"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -134,7 +189,13 @@
         "phenomenon 复数形式记忆错误"
       ],
       "example": "[仿题]Scientists ___ the unknown deep sea.\n解析：探索深海，填 explore。",
-      "keywords": ["explore", "mystery", "unknown", "discover", "探索"],
+      "keywords": [
+        "explore",
+        "mystery",
+        "unknown",
+        "discover",
+        "探索"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -151,7 +212,13 @@
         "discover 与 invent 的分界记不清"
       ],
       "example": "[仿题]Edison ___ the light bulb.\n解析：新发明用 invent，填 invented。",
-      "keywords": ["discover", "invent", "发现", "发明", "词义"],
+      "keywords": [
+        "discover",
+        "invent",
+        "发现",
+        "发明",
+        "词义"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -169,8 +236,22 @@
         "主谓一致错误被忽略"
       ],
       "example": "[仿题]上下文：Yesterday he ___ (go) home early.\n解析：过去时间用过去式，填 went。",
-      "keywords": ["上下文", "判断", "时态", "结构", "主谓一致"],
-      "prerequisites": [],
+      "keywords": [
+        "上下文",
+        "判断",
+        "时态",
+        "结构",
+        "主谓一致"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U5_001",
+        "YY_WY_G1_B7_U5_002",
+        "YY_WY_G1_B7_U5_003",
+        "YY_WY_G1_B7_U5_004",
+        "YY_WY_G1_B7_U5_005",
+        "YY_WY_G1_B7_U5_006",
+        "YY_WY_G1_B7_U5_007"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -187,7 +268,13 @@
         "营造悬念时词汇使用不当"
       ],
       "example": "[仿题]___ drives us to learn more.\n解析：好奇心驱使探索，填 Curiosity。",
-      "keywords": ["curiosity", "mysterious", "未知", "神秘", "探索"],
+      "keywords": [
+        "curiosity",
+        "mysterious",
+        "未知",
+        "神秘",
+        "探索"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -205,7 +292,13 @@
         "过渡词使用不当破坏悬念节奏"
       ],
       "example": "[仿题]To begin with, the cave was ___ mysterious.\n解析：营造未知氛围，填 completely。",
-      "keywords": ["作文结构", "悬念", "探索", "启示", "未知"],
+      "keywords": [
+        "作文结构",
+        "悬念",
+        "探索",
+        "启示",
+        "未知"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

@@ -14,7 +14,13 @@
         "否定式写错位置，写成 not 加不加 to 的混乱"
       ],
       "example": "[仿题]___ more about the future, he read many books.\n解析：表目的，填 To learn。",
-      "keywords": ["不定式", "目的状语", "to", "in order to", "目的"],
+      "keywords": [
+        "不定式",
+        "目的状语",
+        "to",
+        "in order to",
+        "目的"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,7 +37,13 @@
         "动名词与不定式作主语时混用不区分语义"
       ],
       "example": "[仿题]___ a new language is challenging.\n解析：表抽象行为，填 Learning。",
-      "keywords": ["动名词", "主语", "抽象行为", "谓语单数", "ing"],
+      "keywords": [
+        "动名词",
+        "主语",
+        "抽象行为",
+        "谓语单数",
+        "ing"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -48,7 +60,13 @@
         "没有区分补语语义的完整与进行"
       ],
       "example": "[仿题]I heard the children ___ happily.\n解析：主动进行用现在分词，填 singing。",
-      "keywords": ["非谓语", "宾语补足语", "感官动词", "现在分词", "不定式"],
+      "keywords": [
+        "非谓语",
+        "宾语补足语",
+        "感官动词",
+        "现在分词",
+        "不定式"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -65,8 +83,18 @@
         "forget 后动名词与不定式互换不区分"
       ],
       "example": "[仿题]He stopped ___ to answer the phone.\n解析：停下手头事去接电话，填 to do。",
-      "keywords": ["动名词", "不定式", "remember", "stop", "forget"],
-      "prerequisites": [],
+      "keywords": [
+        "动名词",
+        "不定式",
+        "remember",
+        "stop",
+        "forget"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U4_001",
+        "YY_WY_G1_B6_U4_002",
+        "YY_WY_G1_B6_U4_003"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +110,16 @@
         "分词前加 because 造成连词多余"
       ],
       "example": "[仿题]___ late, he missed the bus.\n解析：主动原因，填 Being。",
-      "keywords": ["原因状语", "分词", "主动", "被动", "逻辑主语"],
-      "prerequisites": [],
+      "keywords": [
+        "原因状语",
+        "分词",
+        "主动",
+        "被动",
+        "逻辑主语"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U4_003"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +135,16 @@
         "结果状语与目的状语混淆分不清"
       ],
       "example": "[仿题]He worked hard only ___ nothing.\n解析：意外结果用不定式，填 to get。",
-      "keywords": ["结果状语", "不定式", "分词", "意外", "自然"],
-      "prerequisites": [],
+      "keywords": [
+        "结果状语",
+        "不定式",
+        "分词",
+        "意外",
+        "自然"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U4_003"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,8 +160,18 @@
         "分词的否定式漏掉 not 直接用了肯定形式"
       ],
       "example": "[仿题]___ what to do, he asked for help.\n解析：否定分词，填 Not knowing。",
-      "keywords": ["否定式", "not", "非谓语", "不定式", "分词"],
-      "prerequisites": [],
+      "keywords": [
+        "否定式",
+        "not",
+        "非谓语",
+        "不定式",
+        "分词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U4_001",
+        "YY_WY_G1_B6_U4_002",
+        "YY_WY_G1_B6_U4_003"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -134,7 +188,13 @@
         "AI 全称 artificial intelligence 拼写错误"
       ],
       "example": "[仿题]It is hard to ___ what life will be like.\n解析：预见未来，填 predict。",
-      "keywords": ["predict", "foresee", "vision", "AI", "未来"],
+      "keywords": [
+        "predict",
+        "foresee",
+        "vision",
+        "AI",
+        "未来"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -151,7 +211,13 @@
         "glimpse 与 glance 混淆不分短暂与快速"
       ],
       "example": "[仿题]I caught a ___ of the famous actor.\n解析：无意瞥见，填 glimpse。",
-      "keywords": ["glimpse", "look", "瞥见", "主动看", "辨析"],
+      "keywords": [
+        "glimpse",
+        "look",
+        "瞥见",
+        "主动看",
+        "辨析"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -169,7 +235,13 @@
         "举例不具体，空泛谈论科技影响"
       ],
       "example": "[仿题]On the one hand, AI makes life more ___.\n解析：科技带来的便利，填 convenient。",
-      "keywords": ["议论文", "科技", "利弊", "展望", "未来"],
+      "keywords": [
+        "议论文",
+        "科技",
+        "利弊",
+        "展望",
+        "未来"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -186,8 +258,16 @@
         "把条件状语与原因状语混淆"
       ],
       "example": "[仿题]___ more carefully, the work would be perfect.\n解析：工作被做，填 Done。",
-      "keywords": ["条件状语", "分词", "主动", "被动", "if从句"],
-      "prerequisites": [],
+      "keywords": [
+        "条件状语",
+        "分词",
+        "主动",
+        "被动",
+        "if从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U4_003"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -203,7 +283,13 @@
         "非谓语时态与主句谓语时态不一致"
       ],
       "example": "[仿题]___ the exam, he relaxed.\n解析：先完成考试，用完成式，填 Having passed。",
-      "keywords": ["非谓语", "时态", "语态", "完成式", "被动"],
+      "keywords": [
+        "非谓语",
+        "时态",
+        "语态",
+        "完成式",
+        "被动"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

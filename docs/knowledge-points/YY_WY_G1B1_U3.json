@@ -14,7 +14,12 @@
         "表建议时把 should 与 need 的用法混为一谈"
       ],
       "example": "[仿题]你应该帮助父母。\n解析：You should help your parents，should 后接动词原形。",
-      "keywords": ["should", "建议", "情态动词", "应该"],
+      "keywords": [
+        "should",
+        "建议",
+        "情态动词",
+        "应该"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "ought to 后误接动词过去式而应用原形"
       ],
       "example": "[仿题]你应该诚实。\n解析：You ought to be honest，ought to 后接动词原形。",
-      "keywords": ["ought to", "义务", "建议", "否定形式"],
-      "prerequisites": [],
+      "keywords": [
+        "ought to",
+        "义务",
+        "建议",
+        "否定形式"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "把 have to 与人称变化错误参照情态动词处理"
       ],
       "example": "[仿题]他必须参加家庭聚会。\n解析：He has to attend it，第三人称单数用 has to。",
-      "keywords": ["have to", "has to", "客观义务", "人称变化"],
-      "prerequisites": [],
+      "keywords": [
+        "have to",
+        "has to",
+        "客观义务",
+        "人称变化"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "must 与 should 的强制与建议程度颠倒"
       ],
       "example": "[仿题]你必须完成作业。\n解析：You must finish the homework，must 表强烈义务。",
-      "keywords": ["must", "should", "语气", "义务"],
-      "prerequisites": [],
+      "keywords": [
+        "must",
+        "should",
+        "语气",
+        "义务"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,18 @@
         "复合谓语中误出现第二个情态动词叠用"
       ],
       "example": "[仿题]你应该准时到场。\n解析：You should be on time，情态动词后接 be 原形。",
-      "keywords": ["情态动词", "行为动词", "原形", "复合谓语"],
-      "prerequisites": [],
+      "keywords": [
+        "情态动词",
+        "行为动词",
+        "原形",
+        "复合谓语"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U3_001",
+        "YY_WY_G1_B3_U3_002",
+        "YY_WY_G1_B3_U3_003",
+        "YY_WY_G1_B3_U3_004"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,7 +135,12 @@
         "表达尊重 respect 时误忘记其动词与名词词性区别"
       ],
       "example": "[仿题]我们家充满温馨。\n解析：Our family is full of harmony，harmony 表和谐。",
-      "keywords": ["harmony", "relative", "respect", "support"],
+      "keywords": [
+        "harmony",
+        "relative",
+        "respect",
+        "support"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -116,7 +157,12 @@
         "争吵 argue with 之后漏接表示对象的宾语"
       ],
       "example": "[仿题]我们周末常团聚。\n解析：We often get together at weekends，get together 表团聚。",
-      "keywords": ["get together", "care about", "take care of", "argue"],
+      "keywords": [
+        "get together",
+        "care about",
+        "take care of",
+        "argue"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +179,12 @@
         "尊重长辈表达时漏写 respect 后的宾语"
       ],
       "example": "[仿题]我们当尊重长辈。\n解析：We should respect the elders，用 respect 接宾语。",
-      "keywords": ["generation", "the elderly", "teenager", "respect"],
+      "keywords": [
+        "generation",
+        "the elderly",
+        "teenager",
+        "respect"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +201,13 @@
         "物主代词后漏写名词造成成分不完整"
       ],
       "example": "[仿题]这是我的父亲。\n解析：This is my father，my 后接名词表归属。",
-      "keywords": ["物主代词", "my", "his", "her", "归属"],
+      "keywords": [
+        "物主代词",
+        "my",
+        "his",
+        "her",
+        "归属"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,8 +224,15 @@
         "各个建议句式之间的语气适用场景区分不清"
       ],
       "example": "[仿题]为什么不加入我们？\n解析：Why not join us? Why not 后接动词原形。",
-      "keywords": ["建议句式", "Why not", "How about", "委婉"],
-      "prerequisites": [],
+      "keywords": [
+        "建议句式",
+        "Why not",
+        "How about",
+        "委婉"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -184,7 +248,12 @@
         "不可数名词做主语时误接复数动词形式"
       ],
       "example": "[仿题]我的父母很和善。\n解析：My parents are kind，复数主语配复数谓语。",
-      "keywords": ["单复数", "主谓一致", "parents", "谓语"],
+      "keywords": [
+        "单复数",
+        "主谓一致",
+        "parents",
+        "谓语"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +270,12 @@
         "先说一般现在后文却跳成过去时切换不当"
       ],
       "example": "[仿题]妈妈常做晚饭。\n解析：My mother often cooks dinner，单三加s。",
-      "keywords": ["一般现在时", "习惯", "单三", "家庭成员"],
+      "keywords": [
+        "一般现在时",
+        "习惯",
+        "单三",
+        "家庭成员"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

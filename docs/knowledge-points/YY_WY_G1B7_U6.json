@@ -14,7 +14,13 @@
         "指代不明导致前后句脱节"
       ],
       "example": "[仿题]He failed; ___, he kept trying.\n解析：转折衔接，填 however。",
-      "keywords": ["衔接", "连接词", "指代", "连贯", "语篇"],
+      "keywords": [
+        "衔接",
+        "连接词",
+        "指代",
+        "连贯",
+        "语篇"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +37,16 @@
         "指代对象随语境变化而错位"
       ],
       "example": "[仿题]The rocket lifted off; ___ went into orbit.\n解析：it 指代 rocket，填 it。",
-      "keywords": ["指代", "实词", "代词", "呼应", "衔接"],
-      "prerequisites": [],
+      "keywords": [
+        "指代",
+        "实词",
+        "代词",
+        "呼应",
+        "衔接"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +62,16 @@
         "连接词位置放错导致层次不清"
       ],
       "example": "[仿题]It rained; ___, the picnic was postponed.\n解析：表结果填 therefore。",
-      "keywords": ["因果关系", "转折", "therefore", "however", "过渡"],
-      "prerequisites": [],
+      "keywords": [
+        "因果关系",
+        "转折",
+        "therefore",
+        "however",
+        "过渡"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +87,16 @@
         "否定词放中间而非句首却误倒装"
       ],
       "example": "[仿题]Never ___ I changed my mind.\n解析：never 开头倒装，填 have。",
-      "keywords": ["倒装", "否定词", "部分倒装", "never", "语序"],
-      "prerequisites": [],
+      "keywords": [
+        "倒装",
+        "否定词",
+        "部分倒装",
+        "never",
+        "语序"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +112,16 @@
         "倒装的语序与助动词搭配错"
       ],
       "example": "[仿题]Only in this way ___ succeed.\n解析：only 加状语倒装，填 can we。",
-      "keywords": ["only", "倒装", "状语", "部分倒装", "强调"],
-      "prerequisites": [],
+      "keywords": [
+        "only",
+        "倒装",
+        "状语",
+        "部分倒装",
+        "强调"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U6_004"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +137,16 @@
         "neither 后用了错误的助动词"
       ],
       "example": "[仿题]She can swim; so ___ I.\n解析：肯定也如此，填 can。",
-      "keywords": ["so", "neither", "倒装", "承接", "同一"],
-      "prerequisites": [],
+      "keywords": [
+        "so",
+        "neither",
+        "倒装",
+        "承接",
+        "同一"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U6_004"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,8 +162,16 @@
         "方位副词提前却不倒装"
       ],
       "example": "[仿题]___ goes the signal to the station.\n解析：方位副词倒装，填 There。",
-      "keywords": ["完全倒装", "方位副词", "there", "主语位置", "语序"],
-      "prerequisites": [],
+      "keywords": [
+        "完全倒装",
+        "方位副词",
+        "there",
+        "主语位置",
+        "语序"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U6_004"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -134,7 +188,13 @@
         "surface 与其他表面词混用"
       ],
       "example": "[仿题]The rocket will ___ next week.\n解析：火箭发射，填 launch。",
-      "keywords": ["launch", "astronaut", "orbit", "space station", "探索"],
+      "keywords": [
+        "launch",
+        "astronaut",
+        "orbit",
+        "space station",
+        "探索"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -152,7 +212,13 @@
         "天体名词的复数形式错误"
       ],
       "example": "[仿题]The Earth is a ___ in the solar system.\n解析：地球是行星，填 planet。",
-      "keywords": ["planet", "star", "solar system", "galaxy", "天体"],
+      "keywords": [
+        "planet",
+        "star",
+        "solar system",
+        "galaxy",
+        "天体"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -169,8 +235,18 @@
         "改错时忽略上下文时态趋势"
       ],
       "example": "[仿题]语篇检查：She studies hard; she ___ well.\n解析：与 studies 一致用现在式，填 works。",
-      "keywords": ["时态一致", "语篇", "呼应", "时间标志", "连贯"],
-      "prerequisites": [],
+      "keywords": [
+        "时态一致",
+        "语篇",
+        "呼应",
+        "时间标志",
+        "连贯"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U6_001",
+        "YY_WY_G1_B7_U6_002",
+        "YY_WY_G1_B7_U6_003"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -186,8 +262,18 @@
         "对比与补充的关系选词出错"
       ],
       "example": "[仿题]___ , it is important to protect the environment.\n解析：补充句用 besides 或 also。",
-      "keywords": ["承接词", "段落", "besides", "对比", "总结"],
-      "prerequisites": [],
+      "keywords": [
+        "承接词",
+        "段落",
+        "besides",
+        "对比",
+        "总结"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U6_001",
+        "YY_WY_G1_B7_U6_002",
+        "YY_WY_G1_B7_U6_003"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -204,7 +290,13 @@
         "高级句式堆砌显得生硬"
       ],
       "example": "[仿题]In recent years, space ___ has developed fast.\n解析：指太空探索，填 exploration。",
-      "keywords": ["作文结构", "太空", "意义", "展望", "过渡词"],
+      "keywords": [
+        "作文结构",
+        "太空",
+        "意义",
+        "展望",
+        "过渡词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

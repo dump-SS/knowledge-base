@@ -14,7 +14,13 @@
         "把主语从句谓语配成复数"
       ],
       "example": "[仿题]___ she said is surprising.\n解析：含what疑问填What。",
-      "keywords": ["主语从句", "that", "whether", "疑问词", "谓语"],
+      "keywords": [
+        "主语从句",
+        "that",
+        "whether",
+        "疑问词",
+        "谓语"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +37,15 @@
         "该用单数却沿用主句别的主语时态"
       ],
       "example": "[仿题]What they did ___ me.\n解析：整体作主语用单数填impresses。",
-      "keywords": ["主语从句", "单数谓语", "整体", "主谓一致"],
-      "prerequisites": [],
+      "keywords": [
+        "主语从句",
+        "单数谓语",
+        "整体",
+        "主谓一致"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +61,15 @@
         "表语从句误用倒装语序"
       ],
       "example": "[仿题]The key is ___ we try.\n解析：表是否填whether。",
-      "keywords": ["表语从句", "that", "whether", "疑问词"],
-      "prerequisites": [],
+      "keywords": [
+        "表语从句",
+        "that",
+        "whether",
+        "疑问词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +85,15 @@
         "把疑问句原样搬进从句"
       ],
       "example": "[仿题]I know why he ___.\n解析：陈述语序填left。",
-      "keywords": ["名词性从句", "陈述语序", "主语在前", "宾语"],
-      "prerequisites": [],
+      "keywords": [
+        "名词性从句",
+        "陈述语序",
+        "主语在前",
+        "宾语"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +109,15 @@
         "that省略后破坏了主体结构"
       ],
       "example": "[仿题]___ the sun rises is sure.\n解析：句首主语从句保留that填That。",
-      "keywords": ["that", "主语从句", "不可省", "句首"],
-      "prerequisites": [],
+      "keywords": [
+        "that",
+        "主语从句",
+        "不可省",
+        "句首"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +133,15 @@
         "把it当实指主语而误改从句时态"
       ],
       "example": "[仿题]It is clear ___ he came.\n解析：真正从句后置填that。",
-      "keywords": ["形式主语", "it", "主语从句", "后置"],
-      "prerequisites": [],
+      "keywords": [
+        "形式主语",
+        "it",
+        "主语从句",
+        "后置"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,7 +157,13 @@
         "把responsibility名词当动词使用"
       ],
       "example": "[仿题]She became truly ___.\n解析：变得成熟填mature。",
-      "keywords": ["成长", "成熟", "青少年", "独立", "责任"],
+      "keywords": [
+        "成长",
+        "成熟",
+        "青少年",
+        "独立",
+        "责任"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +180,13 @@
         "把childhood与child的词性与后缀混淆"
       ],
       "example": "[仿题]He enjoyed his ___.\n解析：他的童年填childhood。",
-      "keywords": ["童年", "青春期", "转变", "过渡", "阶段"],
+      "keywords": [
+        "童年",
+        "青春期",
+        "转变",
+        "过渡",
+        "阶段"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +203,13 @@
         "把determination误拼成determintion漏a"
       ],
       "example": "[仿题]This is your own ___.\n解析：自己的选择填choice。",
-      "keywords": ["责任", "决定", "担当", "自主", "冒险"],
+      "keywords": [
+        "责任",
+        "决定",
+        "担当",
+        "自主",
+        "冒险"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +226,13 @@
         "把gain收获误当名词丢失动词味"
       ],
       "example": "[仿题]I reflect ___ my past.\n解析：反思过往填on。",
-      "keywords": ["反思", "领悟", "智慧", "教训", "收获"],
+      "keywords": [
+        "反思",
+        "领悟",
+        "智慧",
+        "教训",
+        "收获"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +249,12 @@
         "as I grow older的时态配合不当"
       ],
       "example": "[仿题]I ___ to fear change.\n解析：过去常畏惧用used。",
-      "keywords": ["used to", "回忆", "今昔对比", "叙事"],
+      "keywords": [
+        "used to",
+        "回忆",
+        "今昔对比",
+        "叙事"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +271,12 @@
         "把表语从句时态与虚拟混淆判断"
       ],
       "example": "[仿题]The news is that he ___.\n解析：按未来事实填will come。",
-      "keywords": ["表语从句", "时态", "事实时间", "主句"],
+      "keywords": [
+        "表语从句",
+        "时态",
+        "事实时间",
+        "主句"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

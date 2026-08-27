@@ -14,7 +14,12 @@
         "现在进行表将来时仍保留 will 造成将来时双重表达"
       ],
       "example": "[仿题]我明天出发去山里。\n解析：I am leaving for the mountains tomorrow，moving 表已安排。",
-      "keywords": ["现在进行时", "将来安排", "leave", "计划"],
+      "keywords": [
+        "现在进行时",
+        "将来安排",
+        "leave",
+        "计划"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,7 +36,12 @@
         "过去分词形式与过去式混用造成完成结构错误"
       ],
       "example": "[仿题]我在这里住了三年。\n解析：I have lived here for three years，用现在完成时表持续。",
-      "keywords": ["现在完成时", "have", "持续性", "过去分词"],
+      "keywords": [
+        "现在完成时",
+        "have",
+        "持续性",
+        "过去分词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -48,8 +58,15 @@
         "把 for 与 since 的起点与时长两种含义颠倒"
       ],
       "example": "[仿题]我自2020年起住这里。\n解析：I have lived here since 2020，since 后接时间点。",
-      "keywords": ["for", "since", "现在完成时", "时间段"],
-      "prerequisites": [],
+      "keywords": [
+        "for",
+        "since",
+        "现在完成时",
+        "时间段"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U6_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +82,15 @@
         "两时态的时间状语选用不当让语义矛盾"
       ],
       "example": "[仿题]我已看过那条河。\n解析：I have seen the river，重在现在结果用完成时。",
-      "keywords": ["现在完成时", "一般过去时", "对比", "影响"],
-      "prerequisites": [],
+      "keywords": [
+        "现在完成时",
+        "一般过去时",
+        "对比",
+        "影响"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U6_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +106,15 @@
         "一般动词误额外去字母或双写造成拼写偏差"
       ],
       "example": "[仿题]他正在跑步。\n解析：He is running，重读闭音节双写 n 再加 ing。",
-      "keywords": ["现在分词", "加ing", "双写", "去e"],
-      "prerequisites": [],
+      "keywords": [
+        "现在分词",
+        "加ing",
+        "双写",
+        "去e"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +130,15 @@
         "现在完成时漏写 have 单独保留过去分词短语"
       ],
       "example": "[仿题]他们已经离开了。\n解析：They have left，不规则 left 作过去分词。",
-      "keywords": ["过去分词", "规则变化", "不规则变化", "完成时"],
-      "prerequisites": [],
+      "keywords": [
+        "过去分词",
+        "规则变化",
+        "不规则变化",
+        "完成时"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U6_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,7 +154,12 @@
         "与自然和谐相处介词 with 误漏掉造成结构缺失"
       ],
       "example": "[仿题]我们应与自然和谐相处。\n解析：We should live in harmony with nature，用 in harmony。",
-      "keywords": ["harmony", "nature", "balance", "sustainable"],
+      "keywords": [
+        "harmony",
+        "nature",
+        "balance",
+        "sustainable"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +176,12 @@
         "地形名词复数的用法与所修饰的数量搭配错乱"
       ],
       "example": "[仿题]山谷里有一条河。\n解析：There is a river in the valley，用 valley 表山谷。",
-      "keywords": ["river", "mountain", "valley", "plateau"],
+      "keywords": [
+        "river",
+        "mountain",
+        "valley",
+        "plateau"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +198,12 @@
         "倡议中把动词短语句式误用成无主语表达"
       ],
       "example": "[仿题]我们应多种树。\n解析：We should plant more trees，plant trees 表植树。",
-      "keywords": ["protect", "reduce pollution", "plant trees", "资源"],
+      "keywords": [
+        "protect",
+        "reduce pollution",
+        "plant trees",
+        "资源"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +220,12 @@
         "完成时的 been 被遗漏写成 there has much rain"
       ],
       "example": "[仿题]这里下过很多雨。\n解析：There has been much rain，用 there has been。",
-      "keywords": ["there be", "完成时", "has been", "存在"],
+      "keywords": [
+        "there be",
+        "完成时",
+        "has been",
+        "存在"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +242,12 @@
         "第三人称单数主语误用 are 造成主谓不一致"
       ],
       "example": "[仿题]鸟正在飞。\n解析：The birds are flying，复数主语配 are。",
-      "keywords": ["be 动词", "现在进行时", "主谓一致", "fly"],
+      "keywords": [
+        "be 动词",
+        "现在进行时",
+        "主谓一致",
+        "fly"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +264,12 @@
         "感觉动词与 be 动词交替时句式结构运用不当"
       ],
       "example": "[仿题]山谷看起来美丽。\n解析：The valley looks beautiful，feel 感官词后接形容词。",
-      "keywords": ["系动词", "感官", "形容词", "look"],
+      "keywords": [
+        "系动词",
+        "感官",
+        "形容词",
+        "look"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

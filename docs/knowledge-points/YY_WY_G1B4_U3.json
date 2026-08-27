@@ -14,7 +14,13 @@
         "该用过去分词而误用现在分词，主被动不分"
       ],
       "example": "[仿题]Everything ___, we started.\n解析：准备完毕分词填ready。",
-      "keywords": ["独立主格", "名词", "分词", "逻辑主语", "独立成分"],
+      "keywords": [
+        "独立主格",
+        "名词",
+        "分词",
+        "逻辑主语",
+        "独立成分"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +37,16 @@
         "独立主格结构拆成两套主语，乱了关联"
       ],
       "example": "[仿题]The fans ___, the singer came.\n解析：人群欢呼填cheering。",
-      "keywords": ["独立主格", "时间", "伴随", "分词", "同时"],
-      "prerequisites": [],
+      "keywords": [
+        "独立主格",
+        "时间",
+        "伴随",
+        "分词",
+        "同时"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +62,15 @@
         "把原因与伴随两种独立主格混用"
       ],
       "example": "[仿题]The sun ___, it was hot.\n解析：太阳当空填shining。",
-      "keywords": ["独立主格", "原因", "条件", "连接词省略"],
-      "prerequisites": [],
+      "keywords": [
+        "独立主格",
+        "原因",
+        "条件",
+        "连接词省略"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +86,15 @@
         "悬空分词与独立主格混淆，主谓语序错乱"
       ],
       "example": "[仿题]Time ___, we hurry.\n解析：时间单独作主语填passing。",
-      "keywords": ["分词", "独立主格", "逻辑主语", "区别"],
-      "prerequisites": [],
+      "keywords": [
+        "分词",
+        "独立主格",
+        "逻辑主语",
+        "区别"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +110,15 @@
         "with结构作状语时结尾缺少逗号分隔"
       ],
       "example": "[仿题]He slept with the window ___.\n解析：窗户开着补足语填open。",
-      "keywords": ["with结构", "独立主格", "补足语", "伴随"],
-      "prerequisites": [],
+      "keywords": [
+        "with结构",
+        "独立主格",
+        "补足语",
+        "伴随"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +134,15 @@
         "找出逻辑主语时受主句主语干扰"
       ],
       "example": "[仿题]Her arms ____, she waved.\n解析：手臂举起主动填raised。",
-      "keywords": ["逻辑主语", "主被动", "现在分词", "过去分词"],
-      "prerequisites": [],
+      "keywords": [
+        "逻辑主语",
+        "主被动",
+        "现在分词",
+        "过去分词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,7 +158,13 @@
         "把championship误拼成championchip漏字母"
       ],
       "example": "[仿题]The ___ scored a goal.\n解析：运动员进球填athlete。",
-      "keywords": ["比赛", "竞赛", "冠军", "运动员", "得分"],
+      "keywords": [
+        "比赛",
+        "竞赛",
+        "冠军",
+        "运动员",
+        "得分"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +181,13 @@
         "把struggle与strategy词义混淆"
       ],
       "example": "[仿题]Their ___ never died.\n解析：他们的斗志填spirit。",
-      "keywords": ["精神", "拼搏", "信念", "公平竞赛", "坚持"],
+      "keywords": [
+        "精神",
+        "拼搏",
+        "信念",
+        "公平竞赛",
+        "坚持"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +204,13 @@
         "把cheer的搭配cheer sb on写错介词"
       ],
       "example": "[仿题]They ___ to the final.\n解析：晋级决赛填advanced。",
-      "keywords": ["竞争", "呐喊", "晋级", "赢", "输"],
+      "keywords": [
+        "竞争",
+        "呐喊",
+        "晋级",
+        "赢",
+        "输"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +227,13 @@
         "把achieve的过去分词误写成achieved忘ed"
       ],
       "example": "[仿题]He broke the world ___.\n解析：打破世界纪录填record。",
-      "keywords": ["纪录", "打破", "名次", "成绩", "突破"],
+      "keywords": [
+        "纪录",
+        "打破",
+        "名次",
+        "成绩",
+        "突破"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +250,13 @@
         "把strategy扩展误写成strategyed"
       ],
       "example": "[仿题]Good ___ wins matches.\n解析：良好合作填teamwork。",
-      "keywords": ["团队合作", "沟通", "信任", "策略", "目标"],
+      "keywords": [
+        "团队合作",
+        "沟通",
+        "信任",
+        "策略",
+        "目标"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +273,12 @@
         "形式主语it被省略造成句子缺主语"
       ],
       "example": "[仿题]It is good ___ daily.\n解析：每天运动利于用to exercise。",
-      "keywords": ["形式主语", "不定式", "运动价值", "成长"],
+      "keywords": [
+        "形式主语",
+        "不定式",
+        "运动价值",
+        "成长"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

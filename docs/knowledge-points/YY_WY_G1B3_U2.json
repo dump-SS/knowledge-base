@@ -14,7 +14,12 @@
         "虚拟过去句中 had 被误写成 have 造成结构错"
       ],
       "example": "[仿题]若我知道我就会帮忙。\n解析：If I had known, I would have helped，过去虚拟用 had done。",
-      "keywords": ["虚拟语气", "had", "过去", "would have"],
+      "keywords": [
+        "虚拟语气",
+        "had",
+        "过去",
+        "would have"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "could have 与 would have 的情态含义选用偏差"
       ],
       "example": "[仿题]若去了我本可遇见你。\n解析：If I had gone, I could have met you，主句用 could have done。",
-      "keywords": ["would have", "could have", "虚拟主句", "分词"],
-      "prerequisites": [],
+      "keywords": [
+        "would have",
+        "could have",
+        "虚拟主句",
+        "分词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "假设反思与事实陈述交替时结构混淆"
       ],
       "example": "[仿题]若早点行动损失会小些。\n解析：If we had acted earlier, damage would be smaller，表委婉反思。",
-      "keywords": ["虚拟", "反思", "had", "遗憾"],
-      "prerequisites": [],
+      "keywords": [
+        "虚拟",
+        "反思",
+        "had",
+        "遗憾"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,16 @@
         "三类虚拟搭配组合记混张冠李戴"
       ],
       "example": "[仿题]若当初努力我现在就毕业了。\n解析：If I had studied hard, I would have graduated，过去虚拟。",
-      "keywords": ["虚拟", "现在", "过去", "未来"],
-      "prerequisites": [],
+      "keywords": [
+        "虚拟",
+        "现在",
+        "过去",
+        "未来"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U2_001",
+        "YY_WY_G1_B3_U2_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,7 +109,12 @@
         "慈善 campaign 误与公司的 campaign 义重叠混用"
       ],
       "example": "[仿题]我们组织了一场慈善活动。\n解析：We held a charity campaign，campaign 表活动。",
-      "keywords": ["volunteer", "charity", "donation", "community"],
+      "keywords": [
+        "volunteer",
+        "charity",
+        "donation",
+        "community"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -99,7 +131,12 @@
         "提供帮助 offer 后误把宾语作介词处理而造成残缺"
       ],
       "example": "[仿题]我们关怀孤寡老人。\n解析：We care for the elderly，care for 表关怀。",
-      "keywords": ["take part in", "care for", "give back", "公益"],
+      "keywords": [
+        "take part in",
+        "care for",
+        "give back",
+        "公益"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -116,7 +153,12 @@
         "为社区贡献的介词 to 误漏掉造成结构残缺"
       ],
       "example": "[仿题]我要为社区做贡献。\n解析：I will make a contribution to the community，to 引对象。",
-      "keywords": ["contribution", "one's part", "贡献", "公益"],
+      "keywords": [
+        "contribution",
+        "one's part",
+        "贡献",
+        "公益"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +175,12 @@
         "过去完成与一般过去陈述的衔接处理不当"
       ],
       "example": "[仿题]就绪后才实施计划。\n解析：After we had prepared, we carried out it，先发生用 had done。",
-      "keywords": ["过去完成时", "had", "回顾", "先后"],
+      "keywords": [
+        "过去完成时",
+        "had",
+        "回顾",
+        "先后"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +197,12 @@
         "叙述中途把过去时切回现在时破坏延续"
       ],
       "example": "[仿题]去年我们办慈善义卖。\n解析：Last year we held a fair，用过去式 held 叙述。",
-      "keywords": ["过去时", "held", "经历", "公益"],
+      "keywords": [
+        "过去时",
+        "held",
+        "经历",
+        "公益"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +219,12 @@
         "被动时态与主从句其它时态不协调呼应"
       ],
       "example": "[仿题]活动由学生组织。\n解析：The campaign was organized by students，was organized 被动。",
-      "keywords": ["被动", "被动语态", "was organized", "组织"],
+      "keywords": [
+        "被动",
+        "被动语态",
+        "was organized",
+        "组织"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +241,12 @@
         "呼吁句型语气运用与对象场景不相匹配"
       ],
       "example": "[仿题]帮助他人是我们责任。\n解析：It is our duty to help others，duty 后接不定式。",
-      "keywords": ["呼吁", "duty", "let's", "公益"],
+      "keywords": [
+        "呼吁",
+        "duty",
+        "let's",
+        "公益"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +263,12 @@
         "表达内心感受时与前面的行动叙述衔接不自然"
       ],
       "example": "[仿题]我为自己助人而骄傲。\n解析：I feel proud of helping others，proud of 后接动名词。",
-      "keywords": ["proud of", "achievement", "感动", "收获"],
+      "keywords": [
+        "proud of",
+        "achievement",
+        "感动",
+        "收获"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

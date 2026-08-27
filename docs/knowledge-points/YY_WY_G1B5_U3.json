@@ -14,7 +14,12 @@
         "it与that引导词混淆使用"
       ],
       "example": "[仿题]It is true ___ we grow.\n解析：真正主语从句填that。",
-      "keywords": ["形式主语", "主语从句", "it", "后置"],
+      "keywords": [
+        "形式主语",
+        "主语从句",
+        "it",
+        "后置"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "把主语从句用时态混乱而无依据"
       ],
       "example": "[仿题]It is vital ___ we plan.\n解析：必要的从句填that。",
-      "keywords": ["形式主语", "形容词", "that从句", "必然性"],
-      "prerequisites": [],
+      "keywords": [
+        "形式主语",
+        "形容词",
+        "that从句",
+        "必然性"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "转换中主句谓语未随重排而调整"
       ],
       "example": "[仿题]It matters ___ we try.\n解析：后置从句引导用whether。",
-      "keywords": ["主语从句", "形式主语", "句序转换", "whether"],
-      "prerequisites": [],
+      "keywords": [
+        "主语从句",
+        "形式主语",
+        "句序转换",
+        "whether"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "whether引导词位置摆放错误"
       ],
       "example": "[仿题]___ we stay matters.\n解析：表选择用whether填Whether。",
-      "keywords": ["whether", "主语从句", "是否", "单数谓语"],
-      "prerequisites": [],
+      "keywords": [
+        "whether",
+        "主语从句",
+        "是否",
+        "单数谓语"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,15 @@
         "从句含所做的事却用which不当"
       ],
       "example": "[仿题]___ matters now is action.\n解析：所指的事填What。",
-      "keywords": ["what", "主语从句", "成分", "谓语"],
-      "prerequisites": [],
+      "keywords": [
+        "what",
+        "主语从句",
+        "成分",
+        "谓语"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +132,15 @@
         "主句谓语时态与从句搭配错乱"
       ],
       "example": "[仿题]That he ___ late is known.\n解析：按事实过去填came。",
-      "keywords": ["主语从句", "陈述语序", "时态", "事实"],
-      "prerequisites": [],
+      "keywords": [
+        "主语从句",
+        "陈述语序",
+        "时态",
+        "事实"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,7 +156,13 @@
         "把digital误当成名词来造句"
       ],
       "example": "[仿题]New ___ changes our life.\n解析：新技术填technology。",
-      "keywords": ["科技", "数据", "创新", "网络", "数字化"],
+      "keywords": [
+        "科技",
+        "数据",
+        "创新",
+        "网络",
+        "数字化"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +179,13 @@
         "把AI缩写与人工智能全称混用不清"
       ],
       "example": "[仿题]Our ___ connects us.\n解析：智能设备填device。",
-      "keywords": ["智能", "设备", "连接", "自动化", "AI"],
+      "keywords": [
+        "智能",
+        "设备",
+        "连接",
+        "自动化",
+        "AI"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +202,13 @@
         "把onlin与with介词搭配错用"
       ],
       "example": "[仿题]We chat ___ the internet.\n解析：通过网络填over/on。",
-      "keywords": ["互联网", "在线", "平台", "即时", "分享"],
+      "keywords": [
+        "互联网",
+        "在线",
+        "平台",
+        "即时",
+        "分享"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +225,13 @@
         "把lifestyle可数与抽象搭配混淆"
       ],
       "example": "[仿题]Tech ___ old habits.\n解析：取代旧习惯填replaces。",
-      "keywords": ["方式", "变化", "习惯", "方便", "取代"],
+      "keywords": [
+        "方式",
+        "变化",
+        "习惯",
+        "方便",
+        "取代"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +248,13 @@
         "把bring challenges误拼成bring challanges"
       ],
       "example": "[仿题]It is helpful ___ we connect.\n解析：评价内容用that填that。",
-      "keywords": ["评价", "好处", "挑战", "It is", "平衡"],
+      "keywords": [
+        "评价",
+        "好处",
+        "挑战",
+        "It is",
+        "平衡"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +271,13 @@
         "Whether we like it or not拼错whether"
       ],
       "example": "[仿题]It ___ that AI will grow.\n解析：有可能填is likely。",
-      "keywords": ["展望", "趋势", "主语从句", "推测", "未来"],
+      "keywords": [
+        "展望",
+        "趋势",
+        "主语从句",
+        "推测",
+        "未来"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

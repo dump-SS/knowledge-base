@@ -14,7 +14,12 @@
         "非限定性定语从句中误用 that 而应改用 which"
       ],
       "example": "[仿题]住在森林的动物很警惕。\n解析：The animal that lives in the forest is wary，that 指物。",
-      "keywords": ["that", "定语从句", "关系代词", "指人指物"],
+      "keywords": [
+        "that",
+        "定语从句",
+        "关系代词",
+        "指人指物"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "省略宾语后未相应调整从句动词使其悬空"
       ],
       "example": "[仿题]我们保护的动物越来越少。\n解析：The animal we protect is rare，作宾语的 that 省去。",
-      "keywords": ["省略", "宾语", "关系代词", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "省略",
+        "宾语",
+        "关系代词",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "固定只认 which 忽略了指物也可用 that 的规则"
       ],
       "example": "[仿题]这是你所见过最壮的动物。\n解析：This is the strongest animal that you've seen，最高级后接 that。",
-      "keywords": ["that", "which", "最高级", "选词"],
-      "prerequisites": [],
+      "keywords": [
+        "that",
+        "which",
+        "最高级",
+        "选词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "把 where 当成名词性关系代填写于主语位置"
       ],
       "example": "[仿题]动物居住的森林覆盖着雪。\n解析：The forest where animals live is snowy，where 表地点。",
-      "keywords": ["where", "关系副词", "地点", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "where",
+        "关系副词",
+        "地点",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,15 @@
         "先行词在从句中的真实单复数判断错误"
       ],
       "example": "[仿题]生活在此的动物很稀有。\n解析：The animals that live here are rare，复数配复数。",
-      "keywords": ["主谓一致", "先行词", "谓语", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "主谓一致",
+        "先行词",
+        "谓语",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,7 +132,12 @@
         "保护珍稀物种时误把 rare 与 rear 拼写混淆"
       ],
       "example": "[仿题]森林是许多动物的栖息地。\n解析：The forest is a habitat for many animals，habitat 表栖息地。",
-      "keywords": ["wildlife", "habitat", "species", "forest"],
+      "keywords": [
+        "wildlife",
+        "habitat",
+        "species",
+        "forest"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -116,7 +154,12 @@
         "描述习性与描述外表的形容词归类错乱"
       ],
       "example": "[仿题]它是迅猛的奔跑者。\n解析：It is a rapid runner，rapid 作形容词修饰名词。",
-      "keywords": ["fierce", "rapid", "friendly", "习性"],
+      "keywords": [
+        "fierce",
+        "rapid",
+        "friendly",
+        "习性"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +176,12 @@
         "表达捕猎 hunt 时误接 for 结构用错搭配"
       ],
       "example": "[仿题]这种鸟冬天南迁。\n解析：The bird migrates south in winter，migrate 表迁徙。",
-      "keywords": ["migrate", "hunt", "hibernate", "动作"],
+      "keywords": [
+        "migrate",
+        "hunt",
+        "hibernate",
+        "动作"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +198,12 @@
         "extremely 与形容词拼写组合时漏掉连写细节"
       ],
       "example": "[仿题]这里非常危险。\n解析：It is extremely dangerous，程度副词置于形容词前。",
-      "keywords": ["程度副词", "形容词", "extremely", "位置"],
+      "keywords": [
+        "程度副词",
+        "形容词",
+        "extremely",
+        "位置"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +220,12 @@
         "把一次性事件混入一般现在时的客观叙述中"
       ],
       "example": "[仿题]候鸟冬天南飞。\n解析：Migratory birds fly south in winter，客观规律用一般现在时。",
-      "keywords": ["一般现在时", "自然规律", "客观", "单三"],
+      "keywords": [
+        "一般现在时",
+        "自然规律",
+        "客观",
+        "单三"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +242,12 @@
         "建议措施缺少主语或情态动词造成句子不完整"
       ],
       "example": "[仿题]我们应该保护濒危动物。\n解析：We should protect endangered animals，should 后接原形。",
-      "keywords": ["should", "保护建议", "endangered", "措施"],
+      "keywords": [
+        "should",
+        "保护建议",
+        "endangered",
+        "措施"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,8 +264,15 @@
         "主句与从句之间缺标点让句子衔接不清晰"
       ],
       "example": "[仿题]生活中国的熊猫很可爱。\n解析：The panda, which lives in China, is lovely，从句紧随主句。",
-      "keywords": ["主句", "定语从句", "衔接", "先行词"],
-      "prerequisites": [],
+      "keywords": [
+        "主句",
+        "定语从句",
+        "衔接",
+        "先行词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U5_001"
+      ],
       "source_version": "外研版2019"
     }
   ]

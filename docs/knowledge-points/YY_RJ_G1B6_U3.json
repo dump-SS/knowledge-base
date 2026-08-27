@@ -14,7 +14,13 @@
         "把 doing 与 to do 作主语混用"
       ],
       "example": "[仿题]______ (protect) nature is our duty.\n解析：填 Protecting，动名词作主语，谓语用单数。",
-      "keywords": ["动名词主语", "doing", "谓语单数", "作主语", "主语用法"],
+      "keywords": [
+        "动名词主语",
+        "doing",
+        "谓语单数",
+        "作主语",
+        "主语用法"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "特殊动词 forget 的两类接法混用"
       ],
       "example": "[仿题]We decided ______ (reduce) waste.\n解析：填 to reduce，decide 后接不定式。",
-      "keywords": ["动名词", "不定式", "作宾语", "动词搭配", "to do"],
-      "prerequisites": [],
+      "keywords": [
+        "动名词",
+        "不定式",
+        "作宾语",
+        "动词搭配",
+        "to do"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B6_U3_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "定语位置放反，修饰错名词"
       ],
       "example": "[仿题]We saw the ______ (pollute) river.\n解析：填 polluted，被污染的，被动用过去分词。",
-      "keywords": ["非谓语定语", "doing", "过去分词", "修饰名词", "主被动"],
-      "prerequisites": [],
+      "keywords": [
+        "非谓语定语",
+        "doing",
+        "过去分词",
+        "修饰名词",
+        "主被动"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B6_U3_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,18 @@
         "主被动判定反了导致形式选错"
       ],
       "example": "[仿题]______ (save) energy, we turn off the lights.\n解析：填 To save，表目的，用不定式。",
-      "keywords": ["非谓语状语", "to do", "doing", "done", "主被动"],
-      "prerequisites": [],
+      "keywords": [
+        "非谓语状语",
+        "to do",
+        "doing",
+        "done",
+        "主被动"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B6_U3_001",
+        "YY_RJ_G1_B6_U3_002",
+        "YY_RJ_G1_B6_U3_003"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,8 +114,16 @@
         "It is no use doing 结构误用 to do"
       ],
       "example": "[仿题]It is important ______ (protect) wildlife.\n解析：填 to protect，It is important to do，保护野生动物。",
-      "keywords": ["形式主语", "It", "真正主语", "不定式", "that从句"],
-      "prerequisites": [],
+      "keywords": [
+        "形式主语",
+        "It",
+        "真正主语",
+        "不定式",
+        "that从句"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B6_U3_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -99,8 +139,16 @@
         "从句作真正宾语时连接词配备不当"
       ],
       "example": "[仿题]We make ______ easy to recycle rubbish.\n解析：填 it，形式宾语，真正的宾语后置。",
-      "keywords": ["形式宾语", "It", "真正宾语", "make it", "to do"],
-      "prerequisites": [],
+      "keywords": [
+        "形式宾语",
+        "It",
+        "真正宾语",
+        "make it",
+        "to do"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B6_U3_005"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -116,7 +164,13 @@
         "garbage 与 垃圾对应词拼写错误"
       ],
       "example": "[仿题]The ______ (air/water) pollution harms our health.\n解析：填 air，空气污染，二者选一类污染。",
-      "keywords": ["污染类型", "air pollution", "water pollution", "塑料垃圾", "环境"],
+      "keywords": [
+        "污染类型",
+        "air pollution",
+        "water pollution",
+        "塑料垃圾",
+        "环境"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +187,13 @@
         "recycle 对象选错环保名词"
       ],
       "example": "[仿题]We should recycle the ______ (paper/papers).\n解析：填 paper，纸，不可数名词回收利用。",
-      "keywords": ["环保动词", "protect", "reduce", "recycle", "节约"],
+      "keywords": [
+        "环保动词",
+        "protect",
+        "reduce",
+        "recycle",
+        "节约"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +210,13 @@
         "wind power 与 power 用法混淆"
       ],
       "example": "[仿题]Solar ______ (energy/energize) is clean.\n解析：填 energy，太阳能，solar energy 搭配。",
-      "keywords": ["能源词汇", "solar", "renewable", "风能", "自然资源"],
+      "keywords": [
+        "能源词汇",
+        "solar",
+        "renewable",
+        "风能",
+        "自然资源"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +233,13 @@
         "sea level 单复数书写不完整"
       ],
       "example": "[仿题]We should cut down carbon ______ (emit/emission).\n解析：填 emission，碳排放，cut carbon emission。",
-      "keywords": ["气候变化", "global warming", "carbon", "气温", "海平面"],
+      "keywords": [
+        "气候变化",
+        "global warming",
+        "carbon",
+        "气温",
+        "海平面"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +256,13 @@
         "呼吁句缺具体行动，太空泛"
       ],
       "example": "[仿题]______ (It/This) is our duty to save water.\n解析：填 It，发呼吁，It is duty to do 句型。",
-      "keywords": ["环保倡议", "Let us", "It is duty", "呼吁", "行动"],
+      "keywords": [
+        "环保倡议",
+        "Let us",
+        "It is duty",
+        "呼吁",
+        "行动"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +279,13 @@
         "protect wildlife 搭配宾语缺失"
       ],
       "example": "[仿题]We should ______ (protect/protecting) wildlife.\n解析：填 protect，should 后接动词原形，保护野生动物。",
-      "keywords": ["修复自然", "restore", "plant trees", "wildlife", "保护"],
+      "keywords": [
+        "修复自然",
+        "restore",
+        "plant trees",
+        "wildlife",
+        "保护"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

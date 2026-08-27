@@ -14,7 +14,13 @@
         "把持续动作误写成现在完成时"
       ],
       "example": "[仿题]She has been ______ (work) here for a year.\n解析：填 working，have been doing 表持续一年。",
-      "keywords": ["现在完成进行时", "have been doing", "持续动作", "for", "since"],
+      "keywords": [
+        "现在完成进行时",
+        "have been doing",
+        "持续动作",
+        "for",
+        "since"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "两者转换时 been 漏加或错加"
       ],
       "example": "[仿题]I have been ______ (read) all morning.\n解析：填 reading，强调整个上午持续在读。",
-      "keywords": ["时态辨析", "现在完成进行", "现在完成", "持续", "结果"],
-      "prerequisites": [],
+      "keywords": [
+        "时态辨析",
+        "现在完成进行",
+        "现在完成",
+        "持续",
+        "结果"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B6_U4_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "that 与 which 用法差异混用"
       ],
       "example": "[仿题]This is the book ______ (that/whom) I like most.\n解析：填 that，指物作宾语，that 可指物。",
-      "keywords": ["定语从句", "关系代词", "who", "which", "that"],
-      "prerequisites": [],
+      "keywords": [
+        "定语从句",
+        "关系代词",
+        "who",
+        "which",
+        "that"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B6_U4_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,16 @@
         "先行词类别判断失误选错"
       ],
       "example": "[仿题]I remember the day ______ we met.\n解析：填 when，先行词表时间，用关系副词 when。",
-      "keywords": ["关系副词", "when", "where", "why", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "关系副词",
+        "when",
+        "where",
+        "why",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B6_U4_003"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,7 +112,13 @@
         "持续与完成语义混在一句分不清"
       ],
       "example": "[仿题]We have been ______ (work) on the project that was set.\n解析：填 working，have been doing 强调持续。",
-      "keywords": ["现在完成进行时", "定语从句", "持续", "综合时态", "表达"],
+      "keywords": [
+        "现在完成进行时",
+        "定语从句",
+        "持续",
+        "综合时态",
+        "表达"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -99,7 +135,13 @@
         "overcome 动词形式与搭配混用"
       ],
       "example": "[仿题]She showed great ______ (persevere/perseverance).\n解析：填 perseverance，坚持不懈，名词作宾语。",
-      "keywords": ["逆境词汇", "adversity", "perseverance", "挑战", "决心"],
+      "keywords": [
+        "逆境词汇",
+        "adversity",
+        "perseverance",
+        "挑战",
+        "决心"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -116,7 +158,13 @@
         "investigate 拼写漏字母"
       ],
       "example": "[仿题]We should ______ (explore/exploring) new ways.\n解析：填 explore，should 后接动词原形，探索新方法。",
-      "keywords": ["科研词汇", "research", "explore", "discover", "实验"],
+      "keywords": [
+        "科研词汇",
+        "research",
+        "explore",
+        "discover",
+        "实验"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +181,13 @@
         "rescue 与营救对象搭配不清"
       ],
       "example": "[仿题]They managed to ______ (survive/survivor) the storm.\n解析：填 survive，幸存，to 后接动词原形。",
-      "keywords": ["极端环境", "desert", "survive", "冰山", "营救"],
+      "keywords": [
+        "极端环境",
+        "desert",
+        "survive",
+        "冰山",
+        "营救"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +204,13 @@
         "克服困难搭配宾语缺失"
       ],
       "example": "[仿题]They succeeded in ______ (cross/crossing) the river.\n解析：填 crossing，succeed in 后接动名词。",
-      "keywords": ["克服困难", "manage to do", "succeed in", "达成", "句型"],
+      "keywords": [
+        "克服困难",
+        "manage to do",
+        "succeed in",
+        "达成",
+        "句型"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +227,13 @@
         "data 单复数形式误用"
       ],
       "example": "[仿题]We ______ (observe/observed) the birds yesterday.\n解析：填 observed，观察到，昨天过去时。",
-      "keywords": ["科研观察", "observe", "record", "report", "数据"],
+      "keywords": [
+        "科研观察",
+        "observe",
+        "record",
+        "report",
+        "数据"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +250,13 @@
         "stay calm 中 calm 词性误用"
       ],
       "example": "[仿题]The explorer was ______ (brave/bravery) in danger.\n解析：填 brave，勇敢的，be 后接形容词。",
-      "keywords": ["科学品质", "brave", "curious", "镇定", "坚定"],
+      "keywords": [
+        "科学品质",
+        "brave",
+        "curious",
+        "镇定",
+        "坚定"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +273,13 @@
         "疲劳状态与继续动作衔接生硬"
       ],
       "example": "[仿题]______ (feel) exhausted, we stopped to rest.\n解析：填 Feeling，主语主动感到疲劳，作状语。",
-      "keywords": ["叙事表达", "分词状语", "时间顺序", "旅程", "经历"],
+      "keywords": [
+        "叙事表达",
+        "分词状语",
+        "时间顺序",
+        "旅程",
+        "经历"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

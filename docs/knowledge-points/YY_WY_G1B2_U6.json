@@ -14,7 +14,12 @@
         "be 动词未随原时态调整造成时态错误"
       ],
       "example": "[仿题]人们保护地球。\n解析：The earth is protected by people，宾语升为主语被动化。",
-      "keywords": ["主动转被动", "by", "过去分词", "转换"],
+      "keywords": [
+        "主动转被动",
+        "by",
+        "过去分词",
+        "转换"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "被动时态的 be 形式随主语单复选择失误"
       ],
       "example": "[仿题]森林曾被过度砍伐。\n解析：The forest was overcut，过去时被动用 was。",
-      "keywords": ["被动", "时态", "was", "been"],
-      "prerequisites": [],
+      "keywords": [
+        "被动",
+        "时态",
+        "was",
+        "been"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "省略 by 后误以为可以同位加介词结构"
       ],
       "example": "[仿题]垃圾被回收利用。\n解析：Waste is recycled，施动者不明可省略 by。",
-      "keywords": ["被动", "by", "省略", "施动者"],
-      "prerequisites": [],
+      "keywords": [
+        "被动",
+        "by",
+        "省略",
+        "施动者"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,7 +84,12 @@
         "并列结构省略时结构对称被破坏"
       ],
       "example": "[仿题]停止浪费并停止污染。\n解析：Stop wasting and polluting，重复动词可省略一。",
-      "keywords": ["省略", "简洁", "并列", "环保"],
+      "keywords": [
+        "省略",
+        "简洁",
+        "并列",
+        "环保"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -82,8 +106,15 @@
         "省略与完整表达之间应用场景混用"
       ],
       "example": "[仿题]我认为也是如此。\n解析：I think so，隐去重复后表达简洁。",
-      "keywords": ["so", "省略", "简洁", "对话"],
-      "prerequisites": [],
+      "keywords": [
+        "so",
+        "省略",
+        "简洁",
+        "对话"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U6_004"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,7 +130,12 @@
         "环境保护表达中冠词 environment 前漏 the"
       ],
       "example": "[仿题]污染必须被治理。\n解析：Pollution must be controlled，pollution 表污染。",
-      "keywords": ["environment", "pollution", "recycle", "eco"],
+      "keywords": [
+        "environment",
+        "pollution",
+        "recycle",
+        "eco"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -116,7 +152,12 @@
         "分类垃圾 sort 后漏接宾语 rubbish 造成残缺"
       ],
       "example": "[仿题]我们应减少垃圾。\n解析：We should reduce waste，reduce waste 表减量。",
-      "keywords": ["throw away", "reduce waste", "recycle", "垃圾"],
+      "keywords": [
+        "throw away",
+        "reduce waste",
+        "recycle",
+        "垃圾"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +174,12 @@
         "推测句中误接动词原形后的过去分词结构错乱"
       ],
       "example": "[仿题]污染或许是严重的。\n解析：The problem may be serious，may 表不确定推测。",
-      "keywords": ["may", "must", "推测", "情态动词"],
+      "keywords": [
+        "may",
+        "must",
+        "推测",
+        "情态动词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +196,12 @@
         "主被动结合让句子时态与语义不再自洽"
       ],
       "example": "[仿题]塑料被我们回收再利用。\n解析：Recycled plastic is reused by us，被动承接主被动。",
-      "keywords": ["被动", "主动", "主被动", "混用"],
+      "keywords": [
+        "被动",
+        "主动",
+        "主被动",
+        "混用"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +218,12 @@
         "复合名词复数时只在单词词尾加 s 位置记错"
       ],
       "example": "[仿题]风能很重要。\n解析：Wind power matters，wind power 表风能。",
-      "keywords": ["greenhouse gas", "solar energy", "wind power", "复合"],
+      "keywords": [
+        "greenhouse gas",
+        "solar energy",
+        "wind power",
+        "复合"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +240,12 @@
         "倡议句式之间劝导语气运用不相协调"
       ],
       "example": "[仿题]让我们保护环境吧。\n解析：Let's protect the environment，Let's 后接动词原形。",
-      "keywords": ["let's", "倡议", "should", "句型"],
+      "keywords": [
+        "let's",
+        "倡议",
+        "should",
+        "句型"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +262,12 @@
         "专有与普通名词的冠词使用规则掌握偏颇"
       ],
       "example": "[仿题]我们要爱护环境。\n解析：We should take care of the environment，特指用 the。",
-      "keywords": ["the", "定冠词", "特指", "environment"],
+      "keywords": [
+        "the",
+        "定冠词",
+        "特指",
+        "environment"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

@@ -14,7 +14,13 @@
         "修饰名词的主被动判断失误"
       ],
       "example": "[仿题]We visited a ______ (famous/famously) tower.\n解析：填 famous，著名的，形容词修饰名词。",
-      "keywords": ["非谓语定语", "doing", "过去分词", "to do", "主被动"],
+      "keywords": [
+        "非谓语定语",
+        "doing",
+        "过去分词",
+        "to do",
+        "主被动"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,7 +37,13 @@
         "主被动判断反了形式选错"
       ],
       "example": "[仿题]______ (see) the view, we climbed higher.\n解析：填 To see，表目的，用不定式到达高处。",
-      "keywords": ["非谓语状语", "to do", "doing", "done", "逻辑主语"],
+      "keywords": [
+        "非谓语状语",
+        "to do",
+        "doing",
+        "done",
+        "逻辑主语"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -48,7 +60,13 @@
         "感观动词后补足形式选错"
       ],
       "example": "[仿题]We saw the boy ______ (run) across the square.\n解析：填 running，男孩主动跑，用现在分词。",
-      "keywords": ["宾补", "动词后", "doing", "过去分词", "主被动"],
+      "keywords": [
+        "宾补",
+        "动词后",
+        "doing",
+        "过去分词",
+        "主被动"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -65,8 +83,18 @@
         "把目的误当伴随处理"
       ],
       "example": "[仿题]______ (make) sure, he checked twice.\n解析：填 To make，表目的，为确保万无一失。",
-      "keywords": ["三步法", "逻辑主语", "主被动", "表意", "非谓语"],
-      "prerequisites": [],
+      "keywords": [
+        "三步法",
+        "逻辑主语",
+        "主被动",
+        "表意",
+        "非谓语"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B7_U2_001",
+        "YY_RJ_G1_B7_U2_002",
+        "YY_RJ_G1_B7_U2_003"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,7 +110,13 @@
         "harbour 与 港口 city 概念混淆"
       ],
       "example": "[仿题]The city has many famous ______ (landmark/landmarks).\n解析：填 landmarks，地标，many 后用复数。",
-      "keywords": ["地标词汇", "landmark", "statue", "高塔", "景点"],
+      "keywords": [
+        "地标词汇",
+        "landmark",
+        "statue",
+        "高塔",
+        "景点"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -99,7 +133,13 @@
         "cathedral 与大教堂对应记错"
       ],
       "example": "[仿题]The ______ (palace/palaces) is very old.\n解析：填 palace，宫殿，单数作主语谓语用单数。",
-      "keywords": ["建筑名词", "palace", "temple", "摩天大楼", "教堂"],
+      "keywords": [
+        "建筑名词",
+        "palace",
+        "temple",
+        "摩天大楼",
+        "教堂"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -116,7 +156,13 @@
         "spectacular 与 壮观名词混用"
       ],
       "example": "[仿题]The sunset was ______ (breathe/breathtaking).\n解析：填 breathtaking，叹为观止的，形容词表语。",
-      "keywords": ["景点形容词", "breathtaking", "historic", "spectacular", "壮观"],
+      "keywords": [
+        "景点形容词",
+        "breathtaking",
+        "historic",
+        "spectacular",
+        "壮观"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +179,13 @@
         "known as 与 known for 语义混淆"
       ],
       "example": "[仿题]It is famous ______ its ancient towers.\n解析：填 for，因何闻名用 famous for。",
-      "keywords": ["介绍景点", "located in", "famous for", "known as", "句型"],
+      "keywords": [
+        "介绍景点",
+        "located in",
+        "famous for",
+        "known as",
+        "句型"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +202,13 @@
         "explore 与 visit 动作层次混用"
       ],
       "example": "[仿题]We should ______ (take/took) photos of the tower.\n解析：填 take，拍照，should 后接动词原形。",
-      "keywords": ["游玩动词", "visit", "explore", "admire", "拍照"],
+      "keywords": [
+        "游玩动词",
+        "visit",
+        "explore",
+        "admire",
+        "拍照"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +225,13 @@
         "suggest 后接宾语句型混淆"
       ],
       "example": "[仿题]The site is worth ______ (visit/visiting).\n解析：填 visiting，worth doing 值得一看。",
-      "keywords": ["旅行建议", "worth doing", "must-see", "推荐", "体验"],
+      "keywords": [
+        "旅行建议",
+        "worth doing",
+        "must-see",
+        "推荐",
+        "体验"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +248,13 @@
         "分词与主句动词形式混乱"
       ],
       "example": "[仿题]The bridge, ______ (build) in 1900, still stands.\n解析：填 built，建于1900，被动用过去分词。",
-      "keywords": ["旅程叙述", "分词状语", "分词定语", "游记", "主被动"],
+      "keywords": [
+        "旅程叙述",
+        "分词状语",
+        "分词定语",
+        "游记",
+        "主被动"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +271,13 @@
         "地标象征关系牵强不合理"
       ],
       "example": "[仿题]The coin ______ (symbol/symbolizes) unity.\n解析：填 symbolizes，象征，动词第三人称单数。",
-      "keywords": ["地标象征", "symbolize", "stand for", "象征意义", "历史"],
+      "keywords": [
+        "地标象征",
+        "symbolize",
+        "stand for",
+        "象征意义",
+        "历史"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

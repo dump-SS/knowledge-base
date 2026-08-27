@@ -14,7 +14,13 @@
         "that 从句内容配错抽象名词，逻辑不符"
       ],
       "example": "[仿题]The news ______ our team won excited us.\n解析：填 that，同位语说明 news 内容。",
-      "keywords": ["同位语从句", "that 引导", "抽象名词", "补充说明", "从句"],
+      "keywords": [
+        "同位语从句",
+        "that 引导",
+        "抽象名词",
+        "补充说明",
+        "从句"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "名词内容与定语结构一时区分不清便乱选"
       ],
       "example": "[仿题]The fact ______ the earth is round is known.\n解析：填 that，同位结构，从句不缺成分。",
-      "keywords": ["同位语从句", "定语从句", "从句区别", "that 成分", "修饰关系"],
-      "prerequisites": [],
+      "keywords": [
+        "同位语从句",
+        "定语从句",
+        "从句区别",
+        "that 成分",
+        "修饰关系"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U3_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "抽象名词后的从句主语漏写，句意不完整"
       ],
       "example": "[仿题]We share the belief ______ honesty matters.\n解析：填 that，belief 后同位语不可省略 that。",
-      "keywords": ["同位语", "idea", "belief", "that 不可省", "抽象名词"],
-      "prerequisites": [],
+      "keywords": [
+        "同位语",
+        "idea",
+        "belief",
+        "that 不可省",
+        "抽象名词"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U3_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,16 @@
         "type 混合宾语从句把可省的 that 乱省"
       ],
       "example": "[仿题]There is no doubt ______ he will win.\n解析：填 that，no doubt 后接 that 同位语。",
-      "keywords": ["连接词", "that", "which", "同位语", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "连接词",
+        "that",
+        "which",
+        "同位语",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U3_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,7 +112,14 @@
         "食材名词单复数误用，可数性判断错误"
       ],
       "example": "[仿题]Rice is the main ______ (stable/staple) food in the south.\n解析：填 staple，主食，固定搭配 staple food。",
-      "keywords": ["食材词汇", "ingredient", "主食", "饺子", "flavour", "风味"],
+      "keywords": [
+        "食材词汇",
+        "ingredient",
+        "主食",
+        "饺子",
+        "flavour",
+        "风味"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -99,7 +136,14 @@
         "stir-fry 双动词连用形式拼写错误"
       ],
       "example": "[仿题]______ (cut) the onions into pieces first.\n解析：填 Cut，切，切菜步骤，祈使句首词大写。",
-      "keywords": ["烹饪动词", "cut", "boil", "steam", "stir-fry", "serve"],
+      "keywords": [
+        "烹饪动词",
+        "cut",
+        "boil",
+        "steam",
+        "stir-fry",
+        "serve"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -116,7 +160,13 @@
         "谈习惯时总把单数写成复数，主语不一致"
       ],
       "example": "[仿题]People here share ______ (food/foods) together.\n解析：填 food，泛指食物，饮食分享习惯。",
-      "keywords": ["饮食习惯", "table manners", "分享食物", "餐桌", "文化差异"],
+      "keywords": [
+        "饮食习惯",
+        "table manners",
+        "分享食物",
+        "餐桌",
+        "文化差异"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +183,13 @@
         "回答推荐菜品只说名字，缺评价句"
       ],
       "example": "[仿题]What do you ______ (recommend/recommendation)?\n解析：填 recommend，推荐，what 后接动词原形。",
-      "keywords": ["点餐句型", "order", "recommend", "买单", "餐厅对话"],
+      "keywords": [
+        "点餐句型",
+        "order",
+        "recommend",
+        "买单",
+        "餐厅对话"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +206,13 @@
         "tasty 与 taste 词性混用，把形容词当动词"
       ],
       "example": "[仿题]The dish tastes a bit ______ (salt/salty).\n解析：填 salty，表咸的，形容词作表语。",
-      "keywords": ["味道形容词", "sweet", "spicy", "salty", "delicious"],
+      "keywords": [
+        "味道形容词",
+        "sweet",
+        "spicy",
+        "salty",
+        "delicious"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +229,14 @@
         "讲文化意义时缺乏因果，逻辑连接不紧"
       ],
       "example": "[仿题]Noodles often ______ (symbol/symbolize) long life.\n解析：填 symbolize，象征，noodles 动词用复数形式。",
-      "keywords": ["文化意义", "symbol", "团圆", "好运", "传统", "象征"],
+      "keywords": [
+        "文化意义",
+        "symbol",
+        "团圆",
+        "好运",
+        "传统",
+        "象征"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,8 +253,16 @@
         "naming the fact that 结构漏写 that"
       ],
       "example": "[仿题]The idea ______ (that/) we rush is common.\n解析：填 that，同位语从句引导词不可省略。",
-      "keywords": ["同位语", "that 不可省", "抽象名词", "从句标志", "完整"],
-      "prerequisites": [],
+      "keywords": [
+        "同位语",
+        "that 不可省",
+        "抽象名词",
+        "从句标志",
+        "完整"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U3_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -201,7 +278,13 @@
         "on the other hand 前后缺乏逻辑呼应"
       ],
       "example": "[仿题]Chinese share dishes, ______ western people order separately.\n解析：填 while，表对比，引出差异。",
-      "keywords": ["中西对比", "while", "on the other hand", "饮食差异", "对比句式"],
+      "keywords": [
+        "中西对比",
+        "while",
+        "on the other hand",
+        "饮食差异",
+        "对比句式"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

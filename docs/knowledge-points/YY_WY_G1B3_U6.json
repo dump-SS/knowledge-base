@@ -14,7 +14,12 @@
         "分不清伴随主动与被动用错分词形式"
       ],
       "example": "[仿题]She left ___ a smile.\n解析：伴随微笑离开填with。",
-      "keywords": ["现在分词", "伴随状语", "主动", "同时发生"],
+      "keywords": [
+        "现在分词",
+        "伴随状语",
+        "主动",
+        "同时发生"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "方式与伴随状语语义重复啰嗦，表达冗余"
       ],
       "example": "[仿题]He spoke ___ for calm.\n解析：方式是带着希望填hoping。",
-      "keywords": ["现在分词", "方式状语", "主动", "同时"],
-      "prerequisites": [],
+      "keywords": [
+        "现在分词",
+        "方式状语",
+        "主动",
+        "同时"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "结果分词忘记加ing，误写成过去分词"
       ],
       "example": "[仿题]It rained, ___ the ground.\n解析：淋湿结果是填wetting。",
-      "keywords": ["现在分词", "结果状语", "自然结果", "简洁表达"],
-      "prerequisites": [],
+      "keywords": [
+        "现在分词",
+        "结果状语",
+        "自然结果",
+        "简洁表达"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "Being开头时漏掉,分隔主句导致结构混淆"
       ],
       "example": "[仿题]___ about it, she called me.\n解析：因为担心填Worried。",
-      "keywords": ["现在分词", "原因状语", "主动", "because"],
-      "prerequisites": [],
+      "keywords": [
+        "现在分词",
+        "原因状语",
+        "主动",
+        "because"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,15 @@
         "逻辑主语不一致时未察觉句子错误"
       ],
       "example": "[仿题]___ straight, you'll arrive.\n解析：如果直行走填Going。",
-      "keywords": ["现在分词", "条件状语", "if从句", "主动"],
-      "prerequisites": [],
+      "keywords": [
+        "现在分词",
+        "条件状语",
+        "if从句",
+        "主动"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +132,15 @@
         "未注意时间先后，该用完成式而选成并列句"
       ],
       "example": "[仿题]___ home, he slept.\n解析：先到家后睡觉填Arriving。",
-      "keywords": ["现在分词", "完成式", "先后", "having done"],
-      "prerequisites": [],
+      "keywords": [
+        "现在分词",
+        "完成式",
+        "先后",
+        "having done"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,7 +156,13 @@
         "landslide与mudslide选用不当"
       ],
       "example": "[仿题]A ___ struck the village.\n解析：爆发洪水填flood。",
-      "keywords": ["地震", "洪水", "台风", "野火", "灾害"],
+      "keywords": [
+        "地震",
+        "洪水",
+        "台风",
+        "野火",
+        "灾害"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +179,13 @@
         "把suffer漏写宾语，搭配不完整"
       ],
       "example": "[仿题]The storm ___ many homes.\n解析：摧毁多处房屋填destroyed。",
-      "keywords": ["摧毁", "损坏", "损失", "伤亡", "遭受"],
+      "keywords": [
+        "摧毁",
+        "损坏",
+        "损失",
+        "伤亡",
+        "遭受"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +202,13 @@
         "把take part in与join active混淆，搭配混乱"
       ],
       "example": "[仿题]They ___ the injured then.\n解析：援救伤者填rescued。",
-      "keywords": ["营救", "援助", "撤离", "捐赠", "志愿者"],
+      "keywords": [
+        "营救",
+        "援助",
+        "撤离",
+        "捐赠",
+        "志愿者"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +225,13 @@
         "united拼写成united漏字母表意不清"
       ],
       "example": "[仿题]They decided to ___ the town.\n解析：决定重建城镇填rebuild。",
-      "keywords": ["希望", "重建", "勇气", "团结", "力量"],
+      "keywords": [
+        "希望",
+        "重建",
+        "勇气",
+        "团结",
+        "力量"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +248,12 @@
         "先后动作全用进行时，主次不分"
       ],
       "example": "[仿题]While I ___ , the quake hit.\n解析：正在睡填was sleeping。",
-      "keywords": ["过去进行时", "时态搭配", "叙事", "while"],
+      "keywords": [
+        "过去进行时",
+        "时态搭配",
+        "叙事",
+        "while"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,8 +270,19 @@
         "分词语态选错，将主动写成被动"
       ],
       "example": "[仿题]___ , the book fell.\n解析：主语是书被放填Placed。",
-      "keywords": ["病句", "悬空分词", "一致性", "识别"],
-      "prerequisites": [],
+      "keywords": [
+        "病句",
+        "悬空分词",
+        "一致性",
+        "识别"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U6_001",
+        "YY_WY_G1_B3_U6_002",
+        "YY_WY_G1_B3_U6_003",
+        "YY_WY_G1_B3_U6_004",
+        "YY_WY_G1_B3_U6_005"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -218,7 +298,12 @@
         "祈使句中动词误用成ing或过去式"
       ],
       "example": "[仿题]___ calm, please.\n解析：保持冷静用原形填Stay。",
-      "keywords": ["祈使句", "警示", "防灾", "保持冷静"],
+      "keywords": [
+        "祈使句",
+        "警示",
+        "防灾",
+        "保持冷静"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

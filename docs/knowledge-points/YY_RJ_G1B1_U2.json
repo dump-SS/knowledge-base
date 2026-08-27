@@ -14,7 +14,13 @@
         "忘记 be 动词需随主语变化，第三人称写成 I is leaving"
       ],
       "example": "[仿题]填空：I ___ (visit) my uncle this Sunday，因为已经约好。\n解析：已经预约好，用 am visiting",
-      "keywords": ["现在进行时", "将来计划", "be doing", "安排", "已确定"],
+      "keywords": [
+        "现在进行时",
+        "将来计划",
+        "be doing",
+        "安排",
+        "已确定"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "把 be going to 的 to 吞掉，误写成 be going travel"
       ],
       "example": "[仿题]选词：The sky is dark，it ___ rain。\n解析：有迹象选 is going to",
-      "keywords": ["be going to", "打算", "预测", "迹象", "将来时"],
-      "prerequisites": [],
+      "keywords": [
+        "be going to",
+        "打算",
+        "预测",
+        "迹象",
+        "将来时"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U2_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "与现在进行时表将来混用，把固定班次写成 is leaving"
       ],
       "example": "[仿题]单选：The last bus ___ (leave) at 10 p.m.。\n解析：时刻表固定，用 leaves",
-      "keywords": ["一般现在时", "时刻表", "固定班次", "第三人称单数", "将来"],
-      "prerequisites": [],
+      "keywords": [
+        "一般现在时",
+        "时刻表",
+        "固定班次",
+        "第三人称单数",
+        "将来"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U2_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,7 +87,13 @@
         "无法判断 could 是过去式还是委婉，时机把握不准"
       ],
       "example": "[仿题]补全：___ you please help me carry this bag?。\n解析：请求场景用 Could",
-      "keywords": ["could", "委婉请求", "过去能力", "can", "礼貌"],
+      "keywords": [
+        "could",
+        "委婉请求",
+        "过去能力",
+        "can",
+        "礼貌"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -82,7 +110,13 @@
         "拼写混淆，把 shuttle 误写成 shutle"
       ],
       "example": "[仿题]选词：我们乘 ___ (shuttle / departure) 到机场。\n解析：接驳车用 shuttle",
-      "keywords": ["transport", "flight", "departure", "shuttle", "出行"],
+      "keywords": [
+        "transport",
+        "flight",
+        "departure",
+        "shuttle",
+        "出行"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -99,7 +133,13 @@
         "把它与 request 的搭配混用，写成 apply request"
       ],
       "example": "[仿题]填空：He ___ for a tourist visa before travelling。\n解析：申请用 apply",
-      "keywords": ["apply for", "apply to", "签证", "visa", "介词搭配"],
+      "keywords": [
+        "apply for",
+        "apply to",
+        "签证",
+        "visa",
+        "介词搭配"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -116,7 +156,13 @@
         "景点动词搭配不当，写成 visit the lake 而不是 go boating"
       ],
       "example": "[仿题]选词：我们去故宫 ___ (go sightseeing / do sightseeing)。\n解析：固定搭配 go sightseeing",
-      "keywords": ["sightseeing", "attraction", "scenery", "景点", "观光"],
+      "keywords": [
+        "sightseeing",
+        "attraction",
+        "scenery",
+        "景点",
+        "观光"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +179,13 @@
         "把 double room 与 single room 的含义弄混"
       ],
       "example": "[仿题]填空：I'd like to ___ (check in / book) a single room tonight。\n解析：预订房间用 book",
-      "keywords": ["book a room", "check in", "check out", "reserve", "预订"],
+      "keywords": [
+        "book a room",
+        "check in",
+        "check out",
+        "reserve",
+        "预订"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +202,13 @@
         "分不清 request sb to do 与 request that sb do 两种结构"
       ],
       "example": "[仿题]改错：I requested that he stays here。\n解析：request 后从句虚拟，he stay",
-      "keywords": ["request", "make a request", "虚拟语气", "宾语从句", "礼貌表达"],
+      "keywords": [
+        "request",
+        "make a request",
+        "虚拟语气",
+        "宾语从句",
+        "礼貌表达"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,8 +225,18 @@
         "多个句型无衔接堆砌，计划表达缺乏层次"
       ],
       "example": "[仿题]翻译：我计划明年去日本旅行。\n解析：I plan to travel to Japan",
-      "keywords": ["plan to", "would like to", "be going to", "旅行计划", "表达意图"],
-      "prerequisites": [],
+      "keywords": [
+        "plan to",
+        "would like to",
+        "be going to",
+        "旅行计划",
+        "表达意图"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U2_001",
+        "YY_RJ_G1_B1_U2_002",
+        "YY_RJ_G1_B1_U2_003"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -184,7 +252,13 @@
         "三个词不分场景混用，任意互换"
       ],
       "example": "[仿题]选词：一到车站我就 ___（recognise/realise）了熟悉标志。\n解析：认出旧物用 recognise",
-      "keywords": ["recognise", "realise", "understand", "动词辨析", "语境"],
+      "keywords": [
+        "recognise",
+        "realise",
+        "understand",
+        "动词辨析",
+        "语境"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +275,13 @@
         "指路时漏用介词，写成 The bank is the station"
       ],
       "example": "[仿题]选词：银行在车站 ___（opposite / single）对面。\n解析：正对面用 opposite",
-      "keywords": ["opposite", "in front of", "方位介词", "指路", "location"],
+      "keywords": [
+        "opposite",
+        "in front of",
+        "方位介词",
+        "指路",
+        "location"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

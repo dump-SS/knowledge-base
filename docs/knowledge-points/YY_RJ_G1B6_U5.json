@@ -14,7 +14,13 @@
         "作宾语时结构位置放错"
       ],
       "example": "[仿题]I don't know what ______ (say).\n解析：填 to say，疑问词加不定式作宾语。",
-      "keywords": ["疑问词+不定式", "what to do", "作宾语", "how to", "名词短语"],
+      "keywords": [
+        "疑问词+不定式",
+        "what to do",
+        "作宾语",
+        "how to",
+        "名词短语"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "疑问词漏写或改成错误形式"
       ],
       "example": "[仿题]Tell me how I can do it 改为如何说？\n解析：how to do it，删主语句式更简洁。",
-      "keywords": ["改写", "疑问词+不定式", "从句简化", "may主句主语", "简洁"],
-      "prerequisites": [],
+      "keywords": [
+        "改写",
+        "疑问词+不定式",
+        "从句简化",
+        "may主句主语",
+        "简洁"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B6_U5_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "伴随与先后语义不分"
       ],
       "example": "[仿题]______ (read) the poem, she smiled.\n解析：填 Reading，主动读诗时微笑，用 ing 分词。",
-      "keywords": ["-ing状语", "分词", "伴随", "主动关系", "作状语"],
-      "prerequisites": [],
+      "keywords": [
+        "-ing状语",
+        "分词",
+        "伴随",
+        "主动关系",
+        "作状语"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B6_U5_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,16 @@
         "主被动形式选择判断失误"
       ],
       "example": "[仿题]The sun ______ (rise), we started the day.\n解析：填 having risen，独立主格，主语各自独立。",
-      "keywords": ["分词状语", "逻辑主语", "独立主格", "主动被动", "一致"],
-      "prerequisites": [],
+      "keywords": [
+        "分词状语",
+        "逻辑主语",
+        "独立主格",
+        "主动被动",
+        "一致"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B6_U5_003"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,7 +112,14 @@
         "poet 与 poem 词形混用"
       ],
       "example": "[仿题]The poet's ______ (rhyme/rhythm) is strong.\n解析：填 rhyme，押韵，诗歌韵律强。",
-      "keywords": ["诗歌词汇", "poem", "rhyme", "verse", "stanza", "主题"],
+      "keywords": [
+        "诗歌词汇",
+        "poem",
+        "rhyme",
+        "verse",
+        "stanza",
+        "主题"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -99,7 +136,13 @@
         "image 意象与象征词混用"
       ],
       "example": "[仿题]He is a lion is a ______ (metaphor/simile).\n解析：填 metaphor，暗喻，无 like/as 用喻体。",
-      "keywords": ["修辞手法", "metaphor", "simile", "拟人", "意象"],
+      "keywords": [
+        "修辞手法",
+        "metaphor",
+        "simile",
+        "拟人",
+        "意象"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -116,7 +159,13 @@
         "romantic 与 浪漫名词 romanticism 混用"
       ],
       "example": "[仿题]The poem has a ______ (peace/peaceful) tone.\n解析：填 peaceful，宁静的，修饰基调。",
-      "keywords": ["情感基调", "peaceful", "joyful", "忧伤", "浪漫"],
+      "keywords": [
+        "情感基调",
+        "peaceful",
+        "joyful",
+        "忧伤",
+        "浪漫"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +182,13 @@
         "deliver a poem 搭配宾语写错"
       ],
       "example": "[仿题]He ______ (recite/recited) a poem at the party.\n解析：填 recited，朗诵，过去动作用过去式。",
-      "keywords": ["朗诵词汇", "recite", "recital", "perform", "诵读"],
+      "keywords": [
+        "朗诵词汇",
+        "recite",
+        "recital",
+        "perform",
+        "诵读"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +205,13 @@
         "读后感缺情感与事例支撑"
       ],
       "example": "[仿题]This poem ______ (remind/reminds) me of spring.\n解析：填 reminds，让我想起春天，主语单数加 s。",
-      "keywords": ["诗歌表达", "remind of", "主题感想", "联想", "读后感"],
+      "keywords": [
+        "诗歌表达",
+        "remind of",
+        "主题感想",
+        "联想",
+        "读后感"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,8 +228,16 @@
         "把它误当疑问句写加助动词"
       ],
       "example": "[仿题]What ______ (do) is up to you.\n解析：填 to do，短语作主语，由你决定。",
-      "keywords": ["疑问词+不定式", "作主语", "名词短语", "谓语单数", "结构"],
-      "prerequisites": [],
+      "keywords": [
+        "疑问词+不定式",
+        "作主语",
+        "名词短语",
+        "谓语单数",
+        "结构"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B6_U5_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -184,7 +253,13 @@
         "nursery rhyme 固定搭配写法错误"
       ],
       "example": "[仿题]He wrote a famous ______ (sonnet/haiku) of 14 lines.\n解析：填 sonnet，十四行诗，共十四行。",
-      "keywords": ["诗体词汇", "haiku", "sonnet", "limerick", "童谣"],
+      "keywords": [
+        "诗体词汇",
+        "haiku",
+        "sonnet",
+        "limerick",
+        "童谣"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +276,13 @@
         "末音比较时字母拼写干扰判断"
       ],
       "example": "[仿题]Which pair rhymes: moon/book, moon/bright?\n解析：moon 与 book 不押韵，moon 与 soon 才押韵。",
-      "keywords": ["押韵", "节奏", "韵脚", "修辞手法", "诗歌鉴赏"],
+      "keywords": [
+        "押韵",
+        "节奏",
+        "韵脚",
+        "修辞手法",
+        "诗歌鉴赏"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

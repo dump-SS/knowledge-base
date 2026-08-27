@@ -14,7 +14,13 @@
         "will 后误接动词的过去式形式"
       ],
       "example": "[仿题]I think it ___ snow tonight.\n解析：表预测，填 will。",
-      "keywords": ["will", "预测", "将来时", "临时决定", "将来"],
+      "keywords": [
+        "will",
+        "预测",
+        "将来时",
+        "临时决定",
+        "将来"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +37,16 @@
         "有迹象推断时用了 will 而没用 be going to"
       ],
       "example": "[仿题]We ___ going to visit the museum tomorrow.\n解析：既定计划且主语复数，填 are。",
-      "keywords": ["be going to", "计划", "意图", "迹象", "将来时"],
-      "prerequisites": [],
+      "keywords": [
+        "be going to",
+        "计划",
+        "意图",
+        "迹象",
+        "将来时"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +62,16 @@
         "安排的将来意缺失导致理解偏差"
       ],
       "example": "[仿题]The train ___ at 8 tomorrow morning.\n解析：按时刻表安排，填 is leaving。",
-      "keywords": ["现在进行时", "将来安排", "动态动词", "时刻表", "将来时"],
-      "prerequisites": [],
+      "keywords": [
+        "现在进行时",
+        "将来安排",
+        "动态动词",
+        "时刻表",
+        "将来时"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +87,16 @@
         "过去分词的拼写形式记忆错误"
       ],
       "example": "[仿题]By 2030, we ___ completed the project.\n解析：到将来完成，填 will have。",
-      "keywords": ["将来完成时", "will have", "过去分词", "by", "时态"],
-      "prerequisites": [],
+      "keywords": [
+        "将来完成时",
+        "will have",
+        "过去分词",
+        "by",
+        "时态"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,7 +112,13 @@
         "表推测与表义务的情态动词语义混淆"
       ],
       "example": "[仿题]He ___ be at home, since his lights are on.\n解析：证据充分用 must，填 must。",
-      "keywords": ["情态动词", "推测", "must", "may", "把握"],
+      "keywords": [
+        "情态动词",
+        "推测",
+        "must",
+        "may",
+        "把握"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -99,7 +135,13 @@
         "表义务的回答用 must not 而非 need to 造成语义偏差"
       ],
       "example": "[仿题]You ___ be very tired after the hike.\n解析：强烈推测，填 must。",
-      "keywords": ["must", "必须", "推测", "can't", "情态动词"],
+      "keywords": [
+        "must",
+        "必须",
+        "推测",
+        "can't",
+        "情态动词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -116,7 +158,13 @@
         "could 后误加动词的过去式形式"
       ],
       "example": "[仿题]He ___ speak three languages before.\n解析：过去能力用 could，填 could。",
-      "keywords": ["can", "could", "能力", "委婉", "情态动词"],
+      "keywords": [
+        "can",
+        "could",
+        "能力",
+        "委婉",
+        "情态动词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -134,7 +182,13 @@
         "ambition 作不可数名词错误使用"
       ],
       "example": "[仿题]Her long-term ___ is to become a scientist.\n解析：远大抱负，填 ambition。",
-      "keywords": ["vision", "ambition", "plan", "schedule", "前瞻"],
+      "keywords": [
+        "vision",
+        "ambition",
+        "plan",
+        "schedule",
+        "前瞻"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -151,8 +205,18 @@
         "有迹象推断时两个结构选错"
       ],
       "example": "[仿题]Look at the clouds; it ___ going to rain.\n解析：有迹象推断用 be going to，填 is。",
-      "keywords": ["will", "be going to", "预测", "计划", "区别"],
-      "prerequisites": [],
+      "keywords": [
+        "will",
+        "be going to",
+        "预测",
+        "计划",
+        "区别"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U1_001",
+        "YY_WY_G1_B7_U1_002",
+        "YY_WY_G1_B7_U1_003"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -168,8 +232,18 @@
         "may 与 might 的委婉程度混用"
       ],
       "example": "[仿题]She ___ be late; I'm not sure at all.\n解析：把握极低用 might，填 might。",
-      "keywords": ["may", "might", "推测", "可能性", "委婉"],
-      "prerequisites": [],
+      "keywords": [
+        "may",
+        "might",
+        "推测",
+        "可能性",
+        "委婉"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U1_005",
+        "YY_WY_G1_B7_U1_006",
+        "YY_WY_G1_B7_U1_007"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -185,8 +259,16 @@
         "主句与从句的时态搭配混乱"
       ],
       "example": "[仿题]If she ___ early, she can help us.\n解析：if 从句用一般现在式，填 arrives。",
-      "keywords": ["if从句", "现在式表将来", "主将从现", "时态", "条件句"],
-      "prerequisites": [],
+      "keywords": [
+        "if从句",
+        "现在式表将来",
+        "主将从现",
+        "时态",
+        "条件句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -203,7 +285,13 @@
         "过渡词使用不当造成思路跳跃"
       ],
       "example": "[仿题]In the future, ___ may become common.\n解析：展望新技术运用，填 robots。",
-      "keywords": ["作文结构", "展望", "未来", "建议", "过渡词"],
+      "keywords": [
+        "作文结构",
+        "展望",
+        "未来",
+        "建议",
+        "过渡词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

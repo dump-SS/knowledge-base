@@ -14,7 +14,13 @@
         "主动词用了原形或分词，忘记在be后写过去分词"
       ],
       "example": "[仿题]The bridge (build) in 2020.\n解析：桥梁被动且过去时，故用was built。",
-      "keywords": ["被动语态", "时态", "过去分词", "be动词", "动作承受者"],
+      "keywords": [
+        "被动语态",
+        "时态",
+        "过去分词",
+        "be动词",
+        "动作承受者"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +37,15 @@
         "把情态动词加过去分词当成被动，忽略中间的be"
       ],
       "example": "[仿题]This task must (finish) today.\n解析：must后接be finished表被动。",
-      "keywords": ["情态动词", "被动", "be加过去分词", "原形"],
-      "prerequisites": [],
+      "keywords": [
+        "情态动词",
+        "被动",
+        "be加过去分词",
+        "原形"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +61,16 @@
         "分不清give后用to、buy后用for导致介词用错"
       ],
       "example": "[仿题]She was ___ a present.\n解析：give双被动，人作主语填given。",
-      "keywords": ["双宾语", "被动", "间接宾语", "介词", "动作承受者"],
-      "prerequisites": [],
+      "keywords": [
+        "双宾语",
+        "被动",
+        "间接宾语",
+        "介词",
+        "动作承受者"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +86,15 @@
         "受主动句影响，被动句仍保留动词原形逻辑错误"
       ],
       "example": "[仿题]He was seen ___ the room.\n解析：see被动还原to，填to enter。",
-      "keywords": ["复合宾语", "宾补", "不定式还原", "被动语态"],
-      "prerequisites": [],
+      "keywords": [
+        "复合宾语",
+        "宾补",
+        "不定式还原",
+        "被动语态"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +110,15 @@
         "分不清get被动和become加形容词，词性混用"
       ],
       "example": "[仿题]He got ___ in the rain.\n解析：got被动受淋，填caught。",
-      "keywords": ["get被动", "过去分词", "经历结果", "be被动"],
-      "prerequisites": [],
+      "keywords": [
+        "get被动",
+        "过去分词",
+        "经历结果",
+        "be被动"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +134,15 @@
         "混淆issaid和issaidto的接法，结构拼接错误"
       ],
       "example": "[仿题]It is ___ that he found it.\n解析：据说用被动，填said。",
-      "keywords": ["形式主语", "that从句", "被动", "据说"],
-      "prerequisites": [],
+      "keywords": [
+        "形式主语",
+        "that从句",
+        "被动",
+        "据说"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,8 +158,15 @@
         "把discover与invent主动被动混淆"
       ],
       "example": "[仿题]The phone ___ by him.\n解析：发明物被动，填was invented。",
-      "keywords": ["科学", "发明", "被动语态", "客观事实"],
-      "prerequisites": [],
+      "keywords": [
+        "科学",
+        "发明",
+        "被动语态",
+        "客观事实"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -133,7 +182,13 @@
         "conclude与conclusion词性混用，忘记动词用法"
       ],
       "example": "[仿题]The ___ proves the idea.\n解析：证据证明想法，填evidence。",
-      "keywords": ["实验", "理论", "证据", "假设", "研究"],
+      "keywords": [
+        "实验",
+        "理论",
+        "证据",
+        "假设",
+        "研究"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +205,13 @@
         "把achievement写成achieve，形容词与名词混用"
       ],
       "example": "[仿题]He is a ___ scientist.\n解析：杰出的科学家，填brilliant。",
-      "keywords": ["科学家", "杰出", "贡献", "坚持", "成就"],
+      "keywords": [
+        "科学家",
+        "杰出",
+        "贡献",
+        "坚持",
+        "成就"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,8 +228,15 @@
         "by后误用动词原形而非代词名词短语"
       ],
       "example": "[仿题]It was made ___ hand.\n解析：用手制作，表工具填with。",
-      "keywords": ["by", "施动者", "被动语态", "介词"],
-      "prerequisites": [],
+      "keywords": [
+        "by",
+        "施动者",
+        "被动语态",
+        "介词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -184,8 +252,15 @@
         "分不清done被动与beingdone进行的区别"
       ],
       "example": "[仿题]The book (write) now.\n解析：正在被写，填is being written。",
-      "keywords": ["非谓语", "being", "不定式被动", "进行被动"],
-      "prerequisites": [],
+      "keywords": [
+        "非谓语",
+        "being",
+        "不定式被动",
+        "进行被动"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -201,7 +276,13 @@
         "becauseof与because从句用法混淆"
       ],
       "example": "[仿题]___ the heat, it melted.\n解析：因为热用介词，填Because of。",
-      "keywords": ["因果", "连词", "lead to", "because of", "推论"],
+      "keywords": [
+        "因果",
+        "连词",
+        "lead to",
+        "because of",
+        "推论"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

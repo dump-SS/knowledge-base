@@ -14,7 +14,12 @@
         "忘记现在分词变化规则而误写动词变分形式错误"
       ],
       "example": "[仿题]她那时正在跳舞。\n解析：She was dancing then，用 was 加现在分词表进行。",
-      "keywords": ["过去进行时", "was", "现在分词", "进行"],
+      "keywords": [
+        "过去进行时",
+        "was",
+        "现在分词",
+        "进行"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "从句动词形式未按 while 加现在分词规则处理"
       ],
       "example": "[仿题]他们庆祝时他唱了歌。\n解析：While they were celebrating, he sang，while 引出进行背景。",
-      "keywords": ["when", "while", "时间状语从句", "进行时"],
-      "prerequisites": [],
+      "keywords": [
+        "when",
+        "while",
+        "时间状语从句",
+        "进行时"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,7 +60,12 @@
         "从句时态用现在时而未使用过去的虚拟暗示"
       ],
       "example": "[仿题]如果我是你我会参加。\n解析：If I were you, I would join it，虚拟从句用 were。",
-      "keywords": ["虚拟语气", "if", "were", "would"],
+      "keywords": [
+        "虚拟语气",
+        "if",
+        "were",
+        "would"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -65,8 +82,15 @@
         "主句主语是单数时误加 would 的三单形式 s"
       ],
       "example": "[仿题]若他有空他会来。\n解析：He would come if he had time，would 后接动词原形。",
-      "keywords": ["would", "虚拟主句", "could", "动词原形"],
-      "prerequisites": [],
+      "keywords": [
+        "would",
+        "虚拟主句",
+        "could",
+        "动词原形"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U2_003"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,7 +106,12 @@
         "节日期间 activity 与活动名词的单复数没有用对"
       ],
       "example": "[仿题]我们观看烟花。\n解析：We watch fireworks，firework 常用复数表烟花。",
-      "keywords": ["celebrate", "festival", "parade", "firework"],
+      "keywords": [
+        "celebrate",
+        "festival",
+        "parade",
+        "firework"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -99,7 +128,12 @@
         "传统 tradition 与形容词 traditional 词性混用"
       ],
       "example": "[仿题]我们要装饰房子。\n解析：We decorate the house，decorate 表装饰。",
-      "keywords": ["tradition", "custom", "decorate", "ceremony"],
+      "keywords": [
+        "tradition",
+        "custom",
+        "decorate",
+        "ceremony"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -116,7 +150,12 @@
         "表达许多时误用 many 与不可数名词匹配"
       ],
       "example": "[仿题]好多消息传来。\n解析：Much news came，much 搭配不可数名词 news。",
-      "keywords": ["不可数名词", "量词", "many", "much"],
+      "keywords": [
+        "不可数名词",
+        "量词",
+        "many",
+        "much"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +172,12 @@
         "祝愿句型忘写双宾语 wish 后的受词"
       ],
       "example": "[仿题]祝你端午快乐。\n解析：I wish you a happy Dragon Boat Festival，用 wish sb sth。",
-      "keywords": ["wish", "祝福", "感谢", "句型"],
+      "keywords": [
+        "wish",
+        "祝福",
+        "感谢",
+        "句型"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +194,12 @@
         "full of joy 表达中漏掉 of 造成介词缺失"
       ],
       "example": "[仿题]广场上充满欢乐。\n解析：The square is full of joy，full of 表充满。",
-      "keywords": ["lively", "joyful", "气氛", "full of"],
+      "keywords": [
+        "lively",
+        "joyful",
+        "气氛",
+        "full of"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +216,12 @@
         "first 与 finally 在段首段尾位置错放"
       ],
       "example": "[仿题]先准备食物再看游行。\n解析：First prepare food, then watch the parade，用顺序词。",
-      "keywords": ["first", "then", "finally", "顺序"],
+      "keywords": [
+        "first",
+        "then",
+        "finally",
+        "顺序"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +238,12 @@
         "推测结构中误接动词过去式而未用现在原形"
       ],
       "example": "[仿题]他一定在庆祝现场。\n解析：He must be at the festival，must 表强烈推测。",
-      "keywords": ["must", "may", "推测", "情态动词"],
+      "keywords": [
+        "must",
+        "may",
+        "推测",
+        "情态动词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +260,12 @@
         "give gifts 表达赠送时双宾语位置摆放错乱"
       ],
       "example": "[仿题]我们庆祝愚人节。\n解析：We celebrate April Fool's Day，用 celebrate 接节日。",
-      "keywords": ["celebrate", "give gifts", "准备", "固定搭配"],
+      "keywords": [
+        "celebrate",
+        "give gifts",
+        "准备",
+        "固定搭配"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

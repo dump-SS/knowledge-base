@@ -14,7 +14,13 @@
         "第三人称主语误写 he cans，不会正确变形"
       ],
       "example": "[仿题]填空：She ___ (can) play basketball very well。\n解析：can 后接原形，填 can",
-      "keywords": ["can", "能力", "许可", "动词原形", "情态动词"],
+      "keywords": [
+        "can",
+        "能力",
+        "许可",
+        "动词原形",
+        "情态动词"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "疑问句回答时误说 Yes, I could"
       ],
       "example": "[仿题]选词：我小时候能游一千米（could / can）。\n解析：过去能力用 could",
-      "keywords": ["could", "过去能力", "was able to", "manage to", "情态动词"],
-      "prerequisites": [],
+      "keywords": [
+        "could",
+        "过去能力",
+        "was able to",
+        "manage to",
+        "情态动词"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U3_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "否定时误写 should not to，多加了一个 to"
       ],
       "example": "[仿题]填空：You ___ (should) drink more water every day。\n解析：should 后接原形，填 should",
-      "keywords": ["should", "建议", "应该", "情态动词", "ought to"],
-      "prerequisites": [],
+      "keywords": [
+        "should",
+        "建议",
+        "应该",
+        "情态动词",
+        "ought to"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U3_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,16 @@
         "分不清 must 表必须与表推测两种语境"
       ],
       "example": "[仿题]填空：He ___ (be) a strong runner，因为他经常获奖。\n解析：有把握推测用 must be",
-      "keywords": ["must", "表必须", "表推测", "mustn't", "can't"],
-      "prerequisites": [],
+      "keywords": [
+        "must",
+        "表必须",
+        "表推测",
+        "mustn't",
+        "can't"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U3_003"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,8 +112,16 @@
         "与 should 混用时忘记它更偏正式道义语气"
       ],
       "example": "[仿题]填空：You ___ (ought) to keep fit。\n解析：ought 后接 to do，填 ought",
-      "keywords": ["ought to", "应当", "情态动词", "should", "道义责任"],
-      "prerequisites": [],
+      "keywords": [
+        "ought to",
+        "应当",
+        "情态动词",
+        "should",
+        "道义责任"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U3_003"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -99,7 +137,13 @@
         "混淆 do yoga 与 go yoga 的固定搭配"
       ],
       "example": "[仿题]选词：我每天 ___（work out / work out the）一小时。\n解析：锻炼用 work out",
-      "keywords": ["work out", "go jogging", "do yoga", "gym", "健身"],
+      "keywords": [
+        "work out",
+        "go jogging",
+        "do yoga",
+        "gym",
+        "健身"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -116,7 +160,13 @@
         "healthy 与 health 词性混用，形容词当名词写"
       ],
       "example": "[仿题]填空：饭后散步让我感到 ___（fit / health）。\n解析：表身体健康形容词用 fit",
-      "keywords": ["healthy", "fit", "energetic", "positive", "健康"],
+      "keywords": [
+        "healthy",
+        "fit",
+        "energetic",
+        "positive",
+        "健康"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,8 +183,16 @@
         "You'd better 后误接 doing 而不是动词原形"
       ],
       "example": "[仿题]改写：Why not ___ (try) swimming?。\n解析：Why not 后接原形 try",
-      "keywords": ["How about", "Why not", "You'd better", "建议句型", "情态建议"],
-      "prerequisites": [],
+      "keywords": [
+        "How about",
+        "Why not",
+        "You'd better",
+        "建议句型",
+        "情态建议"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U3_003"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -150,7 +208,13 @@
         "把 example 当作可数复数却忘加冠词 an"
       ],
       "example": "[仿题]填空：He ___ (set) a good example for us。\n解析：set 是及物短语，动词用 set",
-      "keywords": ["set an example", "set for", "树立榜样", "example", "短语"],
+      "keywords": [
+        "set an example",
+        "set for",
+        "树立榜样",
+        "example",
+        "短语"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +231,13 @@
         "句首罗列时忘记后面接动名词或原形统一"
       ],
       "example": "[仿题]填空：I chose cycling ___ (rather than) swimming。\n解析：rather than 表而不是，接 swimming",
-      "keywords": ["rather than", "而不是", "取舍", "平行结构", "对称"],
+      "keywords": [
+        "rather than",
+        "而不是",
+        "取舍",
+        "平行结构",
+        "对称"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +254,13 @@
         "混淆 stress 与 stress 派生词在句中的词性"
       ],
       "example": "[仿题]填空：运动能帮我 ___ (relieve) stress。\n解析：缓解，动词用 relieve",
-      "keywords": ["stress", "relax", "relieve", "压力", "放松"],
+      "keywords": [
+        "stress",
+        "relax",
+        "relieve",
+        "压力",
+        "放松"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +277,13 @@
         "compared with 漏写 ed，写成 compare with 作状语"
       ],
       "example": "[仿题]填空：___ (compare) with running，cycling is safer。\n解析：过去分词做状语，用 Compared",
-      "keywords": ["compare with", "as well as", "比较", "并列", "compared with"],
+      "keywords": [
+        "compare with",
+        "as well as",
+        "比较",
+        "并列",
+        "compared with"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

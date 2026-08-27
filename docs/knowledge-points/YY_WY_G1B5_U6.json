@@ -15,7 +15,13 @@
         "强调句的 be 动词与主语数不一致导致单复数错误"
       ],
       "example": "[仿题]It was in Beijing ___ I first met him.\n解析：强调地点状语，去掉 It was...that 句子完整，填 that。",
-      "keywords": ["强调句", "It is...that", "被强调部分", "剥离法", "句子结构"],
+      "keywords": [
+        "强调句",
+        "It is...that",
+        "被强调部分",
+        "剥离法",
+        "句子结构"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -32,8 +38,16 @@
         "只关注强调部分而忽略还原原句的时态"
       ],
       "example": "[仿题]It ___ because of the rain that they postponed the match.\n解析：postponed 是过去时，所以填 was。",
-      "keywords": ["强调句", "时态", "It is", "It was", "be动词"],
-      "prerequisites": [],
+      "keywords": [
+        "强调句",
+        "时态",
+        "It is",
+        "It was",
+        "be动词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -49,8 +63,16 @@
         "主句时态与强调句的 be 时态不一致"
       ],
       "example": "[仿题]It was not ___ midnight that he finished his homework.\n解析：直到午夜才完成，填 until。",
-      "keywords": ["not until", "强调句", "直到...才", "否定", "until"],
-      "prerequisites": [],
+      "keywords": [
+        "not until",
+        "强调句",
+        "直到...才",
+        "否定",
+        "until"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -66,8 +88,16 @@
         "定语从句中关系代词作宾语省略后误判为强调句"
       ],
       "example": "[仿题]It is the factory ___ we visited last year.\n解析：去掉 It is...that 后不完整，填 that/which 为定语从句。",
-      "keywords": ["强调句", "定语从句", "剥离法", "区分", "It is...that"],
-      "prerequisites": [],
+      "keywords": [
+        "强调句",
+        "定语从句",
+        "剥离法",
+        "区分",
+        "It is...that"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -83,8 +113,16 @@
         "强调复数主语时从句谓语仍用单数"
       ],
       "example": "[仿题]It is we who ___ responsible for the result.\n解析：we 对应复数，所以填 are。",
-      "keywords": ["强调句", "主谓一致", "主语", "谓语", "数的一致"],
-      "prerequisites": [],
+      "keywords": [
+        "强调句",
+        "主谓一致",
+        "主语",
+        "谓语",
+        "数的一致"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -100,8 +138,16 @@
         "把疑问词放中间而不是放句首"
       ],
       "example": "[仿题]___ was it that you met at the conference?\n解析：问人，填 Who。",
-      "keywords": ["强调句", "疑问句", "特殊疑问句", "一般疑问句", "疑问词"],
-      "prerequisites": [],
+      "keywords": [
+        "强调句",
+        "疑问句",
+        "特殊疑问句",
+        "一般疑问句",
+        "疑问词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -117,7 +163,13 @@
         "生存行为与幸存者概念不分，同一句子混用"
       ],
       "example": "[仿题]The ___ of the earthquake was found in the ruins.\n解析：指幸存的人，填 survivor。",
-      "keywords": ["survival", "survivor", "生存", "幸存者", "词义辨析"],
+      "keywords": [
+        "survival",
+        "survivor",
+        "生存",
+        "幸存者",
+        "词义辨析"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -135,7 +187,13 @@
         "把 adapt 与 adopt 混用，弄混适应与采纳"
       ],
       "example": "[仿题]The climbers built a ___ to protect themselves from the storm.\n解析：搭建庇护所，填 shelter。",
-      "keywords": ["survive", "shelter", "rescue", "emergency", "adapt"],
+      "keywords": [
+        "survive",
+        "shelter",
+        "rescue",
+        "emergency",
+        "adapt"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -152,7 +210,13 @@
         "两个短语互换使用，忽略语义侧重差异"
       ],
       "example": "[仿题]Many species are disappearing in the ___.\n解析：指野生自然环境，用 wild。",
-      "keywords": ["in the wild", "in the wilderness", "野外", "荒野", "自然环境"],
+      "keywords": [
+        "in the wild",
+        "in the wilderness",
+        "野外",
+        "荒野",
+        "自然环境"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -169,7 +233,13 @@
         "cope 后漏掉 with 直接接宾语"
       ],
       "example": "[仿题]She couldn't ___ with the pressure of the exam.\n解析：强调承受压力，填 cope。",
-      "keywords": ["cope with", "deal with", "应对", "处理", "压力"],
+      "keywords": [
+        "cope with",
+        "deal with",
+        "应对",
+        "处理",
+        "压力"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -186,7 +256,13 @@
         "把结果当成原因，因果方向倒置"
       ],
       "example": "[仿题]___ the lack of food, the explorer became weak.\n解析：因缺少食物而虚弱，填 Because of。",
-      "keywords": ["因果推理", "信号词", "because", "求生阅读", "逻辑"],
+      "keywords": [
+        "因果推理",
+        "信号词",
+        "because",
+        "求生阅读",
+        "逻辑"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -203,7 +279,13 @@
         "结尾没有总结或感悟，文章显得头重脚轻"
       ],
       "example": "[仿题]First of all, the traveler found a ___ to stay safe.\n解析：先找安全地点，填 shelter。",
-      "keywords": ["作文框架", "问题", "措施", "结果", "过渡词"],
+      "keywords": [
+        "作文框架",
+        "问题",
+        "措施",
+        "结果",
+        "过渡词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

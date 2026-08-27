@@ -14,7 +14,13 @@
         "把内层从句误当成主句谓语"
       ],
       "example": "[仿题]The man ___ is my friend likes music.\n解析：who 引导内层定语从句，填 who。",
-      "keywords": ["复合定语从句", "主句", "先行词", "嵌套", "结构"],
+      "keywords": [
+        "复合定语从句",
+        "主句",
+        "先行词",
+        "嵌套",
+        "结构"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +37,16 @@
         "只读外层忽略内层导致歧义"
       ],
       "example": "[仿题]The book (that I like) (which is new) is good.\n解析：逐层拆，外层 which 修饰 book。",
-      "keywords": ["嵌套", "多层定语", "先行词", "逐层", "长难句"],
-      "prerequisites": [],
+      "keywords": [
+        "嵌套",
+        "多层定语",
+        "先行词",
+        "逐层",
+        "长难句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +62,16 @@
         "找不到真正被修饰的名词"
       ],
       "example": "[仿题]The bridge (across the river) that ___ long is new.\n解析：先行词是 bridge，填 is。",
-      "keywords": ["分隔", "先行词", "插入成分", "定语从句", "长难句"],
-      "prerequisites": [],
+      "keywords": [
+        "分隔",
+        "先行词",
+        "插入成分",
+        "定语从句",
+        "长难句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +87,16 @@
         "介词放回从句后又误加关系词造成重复"
       ],
       "example": "[仿题]The school ___ which she teaches is famous.\n解析：习惯搭配于学校教书，填 in。",
-      "keywords": ["介词", "which", "whom", "定语从句", "高级结构"],
-      "prerequisites": [],
+      "keywords": [
+        "介词",
+        "which",
+        "whom",
+        "定语从句",
+        "高级结构"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +112,16 @@
         "as 从句放句首时误用逗号以外的标点"
       ],
       "example": "[仿题]___ everyone knows, water is essential.\n解析：指代整个主句作正如，填 As。",
-      "keywords": ["as", "非限制性", "正如", "定语从句", "指代主句"],
-      "prerequisites": [],
+      "keywords": [
+        "as",
+        "非限制性",
+        "正如",
+        "定语从句",
+        "指代主句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +137,16 @@
         "把 of which 误当普通 which 使用"
       ],
       "example": "[仿题]The house, the door of ___ is red, is mine.\n解析：所属关系用 of which，填 which。",
-      "keywords": ["of which", "whose", "所属关系", "定语从句", "正式表达"],
-      "prerequisites": [],
+      "keywords": [
+        "of which",
+        "whose",
+        "所属关系",
+        "定语从句",
+        "正式表达"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,8 +162,16 @@
         "把该用的 whom 写成了 which"
       ],
       "example": "[仿题]The team, most of ___ are young, won.\n解析：指人用 whom，填 whom。",
-      "keywords": ["some of which", "of whom", "数量", "整体", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "some of which",
+        "of whom",
+        "数量",
+        "整体",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -134,7 +188,13 @@
         "expense 与 expense 复数形式使用错"
       ],
       "example": "[仿题]She made a ___ every month to save money.\n解析：每月做预算，填 budget。",
-      "keywords": ["budget", "purchase", "invest", "saving", "经济"],
+      "keywords": [
+        "budget",
+        "purchase",
+        "invest",
+        "saving",
+        "经济"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -152,7 +212,13 @@
         "income 与 outcome 语义方向混淆"
       ],
       "example": "[仿题]They can't ___ a new house this year.\n解析：负担不起，填 afford。",
-      "keywords": ["income", "afford", "consume", "spend", "消费"],
+      "keywords": [
+        "income",
+        "afford",
+        "consume",
+        "spend",
+        "消费"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -169,8 +235,17 @@
         "把非限制与限制性从句混淆"
       ],
       "example": "[仿题]The book (which I borrowed) is about economy.\n解析：which 指代 book 作定语，填从句。",
-      "keywords": ["先行词", "识别", "关系词", "复杂", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "先行词",
+        "识别",
+        "关系词",
+        "复杂",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U4_001",
+        "YY_WY_G1_B7_U4_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -186,7 +261,13 @@
         "两个词拼写记混交换使用"
       ],
       "example": "[仿题]The plan is ___ in terms of cost.\n解析：强调省成本，填 economical。",
-      "keywords": ["economic", "economical", "经济", "节省", "词义"],
+      "keywords": [
+        "economic",
+        "economical",
+        "经济",
+        "节省",
+        "词义"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -204,7 +285,13 @@
         "过渡词使用不当破坏论证逻辑"
       ],
       "example": "[仿题]For instance, many young people buy things they ___.\n解析：举例说明冲动消费，填 can't afford。",
-      "keywords": ["作文结构", "现象", "分析", "建议", "理财"],
+      "keywords": [
+        "作文结构",
+        "现象",
+        "分析",
+        "建议",
+        "理财"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

@@ -14,7 +14,12 @@
         "把疑问词与陈述that混选"
       ],
       "example": "[仿题]I know ___ she is.\n解析：含who疑问信息填who。",
-      "keywords": ["宾语从句", "that", "whether", "疑问词"],
+      "keywords": [
+        "宾语从句",
+        "that",
+        "whether",
+        "疑问词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "把疑问句直接照搬进从句"
       ],
       "example": "[仿题]Tell me where he ___.\n解析：宾语从句陈述语序填lives。",
-      "keywords": ["宾语从句", "陈述语序", "主语", "倒装"],
-      "prerequisites": [],
+      "keywords": [
+        "宾语从句",
+        "陈述语序",
+        "主语",
+        "倒装"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "省略that后忘了调整句子语序"
       ],
       "example": "[仿题]She felt (that) it was right.\n解析：that省略仍成立。",
-      "keywords": ["that", "省略", "宾语从句", "陈述"],
-      "prerequisites": [],
+      "keywords": [
+        "that",
+        "省略",
+        "宾语从句",
+        "陈述"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "该用疑问词却用that连接"
       ],
       "example": "[仿题]The truth is ___ we won.\n解析：陈述事实填that。",
-      "keywords": ["表语从句", "that", "because", "疑问词"],
-      "prerequisites": [],
+      "keywords": [
+        "表语从句",
+        "that",
+        "because",
+        "疑问词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,16 @@
         "主句现在时从句却强行后移时态"
       ],
       "example": "[仿题]He said he ___ happy earlier.\n解析：主句过去时填was。",
-      "keywords": ["时态呼应", "宾语从句", "过去时", "引语"],
-      "prerequisites": [],
+      "keywords": [
+        "时态呼应",
+        "宾语从句",
+        "过去时",
+        "引语"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U5_001",
+        "YY_WY_G1_B4_U5_004"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +133,16 @@
         "含双that时漏省了后半句必要的连接词"
       ],
       "example": "[仿题]The news ___ he won spread fast.\n解析：同位语从句不可省填that。",
-      "keywords": ["that", "表语从句", "同位语", "不可省略"],
-      "prerequisites": [],
+      "keywords": [
+        "that",
+        "表语从句",
+        "同位语",
+        "不可省略"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U5_001",
+        "YY_WY_G1_B4_U5_004"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,7 +158,13 @@
         "把habitat与habit形近词混淆"
       ],
       "example": "[仿题]Many ___ live here.\n解析：多数物种填species。",
-      "keywords": ["自然", "环境", "物种", "生态", "观察"],
+      "keywords": [
+        "自然",
+        "环境",
+        "物种",
+        "生态",
+        "观察"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +181,13 @@
         "把desert与dessert读法拼写混淆"
       ],
       "example": "[仿题]The ___ rises in the east.\n解析：太阳升起填sun。",
-      "keywords": ["气候", "山脉", "森林", "沙漠", "自然现象"],
+      "keywords": [
+        "气候",
+        "山脉",
+        "森林",
+        "沙漠",
+        "自然现象"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +204,13 @@
         "把balance作主谓判配合错"
       ],
       "example": "[仿题]The area keeps its ___.\n解析：保持生态平衡填balance。",
-      "keywords": ["植物", "动物", "生态平衡", "遗传", "多样性"],
+      "keywords": [
+        "植物",
+        "动物",
+        "生态平衡",
+        "遗传",
+        "多样性"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +227,13 @@
         "把analyse与analysis词性混淆"
       ],
       "example": "[仿题]They carried ___ a test.\n解析：开展实验填out。",
-      "keywords": ["假设", "实验", "证明", "分析", "结论"],
+      "keywords": [
+        "假设",
+        "实验",
+        "证明",
+        "分析",
+        "结论"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +250,13 @@
         "finally后的结论时态选错"
       ],
       "example": "[仿题]___ the study, we concluded.\n解析：最后填Finally。",
-      "keywords": ["步骤", "连接词", "因果", "推理", "报告"],
+      "keywords": [
+        "步骤",
+        "连接词",
+        "因果",
+        "推理",
+        "报告"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,8 +273,16 @@
         "whether后语序误写成疑问倒装"
       ],
       "example": "[仿题]I'm not sure ___ she agrees.\n解析：表是否填whether。",
-      "keywords": ["whether", "that", "选择", "陈述", "名词性从句"],
-      "prerequisites": [],
+      "keywords": [
+        "whether",
+        "that",
+        "选择",
+        "陈述",
+        "名词性从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U5_001"
+      ],
       "source_version": "外研版2019"
     }
   ]

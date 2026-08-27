@@ -14,7 +14,13 @@
         "把 had been done 与 was done 的时间关系搞混"
       ],
       "example": "[仿题]The bridge ______ (build) before 2000.\n解析：填 had been built，更早之前被动建成。",
-      "keywords": ["过去完成被动", "had been done", "被动语态", "过去分词", "结构"],
+      "keywords": [
+        "过去完成被动",
+        "had been done",
+        "被动语态",
+        "过去分词",
+        "结构"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "before 从句与主句的先后关系判断反了"
       ],
       "example": "[仿题]By last week, the plan ______ (complete).\n解析：填 had been completed，by+过去时间用过去完成。",
-      "keywords": ["过去完成被动", "时间参照", "by+过去时间", "before从句", "先后关系"],
-      "prerequisites": [],
+      "keywords": [
+        "过去完成被动",
+        "时间参照",
+        "by+过去时间",
+        "before从句",
+        "先后关系"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U2_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,17 @@
         "把主句动作与从句被动先后关系颠倒"
       ],
       "example": "[仿题]When she arrived, the work ______ (finish).\n解析：填 had been finished，到之前已完成。",
-      "keywords": ["时态辨析", "had been done", "was done", "被动语态", "时间参照"],
-      "prerequisites": [],
+      "keywords": [
+        "时态辨析",
+        "had been done",
+        "was done",
+        "被动语态",
+        "时间参照"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U2_001",
+        "YY_RJ_G1_B5_U2_002"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,7 +88,14 @@
         "拼写漏字母，把 tradition 写成 tradtion"
       ],
       "example": "[仿题]She suffered from ______ in the first month abroad.\n解析：填 culture shock，文化冲击，初到不适应。",
-      "keywords": ["文化差异", "culture", "custom", "传统", "文化冲击", "价值观"],
+      "keywords": [
+        "文化差异",
+        "culture",
+        "custom",
+        "传统",
+        "文化冲击",
+        "价值观"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -82,7 +112,14 @@
         "promote 与 promote 后的宾语搭配不自然"
       ],
       "example": "[仿题]We exchanged ______ (idea) with foreign students.\n解析：填 ideas，交流想法，可数名词用复数。",
-      "keywords": ["文化交流", "introduce", "share", "exchange", "尊重", "交流"],
+      "keywords": [
+        "文化交流",
+        "introduce",
+        "share",
+        "exchange",
+        "尊重",
+        "交流"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -99,7 +136,13 @@
         "adjust 与 adopt 拼写相近，选错词汇"
       ],
       "example": "[仿题]He soon adjusted ______ (live) in the city.\n解析：填 to living，adjust to 后接动名词。",
-      "keywords": ["适应文化", "adapt to", "get used to", "adjust", "动名词"],
+      "keywords": [
+        "适应文化",
+        "adapt to",
+        "get used to",
+        "adjust",
+        "动名词"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -116,7 +159,13 @@
         "先写不适又没有 but later 做转折衔接"
       ],
       "example": "[仿题]When she first ______ (arrive), she felt lost.\n解析：填 arrived，first 后一般用过去式。",
-      "keywords": ["文化冲击", "at first", "When引导句", "感受表达", "转折连接"],
+      "keywords": [
+        "文化冲击",
+        "at first",
+        "When引导句",
+        "感受表达",
+        "转折连接"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +182,13 @@
         "diversity 与 variety 意义相近却用法混用"
       ],
       "example": "[仿题]The two styles ______ (blend) well together.\n解析：填 blend，融合，两种风格搭配协调。",
-      "keywords": ["文化融合", "blend", "多样性", "melting pot", "混合"],
+      "keywords": [
+        "文化融合",
+        "blend",
+        "多样性",
+        "melting pot",
+        "混合"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +205,13 @@
         "回答没补出感受，内容单薄不成句"
       ],
       "example": "[仿题]We took part ______ (in/on) the art festival.\n解析：填 in，take part in 参加活动固定搭配。",
-      "keywords": ["文化节", "take part in", "attend", "交流活动", "参加"],
+      "keywords": [
+        "文化节",
+        "take part in",
+        "attend",
+        "交流活动",
+        "参加"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +228,13 @@
         "unfamiliar 与 familiar 相反却用混"
       ],
       "example": "[仿题]Good ______ (manner) matter at the dinner table.\n解析：填 manners，礼仪，表礼貌行为用复数。",
-      "keywords": ["见闻词汇", "sight", "manners", "impression", "餐桌礼仪"],
+      "keywords": [
+        "见闻词汇",
+        "sight",
+        "manners",
+        "impression",
+        "餐桌礼仪"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +251,13 @@
         "tolerant 与 tolerated 主动被动形式混用"
       ],
       "example": "[仿题]Being abroad ______ (broaden) my mind.\n解析：填 broadens 或 broadened，开阔眼界。",
-      "keywords": ["谈收获词汇", "appreciate", "open-minded", "开阔眼界", "心态开放"],
+      "keywords": [
+        "谈收获词汇",
+        "appreciate",
+        "open-minded",
+        "开阔眼界",
+        "心态开放"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +274,13 @@
         "忘记节日名对应的习俗内容，答非所问"
       ],
       "example": "[仿题]We celebrate the ______ (Dragon) Boat Festival in June.\n解析：填 Dragon，端午节名称，首字母大写。",
-      "keywords": ["节日词汇", "celebrate", "习俗", "端午节", "节日名称"],
+      "keywords": [
+        "节日词汇",
+        "celebrate",
+        "习俗",
+        "端午节",
+        "节日名称"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

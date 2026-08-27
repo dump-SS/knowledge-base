@@ -15,7 +15,13 @@
         "并列主语用 and 连接时误判为就近一致而用单数"
       ],
       "example": "[仿题]The girl, together with her friends, ___ going to the party.\n解析：真正主语是 the girl，单数，故选 is。",
-      "keywords": ["语法一致", "意义一致", "就近一致", "主语", "谓语"],
+      "keywords": [
+        "语法一致",
+        "意义一致",
+        "就近一致",
+        "主语",
+        "谓语"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -32,8 +38,16 @@
         "把 either...or 的谓语按两个名词相合来判断成复数"
       ],
       "example": "[仿题]Either you or he ___ in charge of this task.\n解析：就近看 he，单数，故选 is。",
-      "keywords": ["就近原则", "either...or", "neither...nor", "主谓一致", "谓语"],
-      "prerequisites": [],
+      "keywords": [
+        "就近原则",
+        "either...or",
+        "neither...nor",
+        "主谓一致",
+        "谓语"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -49,8 +63,16 @@
         "未先划掉伴随短语，直接对整个长句的数判断出错"
       ],
       "example": "[仿题]The singer, together with her fans, ___ on the stage.\n解析：核心主语是 singer，单数，故选 is。",
-      "keywords": ["伴随短语", "with", "along with", "主谓一致", "核心主语"],
-      "prerequisites": [],
+      "keywords": [
+        "伴随短语",
+        "with",
+        "along with",
+        "主谓一致",
+        "核心主语"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -66,8 +88,16 @@
         "整体与个体两种语义切换时仍用同一谓语数"
       ],
       "example": "[仿题]The class ___ divided into two groups by the teacher.\n解析：强调班级整体被划分，用单数 is。",
-      "keywords": ["集合名词", "family", "team", "整体", "个体"],
-      "prerequisites": [],
+      "keywords": [
+        "集合名词",
+        "family",
+        "team",
+        "整体",
+        "个体"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -83,8 +113,16 @@
         "there be 与 have 混用造成结构混乱"
       ],
       "example": "[仿题]There ___ mangoes and an apple on the table.\n解析：最近名词是 apple 单数，故选 is。",
-      "keywords": ["there be", "就近一致", "主谓一致", "倒装", "be动词"],
-      "prerequisites": [],
+      "keywords": [
+        "there be",
+        "就近一致",
+        "主谓一致",
+        "倒装",
+        "be动词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -100,8 +138,16 @@
         "把 mathematics 等学科名词当成复数处理"
       ],
       "example": "[仿题]The news about the climate change ___ surprising.\n解析：news 视为单数，故选 is。",
-      "keywords": ["news", "不可数名词", "单数谓语", "学科名词", "特殊名词"],
-      "prerequisites": [],
+      "keywords": [
+        "news",
+        "不可数名词",
+        "单数谓语",
+        "学科名词",
+        "特殊名词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -117,7 +163,13 @@
         "两者混用不区分构造精巧与材质易碎"
       ],
       "example": "[仿题]Be careful with the ___ glass vase from Japan.\n解析：玻璃易碎，用 fragile 最贴切。",
-      "keywords": ["delicate", "fragile", "脆弱", "易碎", "辨析"],
+      "keywords": [
+        "delicate",
+        "fragile",
+        "脆弱",
+        "易碎",
+        "辨析"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -135,7 +187,13 @@
         "记不住 conserve 与 reserve 的保护与保留差异"
       ],
       "example": "[仿题]The ___ of the wetlands helps many birds survive.\n解析：此处填 conservation，意为保护湿地。",
-      "keywords": ["ecosystem", "conservation", "endangered", "degrade", "生态"],
+      "keywords": [
+        "ecosystem",
+        "conservation",
+        "endangered",
+        "degrade",
+        "生态"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -152,7 +210,13 @@
         "become extinct 误接进行时而违背其状态性用法"
       ],
       "example": "[仿题]Many rare birds are ___ because of habitat loss.\n解析：强调正在消失，用 dying out。",
-      "keywords": ["die out", "become extinct", "灭绝", "物种", "消失"],
+      "keywords": [
+        "die out",
+        "become extinct",
+        "灭绝",
+        "物种",
+        "消失"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -169,7 +233,13 @@
         "call for 与 call on 混用，分不清呼吁与号召搭配"
       ],
       "example": "[仿题]We should protect the young trees ___ strong winds.\n解析：保护树木免受风袭，填 from。",
-      "keywords": ["protect...from", "set up", "call for", "自然保护", "环保举措"],
+      "keywords": [
+        "protect...from",
+        "set up",
+        "call for",
+        "自然保护",
+        "环保举措"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -187,7 +257,13 @@
         "be connected to 与 be connected with 不分场合混用"
       ],
       "example": "[仿题]Many birds ___ on trees for shelter and food.\n解析：依赖树木生存，填 depend。",
-      "keywords": ["depend on", "harmony", "共生", "依存", "生态关系"],
+      "keywords": [
+        "depend on",
+        "harmony",
+        "共生",
+        "依存",
+        "生态关系"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -204,7 +280,13 @@
         "在长句中未去除插入语，导致指代锁定错误词"
       ],
       "example": "[仿题]The fish moved; they were frightened by the noise.\n解析：they 指代前句复数 the fish。",
-      "keywords": ["指代", "代词", "回指", "生态阅读", "上下文"],
+      "keywords": [
+        "指代",
+        "代词",
+        "回指",
+        "生态阅读",
+        "上下文"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

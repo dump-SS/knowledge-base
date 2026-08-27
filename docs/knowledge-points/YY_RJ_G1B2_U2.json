@@ -14,7 +14,13 @@
         "过去分词形式用错"
       ],
       "example": "[仿题]填空：The birds ___ (watch) by visitors now。\n解析：正在被看，用 are being watched",
-      "keywords": ["现在进行被动", "being done", "am/is/are", "被动语态", "过去分词"],
+      "keywords": [
+        "现在进行被动",
+        "being done",
+        "am/is/are",
+        "被动语态",
+        "过去分词"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "在无进行语义的句中硬用 being"
       ],
       "example": "[仿题]填空：A survey ___ (conduct) about wolves now。\n解析：正在被进行用 is being",
-      "keywords": ["正在发生", "被动", "场景判断", "语境", "being done"],
-      "prerequisites": [],
+      "keywords": [
+        "正在发生",
+        "被动",
+        "场景判断",
+        "语境",
+        "being done"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U2_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "分不清状态与正在发生的差别"
       ],
       "example": "[仿题]选词：Pandas ___ (are protected / are being protected) now。\n解析：此刻进行用 are being",
-      "keywords": ["一般被动", "现在进行被动", "区别", "now", "时态选择"],
-      "prerequisites": [],
+      "keywords": [
+        "一般被动",
+        "现在进行被动",
+        "区别",
+        "now",
+        "时态选择"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U2_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,16 @@
         "宾语变主语后人称与 be 动词不配"
       ],
       "example": "[仿题]改写：They are repairing the fence。\n解析：The fence is being repaired",
-      "keywords": ["主动转被动", "变换步骤", "by 短语", "进行时被动", "时态转换"],
-      "prerequisites": [],
+      "keywords": [
+        "主动转被动",
+        "变换步骤",
+        "by 短语",
+        "进行时被动",
+        "时态转换"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U2_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,8 +112,16 @@
         "多个情态动词混用语义不清"
       ],
       "example": "[仿题]填空：Tigers ___ (should) protect。\n解析：should be protected，写 should be",
-      "keywords": ["情态动词", "被动", "should be done", "must be done", "be done"],
-      "prerequisites": [],
+      "keywords": [
+        "情态动词",
+        "被动",
+        "should be done",
+        "must be done",
+        "be done"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U2_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -99,7 +137,13 @@
         "endangered 拼写漏字母"
       ],
       "example": "[仿题]选词：这种动物快要___（extinct/endangered）了。\n解析：灭绝状态用 extinct",
-      "keywords": ["endangered", "extinct", "die out", "濒危", "灭绝"],
+      "keywords": [
+        "endangered",
+        "extinct",
+        "die out",
+        "濒危",
+        "灭绝"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -116,7 +160,13 @@
         "变化动词与主语数不匹配"
       ],
       "example": "[仿题]选词：候鸟数量 ___（decline) 迅速。\n解析：下降用 declines",
-      "keywords": ["population", "increase", "decline", "种群", "数量变化"],
+      "keywords": [
+        "population",
+        "increase",
+        "decline",
+        "种群",
+        "数量变化"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +183,13 @@
         "把 habitat 误当可数加 s 的错误"
       ],
       "example": "[仿题]填空：动物失去 ___（habitat）难以生存。\n解析：栖息地用 habitat 单数泛指",
-      "keywords": ["habitat", "reserve", "natural park", "栖息地", "保护区"],
+      "keywords": [
+        "habitat",
+        "reserve",
+        "natural park",
+        "栖息地",
+        "保护区"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +206,13 @@
         "漏掉表目的的 to 不定式"
       ],
       "example": "[仿题]填空：政府采取 ___（measure）保护野生大熊猫。\n解析：采取复数措施用 measures",
-      "keywords": ["take measures", "take action", "采取措施", "保护", "不定式目的"],
+      "keywords": [
+        "take measures",
+        "take action",
+        "采取措施",
+        "保护",
+        "不定式目的"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +229,13 @@
         "danger 后接名词时漏掉 of"
       ],
       "example": "[仿题]填空：青蛙处于灭绝的 ___（danger）中。\n解析：濒临用 in danger of",
-      "keywords": ["in danger", "in danger of", "at risk", "受威胁", "危险"],
+      "keywords": [
+        "in danger",
+        "in danger of",
+        "at risk",
+        "受威胁",
+        "危险"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +252,13 @@
         "urge 后宾语接续形式错误"
       ],
       "example": "[仿题]填空：我们 ___（call）on people to care。\n解析：号召接 on 用 call on",
-      "keywords": ["appeal to", "call on", "urge", "号召", "保护呼吁"],
+      "keywords": [
+        "appeal to",
+        "call on",
+        "urge",
+        "号召",
+        "保护呼吁"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +275,13 @@
         "描述成效时选错了恢复程度的词"
       ],
       "example": "[仿题]选词：保护后种群 ___（recover/flourish）了。\n解析：恢复到原状用 recover",
-      "keywords": ["recover", "survive", "flourish", "恢复", "保护成效"],
+      "keywords": [
+        "recover",
+        "survive",
+        "flourish",
+        "恢复",
+        "保护成效"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

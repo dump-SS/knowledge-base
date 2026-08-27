@@ -14,7 +14,12 @@
         "object时态呼应整体判断受损"
       ],
       "example": "[仿题]She said she ___ ready.\n解析：主句过去时填was。",
-      "keywords": ["宾语从句", "时态呼应", "过去时", "主句"],
+      "keywords": [
+        "宾语从句",
+        "时态呼应",
+        "过去时",
+        "主句"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "把进行时该推移却保留原状"
       ],
       "example": "[仿题]He said he ___ to go.\n解析：will变would填would。",
-      "keywords": ["间接引语", "时态推移", "宾语从句", "will变would"],
-      "prerequisites": [],
+      "keywords": [
+        "间接引语",
+        "时态推移",
+        "宾语从句",
+        "will变would"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "忽视主句主谓一致时忽略从句主语"
       ],
       "example": "[仿题]He said light ___ faster.\n解析：客观规律用一般现在填travels。",
-      "keywords": ["客观真理", "时态保持", "一般现在时", "宾语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "客观真理",
+        "时态保持",
+        "一般现在时",
+        "宾语从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "漏加that或把从句当成独立句"
       ],
       "example": "[仿题]She said she ___ tired.\n解析：am变was填was。",
-      "keywords": ["间接引语", "时态变化", "人称调整", "that"],
-      "prerequisites": [],
+      "keywords": [
+        "间接引语",
+        "时态变化",
+        "人称调整",
+        "that"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,15 @@
         "主句现在时也误推移从句时态"
       ],
       "example": "[仿题]He said the dog ___ here now.\n解析：持续状态可保留填is。",
-      "keywords": ["时态", "持续事实", "宾语从句", "例外"],
-      "prerequisites": [],
+      "keywords": [
+        "时态",
+        "持续事实",
+        "宾语从句",
+        "例外"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +132,15 @@
         "把were误写成was虚位出错"
       ],
       "example": "[仿题]I wish I ___ taller.\n解析：现在愿望虚拟填were。",
-      "keywords": ["wish", "虚拟语气", "宾语从句", "时态"],
-      "prerequisites": [],
+      "keywords": [
+        "wish",
+        "虚拟语气",
+        "宾语从句",
+        "时态"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B5_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,7 +156,13 @@
         "把go beyond 误写成go the beyond"
       ],
       "example": "[仿题]Science breaks old ___.\n解析：突破旧边界填boundaries。",
-      "keywords": ["边界", "突破", "超越", "探索", "挑战"],
+      "keywords": [
+        "边界",
+        "突破",
+        "超越",
+        "探索",
+        "挑战"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +179,13 @@
         "把cooperate with漏掉介词with"
       ],
       "example": "[仿题]Countries cooperate ___ each other.\n解析：互相合作填with。",
-      "keywords": ["合作", "协作", "沟通", "分享", "全球化"],
+      "keywords": [
+        "合作",
+        "协作",
+        "沟通",
+        "分享",
+        "全球化"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +202,13 @@
         "把create creative词性混搭"
       ],
       "example": "[仿题]They ___ a new way.\n解析：创新新方法填innovated/created。",
-      "keywords": ["创新", "发明", "尝试", "发现", "创造"],
+      "keywords": [
+        "创新",
+        "发明",
+        "尝试",
+        "发现",
+        "创造"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +225,13 @@
         "把field范围与区分类名词混淆"
       ],
       "example": "[仿题]It combines science ___ art.\n解析：与艺术结合填with。",
-      "keywords": ["跨学科", "结合", "融合", "领域", "联系"],
+      "keywords": [
+        "跨学科",
+        "结合",
+        "融合",
+        "领域",
+        "联系"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +248,13 @@
         "把culture与cultural词性混用"
       ],
       "example": "[仿题]Respect the local ___.\n解析：尊重当地习俗填customs。",
-      "keywords": ["文化", "习俗", "尊重", "传统", "理解"],
+      "keywords": [
+        "文化",
+        "习俗",
+        "尊重",
+        "传统",
+        "理解"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +271,13 @@
         "把pave the way用的介词for漏写"
       ],
       "example": "[仿题]It helps ___ the gap.\n解析：弥合隔阂填bridge。",
-      "keywords": ["桥梁", "沟通", "理解", "联结", "合作"],
+      "keywords": [
+        "桥梁",
+        "沟通",
+        "理解",
+        "联结",
+        "合作"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

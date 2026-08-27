@@ -14,7 +14,13 @@
         "指物的先行词误用 who，写成 the book who"
       ],
       "example": "[仿题]填空：The girl ___ (who/whom) is crying needs help。\n解析：who 在从句作主语",
-      "keywords": ["定语从句", "关系代词", "that", "which", "who"],
+      "keywords": [
+        "定语从句",
+        "关系代词",
+        "that",
+        "which",
+        "who"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "分不清什么时候 which 与 that 可互换"
       ],
       "example": "[仿题]填空：It was the biggest flood ___ (that/which) we had。\n解析：最大中心语必用 that",
-      "keywords": ["which", "that", "指物", "最高级", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "which",
+        "that",
+        "指物",
+        "最高级",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U4_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "从句里重复出现人，写成 the man who he came"
       ],
       "example": "[仿题]填空：The man ___ (who/whom) saved the child is my friend。\n解析：who 作从句主语",
-      "keywords": ["who", "指人", "主语", "定语从句", "关系代词"],
-      "prerequisites": [],
+      "keywords": [
+        "who",
+        "指人",
+        "主语",
+        "定语从句",
+        "关系代词"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U4_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,16 @@
         "区分不了 whom 与 whose 的指代对象"
       ],
       "example": "[仿题]填空：The boy ___ (whom/who) we found was lost。\n解析：whom 作 found 的宾语",
-      "keywords": ["whom", "宾语", "指人", "介词提前", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "whom",
+        "宾语",
+        "指人",
+        "介词提前",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U4_003"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,8 +112,16 @@
         "分不清 whose 与 who's（who is）的拼写"
       ],
       "example": "[仿题]填空：The town ___ (whose/of which) street is gone needs help。\n解析：所属关系用 whose",
-      "keywords": ["whose", "所属", "of which", "定语从句", "作定语"],
-      "prerequisites": [],
+      "keywords": [
+        "whose",
+        "所属",
+        "of which",
+        "定语从句",
+        "作定语"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U4_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -99,8 +137,16 @@
         "which 指代整句话时被误当作指代某名词"
       ],
       "example": "[仿题]填空：The dam，___ (which/that) was built in 1950，still works。\n解析：逗号后不用 that，用 which",
-      "keywords": ["非限制性", "逗号", "定语从句", "which", "that"],
-      "prerequisites": [],
+      "keywords": [
+        "非限制性",
+        "逗号",
+        "定语从句",
+        "which",
+        "that"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U4_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -116,8 +162,17 @@
         "把非限制性从句中的关系代词错省略"
       ],
       "example": "[仿题]改错：The house (that) we stayed was big。\n解析：缺介词，须加 in which 等",
-      "keywords": ["省略", "作宾语", "限制性", "关系代词", "介词提前"],
-      "prerequisites": [],
+      "keywords": [
+        "省略",
+        "作宾语",
+        "限制性",
+        "关系代词",
+        "介词提前"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U4_003",
+        "YY_RJ_G1_B1_U4_004"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -133,7 +188,13 @@
         "magnitude 单词拼写漏字母，写错形"
       ],
       "example": "[仿题]选词：此次地震震级为7.2，用 ___ (magnitude/epicentre)。\n解析：震级用 magnitude",
-      "keywords": ["earthquake", "magnitude", "epicentre", "震级", "地震"],
+      "keywords": [
+        "earthquake",
+        "magnitude",
+        "epicentre",
+        "震级",
+        "地震"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +211,13 @@
         "描述灾害爆发误用其他动词代替 break out"
       ],
       "example": "[仿题]选词：山体滑坡冲毁了道路（___：landslide/flood）。\n解析：滑坡用 landslide",
-      "keywords": ["flood", "typhoon", "landslide", "自然灾害", "break out"],
+      "keywords": [
+        "flood",
+        "typhoon",
+        "landslide",
+        "自然灾害",
+        "break out"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +234,13 @@
         "与 strike 同义替换时搭配不合，相混用"
       ],
       "example": "[仿题]改错：The flood struck on the village。\n解析：struck 后直接接宾语，删 on",
-      "keywords": ["strike", "袭击", "struck", "及物动词", "灾害"],
+      "keywords": [
+        "strike",
+        "袭击",
+        "struck",
+        "及物动词",
+        "灾害"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +257,13 @@
         "把 search for 误写成 search for 之外的搭配"
       ],
       "example": "[仿题]填空：救援队 ___ (rescue) 了被困的村民。\n解析：救援动词用 rescued",
-      "keywords": ["survive", "survivor", "rescue", "search for", "救援"],
+      "keywords": [
+        "survive",
+        "survivor",
+        "rescue",
+        "search for",
+        "救援"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,8 +280,16 @@
         "分词短语与从句结构混淆连接错误"
       ],
       "example": "[仿题]改写：The city which was damaged by floods。\n解析：省略 which was，写 The city damaged",
-      "keywords": ["过去分词", "被动", "定语从句简化", "damaged", "精简表达"],
-      "prerequisites": [],
+      "keywords": [
+        "过去分词",
+        "被动",
+        "定语从句简化",
+        "damaged",
+        "精简表达"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U4_001"
+      ],
       "source_version": "人教版2019"
     }
   ]

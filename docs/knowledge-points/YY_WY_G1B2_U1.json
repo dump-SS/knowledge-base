@@ -14,7 +14,12 @@
         "两时态对应的时间状语选用错误互相矛盾"
       ],
       "example": "[仿题]我昨天尝过这道菜。\n解析：I tried the dish yesterday，过去状语配一般过去时。",
-      "keywords": ["一般过去时", "现在完成时", "对比", "影响"],
+      "keywords": [
+        "一般过去时",
+        "现在完成时",
+        "对比",
+        "影响"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,7 +36,12 @@
         "that 引导宾语分句时与定语引导词概念混淆"
       ],
       "example": "[仿题]我认为汤很美味。\n解析：I think that the soup is delicious，that 引出宾语从句。",
-      "keywords": ["that", "宾语从句", "think", "连接词"],
+      "keywords": [
+        "that",
+        "宾语从句",
+        "think",
+        "连接词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -48,8 +58,15 @@
         "主句过去时从句时态与原本语境不一致"
       ],
       "example": "[仿题]他说菜很可口。\n解析：He said the dish was tasty，从句随 said 用过去时。",
-      "keywords": ["时态呼应", "宾语从句", "过去时", "转述"],
-      "prerequisites": [],
+      "keywords": [
+        "时态呼应",
+        "宾语从句",
+        "过去时",
+        "转述"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U1_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,7 +82,12 @@
         "一般疑问与特殊疑问的语序结构混淆使用"
       ],
       "example": "[仿题]你喜欢吃面条吗？\n解析：Do you like noodles? 一般疑问句用 do 提问。",
-      "keywords": ["疑问句", "do", "饮食偏好", "特殊疑问"],
+      "keywords": [
+        "疑问句",
+        "do",
+        "饮食偏好",
+        "特殊疑问"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -82,8 +104,15 @@
         "量词 a bowl of 之后的谓语与量词单复数错配"
       ],
       "example": "[仿题]我要一碗米饭。\n解析：I want a bowl of rice，不可数用量词 a bowl of。",
-      "keywords": ["可数名词", "不可数名词", "量词", "rice"],
-      "prerequisites": [],
+      "keywords": [
+        "可数名词",
+        "不可数名词",
+        "量词",
+        "rice"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,7 +128,12 @@
         "be crazy about 与喜爱程度的语义强弱搞反"
       ],
       "example": "[仿题]他偏爱辣食。\n解析：He is keen on spicy food，keen on 后接名词。",
-      "keywords": ["be keen on", "be fond of", "喜爱", "介词搭配"],
+      "keywords": [
+        "be keen on",
+        "be fond of",
+        "喜爱",
+        "介词搭配"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -116,7 +150,12 @@
         "传统 traditional 误拼成 tradional 漏掉 i 字"
       ],
       "example": "[仿题]中国菜很受欢迎。\n解析：Chinese cuisine is popular，cuisine 表菜肴。",
-      "keywords": ["cuisine", "ingredient", "traditional", "flavour"],
+      "keywords": [
+        "cuisine",
+        "ingredient",
+        "traditional",
+        "flavour"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +172,12 @@
         "形容美味 delicious 与可口的 tasty 语义重复堆砌"
       ],
       "example": "[仿题]汤尝起来辛辣。\n解析：The soup tastes spicy，taste 系动词接形容词。",
-      "keywords": ["spicy", "sweet", "bitter", "味道"],
+      "keywords": [
+        "spicy",
+        "sweet",
+        "bitter",
+        "味道"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +194,12 @@
         "点餐表达 order 后误接介词 up 造成多余成分"
       ],
       "example": "[仿题]我吃了早饭。\n解析：I have breakfast，have 后直接接三餐名词。",
-      "keywords": ["breakfast", "lunch", "dinner", "三餐"],
+      "keywords": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "三餐"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +216,12 @@
         "量词搭配与食物形态不匹配造成表达怪异"
       ],
       "example": "[仿题]一片面包就够了。\n解析：A piece of bread is enough，用 a piece of 表一片。",
-      "keywords": ["量词", "a piece of", "a cup of", "食物"],
+      "keywords": [
+        "量词",
+        "a piece of",
+        "a cup of",
+        "食物"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +238,12 @@
         "频率表达与单三人称加s同时误用产生冲突"
       ],
       "example": "[仿题]我从不吃辣。\n解析：I never eat spicy food，never 放行为动词之前。",
-      "keywords": ["频度副词", "习惯", "never", "频率"],
+      "keywords": [
+        "频度副词",
+        "习惯",
+        "never",
+        "频率"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +260,12 @@
         "递进与因果连接词选择与语义指向不匹配"
       ],
       "example": "[仿题]菜辣但好吃。\n解析：The food is spicy but tasty，but 表转折对比。",
-      "keywords": ["but", "because", "连接词", "观点"],
+      "keywords": [
+        "but",
+        "because",
+        "连接词",
+        "观点"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

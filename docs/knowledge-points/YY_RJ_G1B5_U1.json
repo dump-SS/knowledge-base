@@ -14,7 +14,13 @@
         "whether 与 if 位置混用，从句充当主语还写 if"
       ],
       "example": "[仿题]I don't know ______ he will come today.\n解析：填 whether，表是否，引导宾语从句。",
-      "keywords": ["宾语从句", "连接词", "whether", "if", "that"],
+      "keywords": [
+        "宾语从句",
+        "连接词",
+        "whether",
+        "if",
+        "that"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "由 did 引出的疑问转从句仍保留 did 表疑问"
       ],
       "example": "[仿题]Can you tell me what time the train ______ (leave)?\n解析：填 leaves，从句用陈述语序不加助动。",
-      "keywords": ["宾语从句", "陈述语序", "疑问词", "主语谓语", "语序"],
-      "prerequisites": [],
+      "keywords": [
+        "宾语从句",
+        "陈述语序",
+        "疑问词",
+        "主语谓语",
+        "语序"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U1_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "过去完成时转换时漏掉 had，只写过去式"
       ],
       "example": "[仿题]He told me he ______ (be) ill yesterday.\n解析：填 was，主句过去时从句用过去时。",
-      "keywords": ["时态呼应", "宾语从句", "过去时", "客观真理", "时态一致"],
-      "prerequisites": [],
+      "keywords": [
+        "时态呼应",
+        "宾语从句",
+        "过去时",
+        "客观真理",
+        "时态一致"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U1_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,16 @@
         "把 It 和真正主语的位置写颠倒"
       ],
       "example": "[仿题]______ is necessary that we plan ahead.\n解析：填 It，作形式主语替 that 从句。",
-      "keywords": ["形式主语", "It", "主语从句", "that 引导", "后置主语"],
-      "prerequisites": [],
+      "keywords": [
+        "形式主语",
+        "It",
+        "主语从句",
+        "that 引导",
+        "后置主语"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U1_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,8 +112,16 @@
         "把 whether 从句的真正主语身份给认错"
       ],
       "example": "[仿题]It is unclear ______ the experiment will succeed.\n解析：填 whether，表是否作真正主语。",
-      "keywords": ["形式主语", "whether从句", "疑问词从句", "真正主语", "It句型"],
-      "prerequisites": [],
+      "keywords": [
+        "形式主语",
+        "whether从句",
+        "疑问词从句",
+        "真正主语",
+        "It句型"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U1_004"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -99,8 +137,16 @@
         "把 that 从句的引导词在主语从句里随意省略"
       ],
       "example": "[仿题]He said he would come and ______ he was ready.\n解析：填 that，并列从句第二个 that 不可省。",
-      "keywords": ["that省略", "宾语从句", "并列从句", "引导词", "改错"],
-      "prerequisites": [],
+      "keywords": [
+        "that省略",
+        "宾语从句",
+        "并列从句",
+        "引导词",
+        "改错"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U1_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -116,7 +162,14 @@
         "measure 与 analyze 场景混用，测量分析对象乱用"
       ],
       "example": "[仿题]Scientists ______ (conduct) an experiment on the mice.\n解析：填 conducted，实施实验，过去动作。",
-      "keywords": ["科学实验", "observe", "measure", "分析", "conduct", "record"],
+      "keywords": [
+        "科学实验",
+        "observe",
+        "measure",
+        "分析",
+        "conduct",
+        "record"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +186,14 @@
         "sample 与 example 语义混淆，样本和例子乱用"
       ],
       "example": "[仿题]The data failed to support the ______ (hypothesis).\n解析：填 hypothesis，假设，数据不支持假设。",
-      "keywords": ["科研名词", "hypothesis", "evidence", "结论", "样本", "理论"],
+      "keywords": [
+        "科研名词",
+        "hypothesis",
+        "evidence",
+        "结论",
+        "样本",
+        "理论"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +210,14 @@
         "First、Then、Finally 顺序错乱，过程难以读懂"
       ],
       "example": "[仿题]First, the mixture was ______ (heat) to 100℃.\n解析：填 heated，was 后接过去分词表被动。",
-      "keywords": ["实验过程", "被动语态", "顺序词", "步骤衔接", "First", "Finally"],
+      "keywords": [
+        "实验过程",
+        "被动语态",
+        "顺序词",
+        "步骤衔接",
+        "First",
+        "Finally"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +234,13 @@
         "倍数比较结构位置放错，写法不符合习惯"
       ],
       "example": "[仿题]The number increased ______ (by/to) 20 last year.\n解析：填 by，表上升了20，by 指净增幅。",
-      "keywords": ["数据描述", "百分比", "increase by", "make up", "倍数比较"],
+      "keywords": [
+        "数据描述",
+        "百分比",
+        "increase by",
+        "make up",
+        "倍数比较"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +257,13 @@
         "名词 discovery 拼写漏字母或形式拼错"
       ],
       "example": "[仿题]Watt invented the ______ (steam engine).\n解析：填 steam engine，发明物用 invent 搭配。",
-      "keywords": ["科学发现", "discover", "invent", "证实", "结论"],
+      "keywords": [
+        "科学发现",
+        "discover",
+        "invent",
+        "证实",
+        "结论"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,8 +280,16 @@
         "把 whether...or not 结构写成 if...or not"
       ],
       "example": "[仿题]______ she will come doesn't matter to us.\n解析：填 Whether，主语从句只能用 whether。",
-      "keywords": ["连接词", "whether", "if", "主语从句", "选择"],
-      "prerequisites": [],
+      "keywords": [
+        "连接词",
+        "whether",
+        "if",
+        "主语从句",
+        "选择"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U1_001"
+      ],
       "source_version": "人教版2019"
     }
   ]

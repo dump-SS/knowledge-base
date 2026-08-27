@@ -14,7 +14,13 @@
         "分不清哪些动词要接虚拟语气而误用直陈式"
       ],
       "example": "[仿题]He suggested that she ___ early.\n解析：suggest接虚拟填(should) leave。",
-      "keywords": ["recommend", "suggest", "虚拟语气", "should", "宾语从句"],
+      "keywords": [
+        "recommend",
+        "suggest",
+        "虚拟语气",
+        "should",
+        "宾语从句"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +37,16 @@
         "should后动词误加时态变化"
       ],
       "example": "[仿题]It is vital that he ___ calm.\n解析：It is形容虚拟填stay。",
-      "keywords": ["虚拟语气", "主语从句", "should", "It is", "形容词"],
-      "prerequisites": [],
+      "keywords": [
+        "虚拟语气",
+        "主语从句",
+        "should",
+        "It is",
+        "形容词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +62,16 @@
         "把were误写成was，虚拟语气be变形出错"
       ],
       "example": "[仿题]If only I ___ taller now.\n解析：现在愿望用虚拟填were。",
-      "keywords": ["If only", "虚拟语气", "wish", "愿望", "叹息"],
-      "prerequisites": [],
+      "keywords": [
+        "If only",
+        "虚拟语气",
+        "wish",
+        "愿望",
+        "叹息"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +87,15 @@
         "对现在愿望输用Are变体把控不熟"
       ],
       "example": "[仿题]I wish I ___ taller.\n解析：现在愿望填were。",
-      "keywords": ["wish", "虚拟语气", "一般过去时", "现在愿望"],
-      "prerequisites": [],
+      "keywords": [
+        "wish",
+        "虚拟语气",
+        "一般过去时",
+        "现在愿望"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +111,16 @@
         "时间指向弄反，过去愿望误写成现在形式"
       ],
       "example": "[仿题]I wish I ___ it then.\n解析：过去遗憾填had said。",
-      "keywords": ["wish", "过去完成时", "遗憾", "后悔", "虚拟语气"],
-      "prerequisites": [],
+      "keywords": [
+        "wish",
+        "过去完成时",
+        "遗憾",
+        "后悔",
+        "虚拟语气"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U1_004"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +136,16 @@
         "把as if主语从句主语配错导致人称错位"
       ],
       "example": "[仿题]He acts as if he ___ rich.\n解析：仿佛但非事实填were。",
-      "keywords": ["as if", "虚拟语气", "比喻", "仿佛", "过去时"],
-      "prerequisites": [],
+      "keywords": [
+        "as if",
+        "虚拟语气",
+        "比喻",
+        "仿佛",
+        "过去时"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,7 +161,13 @@
         "把funny误写成funsy等臆造拼写"
       ],
       "example": "[仿题]Her joke made us ___.\n解析：逗笑使大笑填laugh。",
-      "keywords": ["幽默", "滑稽", "逗笑", "笑声", "笑话"],
+      "keywords": [
+        "幽默",
+        "滑稽",
+        "逗笑",
+        "笑声",
+        "笑话"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +184,12 @@
         "把make使役与get sb to do混淆"
       ],
       "example": "[仿题]It made me ___ out loud.\n解析：使役接原形填laugh。",
-      "keywords": ["make sb do", "使役动词", "原形", "被动还原"],
+      "keywords": [
+        "make sb do",
+        "使役动词",
+        "原形",
+        "被动还原"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +206,13 @@
         "performance与audience层次理解欠缺"
       ],
       "example": "[仿题]The ___ laughed loudly.\n解析：观众大笑填audience。",
-      "keywords": ["表演", "演员", "观众", "脱口秀", "娱乐"],
+      "keywords": [
+        "表演",
+        "演员",
+        "观众",
+        "脱口秀",
+        "娱乐"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +229,13 @@
         "把funny thing is错用在非笑话语境"
       ],
       "example": "[仿题]He looked serious, ___ he joked.\n解析：表转折填but。",
-      "keywords": ["转折", "铺垫", "笑点", "对比", "反差"],
+      "keywords": [
+        "转折",
+        "铺垫",
+        "笑点",
+        "对比",
+        "反差"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +252,13 @@
         "too与enough程度表达不分"
       ],
       "example": "[仿题]It was ___ funny that we cried.\n解析：强调形容词填so。",
-      "keywords": ["so", "强调", "如此", "结果状语", "such"],
+      "keywords": [
+        "so",
+        "强调",
+        "如此",
+        "结果状语",
+        "such"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +275,13 @@
         "反差铺垫不足导致笑点无力"
       ],
       "example": "[仿题]___ I felt nervous, then happy.\n解析：起始时间词填First/At first。",
-      "keywords": ["叙事", "时序", "反差", "记叙文", "铺垫"],
+      "keywords": [
+        "叙事",
+        "时序",
+        "反差",
+        "记叙文",
+        "铺垫"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

@@ -14,7 +14,12 @@
         "把被动原形缺失 is 直接加过去分词"
       ],
       "example": "[仿题]足球被广泛踢。\n解析：Football is played everywhere，is 加过去分词构成被动。",
-      "keywords": ["被动语态", "is", "过去分词", "一般现在时"],
+      "keywords": [
+        "被动语态",
+        "is",
+        "过去分词",
+        "一般现在时"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "把过去时的 be 误换成现在时 is 造成时态混用"
       ],
       "example": "[仿题]这项运动发明于1930年。\n解析：The game was invented in 1930，用 was 加过去分词被动。",
-      "keywords": ["被动语态", "was", "过去分词", "过去时"],
-      "prerequisites": [],
+      "keywords": [
+        "被动语态",
+        "was",
+        "过去分词",
+        "过去时"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "被动与情态动词的语序摆放颠倒结构错误"
       ],
       "example": "[仿题]规则必须被遵守。\n解析：The rules must be followed，情态后接 be 加过去分词。",
-      "keywords": ["被动", "情态动词", "must be", "过去分词"],
-      "prerequisites": [],
+      "keywords": [
+        "被动",
+        "情态动词",
+        "must be",
+        "过去分词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "be 动词未沿用原时态导致时态变化"
       ],
       "example": "[仿题]人打球。\n解析：The ball is played by people，主语宾语相互对调。",
-      "keywords": ["被动", "主动", "by", "转换"],
-      "prerequisites": [],
+      "keywords": [
+        "被动",
+        "主动",
+        "by",
+        "转换"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,17 @@
         "被动判定时未先确认动词是否需接宾语"
       ],
       "example": "[仿题]事故发生了。\n解析：An accident happened，happen 不及物不能被动。",
-      "keywords": ["被动", "及物动词", "不及物", "happen"],
-      "prerequisites": [],
+      "keywords": [
+        "被动",
+        "及物动词",
+        "不及物",
+        "happen"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U3_001",
+        "YY_WY_G1_B2_U3_002",
+        "YY_WY_G1_B2_U3_003"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,7 +134,12 @@
         "旅程 journey 与旅行 trip 的语义特点混用"
       ],
       "example": "[仿题]他参加了比赛。\n解析：He took part in a competition，competition 表比赛。",
-      "keywords": ["competition", "player", "journey", "sport"],
+      "keywords": [
+        "competition",
+        "player",
+        "journey",
+        "sport"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -116,7 +156,12 @@
         "practise 后误接动词原形而应接动名词"
       ],
       "example": "[仿题]他进了一个球。\n解析：He scored a goal，score 后接宾语 goal。",
-      "keywords": ["train", "practise", "score", "动作"],
+      "keywords": [
+        "train",
+        "practise",
+        "score",
+        "动作"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +178,12 @@
         "get off 下车与 get on 上车的方向搞反"
       ],
       "example": "[仿题]我骑车上学。\n解析：I go to school by bike，by 直接接交通工具。",
-      "keywords": ["take the bus", "by bike", "get off", "交通"],
+      "keywords": [
+        "take the bus",
+        "by bike",
+        "get off",
+        "交通"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +200,12 @@
         "比较级与原级的使用情境切换不恰当"
       ],
       "example": "[仿题]他跑得比我快。\n解析：He runs faster than me，用 faster than 表比较。",
-      "keywords": ["比较级", "than", "faster", "比较对象"],
+      "keywords": [
+        "比较级",
+        "than",
+        "faster",
+        "比较对象"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +222,12 @@
         "目的与结果表达混用让句意方向不清晰"
       ],
       "example": "[仿题]我晨跑去保持健康。\n解析：I jog to keep healthy，用 to 不定式表目的。",
-      "keywords": ["不定式", "目的", "to", "keep"],
+      "keywords": [
+        "不定式",
+        "目的",
+        "to",
+        "keep"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +244,12 @@
         "频度副词与助动词 be 的位置搭配错乱"
       ],
       "example": "[仿题]他几乎不缺席比赛。\n解析：He hardly ever misses a game，副词放在动词前。",
-      "keywords": ["频度副词", "hardly ever", "习惯", "频率"],
+      "keywords": [
+        "频度副词",
+        "hardly ever",
+        "习惯",
+        "频率"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +266,12 @@
         "所属与人称代词的用法区别混淆不清"
       ],
       "example": "[仿题]队伍的胜利来之不易。\n解析：The team's victory is hard won，用名词所有格表所属。",
-      "keywords": ["所有格", "撇号", "所属", "名词"],
+      "keywords": [
+        "所有格",
+        "撇号",
+        "所属",
+        "名词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

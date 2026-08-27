@@ -14,7 +14,12 @@
         "半否定词hardly等漏入倒装判断范围"
       ],
       "example": "[仿题]Never ___ I seen such a sight.\n解析：句首否定倒装填have。",
-      "keywords": ["否定词", "部分倒装", "never", "助动词提前"],
+      "keywords": [
+        "否定词",
+        "部分倒装",
+        "never",
+        "助动词提前"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,16 @@
         "倒装时选错助动词，用did仍漏行为动词变化"
       ],
       "example": "[仿题]Only then ___ I realize it.\n解析：only状语倒装填did。",
-      "keywords": ["only", "部分倒装", "状语", "强调", "助动词"],
-      "prerequisites": [],
+      "keywords": [
+        "only",
+        "部分倒装",
+        "状语",
+        "强调",
+        "助动词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +61,16 @@
         "附和时用so I do而非so do I弄反主谓"
       ],
       "example": "[仿题]She works hard, so ___ I.\n解析：也而努力倒装填do。",
-      "keywords": ["so", "neither", "部分倒装", "附和", "助动词"],
-      "prerequisites": [],
+      "keywords": [
+        "so",
+        "neither",
+        "部分倒装",
+        "附和",
+        "助动词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +86,15 @@
         "完全倒装与部分倒装的概念混淆"
       ],
       "example": "[仿题]Here ___ your friends.\n解析：方位名词主语倒装填come。",
-      "keywords": ["here", "there", "完全倒装", "方位副词"],
-      "prerequisites": [],
+      "keywords": [
+        "here",
+        "there",
+        "完全倒装",
+        "方位副词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +110,18 @@
         "判断句首词是否状语时混淆成分功能"
       ],
       "example": "[仿题]Only by ___ can we win.\n解析：only介词句首部分倒装填working。",
-      "keywords": ["完全倒装", "部分倒装", "判别", "谓语位置"],
-      "prerequisites": [],
+      "keywords": [
+        "完全倒装",
+        "部分倒装",
+        "判别",
+        "谓语位置"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U2_001",
+        "YY_WY_G1_B4_U2_002",
+        "YY_WY_G1_B4_U2_003",
+        "YY_WY_G1_B4_U2_004"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +137,15 @@
         "there be中把复数主语当单数处理"
       ],
       "example": "[仿题]There ___ two letters.\n解析：复数主语填are。",
-      "keywords": ["主谓一致", "真正主语", "倒装", "单复数"],
-      "prerequisites": [],
+      "keywords": [
+        "主谓一致",
+        "真正主语",
+        "倒装",
+        "单复数"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U2_005"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,7 +161,13 @@
         "把achieve误当名词使用，缺少ment后缀"
       ],
       "example": "[仿题]Her ___ inspires me daily.\n解析：她的坚持填perseverance。",
-      "keywords": ["动力", "目标", "决心", "坚持", "榜样"],
+      "keywords": [
+        "动力",
+        "目标",
+        "决心",
+        "坚持",
+        "榜样"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +184,13 @@
         "把train误当成名词沿用，词性不分"
       ],
       "example": "[仿题]He made an ___ to win.\n解析：做出努力填effort。",
-      "keywords": ["努力", "训练", "提高", "付出", "磨练"],
+      "keywords": [
+        "努力",
+        "训练",
+        "提高",
+        "付出",
+        "磨练"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +207,13 @@
         "eventually误当形容词使用"
       ],
       "example": "[仿题]She felt great ___.\n解析：感到自豪填pride。",
-      "keywords": ["实现", "认可", "回馈", "自豪", "最终"],
+      "keywords": [
+        "实现",
+        "认可",
+        "回馈",
+        "自豪",
+        "最终"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +230,13 @@
         "catch up与give up词义与搭配混淆"
       ],
       "example": "[仿题]We learn from each ___.\n解析：从每次挫折中学习填failure。",
-      "keywords": ["失败", "挫折", "教训", "坚持", "成长"],
+      "keywords": [
+        "失败",
+        "挫折",
+        "教训",
+        "坚持",
+        "成长"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +253,13 @@
         "把you can make it的can误写成分词"
       ],
       "example": "[仿题]Don't ___ up, please.\n解析：别放弃祈使原形填give。",
-      "keywords": ["祈使句", "激励", "鼓励", "加油", "坚持"],
+      "keywords": [
+        "祈使句",
+        "激励",
+        "鼓励",
+        "加油",
+        "坚持"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +276,13 @@
         "把plan作动词后宾语缺恰当的to do"
       ],
       "example": "[仿题]She set a clear ___.\n解析：设定明确目标填goal。",
-      "keywords": ["梦想", "雄心", "承诺", "目标", "计划"],
+      "keywords": [
+        "梦想",
+        "雄心",
+        "承诺",
+        "目标",
+        "计划"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

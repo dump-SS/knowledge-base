@@ -14,7 +14,12 @@
         "who 后动词未与先行词单复数保持主谓一致"
       ],
       "example": "[仿题]帮助我的朋友是李华。\n解析：The friend who helps me is Li Hua，who 指人作主语。",
-      "keywords": ["who", "定语从句", "先行词", "关系代词"],
+      "keywords": [
+        "who",
+        "定语从句",
+        "先行词",
+        "关系代词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "把 whom 误当成主格加宾格用错句子成分"
       ],
       "example": "[仿题]你信任的朋友来了。\n解析：The friend whom you trust is here，whom 作宾语。",
-      "keywords": ["whom", "宾语", "定语从句", "关系代词"],
-      "prerequisites": [],
+      "keywords": [
+        "whom",
+        "宾语",
+        "定语从句",
+        "关系代词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "指物与指人的关系代词选用相互颠倒"
       ],
       "example": "[仿题]我买的礼物很漂亮。\n解析：The gift which I bought is nice，which 指物作宾语。",
-      "keywords": ["which", "指物", "定语从句", "先行词"],
-      "prerequisites": [],
+      "keywords": [
+        "which",
+        "指物",
+        "定语从句",
+        "先行词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "误用 which 指代整个主句的情况造成语义偏差"
       ],
       "example": "[仿题]我的朋友很热心。\n解析：My friend, who is kind, helps much，非限定用逗号且不接 that。",
-      "keywords": ["非限定", "逗号", "which", "that"],
-      "prerequisites": [],
+      "keywords": [
+        "非限定",
+        "逗号",
+        "which",
+        "that"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,17 @@
         "没有先定位先行词就急着填关系词造成误选"
       ],
       "example": "[仿题]帮助我的那个老师走了。\n解析：The teacher who helped me left，指人用 who。",
-      "keywords": ["which", "who", "先行词", "指人指物"],
-      "prerequisites": [],
+      "keywords": [
+        "which",
+        "who",
+        "先行词",
+        "指人指物"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U4_001",
+        "YY_WY_G1_B4_U4_002",
+        "YY_WY_G1_B4_U4_003"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,7 +134,12 @@
         "忽略句子时间逻辑让主句从句时态互相矛盾"
       ],
       "example": "[仿题]你昨天见的朋友很有趣。\n解析：The friend whom you met yesterday is fun，met 表昨天的过去。",
-      "keywords": ["时态呼应", "定语从句", "时态", "主从句"],
+      "keywords": [
+        "时态呼应",
+        "定语从句",
+        "时态",
+        "主从句"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -116,7 +156,12 @@
         "形容朋友诚实误把 honest 的 h 发音与拼写搞乱"
       ],
       "example": "[仿题]他是一位忠诚的朋友。\n解析：He is a loyal friend，loyal 表示忠诚。",
-      "keywords": ["loyal", "trust", "honest", "share"],
+      "keywords": [
+        "loyal",
+        "trust",
+        "honest",
+        "share"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +178,12 @@
         "companion 与同学 friend 的概念范围区分不清"
       ],
       "example": "[仿题]她是我最好的朋友。\n解析：She is my best friend，用最高级 best 修饰。",
-      "keywords": ["best friend", "close friend", "companion", "朋友关系"],
+      "keywords": [
+        "best friend",
+        "close friend",
+        "companion",
+        "朋友关系"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +200,12 @@
         "相处融洽短语中漏写 with 造成介词缺失"
       ],
       "example": "[仿题]他们吵了一架但很快和好。\n解析：They quarrelled but soon made up，make up 表示和好。",
-      "keywords": ["make up", "forgive", "get on", "和好"],
+      "keywords": [
+        "make up",
+        "forgive",
+        "get on",
+        "和好"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +222,12 @@
         "鼓励 encourage 后误接 to do 并用错补足结构"
       ],
       "example": "[仿题]他总鼓励我。\n解析：He always encourages me，encourage 后接某人。",
-      "keywords": ["support", "encourage", "accompany", "陪伴"],
+      "keywords": [
+        "support",
+        "encourage",
+        "accompany",
+        "陪伴"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +244,12 @@
         "把定语从句放到名词前导致语法结构还原错误"
       ],
       "example": "[仿题]一位乐于助人的朋友。\n解析：a kind friend who often helps others，定语从句紧跟名词。",
-      "keywords": ["形容词", "定语从句", "位置", "修饰"],
+      "keywords": [
+        "形容词",
+        "定语从句",
+        "位置",
+        "修饰"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +266,12 @@
         "比较对象不明确让比较级悬空无参照"
       ],
       "example": "[仿题]她是我最好的朋友。\n解析：She is the closest friend I've had，最高级用 the。",
-      "keywords": ["比较级", "最高级", "closer", "the"],
+      "keywords": [
+        "比较级",
+        "最高级",
+        "closer",
+        "the"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

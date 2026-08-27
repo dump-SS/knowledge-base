@@ -14,7 +14,12 @@
         "把结尾ed分词误拼成ing形式"
       ],
       "example": "[仿题]___ is my hobby.\n解析：作主语用动名词填Painting。",
-      "keywords": ["不定式", "动名词", "分词", "非谓语"],
+      "keywords": [
+        "不定式",
+        "动名词",
+        "分词",
+        "非谓语"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "把定语分词与动名词名词功能混淆"
       ],
       "example": "[仿题]The ___ girl sings well.\n解析：正在唱歌的女孩填singing。",
-      "keywords": ["现在分词", "定语", "主动", "修饰名词"],
-      "prerequisites": [],
+      "keywords": [
+        "现在分词",
+        "定语",
+        "主动",
+        "修饰名词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "把过去分词定语与被动谓语混同"
       ],
       "example": "[仿题]The ___ window was repaired.\n解析：被打破的窗填broken。",
-      "keywords": ["过去分词", "定语", "被动", "已完成"],
-      "prerequisites": [],
+      "keywords": [
+        "过去分词",
+        "定语",
+        "被动",
+        "已完成"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "把不定式目的与分词伴随混淆"
       ],
       "example": "[仿题]I study ___ improve.\n解析：以求进步不定式填to。",
-      "keywords": ["不定式", "目的", "意图", "to do"],
-      "prerequisites": [],
+      "keywords": [
+        "不定式",
+        "目的",
+        "意图",
+        "to do"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,15 @@
         "把做宾语的动名词误写成原形"
       ],
       "example": "[仿题]I enjoy ___ pictures.\n解析：enjoy后接动名词填drawing。",
-      "keywords": ["动名词", "主语", "宾语", "enjoy"],
-      "prerequisites": [],
+      "keywords": [
+        "动名词",
+        "主语",
+        "宾语",
+        "enjoy"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +132,15 @@
         "分词作时间状语忘与主句主语呼应"
       ],
       "example": "[仿题]___ her work, she danced.\n解析：完成工作分词填Having finished。",
-      "keywords": ["分词", "状语", "逻辑主语", "目的"],
-      "prerequisites": [],
+      "keywords": [
+        "分词",
+        "状语",
+        "逻辑主语",
+        "目的"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,7 +156,13 @@
         "把be absorbed in介词的in漏写"
       ],
       "example": "[仿题]She found ___ in nature.\n解析：从自然中获得灵感填inspiration。",
-      "keywords": ["灵感", "缪斯", "想象", "专注", "创作"],
+      "keywords": [
+        "灵感",
+        "缪斯",
+        "想象",
+        "专注",
+        "创作"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +179,13 @@
         "把rhythm漏掉h错误拼写"
       ],
       "example": "[仿题]The ___ of the song is soft.\n解析：歌曲旋律填melody。",
-      "keywords": ["旋律", "节奏", "色彩", "构图", "笔触"],
+      "keywords": [
+        "旋律",
+        "节奏",
+        "色彩",
+        "构图",
+        "笔触"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +202,13 @@
         "把adore与observing的词义混用"
       ],
       "example": "[仿题]She is ___ by the painting.\n解析：被画吸引填fascinated。",
-      "keywords": ["吸引", "品鉴", "观察", "沉醉", "专注"],
+      "keywords": [
+        "吸引",
+        "品鉴",
+        "观察",
+        "沉醉",
+        "专注"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +225,13 @@
         "把practise与perfect词性混搭"
       ],
       "example": "[仿题]He keeps ___ his work.\n解析：不断打磨填perfecting/polishing。",
-      "keywords": ["打磨", "修订", "完善", "练习", "提炼"],
+      "keywords": [
+        "打磨",
+        "修订",
+        "完善",
+        "练习",
+        "提炼"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,8 +248,15 @@
         "avoid后误用动词原形，破坏结构"
       ],
       "example": "[仿题]We avoid ___ late.\n解析：avoid后接动名词填being。",
-      "keywords": ["固定搭配", "不定式", "动名词", "动词"],
-      "prerequisites": [],
+      "keywords": [
+        "固定搭配",
+        "不定式",
+        "动名词",
+        "动词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -201,7 +272,13 @@
         "结尾表达价值时主谓结构松散"
       ],
       "example": "[仿题]Art brings us ___.\n解析：艺术带来快乐/美填joy/beauty。",
-      "keywords": ["创造力", "美", "情感", "表达", "价值"],
+      "keywords": [
+        "创造力",
+        "美",
+        "情感",
+        "表达",
+        "价值"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

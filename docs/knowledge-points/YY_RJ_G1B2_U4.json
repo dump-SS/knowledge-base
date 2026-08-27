@@ -14,7 +14,13 @@
         "把过去分词主动被动的意义搞反"
       ],
       "example": "[仿题]填空：a ___ (break) window broken 窗户。\n解析：被动用过去分词 broken",
-      "keywords": ["过去分词", "定语", "被动", "completed", "broken"],
+      "keywords": [
+        "过去分词",
+        "定语",
+        "被动",
+        "completed",
+        "broken"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "把表语与定语的句子位置混淆"
       ],
       "example": "[仿题]填空：I am ___ (interest) in history。\n解析：表人情绪用 interested",
-      "keywords": ["过去分词", "表语", "系动词", "情绪状态", "interested"],
-      "prerequisites": [],
+      "keywords": [
+        "过去分词",
+        "表语",
+        "系动词",
+        "情绪状态",
+        "interested"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U4_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "分不清宾补的主动与被动"
       ],
       "example": "[仿题]填空：I had my photo ___ (take)。\n解析：照片被拍用 taken",
-      "keywords": ["过去分词", "宾语补足语", "have sth done", "被动", "taken"],
-      "prerequisites": [],
+      "keywords": [
+        "过去分词",
+        "宾语补足语",
+        "have sth done",
+        "被动",
+        "taken"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U4_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,16 @@
         "把 with 复合结构误当主句谓语"
       ],
       "example": "[仿题]填空：The castle stood，with its walls ___ (damage)。\n解析：墙被动用 damaged",
-      "keywords": ["with 复合结构", "宾语补足语", "伴随状态", "damaged", "被动"],
-      "prerequisites": [],
+      "keywords": [
+        "with 复合结构",
+        "宾语补足语",
+        "伴随状态",
+        "damaged",
+        "被动"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U4_003"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,8 +112,17 @@
         "定语主被动判断失误"
       ],
       "example": "[仿题]选词：a ___ (risen/rising) sun 升起的太阳。\n解析：主动用现在分词 rising",
-      "keywords": ["现在分词", "过去分词", "主动被动", "定语", "rising"],
-      "prerequisites": [],
+      "keywords": [
+        "现在分词",
+        "过去分词",
+        "主动被动",
+        "定语",
+        "rising"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U4_001",
+        "YY_RJ_G1_B2_U4_002"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -99,8 +138,16 @@
         "过去分词 completion 与动名词混淆"
       ],
       "example": "[仿题]填空：___ (build) in 1900，the hall is old。\n解析：完成被动用 having been built",
-      "keywords": ["having been done", "完成被动", "分词状语", "built", "老建筑"],
-      "prerequisites": [],
+      "keywords": [
+        "having been done",
+        "完成被动",
+        "分词状语",
+        "built",
+        "老建筑"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U4_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -116,7 +163,13 @@
         "把 century 与 century 数词搭配记错"
       ],
       "example": "[仿题]选词：这座建筑属 ___（historic/ancient）唐代。\n解析：朝代用 dynasty 搭配",
-      "keywords": ["dynasty", "ancient", "historic", "世纪", "历史时期"],
+      "keywords": [
+        "dynasty",
+        "ancient",
+        "historic",
+        "世纪",
+        "历史时期"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +186,13 @@
         "festival 与 occasion 混用"
       ],
       "example": "[仿题]填空：我们庆祝元宵 ___（festival/custom）。\n解析：节日用 festival",
-      "keywords": ["custom", "tradition", "festival", "celebrate", "传统习俗"],
+      "keywords": [
+        "custom",
+        "tradition",
+        "festival",
+        "celebrate",
+        "传统习俗"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +209,13 @@
         "追溯的主语选错对象"
       ],
       "example": "[仿题]填空：这座塔 ___（date）back to 明代。\n解析：追溯到用 dates back to",
-      "keywords": ["date back to", "go back", "追溯", "历史", "古迹"],
+      "keywords": [
+        "date back to",
+        "go back",
+        "追溯",
+        "历史",
+        "古迹"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +232,13 @@
         "a symbol of 的 of 遗漏"
       ],
       "example": "[仿题]填空：龙是力量的 ___（symbol/symbolise）。\n解析：象征语义用 a symbol of",
-      "keywords": ["symbolise", "stand for", "symbol of", "象征", "代表"],
+      "keywords": [
+        "symbolise",
+        "stand for",
+        "symbol of",
+        "象征",
+        "代表"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +255,13 @@
         "纪念短语后接对象选错"
       ],
       "example": "[仿题]填空：为纪念烈士建碑用 ___（memorial of）。\n解析：纪念用 in memory of",
-      "keywords": ["in memory of", "in honour of", "纪念", "致敬", "短语"],
+      "keywords": [
+        "in memory of",
+        "in honour of",
+        "纪念",
+        "致敬",
+        "短语"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +278,13 @@
         "历史意义评价词立场选错"
       ],
       "example": "[仿题]填空：它在历史上起着 ___（role）作用。\n解析：起重要作用用 play an important role",
-      "keywords": ["significant", "remarkable", "play a role", "意义", "评价"],
+      "keywords": [
+        "significant",
+        "remarkable",
+        "play a role",
+        "意义",
+        "评价"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

@@ -15,7 +15,13 @@
         "只盯字面词义而不分析句法结构"
       ],
       "example": "[仿题]分析：The boy who stood there was crying.\n解析：who 引导定语从句，主干是 The boy was crying。",
-      "keywords": ["长难句", "谓语动词", "主干", "从句", "拆分"],
+      "keywords": [
+        "长难句",
+        "谓语动词",
+        "主干",
+        "从句",
+        "拆分"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -32,8 +38,16 @@
         "多层定语从句嵌套时拆解顺序混乱"
       ],
       "example": "[仿题]The man ___ came yesterday is my uncle.\n解析：who 引导成分，主干是 The man is my uncle。",
-      "keywords": ["定语从句", "主句", "拆分", "先行词", "关系词"],
-      "prerequisites": [],
+      "keywords": [
+        "定语从句",
+        "主句",
+        "拆分",
+        "先行词",
+        "关系词"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -49,8 +63,16 @@
         "从句较长时仍强行省略 that 导致混乱"
       ],
       "example": "[仿题]I believe ___ he will win.\n解析：that 可省略，填 that 或直接删。",
-      "keywords": ["省略", "that", "宾语从句", "连接词", "简化"],
-      "prerequisites": [],
+      "keywords": [
+        "省略",
+        "that",
+        "宾语从句",
+        "连接词",
+        "简化"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -66,8 +88,16 @@
         "省略后谓语形式用错，未使用正确的分词形式"
       ],
       "example": "[仿题]While ___ in the garden, she sang loudly.\n解析：省略 her 与 be，填 singing。",
-      "keywords": ["省略", "状语从句", "主语一致", "be动词", "简洁"],
-      "prerequisites": [],
+      "keywords": [
+        "省略",
+        "状语从句",
+        "主语一致",
+        "be动词",
+        "简洁"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -83,8 +113,16 @@
         "改成分词后丢掉了从句原有的连接词"
       ],
       "example": "[仿题]___ by his words, she smiled.\n解析：被动感动用过去分词，填 Moved。",
-      "keywords": ["非谓语", "简练", "分词", "从句替换", "表达"],
-      "prerequisites": [],
+      "keywords": [
+        "非谓语",
+        "简练",
+        "分词",
+        "从句替换",
+        "表达"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -100,8 +138,16 @@
         "省略后语义不清仍需还原正确部分"
       ],
       "example": "[仿题]She sings well and I (do) too.\n解析：后半省略 plays 之类的重复部分。",
-      "keywords": ["并列句", "省略", "重复成分", "翻译", "结构"],
-      "prerequisites": [],
+      "keywords": [
+        "并列句",
+        "省略",
+        "重复成分",
+        "翻译",
+        "结构"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -117,8 +163,16 @@
         "插入语前后的标点提示被忽略"
       ],
       "example": "[仿题]The team, I believe, ___ the match.\n解析：去掉插入语，主干填空，填 wins。",
-      "keywords": ["插入语", "主干", "标点", "长难句", "分析"],
-      "prerequisites": [],
+      "keywords": [
+        "插入语",
+        "主干",
+        "标点",
+        "长难句",
+        "分析"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -135,7 +189,13 @@
         "感官分类记忆不扎实导致用词错位"
       ],
       "example": "[仿题]The lake was ___ and clear.\n解析：形容湖面宁静清澈，填 tranquil。",
-      "keywords": ["tranquil", "majestic", "glisten", "写景", "宁静"],
+      "keywords": [
+        "tranquil",
+        "majestic",
+        "glisten",
+        "写景",
+        "宁静"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -152,8 +212,16 @@
         "比多句子中的省略理解错误"
       ],
       "example": "[仿题]My book is red,but hers ___ blue.\n解析：省略了 is，还原为 hers is。",
-      "keywords": ["所有格", "省略", "比较句", "还原", "并列"],
-      "prerequisites": [],
+      "keywords": [
+        "所有格",
+        "省略",
+        "比较句",
+        "还原",
+        "并列"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -169,8 +237,16 @@
         "独立主格前后关系判断错误"
       ],
       "example": "[仿题]___ fine, we went swimming.\n解析：独立主格表条件，填 Weather being。",
-      "keywords": ["独立主格", "状语", "逻辑关系", "长句", "主语"],
-      "prerequisites": [],
+      "keywords": [
+        "独立主格",
+        "状语",
+        "逻辑关系",
+        "长句",
+        "主语"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -186,8 +262,16 @@
         "主从句界限划分错误，理解跑偏"
       ],
       "example": "[仿题]The boy said (that) he liked the book (which) he got.\n解析：外宾内定，逐层为 said 加 like 加 got。",
-      "keywords": ["嵌套", "多层从句", "逐层拆分", "主句", "关系"],
-      "prerequisites": [],
+      "keywords": [
+        "嵌套",
+        "多层从句",
+        "逐层拆分",
+        "主句",
+        "关系"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -203,7 +287,13 @@
         "过度使用复杂句式反而晦涩难懂"
       ],
       "example": "[仿题]The ___ rose, painting the sky gold.\n解析：用分词美化，填 rising sun。",
-      "keywords": ["写景", "句式", "非谓语", "美化", "画面感"],
+      "keywords": [
+        "写景",
+        "句式",
+        "非谓语",
+        "美化",
+        "画面感"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

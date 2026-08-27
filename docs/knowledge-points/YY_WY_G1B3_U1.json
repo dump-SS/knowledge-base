@@ -14,7 +14,12 @@
         "从句动词错用现在时而未按过去时的虚拟要求"
       ],
       "example": "[仿题]如果我是你我会说实话。\n解析：If I were you, I would tell，虚拟从句用 were。",
-      "keywords": ["虚拟语气", "were", "would", "假设"],
+      "keywords": [
+        "虚拟语气",
+        "were",
+        "would",
+        "假设"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "把虚拟的 were 当成单复数变化而错改成 is"
       ],
       "example": "[仿题]若他冷静就不会争吵。\n解析：If he were calm, he would not argue，从句 be 用 were。",
-      "keywords": ["were", "虚拟", "be 动词", "was"],
-      "prerequisites": [],
+      "keywords": [
+        "were",
+        "虚拟",
+        "be 动词",
+        "was"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "主句主语单数时误给 would 加第三人称 s"
       ],
       "example": "[仿题]若认识她我可能会打电话。\n解析：If I knew her, I might call her，主句用 might 加原形。",
-      "keywords": ["would", "虚拟主句", "might", "原形"],
-      "prerequisites": [],
+      "keywords": [
+        "would",
+        "虚拟主句",
+        "might",
+        "原形"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "主从句虚拟成分与时态呼应脱离原定语境"
       ],
       "example": "[仿题]若我是你我会求助。\n解析：If I were you, I would ask for help，委婉里提建议。",
-      "keywords": ["虚拟", "委婉", "建议", "would"],
-      "prerequisites": [],
+      "keywords": [
+        "虚拟",
+        "委婉",
+        "建议",
+        "would"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,15 @@
         "if 省略又同时保留 were 造成双重冗余"
       ],
       "example": "[仿题]若换了是你你会怎样。\n解析：Were I you, how would I act，省略 if 的倒装虚拟。",
-      "keywords": ["倒装", "were", "虚拟", "省略 if"],
-      "prerequisites": [],
+      "keywords": [
+        "倒装",
+        "were",
+        "虚拟",
+        "省略 if"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B3_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,7 +132,12 @@
         "耐心 patience 与病人 patient 词性混用"
       ],
       "example": "[仿题]我们要彼此沟通。\n解析：We should communicate with each other，communicate 表沟通。",
-      "keywords": ["communicate", "express", "understanding", "respect"],
+      "keywords": [
+        "communicate",
+        "express",
+        "understanding",
+        "respect"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -116,7 +154,12 @@
         "ed 与 ing 词尾情绪词选择规则记颠倒"
       ],
       "example": "[仿题]我对结果感到沮丧。\n解析：I feel frustrated about it，人用 ed 结尾形容词。",
-      "keywords": ["excited", "frustrated", "ed", "ing"],
+      "keywords": [
+        "excited",
+        "frustrated",
+        "ed",
+        "ing"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +176,12 @@
         "达成一致表达误把 agreement 拼写成 agreeement"
       ],
       "example": "[仿题]我为我的话向他道歉。\n解析：I apologized to him for my words，apologize to sb for sth。",
-      "keywords": ["deal with", "apologize", "come to an agreement", "冲突"],
+      "keywords": [
+        "deal with",
+        "apologize",
+        "come to an agreement",
+        "冲突"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +198,12 @@
         "体谅表达 I understand 后误接 you 造成成分多余"
       ],
       "example": "[仿题]感谢你的理解。\n解析：Thank you for understanding，for 后接动名词。",
-      "keywords": ["thank you", "appreciate", "understand", "感谢"],
+      "keywords": [
+        "thank you",
+        "appreciate",
+        "understand",
+        "感谢"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +220,12 @@
         "两种建议句式的层次衔接不自然"
       ],
       "example": "[仿题]若我是你我会平静沟通。\n解析：If I were you, I would communicate calmly，假设后给建议。",
-      "keywords": ["虚拟", "should", "建议", "沟通"],
+      "keywords": [
+        "虚拟",
+        "should",
+        "建议",
+        "沟通"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +242,12 @@
         "伴随状语与主句之间标点配合不当"
       ],
       "example": "[仿题]他离开了，心里很沮丧。\n解析：He left, feeling upset，分词短语作伴随状语。",
-      "keywords": ["分词", "伴随状语", "feeling", "present participle"],
+      "keywords": [
+        "分词",
+        "伴随状语",
+        "feeling",
+        "present participle"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +264,12 @@
         "before 与 after 的先后语义用反"
       ],
       "example": "[仿题]他们见面时把事情谈开。\n解析：When they met, they talked it over，when 引时间。",
-      "keywords": ["when", "时间状语", "沟通", "after"],
+      "keywords": [
+        "when",
+        "时间状语",
+        "沟通",
+        "after"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

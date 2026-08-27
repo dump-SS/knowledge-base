@@ -14,7 +14,12 @@
         "had 被误写成 have 造成现在完成与过去混淆"
       ],
       "example": "[仿题]我到时演出已经开始了。\n解析：The show had started when I arrived，had done 表先发生。",
-      "keywords": ["过去完成时", "had", "过去分词", "before"],
+      "keywords": [
+        "过去完成时",
+        "had",
+        "过去分词",
+        "before"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "先后顺序判断错误导致时态关系颠倒"
       ],
       "example": "[仿题]你来之前他就完成了演出。\n解析：He had finished before you came，之前动作用完成时。",
-      "keywords": ["过去完成时", "一般过去时", "先后", "before"],
-      "prerequisites": [],
+      "keywords": [
+        "过去完成时",
+        "一般过去时",
+        "先后",
+        "before"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U4_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,7 +60,12 @@
         "when 与 while 的时间从句用法混用错代"
       ],
       "example": "[仿题]我进剧院时演出开始了。\n解析：When I entered, the play was on，when 引出时间背景。",
-      "keywords": ["when", "时间状语从句", "时态", "时间"],
+      "keywords": [
+        "when",
+        "时间状语从句",
+        "时态",
+        "时间"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -65,7 +82,12 @@
         "because 与 so 同时并列使用造成双重连接"
       ],
       "example": "[仿题]我喜欢这电影因为它感人。\n解析：I like the film because it is moving，because 引原因。",
-      "keywords": ["because", "原因状语从句", "理由", "因为"],
+      "keywords": [
+        "because",
+        "原因状语从句",
+        "理由",
+        "因为"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -82,8 +104,16 @@
         "although 与 but 同句连用造成结构冗余"
       ],
       "example": "[仿题]虽然票贵我还是去了。\n解析：Although the ticket was dear, I went，让步连词 although 引导。",
-      "keywords": ["although", "when", "because", "复合句"],
-      "prerequisites": [],
+      "keywords": [
+        "although",
+        "when",
+        "because",
+        "复合句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U4_003",
+        "YY_WY_G1_B2_U4_004"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,7 +129,12 @@
         "导演 director 误拼成 rectror 一类字母错误"
       ],
       "example": "[仿题]观众喜欢这场表演。\n解析：The audience enjoy the performance，performance 表表演。",
-      "keywords": ["stage", "performance", "audience", "scene"],
+      "keywords": [
+        "stage",
+        "performance",
+        "audience",
+        "scene"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -116,7 +151,12 @@
         "impressive 与 impress 动词形容词词性混用"
       ],
       "example": "[仿题]这场演出令人印象深刻。\n解析：The performance is impressive，impressive 表令人印象深。",
-      "keywords": ["impressive", "moving", "exciting", "观感"],
+      "keywords": [
+        "impressive",
+        "moving",
+        "exciting",
+        "观感"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +173,12 @@
         "上映 come out 与结局 turn out 的词义混淆"
       ],
       "example": "[仿题]这部电影去年上映。\n解析：The film came out last year，come out 表上映。",
-      "keywords": ["take place", "turn out", "based on", "情节"],
+      "keywords": [
+        "take place",
+        "turn out",
+        "based on",
+        "情节"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +195,12 @@
         "so 直接修饰名词造成词性误配表达别扭"
       ],
       "example": "[仿题]它是一部这么好的电影。\n解析：It is such a good film，such 修饰名词短语。",
-      "keywords": ["such", "so", "词性", "程度"],
+      "keywords": [
+        "such",
+        "so",
+        "词性",
+        "程度"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +217,12 @@
         "中途叙述突然切回现在时破坏事件一致性"
       ],
       "example": "[仿题]上周我看了部精彩电影。\n解析：Last week I watched a wonderful film，用过去时叙述。",
-      "keywords": ["一般过去时", "watched", "过去状语", "经历"],
+      "keywords": [
+        "一般过去时",
+        "watched",
+        "过去状语",
+        "经历"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +239,12 @@
         "like 与 enjoy 后接成分形式选用不一致"
       ],
       "example": "[仿题]我喜欢看电影。\n解析：I enjoy watching films，enjoy 后接动名词。",
-      "keywords": ["enjoy", "动名词", "推荐", "喜好"],
+      "keywords": [
+        "enjoy",
+        "动名词",
+        "推荐",
+        "喜好"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +261,12 @@
         "ever 经历的限定范围被省略造成信息不完整"
       ],
       "example": "[仿题]这是我看过最打动人的。\n解析：This is the most moving film I've ever seen，最高级加 ever。",
-      "keywords": ["最高级", "the most", "ever", "作品"],
+      "keywords": [
+        "最高级",
+        "the most",
+        "ever",
+        "作品"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

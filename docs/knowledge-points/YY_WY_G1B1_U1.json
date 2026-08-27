@@ -14,7 +14,12 @@
         "主语是复数仍错误地给动词加第三人称单数s"
       ],
       "example": "[仿题]太阳从东方升起。\n解析：The sun rises in the east，客观真理用一般现在时。",
-      "keywords": ["一般现在时", "频度副词", "客观真理", "习惯动作"],
+      "keywords": [
+        "一般现在时",
+        "频度副词",
+        "客观真理",
+        "习惯动作"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,7 +36,12 @@
         "段时间状语 ago 的句子被误写成现在时形式"
       ],
       "example": "[仿题]昨天我们去参观了新学校。\n解析：We visited the new school yesterday，过去状语配过去式。",
-      "keywords": ["一般过去时", "过去时间状语", "过去式", "叙事"],
+      "keywords": [
+        "一般过去时",
+        "过去时间状语",
+        "过去式",
+        "叙事"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -48,8 +58,15 @@
         "误把第三人称单数加s用到情态动词后的动词原形上"
       ],
       "example": "[仿题]他每天六点起床。\n解析：He gets up at six，主语第三人称单数动词加s。",
-      "keywords": ["第三人称单数", "动词变位", "加s加es", "一般现在时"],
-      "prerequisites": [],
+      "keywords": [
+        "第三人称单数",
+        "动词变位",
+        "加s加es",
+        "一般现在时"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B1_U1_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +82,15 @@
         "以 e 结尾的规则动词误加成 ed 而少写一个 e"
       ],
       "example": "[仿题]昨天他停下了跑步。\n解析：He stopped running，重读闭音节双写p再加ed。",
-      "keywords": ["过去式", "规则变化", "不规则动词", "双写"],
-      "prerequisites": [],
+      "keywords": [
+        "过去式",
+        "规则变化",
+        "不规则动词",
+        "双写"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B1_U1_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +106,16 @@
         "情态动词 can 在过去语境未改成 could 保持时态一致"
       ],
       "example": "[仿题]今天我很忙，昨天也很忙。\n解析：Today I am busy, yesterday I was busy，状语与时态同步。",
-      "keywords": ["时态转换", "时间状语", "叙事一致", "过去式"],
-      "prerequisites": [],
+      "keywords": [
+        "时态转换",
+        "时间状语",
+        "叙事一致",
+        "过去式"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B1_U1_001",
+        "YY_WY_G1_B1_U1_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,7 +131,12 @@
         "表达自信误把 confident 与名词 confidence 的拼写混淆"
       ],
       "example": "[仿题]校园里有很多同学。\n解析：There are many classmates on campus，用 classmate 表示同学。",
-      "keywords": ["campus", "classmate", "challenge", "timetable"],
+      "keywords": [
+        "campus",
+        "classmate",
+        "challenge",
+        "timetable"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -116,7 +153,12 @@
         "相处 get along with 之中漏掉 with 造成介词缺失"
       ],
       "example": "[仿题]我参加了读书俱乐部。\n解析：I took part in a reading club，活动用 take part in。",
-      "keywords": ["take part in", "hand in", "动词短语", "搭配"],
+      "keywords": [
+        "take part in",
+        "hand in",
+        "动词短语",
+        "搭配"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +175,12 @@
         "set a goal 表达中把 set 误写成过去式 sets 用错主语"
       ],
       "example": "[仿题]我期待见到新老师。\n解析：I look forward to seeing the new teacher，to 后接动名词。",
-      "keywords": ["look forward to", "动名词", "心情", "目标"],
+      "keywords": [
+        "look forward to",
+        "动名词",
+        "心情",
+        "目标"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +197,12 @@
         "单词转化时未注意字母等拼写细节而写错词形"
       ],
       "example": "[仿题]他是一位友好的同学。\n解析：He is a friendly classmate，friend 加ly 变形容。",
-      "keywords": ["词形变化", "形容词", "后缀", "词性"],
+      "keywords": [
+        "词形变化",
+        "形容词",
+        "后缀",
+        "词性"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +219,12 @@
         "需表达朋友关系时 my 与 mine 的使用位置混淆"
       ],
       "example": "[仿题]他是我的好朋友。\n解析：He is my good friend，主格做主语物主后接名词。",
-      "keywords": ["人称代词", "物主代词", "主格", "宾格"],
+      "keywords": [
+        "人称代词",
+        "物主代词",
+        "主格",
+        "宾格"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +241,12 @@
         "单数名词前误用 there are 造成主谓不一致"
       ],
       "example": "[仿题]桌上有本书。\n解析：There is a book on the desk，就近单数用 is。",
-      "keywords": ["there be", "存在", "就近原则", "主谓一致"],
+      "keywords": [
+        "there be",
+        "存在",
+        "就近原则",
+        "主谓一致"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +263,12 @@
         "倍语 always 与 never 的否定含义区分不清"
       ],
       "example": "[仿题]你上学总是准时。\n解析：You are always on time，频度副词放 be 动词之后。",
-      "keywords": ["always", "频度副词", "程度", "语序"],
+      "keywords": [
+        "always",
+        "频度副词",
+        "程度",
+        "语序"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

@@ -14,7 +14,12 @@
         "介词加which后从句仍多写一个which"
       ],
       "example": "[仿题]The box in ___ the toy sat is old.\n解析：物用介词加which填which。",
-      "keywords": ["定语从句", "which", "介词", "先行词"],
+      "keywords": [
+        "定语从句",
+        "which",
+        "介词",
+        "先行词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "把介词加whom写成关系词再补一个"
       ],
       "example": "[仿题]The man with ___ you spoke left.\n解析：介词后指人填whom。",
-      "keywords": ["whom", "介词", "定语从句", "指人"],
-      "prerequisites": [],
+      "keywords": [
+        "whom",
+        "介词",
+        "定语从句",
+        "指人"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "把介词与关系词顺序颠倒"
       ],
       "example": "[仿题]The pen ___ which I write is new.\n解析：介词with加which填with。",
-      "keywords": ["介词", "which", "that不可", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "介词",
+        "which",
+        "that不可",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "介词遗漏直接让从句缺少连接成分"
       ],
       "example": "[仿题]The book ___ which I care is old.\n解析：care about用about。",
-      "keywords": ["介词", "搭配", "动词短语", "固定搭配"],
-      "prerequisites": [],
+      "keywords": [
+        "介词",
+        "搭配",
+        "动词短语",
+        "固定搭配"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,17 @@
         "介词后就选who而非whom"
       ],
       "example": "[仿题]The girl ___ sings is my friend.\n解析：从句缺主语填who。",
-      "keywords": ["who", "whom", "主格", "宾格", "指人"],
-      "prerequisites": [],
+      "keywords": [
+        "who",
+        "whom",
+        "主格",
+        "宾格",
+        "指人"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U6_001",
+        "YY_WY_G1_B4_U6_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +134,16 @@
         "把两种介词位置混搭在一起"
       ],
       "example": "[仿题]the girl I wrote ___ \n解析：write to把to后置填to。",
-      "keywords": ["介词", "前置", "后置", "which", "语序"],
-      "prerequisites": [],
+      "keywords": [
+        "介词",
+        "前置",
+        "后置",
+        "which",
+        "语序"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B4_U6_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,7 +159,13 @@
         "把conserve与preserveth意义相差混淆"
       ],
       "example": "[仿题]We should ___ wildlife.\n解析：保护野生动物填protect。",
-      "keywords": ["保护", "生态", "野生动物", "可持续", "资源"],
+      "keywords": [
+        "保护",
+        "生态",
+        "野生动物",
+        "可持续",
+        "资源"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +182,13 @@
         "把coexist带iti拼为co-exist时连写错误"
       ],
       "example": "[仿题]We live in ___ with nature.\n解析：和谐共处填harmony。",
-      "keywords": ["和谐", "尊重", "共处", "平衡", "关爱"],
+      "keywords": [
+        "和谐",
+        "尊重",
+        "共处",
+        "平衡",
+        "关爱"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +205,13 @@
         "把reduce与reduction词性混用，缺少右后缀"
       ],
       "example": "[仿题]Please ___ this water.\n解析：循环利用填recycle。",
-      "keywords": ["回收", "再利用", "减少", "节能", "可再生"],
+      "keywords": [
+        "回收",
+        "再利用",
+        "减少",
+        "节能",
+        "可再生"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +228,13 @@
         "把greenhouse effect漏词一块表达不清"
       ],
       "example": "[仿题]Air ___ harms health.\n解析：空气污染填pollution。",
-      "keywords": ["污染", "垃圾", "浪费", "濒危", "气候"],
+      "keywords": [
+        "污染",
+        "垃圾",
+        "浪费",
+        "濒危",
+        "气候"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +251,13 @@
         "把protect from的from写成of"
       ],
       "example": "[仿题]Let's ___ the river.\n解析：清理河道填clean up。",
-      "keywords": ["植树", "行动", "倡议", "节水", "清理"],
+      "keywords": [
+        "植树",
+        "行动",
+        "倡议",
+        "节水",
+        "清理"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +274,13 @@
         "把shared共同与sharing动态混淆"
       ],
       "example": "[仿题]___ we can protect it.\n解析：一起努力填Together。",
-      "keywords": ["责任", "共同", "合作", "社区", "努力"],
+      "keywords": [
+        "责任",
+        "共同",
+        "合作",
+        "社区",
+        "努力"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

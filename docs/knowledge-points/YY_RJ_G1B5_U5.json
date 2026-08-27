@@ -14,7 +14,13 @@
         "漏写动词后的宾语，直接给分词"
       ],
       "example": "[仿题]I heard my name ______ (call) in class.\n解析：填 called，名字被叫，被动关系用过去分词。",
-      "keywords": ["宾语补足语", "过去分词", "被动关系", "called", "结构"],
+      "keywords": [
+        "宾语补足语",
+        "过去分词",
+        "被动关系",
+        "called",
+        "结构"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "把被动处理的宾语逻辑判断颠倒"
       ],
       "example": "[仿题]You should have the injury ______ (examine) now.\n解析：填 examined，让伤口被检查，被动。",
-      "keywords": ["have sth done", "get sth done", "宾语补足语", "被动", "句式"],
-      "prerequisites": [],
+      "keywords": [
+        "have sth done",
+        "get sth done",
+        "宾语补足语",
+        "被动",
+        "句式"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U5_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "把被动语态与作表语状态混为一谈"
       ],
       "example": "[仿题]She seemed quite ______ (worry) about him.\n解析：填 worried，系动词后过去分词表状态。",
-      "keywords": ["过去分词表语", "系动词", "状态", "worried", "表语"],
-      "prerequisites": [],
+      "keywords": [
+        "过去分词表语",
+        "系动词",
+        "状态",
+        "worried",
+        "表语"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U5_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,16 @@
         "主语是复数时 ed 分词形式仍写错"
       ],
       "example": "[仿题]The students were ______ (excite) about the trip.\n解析：填 excited，人感到兴奋用 ed 分词。",
-      "keywords": ["分词表语", "ed与ing", "感受", "excited", "形容词"],
-      "prerequisites": [],
+      "keywords": [
+        "分词表语",
+        "ed与ing",
+        "感受",
+        "excited",
+        "形容词"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U5_003"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,7 +112,14 @@
         "calm sb down 介词搭配或宾语写错"
       ],
       "example": "[仿题]You should apply ______ (pressure/press) to the cut.\n解析：填 pressure，施压，apply pressure 固定搭配。",
-      "keywords": ["急救动词", "treat", "apply", "bandage", "包扎", "施压"],
+      "keywords": [
+        "急救动词",
+        "treat",
+        "apply",
+        "bandage",
+        "包扎",
+        "施压"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -99,7 +136,14 @@
         "burn 作名词与动词的用法分不清"
       ],
       "example": "[仿题]Press down to stop the ______ (bleed/bleeding).\n解析：填 bleeding，止血，stop the bleeding。",
-      "keywords": ["伤病名词", "wound", "burn", "injury", "bleeding", "伤害"],
+      "keywords": [
+        "伤病名词",
+        "wound",
+        "burn",
+        "injury",
+        "bleeding",
+        "伤害"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -116,7 +160,13 @@
         "first aid 与 help 概念词义混淆"
       ],
       "example": "[仿题]In an ______ (emergency/emergence), call 120.\n解析：填 emergency，紧急情况，固定短语。",
-      "keywords": ["紧急呼救", "call for help", "ambulance", "急救", "紧急情况"],
+      "keywords": [
+        "紧急呼救",
+        "call for help",
+        "ambulance",
+        "急救",
+        "紧急情况"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +183,13 @@
         "步骤遗漏清理或包扎环节，流程不全"
       ],
       "example": "[仿题]First clean the wound, ______ cover it.\n解析：填 then，顺序词连接急救步骤。",
-      "keywords": ["急救步骤", "顺序词", "first", "then", "过程"],
+      "keywords": [
+        "急救步骤",
+        "顺序词",
+        "first",
+        "then",
+        "过程"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +206,13 @@
         "protective 与 protect 词性选用错误"
       ],
       "example": "[仿题]Avoid ______ (touch) the hot water.\n解析：填 touching，avoid 后接动名词，避免触碰。",
-      "keywords": ["安全防护", "avoid doing", "be careful", "wear gloves", "预防"],
+      "keywords": [
+        "安全防护",
+        "avoid doing",
+        "be careful",
+        "wear gloves",
+        "预防"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +229,13 @@
         "Please send 语法结构缺宾语"
       ],
       "example": "[仿题]Please ______ (send/sending) a doctor here.\n解析：填 send，Please 后接动词原形表请求。",
-      "keywords": ["急救电话", "求助句型", "ambulance", "地址描述", "请求"],
+      "keywords": [
+        "急救电话",
+        "求助句型",
+        "ambulance",
+        "地址描述",
+        "请求"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +252,13 @@
         "祈使句动词原形与处理顺序不当"
       ],
       "example": "[仿题]Cool the burn by running it under cool ______ (water).\n解析：填 water，凉水冷却伤口，固定表达。",
-      "keywords": ["烧伤处理", "cool the burn", "凉水", "祈使句", "急救表达"],
+      "keywords": [
+        "烧伤处理",
+        "cool the burn",
+        "凉水",
+        "祈使句",
+        "急救表达"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +275,13 @@
         "recover from 介词搭配写错"
       ],
       "example": "[仿题]The cut took two days ______ (heal).\n解析：填 to heal，take time to do，需要时间愈合。",
-      "keywords": ["恢复表达", "heal", "recover", "愈合", "好转"],
+      "keywords": [
+        "恢复表达",
+        "heal",
+        "recover",
+        "愈合",
+        "好转"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

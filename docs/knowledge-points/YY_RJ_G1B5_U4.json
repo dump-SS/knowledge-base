@@ -14,7 +14,13 @@
         "无参照点滥用过去完成时，时态冗余"
       ],
       "example": "[仿题]By noon she ______ (finish) the work.\n解析：填 had finished，by+过去时间用过去完成。",
-      "keywords": ["过去完成时", "had+过去分词", "结构", "时间参照", "时态"],
+      "keywords": [
+        "过去完成时",
+        "had+过去分词",
+        "结构",
+        "时间参照",
+        "时态"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "before 从句是否提前难以确定用错时态"
       ],
       "example": "[仿题]After she ______ (leave), I cried.\n解析：填 had left，先离开后哭，用过去完成。",
-      "keywords": ["过去完成时", "by", "before", "时间参照", "场景判断"],
-      "prerequisites": [],
+      "keywords": [
+        "过去完成时",
+        "by",
+        "before",
+        "时间参照",
+        "场景判断"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U4_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "把时间先后顺序理解反了"
       ],
       "example": "[仿题]I had studied hard before I ______ (take) the exam.\n解析：填 took，后发生用一般过去式。",
-      "keywords": ["时态辨析", "过去完成", "一般过去", "先后顺序", "时态选择"],
-      "prerequisites": [],
+      "keywords": [
+        "时态辨析",
+        "过去完成",
+        "一般过去",
+        "先后顺序",
+        "时态选择"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U4_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,16 @@
         "after 从句与主句动词时态不呼应"
       ],
       "example": "[仿题]After we ______ (rest), we continued.\n解析：填 had rested，先休息后继续，先否定用过去完成。",
-      "keywords": ["过去完成时", "先后动作", "叙事时态", "after从句", "层次"],
-      "prerequisites": [],
+      "keywords": [
+        "过去完成时",
+        "先后动作",
+        "叙事时态",
+        "after从句",
+        "层次"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B5_U4_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,7 +112,14 @@
         "plain 与 plane 拼写相近，选词错误"
       ],
       "example": "[仿题]The village lies at the foot of the ______ (mountain).\n解析：填 mountain，山脚，at the foot of 搭配。",
-      "keywords": ["地理词汇", "mountain", "river", "valley", "coast", "地貌"],
+      "keywords": [
+        "地理词汇",
+        "mountain",
+        "river",
+        "valley",
+        "coast",
+        "地貌"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -99,7 +136,14 @@
         "描述天气时介词季节搭配写错"
       ],
       "example": "[仿题]It is ______ (dry/humid) here in the winter months.\n解析：填 dry，干燥，冬季少雨干燥。",
-      "keywords": ["天气词汇", "dry", "humid", "freezing", "rainy", "季节"],
+      "keywords": [
+        "天气词汇",
+        "dry",
+        "humid",
+        "freezing",
+        "rainy",
+        "季节"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -116,7 +160,14 @@
         "境内境外判断失误导致介词选错"
       ],
       "example": "[仿题]The town lies ______ (in/on) the west of the province.\n解析：填 in，境内西部，表在境内用 in。",
-      "keywords": ["方位表达", "north", "south", "on the west", "in the north", "介词"],
+      "keywords": [
+        "方位表达",
+        "north",
+        "south",
+        "on the west",
+        "in the north",
+        "介词"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +184,13 @@
         "take a bus 与 by bus 结构混搭不规范"
       ],
       "example": "[仿题]They travelled ______ (on/by) foot through the valley.\n解析：填 on，on foot 步行固定搭配。",
-      "keywords": ["交通方式", "by train", "on foot", "take a bus", "出行"],
+      "keywords": [
+        "交通方式",
+        "by train",
+        "on foot",
+        "take a bus",
+        "出行"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +207,13 @@
         "路程耗时句时态与全文不一致"
       ],
       "example": "[仿题]It took us a day ______ (cross) the mountain.\n解析：填 to cross，It took 后接不定式。",
-      "keywords": ["旅程表达", "set off", "It took", "pass through", "出发"],
+      "keywords": [
+        "旅程表达",
+        "set off",
+        "It took",
+        "pass through",
+        "出发"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +230,13 @@
         "把国家地名与特征搭配错乱"
       ],
       "example": "[仿题]Ottawa is the ______ (capital/port) of Canada.\n解析：填 capital，首都，Ottawa 为加拿大首都。",
-      "keywords": ["国家地理", "province", "capital", "地名", "地标"],
+      "keywords": [
+        "国家地理",
+        "province",
+        "capital",
+        "地名",
+        "地标"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +253,13 @@
         "tired 与 tiring 修饰对象颠倒"
       ],
       "example": "[仿题]We were ______ (amazed/amazing) at the view.\n解析：填 amazed，ed 形容人，惊叹于风景。",
-      "keywords": ["旅行感受", "amazed", "tired", "relaxed", "impressive"],
+      "keywords": [
+        "旅行感受",
+        "amazed",
+        "tired",
+        "relaxed",
+        "impressive"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +276,13 @@
         "叙述见闻与路线主次不分，没重点"
       ],
       "example": "[仿题]First we went to Ottawa, ______ we drove west.\n解析：填 then，接着，先用then连接顺序。",
-      "keywords": ["路线表达", "顺序词", "first", "then", "路线顺序"],
+      "keywords": [
+        "路线表达",
+        "顺序词",
+        "first",
+        "then",
+        "路线顺序"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

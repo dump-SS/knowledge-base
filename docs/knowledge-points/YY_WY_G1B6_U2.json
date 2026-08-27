@@ -14,7 +14,13 @@
         "分词前误加连词 that，滥用从句结构"
       ],
       "example": "[仿题]___ along the street, she met an old friend.\n解析：主动伴随，填 Walking。",
-      "keywords": ["现在分词", "状语", "伴随动作", "时间状语", "主动"],
+      "keywords": [
+        "现在分词",
+        "状语",
+        "伴随动作",
+        "时间状语",
+        "主动"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +37,16 @@
         "把过去分词误与助动词连用，造成时态混乱"
       ],
       "example": "[仿题]___ from the hill, the lake looks beautiful.\n解析：湖泊被看，用过去分词，填 Seen。",
-      "keywords": ["过去分词", "状语", "被动", "逻辑主语", "完成"],
-      "prerequisites": [],
+      "keywords": [
+        "过去分词",
+        "状语",
+        "被动",
+        "逻辑主语",
+        "完成"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +62,16 @@
         "分词短语放错位置，前后指代不清"
       ],
       "example": "[仿题]The bridge ___ last year is still strong.\n解析：桥是被建造，用过去分词，填 built。",
-      "keywords": ["分词", "定语", "现在分词", "过去分词", "修饰"],
-      "prerequisites": [],
+      "keywords": [
+        "分词",
+        "定语",
+        "现在分词",
+        "过去分词",
+        "修饰"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +87,16 @@
         "独立主格的前后主语关系混乱指代不明"
       ],
       "example": "[仿题]Time ___, we'll finish the task today.\n解析：独立主格，时间允许，填 permitting。",
-      "keywords": ["独立主格", "逻辑主语", "分词", "状语", "复杂结构"],
-      "prerequisites": [],
+      "keywords": [
+        "独立主格",
+        "逻辑主语",
+        "分词",
+        "状语",
+        "复杂结构"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +112,16 @@
         "把 with 复合结构与独立主格结构混为一谈"
       ],
       "example": "[仿题]He ran fast with his heart ___ fast.\n解析：心脏主动跳动，用现在分词，填 beating。",
-      "keywords": ["with复合结构", "宾语", "补语", "分词", "伴随"],
-      "prerequisites": [],
+      "keywords": [
+        "with复合结构",
+        "宾语",
+        "补语",
+        "分词",
+        "伴随"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U2_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +137,17 @@
         "动态与静态语境下分词的语态误判"
       ],
       "example": "[仿题]The ___ story moved everyone.\n解析：故事令人感动，用现在分词，填 touching。",
-      "keywords": ["现在分词", "过去分词", "主动", "被动", "语态"],
-      "prerequisites": [],
+      "keywords": [
+        "现在分词",
+        "过去分词",
+        "主动",
+        "被动",
+        "语态"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U2_001",
+        "YY_WY_G1_B6_U2_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,8 +163,17 @@
         "把 see 后省略 to 与分词结构混淆"
       ],
       "example": "[仿题]I saw the students ___ basketball.\n解析：主动进行用现在分词，填 playing。",
-      "keywords": ["分词", "宾语补足语", "感官动词", "使役动词", "补语"],
-      "prerequisites": [],
+      "keywords": [
+        "分词",
+        "宾语补足语",
+        "感官动词",
+        "使役动词",
+        "补语"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U2_001",
+        "YY_WY_G1_B6_U2_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -134,7 +190,13 @@
         "把 dedicated 与 devoted 视为完全等价互换"
       ],
       "example": "[仿题]The ___ spent years mastering his skill.\n解析：指手艺人，填 artisan。",
-      "keywords": ["craft", "artisan", "occupation", "devote", "敬业"],
+      "keywords": [
+        "craft",
+        "artisan",
+        "occupation",
+        "devote",
+        "敬业"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -151,8 +213,17 @@
         "逻辑主语不同时没改用独立主格或者从句"
       ],
       "example": "[仿题]___ the room, we found the table broken.\n解析：动作发出者是 we，逻辑主语一致，填 Entering。",
-      "keywords": ["逻辑主语", "分词状语", "悬垂分词", "主句主语", "一致"],
-      "prerequisites": [],
+      "keywords": [
+        "逻辑主语",
+        "分词状语",
+        "悬垂分词",
+        "主句主语",
+        "一致"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U2_001",
+        "YY_WY_G1_B6_U2_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -168,8 +239,17 @@
         "转换后句意发生改变，破坏原意"
       ],
       "example": "[仿题]改写：The boy who is crying is my son.\n解析：去掉 who is，保留现在分词，写成 the boy crying。",
-      "keywords": ["从句转换", "分词短语", "简练表达", "关系代词", "改写"],
-      "prerequisites": [],
+      "keywords": [
+        "从句转换",
+        "分词短语",
+        "简练表达",
+        "关系代词",
+        "改写"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B6_U2_001",
+        "YY_WY_G1_B6_U2_002"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -186,7 +266,13 @@
         "把 ambition 与 ability 混淆拼写错误"
       ],
       "example": "[仿题]He has devoted his whole life ___ his career.\n解析：devote...to 中 to 为介词，填 to。",
-      "keywords": ["career", "ambition", "devote", "accomplishment", "职业"],
+      "keywords": [
+        "career",
+        "ambition",
+        "devote",
+        "accomplishment",
+        "职业"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -204,7 +290,13 @@
         "结尾未回扣观点而另起无关话题"
       ],
       "example": "[仿题]First, we should appreciate the ___ of craftsmen.\n解析：引出敬业的品质，填 dedication。",
-      "keywords": ["议论文", "立论", "例证", "敬业", "工匠精神"],
+      "keywords": [
+        "议论文",
+        "立论",
+        "例证",
+        "敬业",
+        "工匠精神"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

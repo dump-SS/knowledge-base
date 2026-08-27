@@ -14,7 +14,13 @@
         "把一般现在被动与进行被动混淆"
       ],
       "example": "[仿题]填空：The music ___ (play) daily。\n解析：常态被动用 is played",
-      "keywords": ["一般现在被动", "am/is/are done", "被动语态", "常态", "played"],
+      "keywords": [
+        "一般现在被动",
+        "am/is/are done",
+        "被动语态",
+        "常态",
+        "played"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "过去分词拼写错误"
       ],
       "example": "[仿题]填空：The concert ___ (hold) last year。\n解析：过去被动用 was held",
-      "keywords": ["过去被动", "was/were done", "被动语态", "过去时", "held"],
-      "prerequisites": [],
+      "keywords": [
+        "过去被动",
+        "was/were done",
+        "被动语态",
+        "过去时",
+        "held"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U5_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "多个情态动词语义混用"
       ],
       "example": "[仿题]填空：这首歌可以被 ___（sing）任何人。\n解析：情态被动用 be sung",
-      "keywords": ["情态动词", "be done", "被动语态", "can be", "should be"],
-      "prerequisites": [],
+      "keywords": [
+        "情态动词",
+        "be done",
+        "被动语态",
+        "can be",
+        "should be"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U5_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,16 @@
         "与过去被动时态区分不开"
       ],
       "example": "[仿题]填空：The album ___ (release) already。\n解析：已完成被动用 has been released",
-      "keywords": ["完成被动", "has been done", "被动语态", "already", "released"],
-      "prerequisites": [],
+      "keywords": [
+        "完成被动",
+        "has been done",
+        "被动语态",
+        "already",
+        "released"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U5_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,8 +112,19 @@
         "综合题干时被动结构拼凑错乱"
       ],
       "example": "[仿题]填空：Many songs ___ (write) every year。\n解析：常态被动用 are written",
-      "keywords": ["被动综合", "时态判断", "情态动词", "be done", "by 短语"],
-      "prerequisites": [],
+      "keywords": [
+        "被动综合",
+        "时态判断",
+        "情态动词",
+        "be done",
+        "by 短语"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U5_001",
+        "YY_RJ_G1_B2_U5_002",
+        "YY_RJ_G1_B2_U5_003",
+        "YY_RJ_G1_B2_U5_004"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -99,8 +140,16 @@
         "分不清动作的执行与承受关系"
       ],
       "example": "[仿题]选：The song ___ (was written/wrote) by a girl。\n解析：被写用被动 was written",
-      "keywords": ["主动", "被动", "主语判断", "语态选择", "was written"],
-      "prerequisites": [],
+      "keywords": [
+        "主动",
+        "被动",
+        "主语判断",
+        "语态选择",
+        "was written"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U5_005"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -116,8 +165,16 @@
         "不需要施动者时仍生硬加 by"
       ],
       "example": "[仿题]填空：这首歌由老师 ___（sing）了。\n解析：被动加 by，用 sung by",
-      "keywords": ["by 短语", "施动者", "被动语态", "sung by", "执行者"],
-      "prerequisites": [],
+      "keywords": [
+        "by 短语",
+        "施动者",
+        "被动语态",
+        "sung by",
+        "执行者"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U5_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -133,7 +190,13 @@
         "jazz 与 folk 类型拼写错"
       ],
       "example": "[仿题]选词：他喜欢 ___（classical/pop）古典。\n解析：古典音乐用 classical",
-      "keywords": ["pop", "folk", "classical", "jazz", "音乐类型"],
+      "keywords": [
+        "pop",
+        "folk",
+        "classical",
+        "jazz",
+        "音乐类型"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +213,13 @@
         "instrument 拼写漏字母"
       ],
       "example": "[仿题]填空：她会弹 ___（piano）。\n解析：西洋乐器加 the，play the piano",
-      "keywords": ["play the piano", "instrument", "乐器", "the 用法", "演奏"],
+      "keywords": [
+        "play the piano",
+        "instrument",
+        "乐器",
+        "the 用法",
+        "演奏"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +236,13 @@
         "appreciate 与 thank 词义混用"
       ],
       "example": "[仿题]填空：我享受 ___（listen）音乐。\n解析：enjoy 接动名词用 listening",
-      "keywords": ["enjoy", "appreciate", "be fond of", "欣赏音乐", "动名词"],
+      "keywords": [
+        "enjoy",
+        "appreciate",
+        "be fond of",
+        "欣赏音乐",
+        "动名词"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +259,13 @@
         "uplifting 拼写漏字母"
       ],
       "example": "[仿题]填空：这首歌真 ___（move）。\n解析：表动人的用 moving",
-      "keywords": ["moving", "touching", "uplifting", "情感", "形容词"],
+      "keywords": [
+        "moving",
+        "touching",
+        "uplifting",
+        "情感",
+        "形容词"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +282,13 @@
         "被动结构写成主动语态"
       ],
       "example": "[仿题]填空：我被这首歌 ___（move）shallow。\n解析：被打动用 was moved by",
-      "keywords": ["be moved by", "be touched", "被动表达", "打动", "melody"],
+      "keywords": [
+        "be moved by",
+        "be touched",
+        "被动表达",
+        "打动",
+        "melody"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

@@ -14,7 +14,13 @@
         "强调的 be 动词与主句时态不一致"
       ],
       "example": "[仿题]改写：I saw her yesterday.\n解析：强调昨天，写 It was yesterday that I saw her。",
-      "keywords": ["强调句", "改写", "It is...that", "句型转化", "表现力"],
+      "keywords": [
+        "强调句",
+        "改写",
+        "It is...that",
+        "句型转化",
+        "表现力"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +37,16 @@
         "假倒装与真倒装条件判断错误"
       ],
       "example": "[仿题]改写：I have never seen such beauty.\n解析：否定词提前，写 Never have I seen such beauty。",
-      "keywords": ["倒装句", "否定词", "部分倒装", "改写", "语序"],
-      "prerequisites": [],
+      "keywords": [
+        "倒装句",
+        "否定词",
+        "部分倒装",
+        "改写",
+        "语序"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +62,16 @@
         "删连接词后漏掉必要的形式变化"
       ],
       "example": "[仿题]改写：Because he was moved, he cried.\n解析：删去 because 改用分词，写 Moved, he cried。",
-      "keywords": ["非谓语", "改写", "从句", "分词", "精炼"],
-      "prerequisites": [],
+      "keywords": [
+        "非谓语",
+        "改写",
+        "从句",
+        "分词",
+        "精炼"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +87,16 @@
         "合并后成分重复或残缺"
       ],
       "example": "[仿题]合并：This is the man. He helped me.\n解析：定语从句合并，写 This is the man who helped me。",
-      "keywords": ["从句", "合并", "复合句", "连接词", "改写"],
-      "prerequisites": [],
+      "keywords": [
+        "从句",
+        "合并",
+        "复合句",
+        "连接词",
+        "改写"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +112,16 @@
         "定语改分词时主被动判断错误"
       ],
       "example": "[仿题]改写：the man who is standing there.\n解析：删 who is 用分词，写 the man standing there。",
-      "keywords": ["分词", "从句简化", "现在分词", "过去分词", "改写"],
-      "prerequisites": [],
+      "keywords": [
+        "分词",
+        "从句简化",
+        "现在分词",
+        "过去分词",
+        "改写"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,8 +137,16 @@
         "需要突出执行者时却误用被动"
       ],
       "example": "[仿题]改写：People speak Chinese widely.\n解析：用被动，写 Chinese is widely spoken。",
-      "keywords": ["被动语态", "书面表达", "正式", "改写", "客观"],
-      "prerequisites": [],
+      "keywords": [
+        "被动语态",
+        "书面表达",
+        "正式",
+        "改写",
+        "客观"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -116,8 +162,16 @@
         "不定式替代从句后丢失了必要的连接信息"
       ],
       "example": "[仿题]改写：He went there so that he could help.\n解析：用不定式，写 He went there to help。",
-      "keywords": ["不定式", "目的状语", "改写", "精简", "句式"],
-      "prerequisites": [],
+      "keywords": [
+        "不定式",
+        "目的状语",
+        "改写",
+        "精简",
+        "句式"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -134,7 +188,13 @@
         "bridge 名词作动词时用法不熟"
       ],
       "example": "[仿题]They ___ ideas through the international programme.\n解析：交流思想，填 exchange。",
-      "keywords": ["communicate", "exchange", "bridge", "integrate", "中外交流"],
+      "keywords": [
+        "communicate",
+        "exchange",
+        "bridge",
+        "integrate",
+        "中外交流"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -152,8 +212,19 @@
         "变换句式时忽略语义的准确性"
       ],
       "example": "[仿题]改造：The city is old. It attracts tourists.\n解析：合并用从句，写 The old city attracts tourists。",
-      "keywords": ["句式", "多样化", "变换", "表现力", "写作"],
-      "prerequisites": [],
+      "keywords": [
+        "句式",
+        "多样化",
+        "变换",
+        "表现力",
+        "写作"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U3_001",
+        "YY_WY_G1_B7_U3_002",
+        "YY_WY_G1_B7_U3_003",
+        "YY_WY_G1_B7_U3_004"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -169,8 +240,16 @@
         "真正从句位置摆放错误造成表达混乱"
       ],
       "example": "[仿题]改写：That she came is wonderful.\n解析：用 it，写 It is wonderful that she came。",
-      "keywords": ["形式主语", "it", "that从句", "改写", "it作形式主语"],
-      "prerequisites": [],
+      "keywords": [
+        "形式主语",
+        "it",
+        "that从句",
+        "改写",
+        "it作形式主语"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B7_U3_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -187,7 +266,13 @@
         "respect 后漏掉介词 for 搭配残缺"
       ],
       "example": "[仿题]We should show ___ for different cultures.\n解析：表示对文化的尊重，填 respect。",
-      "keywords": ["culture gap", "mutual", "tolerance", "custom", "尊重"],
+      "keywords": [
+        "culture gap",
+        "mutual",
+        "tolerance",
+        "custom",
+        "尊重"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -205,7 +290,13 @@
         "高级句型堆砌生硬不自然"
       ],
       "example": "[仿题]To begin with, cultural ___ benefits both sides.\n解析：文化交融有益，填 exchange。",
-      "keywords": ["作文结构", "文化交流", "意义", "建议", "过渡词"],
+      "keywords": [
+        "作文结构",
+        "文化交流",
+        "意义",
+        "建议",
+        "过渡词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }

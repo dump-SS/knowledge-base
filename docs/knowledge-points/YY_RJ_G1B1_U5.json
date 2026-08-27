@@ -14,7 +14,13 @@
         "把 where 改成 that 后分句成分残缺"
       ],
       "example": "[仿题]填空：This is the city ___ (where/which) I grew up。\n解析：地点作状语用 where",
-      "keywords": ["where", "in which", "地点", "关系副词", "定语从句"],
+      "keywords": [
+        "where",
+        "in which",
+        "地点",
+        "关系副词",
+        "定语从句"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "分不清时间与地点的关系副词"
       ],
       "example": "[仿题]填空：I'll never forget the day ___ (when/where) we met。\n解析：时间状语用 when",
-      "keywords": ["when", "on which", "时间", "关系副词", "定语从句"],
-      "prerequisites": [],
+      "keywords": [
+        "when",
+        "on which",
+        "时间",
+        "关系副词",
+        "定语从句"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U5_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "for which 改写时介词搭配错误"
       ],
       "example": "[仿题]填空：The reason ___ (why/that) he left is a secret。\n解析：reason 作原因状语用 why",
-      "keywords": ["why", "for which", "reason", "原因", "关系副词"],
-      "prerequisites": [],
+      "keywords": [
+        "why",
+        "for which",
+        "reason",
+        "原因",
+        "关系副词"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U5_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,8 +87,16 @@
         "介词提前后从句还残留原介词"
       ],
       "example": "[仿题]填空：the chair ___ which I sit。\n解析：sit on 写 on which",
-      "keywords": ["介词加which", "固定搭配", "动介搭配", "先行词", "介词提前"],
-      "prerequisites": [],
+      "keywords": [
+        "介词加which",
+        "固定搭配",
+        "动介搭配",
+        "先行词",
+        "介词提前"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U5_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -82,8 +112,18 @@
         "非限制性从句里也生硬省略"
       ],
       "example": "[仿题]改写：the time when we started。\n解析：可省为 the time we started",
-      "keywords": ["省略", "that 替换", "when", "why", "口语"],
-      "prerequisites": [],
+      "keywords": [
+        "省略",
+        "that 替换",
+        "when",
+        "why",
+        "口语"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B1_U5_001",
+        "YY_RJ_G1_B1_U5_002",
+        "YY_RJ_G1_B1_U5_003"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -99,7 +139,13 @@
         "work on 与 work out 搭配混用"
       ],
       "example": "[仿题]填空：练习口语用 practise ___ (speak/speaking)。\n解析：practise 后接动名词",
-      "keywords": ["practise", "communicate with", "work on", "语言学习", "动名词"],
+      "keywords": [
+        "practise",
+        "communicate with",
+        "work on",
+        "语言学习",
+        "动名词"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -116,7 +162,13 @@
         "语言身份词与国籍词形混用"
       ],
       "example": "[仿题]选词：母语人士用 ___（native tongue/native）。\n解析：母语者用 native speaker",
-      "keywords": ["official language", "mother tongue", "native speaker", "语言身份", "national"],
+      "keywords": [
+        "official language",
+        "mother tongue",
+        "native speaker",
+        "语言身份",
+        "national"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +185,13 @@
         "疑问词从句后接形式错误"
       ],
       "example": "[仿题]改错：I figured it out quickly。\n解析：代词应放中间已正确",
-      "keywords": ["figure out", "弄明白", "短语动词", "代词中间", "疑问词"],
+      "keywords": [
+        "figure out",
+        "弄明白",
+        "短语动词",
+        "代词中间",
+        "疑问词"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +208,13 @@
         "接动名词时形式写错"
       ],
       "example": "[仿题]填空：Pay attention to ___ (spell/spelling) words。\n解析：to 是介词接动名词",
-      "keywords": ["pay attention to", "介词to", "动名词", "关注", "搭配"],
+      "keywords": [
+        "pay attention to",
+        "介词to",
+        "动名词",
+        "关注",
+        "搭配"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +231,13 @@
         "improve 后误加多余介词"
       ],
       "example": "[仿题]填空：I've ___ (make) great progress in English。\n解析：make progress 用 made",
-      "keywords": ["improve", "make progress", "get better at", "进步", "progress"],
+      "keywords": [
+        "improve",
+        "make progress",
+        "get better at",
+        "进步",
+        "progress"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +254,13 @@
         "表用什么语言误用 by 而不用 in"
       ],
       "example": "[仿题]填空：她用英语 ___ (express) ideas well。\n解析：表达用 express",
-      "keywords": ["express", "exchange", "communicate", "in English", "交流"],
+      "keywords": [
+        "express",
+        "exchange",
+        "communicate",
+        "in English",
+        "交流"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +277,13 @@
         "把语言与地区名混为一谈"
       ],
       "example": "[仿题]选词：他在学 ___（French/France）语言。\n解析：表语言用 French",
-      "keywords": ["French", "Arabic", "language", "国家语言", "拼写"],
+      "keywords": [
+        "French",
+        "Arabic",
+        "language",
+        "国家语言",
+        "拼写"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

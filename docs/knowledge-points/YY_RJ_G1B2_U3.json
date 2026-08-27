@@ -14,7 +14,13 @@
         "过去分词形式选用错误"
       ],
       "example": "[仿题]填空：The data ___ (collect) already。\n解析：已被收集，用 has been collected",
-      "keywords": ["现在完成被动", "have/has been done", "被动语态", "过去分词", "完成时"],
+      "keywords": [
+        "现在完成被动",
+        "have/has been done",
+        "被动语态",
+        "过去分词",
+        "完成时"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -31,8 +37,16 @@
         "只看主语不看完成语境"
       ],
       "example": "[仿题]填空：Your order ___ (send) already。\n解析：已寄出完成，用 has been sent",
-      "keywords": ["已完成", "对现在影响", "语境", "already", "被动"],
-      "prerequisites": [],
+      "keywords": [
+        "已完成",
+        "对现在影响",
+        "语境",
+        "already",
+        "被动"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U3_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -48,8 +62,16 @@
         "时态标记搭配错乱"
       ],
       "example": "[仿题]选词：这个页面 ___（has been updated/is updated）recently。\n解析：近期已完成用 has been",
-      "keywords": ["完成被动", "一般被动", "区别", "时态", "have been done"],
-      "prerequisites": [],
+      "keywords": [
+        "完成被动",
+        "一般被动",
+        "区别",
+        "时态",
+        "have been done"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U3_001"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -65,7 +87,13 @@
         "将过去分词与现在分词定语混淆"
       ],
       "example": "[仿题]填空：a ___ (grow) number 增长的数量。\n解析：主动进行用 growing",
-      "keywords": ["现在分词", "定语", "主动进行", "修饰名词", "doing"],
+      "keywords": [
+        "现在分词",
+        "定语",
+        "主动进行",
+        "修饰名词",
+        "doing"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -82,7 +110,13 @@
         "系动词后漏用分词形式"
       ],
       "example": "[仿题]填空：The movie is ___ (interest)。\n解析：表事物用 interesting",
-      "keywords": ["现在分词", "表语", "系动词", "interesting", "ing 表特征"],
+      "keywords": [
+        "现在分词",
+        "表语",
+        "系动词",
+        "interesting",
+        "ing 表特征"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -99,8 +133,17 @@
         "主被动关系判断错误"
       ],
       "example": "[仿题]填空：a ___ (break) cup broken 杯子。\n解析：被打碎用 broken",
-      "keywords": ["现在分词", "过去分词", "主动被动", "定语", "broken"],
-      "prerequisites": [],
+      "keywords": [
+        "现在分词",
+        "过去分词",
+        "主动被动",
+        "定语",
+        "broken"
+      ],
+      "prerequisites": [
+        "YY_RJ_G1_B2_U3_004",
+        "YY_RJ_G1_B2_U3_005"
+      ],
       "source_version": "人教版2019"
     },
     {
@@ -116,7 +159,13 @@
         "browse 拼写漏字母"
       ],
       "example": "[仿题]填空：下载文件用 ___（download/upload）。\n解析：下载用 download",
-      "keywords": ["browse", "download", "surf", "access", "网络操作"],
+      "keywords": [
+        "browse",
+        "download",
+        "surf",
+        "access",
+        "网络操作"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -133,7 +182,13 @@
         "post 与 comment 词义混淆"
       ],
       "example": "[仿题]填空：她把照片上传到网上用 ___（upload/share）。\n解析：上传用 upload",
-      "keywords": ["upload", "share with", "post", "comment", "分享交流"],
+      "keywords": [
+        "upload",
+        "share with",
+        "post",
+        "comment",
+        "分享交流"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -150,7 +205,13 @@
         "platform 类词音形混淆"
       ],
       "example": "[仿题]填空：每天上网看 ___（social media/webpage）。\n解析：社交平台用 social media",
-      "keywords": ["social media", "website", "forum", "平台", "网络社交"],
+      "keywords": [
+        "social media",
+        "website",
+        "forum",
+        "平台",
+        "网络社交"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -167,7 +228,13 @@
         "online 的介词形式误用"
       ],
       "example": "[仿题]填空：你能 ___（access）免费课程 online。\n解析：接入获取用 get access to",
-      "keywords": ["online", "connect to", "get access to", "接入", "获取信息"],
+      "keywords": [
+        "online",
+        "connect to",
+        "get access to",
+        "接入",
+        "获取信息"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -184,7 +251,13 @@
         "褒贬形容词选错立场"
       ],
       "example": "[仿题]填空：网购对我们来说很 ___（convenience/convenient）。\n解析：表特征用形容词 convenient",
-      "keywords": ["convenient", "beneficial", "efficient", "利弊", "评价词"],
+      "keywords": [
+        "convenient",
+        "beneficial",
+        "efficient",
+        "利弊",
+        "评价词"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     },
@@ -201,7 +274,13 @@
         "表目的句子结构不完整"
       ],
       "example": "[仿题]填空：网络被用来 ___（search）资料。\n解析：表用途接原形，to search",
-      "keywords": ["use to do", "be used to", "目的", "用途表达", "句式"],
+      "keywords": [
+        "use to do",
+        "be used to",
+        "目的",
+        "用途表达",
+        "句式"
+      ],
       "prerequisites": [],
       "source_version": "人教版2019"
     }

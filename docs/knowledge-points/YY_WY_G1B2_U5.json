@@ -14,7 +14,12 @@
         "动词 decide 后误把 to 漏掉造成不定式残缺"
       ],
       "example": "[仿题]我想去旅行。\n解析：I want to travel，want 接带 to 的不定式。",
-      "keywords": ["不定式", "to travel", "want", "宾语"],
+      "keywords": [
+        "不定式",
+        "to travel",
+        "want",
+        "宾语"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -31,8 +36,15 @@
         "表语与宾语不定式的使用场景分辨不清"
       ],
       "example": "[仿题]我的梦想是环游世界。\n解析：My dream is to travel the world，不定式作表语。",
-      "keywords": ["不定式", "表语", "宾语", "梦想"],
-      "prerequisites": [],
+      "keywords": [
+        "不定式",
+        "表语",
+        "宾语",
+        "梦想"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -48,8 +60,15 @@
         "to 不定式与 so that 目的句型结构混用造成冗余"
       ],
       "example": "[仿题]他起早看日出。\n解析：He got up early to see the sunrise，to 不定式表目的。",
-      "keywords": ["不定式", "目的状语", "to see", "目的"],
-      "prerequisites": [],
+      "keywords": [
+        "不定式",
+        "目的状语",
+        "to see",
+        "目的"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -65,8 +84,15 @@
         "too 后面的 than 误添加使句式逻辑混乱"
       ],
       "example": "[仿题]太晚赶不上火车了。\n解析：It was too late to catch the train，too...to 表否定。",
-      "keywords": ["too", "to", "不定式", "程度"],
-      "prerequisites": [],
+      "keywords": [
+        "too",
+        "to",
+        "不定式",
+        "程度"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U5_003"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -82,8 +108,15 @@
         "动名词与不定式的动词搭配对象记混乱套"
       ],
       "example": "[仿题]我享受旅行。\n解析：I enjoy travelling，enjoy 后接动名词。",
-      "keywords": ["不定式", "动名词", "enjoy", "搭配"],
-      "prerequisites": [],
+      "keywords": [
+        "不定式",
+        "动名词",
+        "enjoy",
+        "搭配"
+      ],
+      "prerequisites": [
+        "YY_WY_G1_B2_U5_001"
+      ],
       "source_version": "外研版2019"
     },
     {
@@ -99,7 +132,12 @@
         "行李 luggage 不可数时误加复数 s 造成错误"
       ],
       "example": "[仿题]这是一段漫长旅程。\n解析：It is a long journey，journey 表旅程。",
-      "keywords": ["journey", "destination", "tourist", "luggage"],
+      "keywords": [
+        "journey",
+        "destination",
+        "tourist",
+        "luggage"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -116,7 +154,12 @@
         "换乘 transfer 与换车 get on 的语义场景混淆"
       ],
       "example": "[仿题]我们黎明出发。\n解析：We set off at dawn，set off 表出发。",
-      "keywords": ["set off", "arrive at", "transfer", "交通"],
+      "keywords": [
+        "set off",
+        "arrive at",
+        "transfer",
+        "交通"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -133,7 +176,12 @@
         "breathtaking 表惊叹误写成 breath taking 词形割裂"
       ],
       "example": "[仿题]沿途风景壮丽。\n解析：The scenery along the way is beautiful，scenery 表景色。",
-      "keywords": ["landscape", "scenery", "sunset", "风景"],
+      "keywords": [
+        "landscape",
+        "scenery",
+        "sunset",
+        "风景"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -150,7 +198,12 @@
         "on the road 与 in the road 的介词选用颠倒"
       ],
       "example": "[仿题]我在城里。\n解析：I am in the city，城市用介词 in。",
-      "keywords": ["in", "at", "on", "介词"],
+      "keywords": [
+        "in",
+        "at",
+        "on",
+        "介词"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -167,7 +220,12 @@
         "过去时间状语与时态不匹配让时间线含混"
       ],
       "example": "[仿题]我们参观了多处名胜。\n解析：We visited many places，用过去式 visited 叙述。",
-      "keywords": ["过去时", "visited", "经历", "旅行"],
+      "keywords": [
+        "过去时",
+        "visited",
+        "经历",
+        "旅行"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -184,7 +242,12 @@
         "多种愿望句型堆叠引起的成分冗余"
       ],
       "example": "[仿题]他渴望去长城。\n解析：He is eager to visit the Great Wall，eager to 接不定式。",
-      "keywords": ["eager", "wish", "want", "愿望"],
+      "keywords": [
+        "eager",
+        "wish",
+        "want",
+        "愿望"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     },
@@ -201,7 +264,12 @@
         "or 选择与 and 并列的含义选用颠倒"
       ],
       "example": "[仿题]我参观了博物馆还要欣赏日落。\n解析：We visited the museum and enjoyed the sunset，用 and 连接。",
-      "keywords": ["and", "or", "but", "并列"],
+      "keywords": [
+        "and",
+        "or",
+        "but",
+        "并列"
+      ],
       "prerequisites": [],
       "source_version": "外研版2019"
     }
