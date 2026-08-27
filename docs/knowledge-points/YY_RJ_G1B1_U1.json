@@ -1,0 +1,210 @@
+{
+  "module_path": "英语（人教版2019） 必修 第一册 Unit 1 Teenage Life",
+  "l2_points": [
+    {
+      "id": "YY_RJ_G1_B1_U1_001",
+      "name": "短语动词的识别与记忆",
+      "definition": "由一个动词加一个或多个介词或副词组成、意义常与动词原义不同的动词词组。",
+      "explanation": "你看到 run out of、take up 这类组合时，不能按字面拆开理解，它们整体是一个新意思。记短语动词要连同搭配的介词副词一起记，比如 take part in（参加）、sign up for（报名）、get along with（相处）。做题时先把动作完整标记，再看后面跟的词是否与这个固定结构配套，避免把介词丢掉。",
+      "difficulty": 2,
+      "frequency": 5,
+      "typical_errors": [
+        "只记动词不记介词，把 take part in 写成 take part",
+        "按字面直译理解短语动词，导致句意理解错误",
+        "混用形近短语，如把 give up 与 give in 的意义搞混"
+      ],
+      "example": "[仿题]It's time to sign up ______ the school basketball club.\n解析：填 for，sign up for 为报名参加。",
+      "keywords": ["短语动词", "动词词组", "固定搭配", "take part in", "sign up for"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U1_002",
+      "name": "谈个人课余爱好的句型",
+      "definition": "用 prefer、interested in 等结构表达课余活动喜好的句式。",
+      "explanation": "你表达课余爱好时常用 I prefer 加名词或动名词讲偏爱哪个，用 I'm interested in 加名词讲对什么感兴趣。询问别人则用 What do you do in your spare time 或 Which club do you want to join。回答落点要落在具体活动上，句子主谓结构完整，这样在情景对话和口语题里才得分。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把 prefer to 和 prefer...to... 的比较结构用混",
+        "interested in 后直接接动词原形，未接动名词或名词",
+        "回答只给活动名词，缺主语或谓语动词不成句"
+      ],
+      "example": "[仿题]I prefer ______ (read) to chatting online.\n解析：填 reading，prefer doing to doing 结构。",
+      "keywords": ["课余爱好", "prefer doing", "interested in", "俱乐部", "表达喜好"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U1_003",
+      "name": "V-ing 形式作主语的用法",
+      "definition": "将动词加-ing 后置于句首充当主语，谓语动词用单数的结构。",
+      "explanation": "你用更简单的方式记住：句中要表达一个动作做主语时，把动词改成 -ing 形式放句首，谓语动词用第三人称单数。例如 Playing basketball is my favourite hobby. 谓语 be 动词用 is 而不是 are。判断时先找动作是否有主语位置，若有就用动名词，主语动词自然变单数。",
+      "difficulty": 3,
+      "frequency": 4,
+      "typical_errors": [
+        "用动词原形作主语，写 Playing 时漏掉 -ing 变成 Play",
+        "动名词作主语时谓语误用复数动词，如 are",
+        "把动名词与现在分词混淆，在主谓结构中分不清角色"
+      ],
+      "example": "[仿题]______ (swim) every day keeps you healthy.\n解析：填 Swimming，动名词作主语谓语用单数 keeps。",
+      "keywords": ["动名词主语", "V-ing", "谓语单数", "作主语", "动作作主语"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U1_004",
+      "name": "动词作宾语的-ing 形式",
+      "definition": "enjoy 等动词后接动作须用 -ing 形式的搭配。",
+      "explanation": "你记住有一类动词后面只能接动词的 -ing 形式作宾语，常见有 enjoy、finish、avoid、mind、practise、miss。判定技巧是记忆这批动词，见到它们后面要接动作一律变 -ing，例如 I enjoy reading，He avoids making mistakes。做题先圈出这类标记动词，再作动词变形，准确率就能上来。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "enjoy 后误接动词原形或不定式，写 I enjoy to read",
+        "分不清哪些动词后接 -ing，把 avoid 后接不定式",
+        "practise 后接动词时忘记变 -ing 形式"
+      ],
+      "example": "[仿题]He practises ______ (play) the piano every evening.\n解析：填 playing，practise 后接 -ing。",
+      "keywords": ["动名词宾语", "enjoy doing", "avoid doing", "动词搭配", "-ing形式"],
+      "prerequisites": ["YY_RJ_G1_B1_U1_003"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U1_005",
+      "name": "青春校园话题词汇",
+      "definition": "与校园活动、社团、青少年生活相关的核心词汇及其搭配。",
+      "explanation": "你认识并会用的是解读校园类文章的词汇：club 社团、activity 活动、volunteer 志愿者、challenge 挑战、satisfaction 满足感、lonely 孤独的。记词要带搭配，如 take part in an activity、face a challenge、feel lonely。这类词汇在阅读理解和写作中反复出现，掌握搭配后写作文也更有内容。",
+      "difficulty": 1,
+      "frequency": 4,
+      "typical_errors": [
+        "把活动类与感受类词混用，逻辑上说不通",
+        "拼写漏字母，把 volunteer 写成 volnteer",
+        "分不清 challenge 与 challenge 相关的动词搭配",
+        "lonely 与 alone 混用，忽视其情感差异"
+      ],
+      "example": "[仿题]Volunteering as a teacher for children gives me a sense of ______.\n解析：填 satisfaction，满足感，与前文志愿经历呼应。",
+      "keywords": ["青少年词汇", "社团活动", "volunteer", "challenge", "satisfaction"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U1_006",
+      "name": "陈述句中的频率副词",
+      "definition": "频率副词位于行为动词前、be 动词后的位置规则。",
+      "explanation": "你把频率副词的位置记住就不容易错：在行为动词前（We often go jogging），在 be 动词、情态动词之后（He is always happy）。频率副词用来回答 how often 的问题。写句子时先写主语，再考虑频率词该放哪，行为动词前和 be 后这两个位置最常考。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "把频率副词放在句首大过课时位置，混淆语序",
+        "在 be 动词前放频率副词，写成 He often is happy",
+        "行为动词已有时态变化仍加频率副词位置出错"
+      ],
+      "example": "[仿题]He ______ (usually) plays football on weekends.\n解析：填 usually，置于行为动词 play 前。",
+      "keywords": ["频率副词", "副词位置", "行为动词前", "be动词后", "often"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U1_007",
+      "name": "动词与介词的固定搭配",
+      "definition": "动词须搭配特定介词构成固定意义词组的规则，如 worry about。",
+      "explanation": "你看到动词先想它是否需要固定介词：worry about 担心、listen to 听、care for 关心、look forward to 期待。介词不能随意替换，也不可省略。写句子时把词组当整体用，判断介词选哪一看动词本身就定了。遇到有时候 look forward to 后接动词要变 -ing，这是它的特殊性。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "随意更换固定介词，把 listen to 写成 listen for",
+        "把介词词组后接的动词写成原形，如 look forward to see",
+        "两个相似词组介词搞混，如 care about 与 care for"
+      ],
+      "example": "[仿题]I'm looking forward to ______ (hear) from you.\n解析：填 hearing，look forward to 后接动名词。",
+      "keywords": ["动词介词搭配", "look forward to", "listen to", "worry about", "固定词组"],
+      "prerequisites": ["YY_RJ_G1_B1_U1_001"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U1_008",
+      "name": "谈论新学期的计划表达",
+      "definition": "用 plan to、decide to 表达新学期打算的句式。",
+      "explanation": "你谈新学期计划常用 plan to do、decide to do、make a plan for 加名词。写时先定目标动词再加 to do 或 for。比如 I plan to join the debating club，He makes a plan for the new term。注意 plan、decide 后接不定式 to do，不能接 -ing，这是固定用法，写作评分时很看重。",
+      "difficulty": 2,
+      "frequency": 4,
+      "typical_errors": [
+        "plan to do 误写成 plan doing，不定式搭配出错",
+        "make a plan for 与 plan to do 混用介词",
+        "表达计划时谓语用错，动词形式与主语不一致"
+      ],
+      "example": "[仿题]I decided ______ (take) part in the speech contest.\n解析：填 to take，decide 后接不定式。",
+      "keywords": ["新学期计划", "plan to do", "decide to do", "make a plan", "不定式"],
+      "prerequisites": ["YY_RJ_G1_B1_U1_002"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U1_009",
+      "name": "描述课程与学习状态的表达",
+      "definition": "用 favourite、challenging 等描述课程与学习进展。",
+      "explanation": "你描述课程可先说我的 favourite subject is...，再用 challenging、interesting、boring 等形容词讲难度和感受。谈学习进展用 make progress in 加科目，遇到困难用 have difficulty (in) doing。写完先自查 be 动词时态和介词搭配，favourite 英式不变，学习状态类表达结构也常出现在作文里。",
+      "difficulty": 2,
+      "frequency": 3,
+      "typical_errors": [
+        "make progress in 写错介词误用 to",
+        "have difficulty doing 忘记用 -ing 形式",
+        "favourite 后误加复数 s，或拼写不稳"
+      ],
+      "example": "[仿题]She has made great progress ______ English this term.\n解析：填 in，make progress in 在某方面进步。",
+      "keywords": ["课程描述", "make progress", "have difficulty", "favourite subject", "学习表达"],
+      "prerequisites": ["YY_RJ_G1_B1_U1_007"],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U1_010",
+      "name": "名词短语作宾语的识别",
+      "definition": "由一个核心名词及限定词、形容词等修饰成分构成、整体作句子宾语的短语。",
+      "explanation": "你判断宾语时先找核心名词，它是整个短语的中心，前面的 my、a、beautiful 都是修饰。例如 I like reading interesting stories，interesting stories 就是名词短语。做题先划掉修饰词找到名词，再看它在句中当主语还是宾语，宾语位置上应放名词或名词短语，别让动词只留个光杆。",
+      "difficulty": 3,
+      "frequency": 3,
+      "typical_errors": [
+        "只写修饰成分遗弃核心名词，导致结构残缺",
+        "把多个名词不加连接词语堆在一起，层次混乱",
+        "弄混名词短语与动词短语的句法角色"
+      ],
+      "example": "[仿题]找出宾语：We bought a new book about science.\n解析：宾语是 a new book about science，核心名词 book。",
+      "keywords": ["名词短语", "宾语", "核心名词", "修饰成分", "句法成分"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U1_011",
+      "name": "阅读理解抓主旨大意",
+      "definition": "通过首尾段和主题句快速把握文章中心思想的阅读方法。",
+      "explanation": "你做主旨题时先读首段和末段，多数文章主题句出现在这里。再看每段中心句，通常是段首。把首尾段加段落首句拼起来，主旨就出来了。遇到干扰项，凡只概括某一段的都不是主旨，选项过宽过窄都要排除。记住主旨题要选能覆盖全篇的那句，而不是某段细节。",
+      "difficulty": 3,
+      "frequency": 5,
+      "typical_errors": [
+        "把细节信息当主旨，概括不了全文",
+        "只看首段忽略末段，末段转折则选错",
+        "选项以偏概全，被某段事例一带就选它"
+      ],
+      "example": "[仿题]文章首段讲青少年压力，后文讲应对方法，主旨是什么？\n解析：主旨是青少年如何应对压力，而非单纯介绍压力。",
+      "keywords": ["阅读理解", "主旨大意", "主题句", "首尾段", "概括"],
+      "prerequisites": [],
+      "source_version": "人教版2019"
+    },
+    {
+      "id": "YY_RJ_G1_B1_U1_012",
+      "name": "动名词与不定式区别",
+      "definition": "根据动词习惯搭配与语义，区分作宾语时接-ing 与接不定式的规则。",
+      "explanation": "你能分辨两类动词：一类后面接 -ing，如 enjoy、finish、avoid；一类常接不定式，如 want、hope、decide、plan。还有一类两者都可但意义不同，如 remember、forget。做题先回想这个动词属于哪类，再结合上下文语义定。基础判断是先记清单，再把 -ing 和 to do 各自适用的情景对号入座。",
+      "difficulty": 4,
+      "frequency": 5,
+      "typical_errors": [
+        "把 remember to do 与 remember doing 的意义互换",
+        "忽略动词习惯搭配，一律接 to do 造成错误",
+        "把 stop doing 与 stop to do 的语义弄反"
+      ],
+      "example": "[仿题]Remember ______ (turn) off the lights when you leave.\n解析：填 to turn，表示记得去做还没做的事。",
+      "keywords": ["动名词与不定式", "remember to do", "宾语形式", "动词搭配", "非谓语"],
+      "prerequisites": ["YY_RJ_G1_B1_U1_004"],
+      "source_version": "人教版2019"
+    }
+  ]
+}
