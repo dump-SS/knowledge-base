@@ -1,0 +1,129 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "SqFIbz7SbaXPuPsGtGRcuFfznCb",
+  "table_id": "tbl51xuVcH1dGWAe",
+  "rev": 163,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "all_fields",
+    "record_scope": "all_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 165,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "D:\\Projects\\knowledge base\\review\\tables_20260906\\ffr.ndjson",
+  "record_file_size_bytes": 99189,
+  "manifest_file": "D:\\Projects\\knowledge base\\review\\tables_20260906\\ffr.manifest.json",
+  "columns": {
+    "id": {
+      "field_id": "fld4ZESFV5",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 20
+      },
+      "example": "LS_G1_B1_MQ_004"
+    },
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 14
+      },
+      "example": "rec284GfsM9bx8"
+    },
+    "修正内容": {
+      "field_id": "fld7xzTrjB",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 26,
+        "max_length": 232
+      },
+      "example": "无"
+    },
+    "字段原文": {
+      "field_id": "fld1hClAER",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 117
+      },
+      "example": "YY_WY_G1_B3_U4_001"
+    },
+    "学科": {
+      "field_id": "fld3SGgf5s",
+      "field_type": "select",
+      "physical_type": "array<string>",
+      "stats": {
+        "empty_count": 0,
+        "max_length": 1,
+        "avg_length": 1
+      },
+      "example": [
+        "英语"
+      ]
+    },
+    "知识点": {
+      "field_id": "fld6TFLiIg",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 15
+      },
+      "example": "磁通量Φ=BS"
+    },
+    "置信度": {
+      "field_id": "fld3uXzQFo",
+      "field_type": "number",
+      "physical_type": "number|null",
+      "stats": {
+        "null_count": 0,
+        "min": 40,
+        "max": 80,
+        "avg": 71.56363636363636
+      },
+      "example": 40
+    },
+    "问题字段": {
+      "field_id": "fld5AQGiEq",
+      "field_type": "select",
+      "physical_type": "array<string>",
+      "stats": {
+        "empty_count": 0,
+        "max_length": 1,
+        "avg_length": 1
+      },
+      "example": [
+        "乱码"
+      ]
+    },
+    "问题描述": {
+      "field_id": "fld3ti5va9",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 110
+      },
+      "example": "example 解析空泛"
+    },
+    "验收结果": {
+      "field_id": "fld1GM4UQD",
+      "field_type": "select",
+      "physical_type": "array<string>",
+      "stats": {
+        "empty_count": 0,
+        "max_length": 1,
+        "avg_length": 1
+      },
+      "example": [
+        "已修正"
+      ]
+    }
+  }
+}

@@ -1,0 +1,218 @@
+[
+ {
+  "record_id": "rec284ABZx0teu",
+  "id": "YY_RJ_G1_B3_U3_002",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "不定式省略 to 后的动词",
+  "置信度": 70,
+  "问题描述": "explanation 有乱码：'判断 whether 该省 see 后宾语用动词原形'表意不通（explanation 里该句语法混杂，学生读不懂。）",
+  "定义原文": "在 help、let、make 等动词后不定式省略 to 及重复动词的现象。",
+  "详解原文": "你注意两种情况：sensory 动词和 make/let 后接宾语加不带 to 的不定式，如 make me laugh；在 I'd like to 这类结构中重复的不定式可省。判断 whether 该省 see 后宾语用动词原形。做题时看到感官动词或使役动词后要接动词原形，区别于普通不定式加 to。"
+ },
+ {
+  "record_id": "rec284ABZx0tCc",
+  "id": "YY_RJ_G1_B5_U4_002",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "过去完成时的使用场景",
+  "置信度": 70,
+  "问题描述": "definition 有乱码：'叙述前因后果哑等场景'中'哑等'表意不通（definition 里'哑等'用词错误，一句话没说清。）",
+  "定义原文": "在 by、before 引导的句子或叙述前因后果哑等场景中使用过去完成时。",
+  "详解原文": "你判断过去完成时就看有没有明确的时间关系：用 by 加过去时间、before 或 when 从句时，发生在先的动作用过去完成。如 By the time he arrived, the train had gone. 做题先把时间参照点圈出，凡是先发生、先完成的动作统一用过去完成，后发生的仍用过去式。"
+ },
+ {
+  "record_id": "rec284ABZx0u20",
+  "id": "YY_RJ_G1_B7_U1_011",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "未来世界设想词汇",
+  "置信度": 70,
+  "问题描述": "explanation 有错字：'记词配没想'应为'记词配设想'（explanation 里'配没想'错字，表意不清。）",
+  "定义原文": "虚拟世界相关设想、乌托邦等多未来背景名词的选用。",
+  "详解原文": "你谈未来设想用 virtual reality 虚拟现实、smart city 智慧城市、robot servant 机器人仆人、sustainable 可持续的。如 The story imagines a perfect future city. 阅读看到 smart city 就知道在讲未来设想。记词配没想，谈科幻世界观文章更顺。"
+ },
+ {
+  "record_id": "rec284ABZx0ufs",
+  "id": "YY_RJ_G1_B7_U1_012",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "情态动词表后悔或设想",
+  "置信度": 70,
+  "问题描述": "definition 有错字：'本应做而设做成的推定'应为'未做成'（definition 里'设做成'错字，语义不清。）",
+  "定义原文": "用 should have done 等情态表本应做而设做成的推定。",
+  "详解原文": "你表达本应该做而实际没做的事用 should have done，如 The robot should have stopped. 它与 should do 不同，强调过去未达成。判断语境属过去未办，用 should 加 have done。写作谈后悔或未果之事用此结构更准确。"
+ },
+ {
+  "record_id": "rec284ABZx0QNY",
+  "id": "YY_WY_G1_B1_U6_004",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "现在完成时与过去时比较",
+  "置信度": 78,
+  "问题描述": "explanation 中夹杂英文词“impact 巨大”，表述不规范（explanation 中英文混用影响可读性）",
+  "定义原文": "现在完成时重在影响与一般过去时重在过去事件的对比。",
+  "详解原文": "你写含过去事件的句子要分清两种时态：现在完成时强调动作对现在的影响或延续，一般过去时只叙述过去发生的且与现在无关的事件。比如 I have seen the river 强调我见过了，impact 巨大；I saw it yesterday 只说明昨天见过。看句子是否与现在有关来选时态。"
+ },
+ {
+  "record_id": "rec284ABZx0o7d",
+  "id": "YY_WY_G1_B2_U2_007",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "不可数名词节日的量表达",
+  "置信度": 55,
+  "问题描述": "explanation 举例“some decorations 表一些装饰”与知识点矛盾：decorations 是可数名词复数，并非不可数名词，示例与定义冲突（explanation 示例与“不可数名词”主题矛盾）",
+  "定义原文": "不可数名词在节日语境下依量词表达数量与程度的规则。",
+  "详解原文": "你在节日话题常遇到不可数名词，如 news、information、rubbish 等，它们不能加 s，也不能用 a 直接限定，需要用量词或其他手段表达数量。比如 some decorations 表一些装饰。节日语境注意不可数名词与 a lot of、much 搭配。写庆祝活动清单时按名词可数性选择量词。"
+ },
+ {
+  "record_id": "rec284ABZx0zNK",
+  "id": "YY_WY_G1_B2_U6_005",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "so 与 such 的省略用法",
+  "置信度": 72,
+  "问题描述": "name/definition 把 so/such 的程度用法与“I think so”的省略用法混为一谈，知识点界定混乱（知识点定义与示例（I think so）不是同一语法现象）",
+  "定义原文": "用 so 或 such 省略重复成分以增强表达程度的用法。",
+  "详解原文": "你为避免重复已出现的内容时 so 与 such 也有体现：如 I think so 表示我也这么认为，省略了具体内容。这类省略让对话简洁自然。写作时用 so 去省略已明确的内容，不赘述又表达清楚。不过省略要建立在上下文清晰的前提下再进行。"
+ },
+ {
+  "record_id": "rec284ABZx0Aph",
+  "id": "YY_WY_G1_B3_U2_002",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "过去虚拟主句结构",
+  "置信度": 72,
+  "问题描述": "explanation 中“它与 from 从句的 had done 呼应”写错连接词，应为 if 从句（explanation 出现术语/连接词错误）",
+  "定义原文": "与过去事实相反虚拟句主句用 would have 加过去分词。",
+  "详解原文": "与过去相反的虚拟句主句结果用 would have、could have 或 might have 加过去分词。比如 If I had gone, I could have met you 中 could have met 表本可能见到你。它与 from 从句的 had done 呼应。你只需注意主句保留 have 及分词形式，虚拟语气即完整成立。"
+ },
+ {
+  "record_id": "rec284ABZx0R0A",
+  "id": "YY_WY_G1_B3_U2_004",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "三种类型虚拟条件句对比",
+  "置信度": 78,
+  "问题描述": "explanation 结尾“三类别混淆”表述残缺不通（explanation 语句不通）",
+  "定义原文": "现在未来过去三类虚拟条件句的时态搭配对比。",
+  "详解原文": "你掌握虚拟条件句要区分类型：与现在相反用过去时加 would 原形，与未来相反可用 were to 或 should，与过去相反用 had done 加 would have done。你做题时先判断假设针对哪一时段，再选择对应的时态组合，三类别混淆。分类清晰后虚拟题就不难解。"
+ },
+ {
+  "record_id": "rec284ABZx0CT7",
+  "id": "YY_WY_G1_B3_U3_009",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "科学家品质与贡献词汇",
+  "置信度": 74,
+  "问题描述": "explanation 中“用deventh a lot to结构”出现乱码/错词“deventh”，应为 devote（explanation 含乱码错词）",
+  "定义原文": "描述科学家探索精神、研究态度与成果意义的关键形容词和动词。",
+  "详解原文": "介绍科学家时常用brilliant杰出的、devoted献身的、curious好奇的、persistent坚持的这类形容词，搭配makeadifference产生影响、contribute对什么做贡献等词组。表达成果时用achievement成就、pioneer开辟。你积累这些词后，既能读懂人物传记，也能在写作里用deventh a lot to结构描述贡献。"
+ },
+ {
+  "record_id": "rec284ABZx0Ffi",
+  "id": "YY_WY_G1_B3_U3_011",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "非谓语与被动语态结合",
+  "置信度": 76,
+  "问题描述": "explanation 中“可bedone作定语name或状语”混入乱码“name”，语句不通（explanation 含乱码错词）",
+  "定义原文": "现在分词being加过去分词或不定式被动，表达被动进行的结构。",
+  "详解原文": "当被动还伴随进行或做成分功能时，你要用非谓语的被动形式。正在进行用being加过去分词，如Thehouseistobeingreviewed；表将来或目的用tobepublished这类不定式被动。此外还可用bedone作定语name或状语强调整体的被动。你区分主动非谓语与被动的形态差异，清晰度至关重要。"
+ },
+ {
+  "record_id": "rec284ABZx0oWb",
+  "id": "YY_WY_G1_B3_U4_003",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "there be完全倒装句型",
+  "置信度": 60,
+  "问题描述": "explanation 先说“there be句是最典型的部分倒装”，又说“它是完全倒装的一种”，前后矛盾；there be 实为完全倒装（explanation 概念自相矛盾）",
+  "定义原文": "以there加be引导、谓语动词置于主语之前的完全倒装结构。",
+  "详解原文": "there be句是最典型的部分倒装，其实它是完全倒装的一种，谓语be置于主语之前，如there is a painting。there是引导词不译，真正主语是后面的名词。主语复数时be也要用复数，如there are paintings。你注意主谓一致和there的位置，这类题基本不会出错。"
+ },
+ {
+  "record_id": "rec284ABZx0n0z",
+  "id": "YY_WY_G1_B3_U5_006",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "过去分词独立成分用法",
+  "置信度": 45,
+  "问题描述": "explanation 把“generally speaking”列为过去分词独立成分，但 generally speaking 是现在分词，与“过去分词”主题矛盾（explanation 分词类型归类错误，属知识性错误）",
+  "定义原文": "一般说来从句、已固定语块等过去分词作独立解释性成分的惯用法。",
+  "详解原文": "有些过去分词短语已成为固定独立成分，不能机械套主语规则，如generally speaking、compared with、given that等。你记这类时先当成整体搭配记牢，尤其compared with表比较、given that表考虑到。做题时若遇到这些固定语块形的分词，优先按固定含义处理而不是死抠被动。"
+ },
+ {
+  "record_id": "rec284ABZx0qPk",
+  "id": "YY_WY_G1_B3_U6_006",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "现在分词作状语时态形式",
+  "置信度": 68,
+  "问题描述": "example “___ home, he slept”解析填 Arriving，但解析又说“先到家后睡觉”，按本条 having done 规则应填 Having arrived，自相矛盾（example 与 explanation 的时态规则自相矛盾）",
+  "定义原文": "区分一般式doing与完成式having done表示动作先后关系的形式选择。",
+  "详解原文": "现在分词表主动进行时，若其动作早于主句动作完成，就用完成式having done；若与主句同时就用一般式doing。比如Having finished dinner, he read news说明先吃完再看报。汉语只用一个动词时，你要据时间先后判断用doing还是having done，这是易错关键点。"
+ },
+ {
+  "record_id": "rec284ABZx0Dhu",
+  "id": "YY_WY_G1_B5_U2_002",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "同位语从句whether引导",
+  "置信度": 74,
+  "问题描述": "explanation 中“although在多数名词性从句中不能替代whether”写错词，应为 if，导致表述不通（explanation 连接词用错）",
+  "定义原文": "同位语从句表达是否时用whether引导而不用if的用法。",
+  "详解原文": "同位语从句中表示是否用whether引导，不用if，如the question whether he will come。although在多数名词性从句中不能替代whether，只有宾语从句在某条件下才可用if。你看到中心名词性的同位语从句表达是否，直接用whether最保险，不引入if歧义。"
+ },
+ {
+  "record_id": "rec284ABZx0FTi",
+  "id": "YY_WY_G1_B6_U2_008",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "匠心职业主题词汇",
+  "置信度": 76,
+  "问题描述": "explanation 中“最后记住 n 形容词 dedicated 敬业的心”语句不通，含乱码“n 形容词”（explanation 含乱码错词）",
+  "定义原文": "涵盖工匠技艺与职业敬业的主题词汇。",
+  "详解原文": "本单元谈匠心与职业，这些词汇你要成套掌握。先记 craft 手艺、artisan 工匠、occupation 职业这类名词，再补充 devote 投入、master 掌握等动词，最后记住 n 形容词 dedicated 敬业的心。读工匠人物传记或职业介绍时，先抓这些关键词，再把握人物的敬业精神，文章脉络就清晰了。"
+ },
+ {
+  "record_id": "rec284ABZx0AOe",
+  "id": "YY_WY_G1_B6_U5_001",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "主语从句的结构与判断",
+  "置信度": 72,
+  "问题描述": "explanation 开头“主语从句就是主语从句”是车轱辘话，无信息量（explanation 含车轱辘话）",
+  "定义原文": "从句在句中作主语时，整个从句充当主语成分。",
+  "详解原文": "主语从句就是主语从句。它作主语时，句首可以是 what、that、whether 引导的连接词。比如 That he will come is clear，that 引导整个主语从句。你判断时问主句的谓语动词到底是谁发出的，如果这个发出来的是整个从句，那就是主语从句。识别出来了，改错填空就有方向。"
+ },
+ {
+  "record_id": "rec284ABZx0B0U",
+  "id": "YY_WY_G1_B6_U6_009",
+  "学科": [
+   "英语"
+  ],
+  "知识点": "所有格的省略与用法",
+  "置信度": 72,
+  "问题描述": "explanation 表述混乱（“还有一个具体情况”“比多句子”等），typical_errors 也含“比多句子中的省略理解错误”这种错字（explanation 与 typical_errors 均含混乱表述）",
+  "定义原文": "名词后的所有格常省略修饰相同的名词。",
+  "详解原文": "当两个并列成分的物主对象相同时，后一个所有格的名词可以省略。比如 This pen is hers，还有一个具体情况，常见于比较句中。你看到这样的省略语部分，可以自动补全被省略的名词来理解。正确还原省略内容，阅读比较句和并列句时更准确。"
+ }
+]

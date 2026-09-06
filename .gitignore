@@ -1,4 +1,6 @@
 .workbuddy/
+personal/
 __pycache__/
 *.pyc
 .DS_Store
+review/reviews/

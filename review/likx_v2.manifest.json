@@ -1,0 +1,136 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "NEuPb2jHDavKkCsIYUMcWRlGn8e",
+  "table_id": "tblPGgcvBAtbCpK8",
+  "rev": 59,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "all_fields",
+    "record_scope": "all_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 132,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "D:\\Projects\\knowledge base\\review\\likx_v2.ndjson",
+  "record_file_size_bytes": 144509,
+  "manifest_file": "D:\\Projects\\knowledge base\\review\\likx_v2.manifest.json",
+  "columns": {
+    "id": {
+      "field_id": "fld6Ayr9AF",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 19
+      },
+      "example": "WL_G1_B4_GX_008"
+    },
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 14
+      },
+      "example": "rec284ABPmJIyq"
+    },
+    "修正后定义": {
+      "field_id": "fld300iPcM",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 99,
+        "max_length": 56
+      },
+      "example": "用总位移除以总时间计算平均速度。"
+    },
+    "修正后详解": {
+      "field_id": "fldCd1v3uZ",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 99,
+        "max_length": 214
+      },
+      "example": "条件概率刻画'已知一个信息后再推断'的概率。公式P(A|B)等于P(AB)除以P(B)，分母是已知条件B的概率，分子是两者同时发生的概率。求条件概率前先想清楚'条件'是谁；如果事件能拆，用公式，有时数古典概型里的样本点更快。"
+    },
+    "学科": {
+      "field_id": "fld5eLLizg",
+      "field_type": "select",
+      "physical_type": "array<string>",
+      "stats": {
+        "empty_count": 0,
+        "max_length": 1,
+        "avg_length": 1
+      },
+      "example": [
+        "物理"
+      ]
+    },
+    "定义原文": {
+      "field_id": "fld6ugvY1g",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 40
+      },
+      "example": "圆锥摆在水平面做匀速圆周运动。"
+    },
+    "知识点": {
+      "field_id": "fld2vnJIEv",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 13
+      },
+      "example": "磁通量Φ=BS"
+    },
+    "置信度": {
+      "field_id": "fld5U5LX81",
+      "field_type": "number",
+      "physical_type": "number|null",
+      "stats": {
+        "null_count": 0,
+        "min": 40,
+        "max": 80,
+        "avg": 72.81060606060606
+      },
+      "example": 40
+    },
+    "详解原文": {
+      "field_id": "fld781lg58",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 199
+      },
+      "example": "平均速度不是看你中间开得多快，而是把整段的总位移除以总时间。你把它理解成用总路程除以总时长得到的统一快慢，和瞬时速度完全不同。注意位移不是路程，方向变化来回走时平均速度可能很小甚至为零。"
+    },
+    "问题描述": {
+      "field_id": "fld3pIAmo2",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 129
+      },
+      "example": "explanation 含套话 是高考的常客（高考常客 属填充套话）"
+    },
+    "验收结果": {
+      "field_id": "fld1HXYZB6",
+      "field_type": "select",
+      "physical_type": "array<string>",
+      "stats": {
+        "empty_count": 0,
+        "max_length": 1,
+        "avg_length": 1
+      },
+      "example": [
+        "已修正"
+      ]
+    }
+  }
+}

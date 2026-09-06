@@ -1,0 +1,387 @@
+[
+ {
+  "record_id": "rec284ABPmJIXc",
+  "id": "WL_G1_B5_DCGY_020",
+  "问题描述": "example 含乱码（\"Anonym\"为未替换占位符）（解析中出现未处理的占位符文字）"
+ },
+ {
+  "record_id": "rec284ABPmJJgz",
+  "id": "WL_G1_B3_DNNL_006",
+  "问题描述": "example 计算错误：P出=UI-I²R=48×2-4×4=80W，解析误写为64W（电动机输出功率计算错误，应为80W而非64W）"
+ },
+ {
+  "record_id": "rec284ABPmJJxo",
+  "id": "WL_G1_B5_DCGY_003",
+  "问题描述": "example 解析知识性错误（30°角应取sin30°而非sin60°）（线圈与磁场成30°角，磁通量应为BScos60°=BSsin30°，解析写成BSsin60°）"
+ },
+ {
+  "record_id": "rec284ABPmJJFq",
+  "id": "HX_G1_B3_DN_009",
+  "问题描述": "example 解析有知识性错误：把被保护金属（船体）写成'负极'，又与括号里的'阴极'自相矛盾，牺牲阳极保护法中被保护金属应作正极（阴极）（牺牲阳极保护法中被保护金属作正极（阴极）、锌块作负极（阳极），解析把船体写成'负极'且与'阴极'矛盾，会误导学生。）"
+ },
+ {
+  "record_id": "rec284ABPmJKbS",
+  "id": "WL_G1_B5_APLL_013",
+  "问题描述": "typical_errors 公式错误（r=qvB/m 应为 mv/qB）；typical_errors 语句不通（\"洛化变形\"）（错误项本身把半径公式写反且含乱码）"
+ },
+ {
+  "record_id": "rec284ABPmJKsq",
+  "id": "WL_G1_B5_DCGY_002",
+  "问题描述": "example 题干不完整（解析引用\"选D\"但题干无选项）（题干未给出选项，解析却出现\"故选D\"，题干与解析不对应）"
+ },
+ {
+  "record_id": "rec284ABPmJLf3",
+  "id": "WL_G1_B4_JXB_001",
+  "问题描述": "typical_errors 语句不通顺（\"随何时运作波路径前进\"）（该错误项表述破碎，学生读不懂）"
+ },
+ {
+  "record_id": "rec284ABPmJLsu",
+  "id": "WL_G1_B5_APLL_002",
+  "问题描述": "typical_errors 语句不通（\"平行动画\"疑为\"平行\"）（错误项出现无意义词汇）"
+ },
+ {
+  "record_id": "rec284ABPmJLCt",
+  "id": "WL_G1_B5_APLL_017",
+  "问题描述": "typical_errors 语句不通（\"放射性边界\"应为\"圆形边界\"）（错误项出现与语境无关的词汇）"
+ },
+ {
+  "record_id": "rec284ABPmJLLw",
+  "id": "WL_G1_B4_GX_003",
+  "问题描述": "typical_errors 概念混乱（\"折射率正负方向\"不存在）（折射率是标量没有方向，该错误项本身概念不清，学生会被误导）"
+ },
+ {
+  "record_id": "rec284ABPmJLTB",
+  "id": "WL_G1_B4_JXB_018",
+  "问题描述": "example 题干有错别字（\"数列波\"应为\"一列波\"）；example 解析空泛（题干错字且解析没有给出具体求多解的过程）"
+ },
+ {
+  "record_id": "rec284ABPmJMai",
+  "id": "WL_G1_B3_JDCD_011",
+  "问题描述": "example 解析知识性错误：试探电荷受力为零处场强应为零（E=F/q），解析'不一定无电场'结论错误（例子解析对'受力为零处是否有电场'给出错误结论）"
+ },
+ {
+  "record_id": "rec284ABPmJNew",
+  "id": "WL_G1_B2_YZYD_009",
+  "问题描述": "example 解析知识性错误：'mω²r=mg'漏掉tanθ，仅在45°时数值巧合成立（圆锥摆向心力方程漏乘tanθ，属公式错误）"
+ },
+ {
+  "record_id": "rec284ABPmJOeJ",
+  "id": "WL_G1_B1_XHZL_001",
+  "问题描述": "example 解析含无意义表述'大气不存在施力物体'，题干'以下说法正确的是哪项'无选项、不完整（例子中'大气不存在施力物体'语义不通且题干缺选项）"
+ },
+ {
+  "record_id": "rec284ABPmJOrl",
+  "id": "WL_G1_B3_DNNL_004",
+  "问题描述": "example 解析表述误导：'电功UI全转化'易被误解为电功全部转化为内能（例子解析'全转化'表述与电功电热区别主题矛盾）"
+ },
+ {
+  "record_id": "rec284ABPmJP6S",
+  "id": "SW_G1_B1_JBJG_010",
+  "问题描述": "typical_errors 空泛：'不会在生理过程中综合调用'未指向具体错误动作（首条典型错误停留在答题能力层面，缺乏可纠正的具体知识点）"
+ },
+ {
+  "record_id": "rec284ABPmJQd5",
+  "id": "WL_G1_B6_FZDL_001",
+  "问题描述": "example 题干表述不清（选项A\"一天气变冷\"）（示例题干选项文字残缺，影响直接阅读）"
+ },
+ {
+  "record_id": "rec284ABPmJQJz",
+  "id": "SW_G1_B1_ZJXB_003",
+  "问题描述": "typical_errors 空泛：'审题时把意义题当成复述题'偏审题套话（典型错误未指向具体知识点错误，偏答题技巧）"
+ },
+ {
+  "record_id": "rec284ABPmJQZs",
+  "id": "WL_G1_B1_XHZL_016",
+  "问题描述": "example 题干不完整：'10N力沿竖直方向分解'缺角度条件，解析'看夹角求'空泛（例子题干缺条件、解析未给出具体求法）"
+ },
+ {
+  "record_id": "rec284ABPmJRnK",
+  "id": "SW_G1_B1_ZJXB_011",
+  "问题描述": "typical_errors 空泛：'只答概念不举实例'偏答题技巧套话（典型错误偏答题技巧而非具体知识错误）"
+ },
+ {
+  "record_id": "rec284ABPmJRMm",
+  "id": "HX_G1_B5_GFZ_005",
+  "问题描述": "example 与知识点不匹配：知识点为'合成橡胶的性质'，example 却考'天然橡胶的主要成分'（example 题干考天然橡胶（聚异戊二烯），偏离'合成橡胶'这一知识点主题，未直接考察合成橡胶的性质。）"
+ },
+ {
+  "record_id": "rec284ABPmJTBj",
+  "id": "WL_G1_B1_XHZL_007",
+  "问题描述": "typical_errors 表述不清：'拉压时劲度系数改变想当然认为前压后拉值不同'语焉不详（typical_errors 第三条'前压后拉'表意混乱）"
+ },
+ {
+  "record_id": "rec284ABPmJTRe",
+  "id": "WL_G1_B1_YDHL_001",
+  "问题描述": "typical_errors 表述含混：'把车子停下来的原因误判成没有推力而是摩擦力'把错误结论与正确结论混写（typical_errors 首条表意混乱，易误导学生）"
+ },
+ {
+  "record_id": "rec284ABPmJTZj",
+  "id": "WL_G1_B2_PTYD_014",
+  "问题描述": "name 有错别字：'平抛神度偏角'应为'平抛速度偏角'（知识点名称中'神度'为'速度'的错别字）"
+ },
+ {
+  "record_id": "rec284ABPmJUfm",
+  "id": "WL_G1_B2_YZYD_018",
+  "问题描述": "example 解析表述混乱：'由重心即先比较静摩擦系数'语义不通（例子解析中'由重心即先比较'表意不清）"
+ },
+ {
+  "record_id": "rec284ABPmJUTU",
+  "id": "WL_G1_B6_RX_003",
+  "问题描述": "typical_errors 用字不规范（\"Q與W\"混用繁体\"與\"）（典型错误项混入繁体字，应统一为\"与\"）"
+ },
+ {
+  "record_id": "rec284ABPmJV1D",
+  "id": "WL_G1_B6_RX_010",
+  "问题描述": "example 解析空泛（\"转化的动能与势能之和\"表述含糊）（自由落体示例解析未明确机械能守恒的对应关系）"
+ },
+ {
+  "record_id": "rec284ABPmJVy3",
+  "id": "WL_G1_B1_XHZL_002",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJVHY",
+  "id": "WL_G1_B1_XHZL_003",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJVZ8",
+  "id": "WL_G1_B1_XHZL_012",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJW7t",
+  "id": "WL_G1_B1_XHZL_018",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJWfh",
+  "id": "WL_G1_B1_XHZL_023",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJWns",
+  "id": "WL_G1_B1_YDMS_001",
+  "问题描述": "keywords 跑题：'参照系'与本条'质点'知识点无关（关键词中'参照系'偏离质点主题）"
+ },
+ {
+  "record_id": "rec284ABPmJWv9",
+  "id": "WL_G1_B2_PTYD_008",
+  "问题描述": "example 解析有错别字：'大手恒定'应为'大小恒定'（例子解析中'大手恒定'为错别字）"
+ },
+ {
+  "record_id": "rec284ABPmJWDd",
+  "id": "WL_G1_B2_WYYL_003",
+  "问题描述": "example 解析有错别字：'半长轴一方比T方'应为'半长轴三次方比T平方'（例子解析把'三次方'误写成'一方'）"
+ },
+ {
+  "record_id": "rec284ABPmJWKR",
+  "id": "WL_G1_B3_DCGS_003",
+  "问题描述": "example 题干有错别字：'求Φ钢'应为'求Φ'，多出'钢'字（例子题干中'Φ钢'含多余字符）"
+ },
+ {
+  "record_id": "rec284ABPmJWTr",
+  "id": "WL_G1_B3_DLJY_007",
+  "问题描述": "example 题干表述混乱：'元件中央是什么'语义不通（例子题干中'元件中央'疑似错别字）"
+ },
+ {
+  "record_id": "rec284ABPmJX1l",
+  "id": "WL_G1_B3_DNNL_002",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJX9U",
+  "id": "WL_G1_B3_DNNL_003",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJXhQ",
+  "id": "WL_G1_B3_DNNL_007",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJXru",
+  "id": "WL_G1_B3_DNNL_008",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJXAs",
+  "id": "WL_G1_B3_DNNL_009",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJXJm",
+  "id": "WL_G1_B3_DNNL_010",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJXSm",
+  "id": "WL_G1_B3_DNNL_011",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJY1f",
+  "id": "WL_G1_B3_DNNL_012",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJYaK",
+  "id": "WL_G1_B3_DNNL_013",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJYjy",
+  "id": "WL_G1_B3_DNNL_014",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJYsv",
+  "id": "WL_G1_B3_DNNL_015",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJYBu",
+  "id": "WL_G1_B3_DNNL_016",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJYJP",
+  "id": "WL_G1_B3_DNNL_017",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJYRQ",
+  "id": "WL_G1_B3_DNNL_019",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJYZK",
+  "id": "WL_G1_B3_DNNL_020",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJZge",
+  "id": "WL_G1_B3_DNNL_022",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJZqV",
+  "id": "WL_G1_B3_JCDN_013",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJZCD",
+  "id": "WL_G1_B3_JCDN_017",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmJZWp",
+  "id": "WL_G1_B4_DLSC_001",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmK0aj",
+  "id": "WL_G1_B4_DLSC_010",
+  "问题描述": "example 含'解析完毕'残留（example 末尾残留生成时的\"解析完毕\"字样，属未清理的生成痕迹。）"
+ },
+ {
+  "record_id": "rec284ABPmK0p0",
+  "id": "WL_G1_B5_CGQ_002",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK0Dj",
+  "id": "WL_G1_B5_CGQ_005",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK0R8",
+  "id": "WL_G1_B5_DCZD_001",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK15O",
+  "id": "WL_G1_B5_DCZD_002",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK1h8",
+  "id": "WL_G1_B5_DCZD_005",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK1zN",
+  "id": "WL_G1_B5_DCZD_006",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK1Om",
+  "id": "WL_G1_B5_DCZD_007",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK229",
+  "id": "WL_G1_B5_DCZD_008",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK2dW",
+  "id": "WL_G1_B5_DCZD_009",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK2pl",
+  "id": "WL_G1_B5_DCZD_011",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK2A4",
+  "id": "WL_G1_B5_DCZD_012",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK2LR",
+  "id": "WL_G1_B5_DCZD_013",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK31o",
+  "id": "WL_G1_B5_DCZD_014",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK3d0",
+  "id": "WL_G1_B5_DCZD_015",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK3l4",
+  "id": "WL_G1_B5_DCZD_016",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK3sZ",
+  "id": "WL_G1_B5_DCZD_017",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK3BR",
+  "id": "WL_G1_B5_DCZD_018",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK3JQ",
+  "id": "WL_G1_B5_DCZD_019",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK3RR",
+  "id": "WL_G1_B5_DCZD_020",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ },
+ {
+  "record_id": "rec284ABPmK3ZN",
+  "id": "WL_G1_B5_DCZD_021",
+  "问题描述": "example 含模板残留\"解析完毕\"（解析末尾遗留AI生成标记文字）"
+ }
+]

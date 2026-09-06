@@ -1,0 +1,146 @@
+[
+ {
+  "record_id": "rec284ABZx0teu",
+  "id": "YY_RJ_G1_B3_U3_002",
+  "verdict": "fixed",
+  "reason": "核实为真：详解中“判断 whether 该省 see 后宾语用动词原形”语法混杂表意不通，按上下文（感官动词后接不带to的不定式）改为“判断时注意 see 后的宾语补足语要用动词原形”，定义本身无误",
+  "修正后定义": "在 help、let、make 等动词后不定式省略 to 及重复动词的现象。",
+  "修正后详解": "你注意两种情况：sensory 动词和 make/let 后接宾语加不带 to 的不定式，如 make me laugh；在 I'd like to 这类结构中重复的不定式可省。判断时注意 see 后的宾语补足语要用动词原形。做题时看到感官动词或使役动词后要接动词原形，区别于普通不定式加 to。"
+ },
+ {
+  "record_id": "rec284ABZx0tCc",
+  "id": "YY_RJ_G1_B5_U4_002",
+  "verdict": "fixed",
+  "reason": "核实为真：定义中“哑等”为错字（应为“等场景”的“等”），已删除错字，详解无问题",
+  "修正后定义": "在 by、before 引导的句子或叙述前因后果等场景中使用过去完成时。",
+  "修正后详解": "你判断过去完成时就看有没有明确的时间关系：用 by 加过去时间、before 或 when 从句时，发生在先的动作用过去完成。如 By the time he arrived, the train had gone. 做题先把时间参照点圈出，凡是先发生、先完成的动作统一用过去完成，后发生的仍用过去式。"
+ },
+ {
+  "record_id": "rec284ABZx0u20",
+  "id": "YY_RJ_G1_B7_U1_011",
+  "verdict": "fixed",
+  "reason": "核实为真：详解末句“记词配没想”中“没想”为错字，按语义改为“记词配设想”，定义无误",
+  "修正后定义": "虚拟世界相关设想、乌托邦等多未来背景名词的选用。",
+  "修正后详解": "你谈未来设想用 virtual reality 虚拟现实、smart city 智慧城市、robot servant 机器人仆人、sustainable 可持续的。如 The story imagines a perfect future city. 阅读看到 smart city 就知道在讲未来设想。记词配设想，谈科幻世界观文章更顺。"
+ },
+ {
+  "record_id": "rec284ABZx0ufs",
+  "id": "YY_RJ_G1_B7_U1_012",
+  "verdict": "fixed",
+  "reason": "核实为真：定义“本应做而设做成的推定”中“设做成”为错字，应为“未做成”，与详解“实际没做的事”呼应，已修正",
+  "修正后定义": "用 should have done 等情态表本应做而未做成的推定。",
+  "修正后详解": "你表达本应该做而实际没做的事用 should have done，如 The robot should have stopped. 它与 should do 不同，强调过去未达成。判断语境属过去未办，用 should 加 have done。写作谈后悔或未果之事用此结构更准确。"
+ },
+ {
+  "record_id": "rec284ABZx0QNY",
+  "id": "YY_WY_G1_B1_U6_004",
+  "verdict": "fixed",
+  "reason": "核实为真：详解中文句里夹生英文“impact 巨大”表述不规范，改为“对现在影响巨大”，知识内容本身无误，定义照抄",
+  "修正后定义": "现在完成时重在影响与一般过去时重在过去事件的对比。",
+  "修正后详解": "你写含过去事件的句子要分清两种时态：现在完成时强调动作对现在的影响或延续，一般过去时只叙述过去发生的且与现在无关的事件。比如 I have seen the river 强调我见过了，对现在影响巨大；I saw it yesterday 只说明昨天见过。看句子是否与现在有关来选时态。"
+ },
+ {
+  "record_id": "rec284ABZx0o7d",
+  "id": "YY_WY_G1_B2_U2_007",
+  "verdict": "fixed",
+  "reason": "核实为真：decorations 为可数名词复数，与“不可数名词”主题矛盾，示例改为不可数名词搭配“a piece of news 表一条消息”，定义无误",
+  "修正后定义": "不可数名词在节日语境下依量词表达数量与程度的规则。",
+  "修正后详解": "你在节日话题常遇到不可数名词，如 news、information、rubbish 等，它们不能加 s，也不能用 a 直接限定，需要用量词或其他手段表达数量。比如 a piece of news 表一条消息。节日语境注意不可数名词与 a lot of、much 搭配。写庆祝活动清单时按名词可数性选择量词。"
+ },
+ {
+  "record_id": "rec284ABZx0zNK",
+  "id": "YY_WY_G1_B2_U6_005",
+  "verdict": "fixed",
+  "reason": "核实为真：定义“省略重复成分以增强表达程度”把省略替代用法与 so/such...that 程度用法混为一谈，与详解“I think so 省略具体内容”不符，定义改为“以避免赘述”，详解本身自洽保留",
+  "修正后定义": "用 so 或 such 省略重复成分以避免赘述的用法。",
+  "修正后详解": "你为避免重复已出现的内容时 so 与 such 也有体现：如 I think so 表示我也这么认为，省略了具体内容。这类省略让对话简洁自然。写作时用 so 去省略已明确的内容，不赘述又表达清楚。不过省略要建立在上下文清晰的前提下再进行。"
+ },
+ {
+  "record_id": "rec284ABZx0Aph",
+  "id": "YY_WY_G1_B3_U2_002",
+  "verdict": "fixed",
+  "reason": "核实为真：“它与 from 从句的 had done 呼应”连接词写错，虚拟条件从句应用 if 引导，已改为“if 从句”，其余内容准确",
+  "修正后定义": "与过去事实相反虚拟句主句用 would have 加过去分词。",
+  "修正后详解": "与过去相反的虚拟句主句结果用 would have、could have 或 might have 加过去分词。比如 If I had gone, I could have met you 中 could have met 表本可能见到你。它与 if 从句的 had done 呼应。你只需注意主句保留 have 及分词形式，虚拟语气即完整成立。"
+ },
+ {
+  "record_id": "rec284ABZx0R0A",
+  "id": "YY_WY_G1_B3_U2_004",
+  "verdict": "fixed",
+  "reason": "核实为真：详解结尾“再选择对应的时态组合，三类别混淆”句子残缺不通，补全为“避免三类混淆”，其余规则表述准确",
+  "修正后定义": "现在未来过去三类虚拟条件句的时态搭配对比。",
+  "修正后详解": "你掌握虚拟条件句要区分类型：与现在相反用过去时加 would 原形，与未来相反可用 were to 或 should，与过去相反用 had done 加 would have done。你做题时先判断假设针对哪一时段，再选择对应的时态组合，避免三类混淆。分类清晰后虚拟题就不难解。"
+ },
+ {
+  "record_id": "rec284ABZx0CT7",
+  "id": "YY_WY_G1_B3_U3_009",
+  "verdict": "fixed",
+  "reason": "核实为真：“deventh a lot to 结构”为乱码错词，应为“devote a lot to”，同时将该句内“makeadifference”补回空格便于识读，定义无误",
+  "修正后定义": "描述科学家探索精神、研究态度与成果意义的关键形容词和动词。",
+  "修正后详解": "介绍科学家时常用brilliant杰出的、devoted献身的、curious好奇的、persistent坚持的这类形容词，搭配make a difference产生影响、contribute对什么做贡献等词组。表达成果时用achievement成就、pioneer开辟。你积累这些词后，既能读懂人物传记，也能在写作里用devote a lot to结构描述贡献。"
+ },
+ {
+  "record_id": "rec284ABZx0Ffi",
+  "id": "YY_WY_G1_B3_U3_011",
+  "verdict": "fixed",
+  "reason": "核实为真：“可bedone作定语name或状语”中“name”为乱码致语句不通，已删并理顺；例句“The house is to being reviewed”本身英语错误，改为“is being reviewed”，定义无误",
+  "修正后定义": "现在分词being加过去分词或不定式被动，表达被动进行的结构。",
+  "修正后详解": "当被动还伴随进行或做成分功能时，你要用非谓语的被动形式。正在进行用being加过去分词，如The house is being reviewed；表将来或目的用to be published这类不定式被动。此外还可用过去分词done作定语或状语，强调整体的被动。你区分主动非谓语与被动的形态差异，清晰度至关重要。"
+ },
+ {
+  "record_id": "rec284ABZx0oWb",
+  "id": "YY_WY_G1_B3_U4_003",
+  "verdict": "fixed",
+  "reason": "核实为真：详解先称 there be 是“部分倒装”又称“完全倒装”自相矛盾；there be 结构谓语完全置于主语前属完全倒装（与定义一致），删去错误的前半句，其余保留",
+  "修正后定义": "以there加be引导、谓语动词置于主语之前的完全倒装结构。",
+  "修正后详解": "there be句是最典型的完全倒装，谓语be置于主语之前，如there is a painting。there是引导词不译，真正主语是后面的名词。主语复数时be也要用复数，如there are paintings。你注意主谓一致和there的位置，这类题基本不会出错。"
+ },
+ {
+  "record_id": "rec284ABZx0n0z",
+  "id": "YY_WY_G1_B3_U5_006",
+  "verdict": "fixed",
+  "reason": "核实为真：generally speaking 是现在分词短语，与“过去分词独立成分”主题矛盾，示例列表删去该词；定义中“一般说来从句”同样指向该错误且语句不通，一并修正为已固定化过去分词短语",
+  "修正后定义": "compared with、given that等已固定化过去分词短语作独立解释性成分的惯用法。",
+  "修正后详解": "有些过去分词短语已成为固定独立成分，不能机械套主语规则，如compared with、given that等。你记这类时先当成整体搭配记牢，尤其compared with表比较、given that表考虑到。做题时若遇到这些固定语块形的分词，优先按固定含义处理而不是死抠被动。"
+ },
+ {
+  "record_id": "rec284ABZx0qPk",
+  "id": "YY_WY_G1_B3_U6_006",
+  "verdict": "pass",
+  "reason": "指控指向 example 字段（Arriving 与 Having arrived 的矛盾），不在本表修正范围；definition 与 explanation 本身关于 doing/having done 先后关系的规则表述准确无误",
+  "修正后定义": "",
+  "修正后详解": ""
+ },
+ {
+  "record_id": "rec284ABZx0Dhu",
+  "id": "YY_WY_G1_B5_U2_002",
+  "verdict": "fixed",
+  "reason": "核实为真：“although在多数名词性从句中不能替代whether”用词错误，能替代 whether 讨论的应是 if，已改为“if 在多数名词性从句中不能替代 whether，只有宾语从句中才可用 if”，定义无误",
+  "修正后定义": "同位语从句表达是否时用whether引导而不用if的用法。",
+  "修正后详解": "同位语从句中表示是否用whether引导，不用if，如the question whether he will come。if在多数名词性从句中不能替代whether，只有宾语从句中才可用if。你看到中心名词性的同位语从句表达是否，直接用whether最保险，不引入if歧义。"
+ },
+ {
+  "record_id": "rec284ABZx0FTi",
+  "id": "YY_WY_G1_B6_U2_008",
+  "verdict": "fixed",
+  "reason": "核实为真：“最后记住 n 形容词 dedicated 敬业的心”中“n 形容词”为乱码、“敬业的心”不通，改为“形容词 dedicated 敬业的”，定义无误",
+  "修正后定义": "涵盖工匠技艺与职业敬业的主题词汇。",
+  "修正后详解": "本单元谈匠心与职业，这些词汇你要成套掌握。先记 craft 手艺、artisan 工匠、occupation 职业这类名词，再补充 devote 投入、master 掌握等动词，最后记住形容词 dedicated 敬业的。读工匠人物传记或职业介绍时，先抓这些关键词，再把握人物的敬业精神，文章脉络就清晰了。"
+ },
+ {
+  "record_id": "rec284ABZx0AOe",
+  "id": "YY_WY_G1_B6_U5_001",
+  "verdict": "fixed",
+  "reason": "核实为真：开头“主语从句就是主语从句”属自指无信息量残缺句（同义反复），非一般风格套话，改为有信息量的表述“主语从句就是整个从句充当句子的主语”，其余内容准确",
+  "修正后定义": "从句在句中作主语时，整个从句充当主语成分。",
+  "修正后详解": "主语从句就是整个从句充当句子的主语。它作主语时，句首可以是 what、that、whether 引导的连接词。比如 That he will come is clear，that 引导整个主语从句。你判断时问主句的谓语动词到底是谁发出的，如果这个发出来的是整个从句，那就是主语从句。识别出来了，改错填空就有方向。"
+ },
+ {
+  "record_id": "rec284ABZx0B0U",
+  "id": "YY_WY_G1_B6_U6_009",
+  "verdict": "fixed",
+  "reason": "核实为真：详解“比如 This pen is hers，还有一个具体情况，常见于比较句中”语句不通（“还有一个具体情况”悬空），已理顺并补比较句示例；定义“名词后的所有格常省略修饰相同的名词”语序混乱一并理顺；typical_errors 问题不在本表范围",
+  "修正后定义": "名词所有格后与前文相同的名词常可省略。",
+  "修正后详解": "当两个并列成分的物主对象相同时，后一个所有格的名词可以省略。比如 This pen is hers，hers 后就省略了 pen；这种省略还常见于比较句中，如 Her bag is bigger than his。你看到这样的省略语部分，可以自动补全被省略的名词来理解。正确还原省略内容，阅读比较句和并列句时更准确。"
+ }
+]

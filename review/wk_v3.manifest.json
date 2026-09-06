@@ -1,0 +1,138 @@
+{
+  "manifest_version": "v1",
+  "format": "ndjson",
+  "base_token": "ISRobWKHLaKWanst17RcdIwgnDc",
+  "table_id": "tbl2sEBEa1XY4OU0",
+  "rev": 100,
+  "timezone": "Asia/Shanghai",
+  "query_context": {
+    "field_scope": "all_fields",
+    "record_scope": "all_records"
+  },
+  "requested_limit": 2000,
+  "records_count": 180,
+  "page_count": 1,
+  "has_more": false,
+  "record_file": "D:\\Projects\\knowledge base\\review\\wk_v3.ndjson",
+  "record_file_size_bytes": 186726,
+  "manifest_file": "D:\\Projects\\knowledge base\\review\\wk_v3.manifest.json",
+  "columns": {
+    "id": {
+      "field_id": "fld60X7HQq",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 20
+      },
+      "example": "ZZ_G1_B3_MZ_004"
+    },
+    "record_id": {
+      "physical_type": "string",
+      "stats": {
+        "max_length": 14
+      },
+      "example": "rec284ABZx0lhd"
+    },
+    "修正后定义": {
+      "field_id": "fld2DeuVmp",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 135,
+        "max_length": 48
+      },
+      "example": "掌握用于比较与并列关系的常见表达。"
+    },
+    "修正后详解": {
+      "field_id": "fldHK1yHsm",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 134,
+        "max_length": 232
+      },
+      "example": "你表达本应该做而实际没做的事用 should have done，如 The robot should have stopped. 它与 should do 不同，强调过去未达成。判断语境属过去未办，用 should 加 have done。写作谈后悔或未",
+      "example_truncated": true
+    },
+    "学科": {
+      "field_id": "fld5Z8d7mL",
+      "field_type": "select",
+      "physical_type": "array<string>",
+      "stats": {
+        "empty_count": 0,
+        "max_length": 1,
+        "avg_length": 1
+      },
+      "example": [
+        "政治"
+      ]
+    },
+    "定义原文": {
+      "field_id": "fld1ygPDIw",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 39
+      },
+      "example": "表达神秘未知氛围的词汇。"
+    },
+    "知识点": {
+      "field_id": "fld3ypGGzx",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 15
+      },
+      "example": "王安石变法"
+    },
+    "置信度": {
+      "field_id": "fld2bebUqa",
+      "field_type": "number",
+      "physical_type": "number|null",
+      "stats": {
+        "null_count": 0,
+        "min": 35,
+        "max": 80,
+        "avg": 72.47222222222223
+      },
+      "example": 35
+    },
+    "详解原文": {
+      "field_id": "fld2bEPpRT",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 198
+      },
+      "example": "你谈朗诵用 recite 背诵朗诵、recital 朗诵会、perform 表演、deliver a poem 诵读诗歌。如 She recited the poem beautifully. 写作介绍朗诵会先用 recite 讲动作，再配效果。判断对象词",
+      "example_truncated": true
+    },
+    "问题描述": {
+      "field_id": "fld3WZr6AO",
+      "field_type": "text",
+      "physical_type": "string|null",
+      "stats": {
+        "null_count": 0,
+        "max_length": 172
+      },
+      "example": "explanation 结尾“三类别混淆”表述残缺不通（explanation 语句不通）"
+    },
+    "验收结果": {
+      "field_id": "fld1IBoy6n",
+      "field_type": "select",
+      "physical_type": "array<string>",
+      "stats": {
+        "empty_count": 0,
+        "max_length": 1,
+        "avg_length": 1
+      },
+      "example": [
+        "已修正"
+      ]
+    }
+  }
+}
