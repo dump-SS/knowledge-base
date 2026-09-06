@@ -161,7 +161,7 @@
       "typical_errors": [
         "air pollution 与 water pollution 对象混淆",
         "plastic waste 与 plastic 词形搭配失误",
-        "garbage 与 垃圾对应词拼写错误"
+        "garbage拼写错误"
       ],
       "example": "[仿题]The ______ (air/water) pollution harms our health.\n解析：填 air，空气污染，二者选一类污染。",
       "keywords": [
@@ -205,9 +205,9 @@
       "difficulty": 1,
       "frequency": 3,
       "typical_errors": [
-        "solar 与 solar 形容词位置搭配错",
+        "solar 形容词位置搭配错",
         "renewable 拼写漏字母",
-        "wind power 与 power 用法混淆"
+        "不同类型power 用法混淆"
       ],
       "example": "[仿题]Solar ______ (energy/energize) is clean.\n解析：填 energy，太阳能，solar energy 搭配。",
       "keywords": [

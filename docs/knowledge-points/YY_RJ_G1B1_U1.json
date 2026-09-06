@@ -79,7 +79,7 @@
       "typical_errors": [
         "把活动类与感受类词混用，逻辑上说不通",
         "拼写漏字母，把 volunteer 写成 volnteer",
-        "分不清 challenge 与 challenge 相关的动词搭配",
+        "分不清与 challenge 相关的动词搭配",
         "lonely 与 alone 混用，忽视其情感差异"
       ],
       "example": "[仿题]Volunteering as a teacher for children gives me a sense of ______.\n解析：填 satisfaction，满足感，与前文志愿经历呼应。",
@@ -95,7 +95,6 @@
       "difficulty": 2,
       "frequency": 4,
       "typical_errors": [
-        "把频率副词放在句首大过课时位置，混淆语序",
         "在 be 动词前放频率副词，写成 He often is happy",
         "行为动词已有时态变化仍加频率副词位置出错"
       ],

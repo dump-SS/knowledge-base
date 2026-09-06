@@ -128,7 +128,7 @@
       "id": "YY_RJ_G1_B1_U4_006",
       "name": "非限制性定语从句特征",
       "definition": "掌握用逗号隔开、补充说明先行词且不能用 that 的非限制性从句。",
-      "explanation": "非限制性定语从句用逗号与主句隔开，只做补充说明，去掉也不影响句意，比如 The typhoon，which hit the coast，caused great damage。它的关键特征是关系代词不能用 that，指人也通常不用 who 用 whom。你要根据是否加逗号判断句式，同时记住 which 在这里可指代整个句子，比如小明迟到了，这让大家很担心用 which。",
+      "explanation": "非限制性定语从句用逗号与主句隔开，只做补充说明，去掉也不影响句意，比如 The typhoon，which hit the coast，caused great damage。它的关键特征是关系代词不能用 that，指人时作主语用 who、作宾语用 whom。你要根据是否加逗号判断句式，同时记住 which 在这里可指代整个句子，比如 Xiao Ming was late again, which made us worried（小明迟到了，这让大家很担心）。",
       "difficulty": 4,
       "frequency": 3,
       "typical_errors": [
@@ -206,7 +206,7 @@
       "difficulty": 2,
       "frequency": 3,
       "typical_errors": [
-        "把 typhoon 台风误写成太简单或漏字母",
+        "把 typhoon 台风误写",
         "混用 flood 洪水与 drought 干旱两个相反词",
         "描述灾害爆发误用其他动词代替 break out"
       ],

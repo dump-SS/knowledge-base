@@ -96,7 +96,7 @@
     {
       "id": "YY_WY_G1_B2_U6_005",
       "name": "so 与 such 的省略用法",
-      "definition": "用 so 或 such 省略重复成分以增强表达程度的用法。",
+      "definition": "用 so 或 such 省略重复成分以避免赘述的用法。",
       "explanation": "你为避免重复已出现的内容时 so 与 such 也有体现：如 I think so 表示我也这么认为，省略了具体内容。这类省略让对话简洁自然。写作时用 so 去省略已明确的内容，不赘述又表达清楚。不过省略要建立在上下文清晰的前提下再进行。",
       "difficulty": 3,
       "frequency": 2,
@@ -170,7 +170,7 @@
       "frequency": 3,
       "typical_errors": [
         "强确定的推测误用 may 而未用 must 表更肯定",
-        "否定推测误用 mustn't 而用 should 表许可意混淆",
+        "否定推测误用 mustn't",
         "推测句中误接动词原形后的过去分词结构错乱"
       ],
       "example": "[仿题]污染或许是严重的。\n解析：The problem may be serious，may 表不确定推测。",

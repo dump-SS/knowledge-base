@@ -263,7 +263,7 @@
         "没有先识别先行词就乱用关系词连接",
         "主句与从句之间缺标点让句子衔接不清晰"
       ],
-      "example": "[仿题]生活中国的熊猫很可爱。\n解析：The panda, which lives in China, is lovely，从句紧随主句。",
+      "example": "[仿题]生活在中国的熊猫很可爱。\n解析：The panda, which lives in China, is lovely，从句紧随主句。",
       "keywords": [
         "主句",
         "定语从句",

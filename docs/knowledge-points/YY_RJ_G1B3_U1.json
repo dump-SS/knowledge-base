@@ -5,7 +5,7 @@
       "id": "YY_RJ_G1_B3_U1_001",
       "name": "现在分词作定语表主动进行",
       "definition": "现在分词置于名词前或后作定语，表示主动或正在进行的动作。",
-      "explanation": "你看到 -ing 形式作定语时，要判断它与被修饰名词的关系。the rising sun 表示太阳自行升起，是主动关系；the sounds of people laughing 用 behind 位置表示当时正在进行的动作。区别在主动还是被动、进行还是完成。做选择题先看被修饰词能不能自己发出这个动作，能则用 -ing，这是作定语的核心判断依据。",
+      "explanation": "你看到 -ing 形式作定语时，要判断它与被修饰名词的关系。the rising sun 表示太阳自行升起，是主动关系；the sounds of people laughing 用后置位置表示当时正在进行的动作。区别在主动还是被动、进行还是完成。做选择题先看被修饰词能不能自己发出这个动作，能则用 -ing，这是作定语的核心判断依据。",
       "difficulty": 3,
       "frequency": 4,
       "typical_errors": [
@@ -56,7 +56,7 @@
       "id": "YY_RJ_G1_B3_U1_004",
       "name": "-ing 与 -ed 定语选择",
       "definition": "根据主被动关系，选择 -ing 或 -ed 形式作名词定语。",
-      "explanation": "你判断用 -ing 还是 -ed 时，先找被修饰名词与动词的主被动。名词主动发出动作用 -ing，如 the exciting game；名词被该动作作用用 -ed，如 the excited spectators。man-made 表程度深常加 very。记住口诀：主动进行找 -ing，被动完成找 -ed，名词被动关系越明显越用 -ed。",
+      "explanation": "你判断用 -ing 还是 -ed 时，先找被修饰名词与动词的主被动。名词主动发出动作用 -ing，如 the exciting game；名词被该动作作用用 -ed，如 the excited spectators。man-made 意为'人造的'，被修饰名词是被制造出来的，所以用 -ed 形式。记住口诀：主动进行找 -ing，被动完成找 -ed，名词被动关系越明显越用 -ed。",
       "difficulty": 4,
       "frequency": 4,
       "typical_errors": [
@@ -223,7 +223,7 @@
         "整段只用一个形式忽视主动被动区别",
         "把握不清被修饰对象导致宾语位置放错",
         "在一个句子里生硬堆多个非谓语致语意混乱",
-        "distinguish 非谓语与谓语时丢时态"
+        "混淆非谓语与谓语"
       ],
       "example": "[仿题]The hall, ______ (decorate) with lanterns, looked bright.\n解析：填 decorated，大厅被装饰，用 -ed。",
       "keywords": ["非谓语", "主题语境", "现在分词", "过去分词", "综合运用"],

@@ -107,7 +107,7 @@
       "difficulty": 1,
       "frequency": 3,
       "typical_errors": [
-        "ingredient 与材料 ingredient 拼写漏字母",
+        "材料 ingredient 拼写漏字母",
         "staple food 与 main dish 概念混淆",
         "食材名词单复数误用，可数性判断错误"
       ],

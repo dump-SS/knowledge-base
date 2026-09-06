@@ -27,7 +27,7 @@
       "id": "YY_WY_G1_B3_U2_002",
       "name": "过去虚拟主句结构",
       "definition": "与过去事实相反虚拟句主句用 would have 加过去分词。",
-      "explanation": "与过去相反的虚拟句主句结果用 would have、could have 或 might have 加过去分词。比如 If I had gone, I could have met you 中 could have met 表本可能见到你。它与 from 从句的 had done 呼应。你只需注意主句保留 have 及分词形式，虚拟语气即完整成立。",
+      "explanation": "与过去相反的虚拟句主句结果用 would have、could have 或 might have 加过去分词。比如 If I had gone, I could have met you 中 could have met 表本可能见到你。它与 if 从句的 had done 呼应。你只需注意主句保留 have 及分词形式，虚拟语气即完整成立。",
       "difficulty": 5,
       "frequency": 4,
       "typical_errors": [
@@ -59,7 +59,7 @@
         "反思句子主语被动时丢了 been 造成被动残缺",
         "假设反思与事实陈述交替时结构混淆"
       ],
-      "example": "[仿题]若早点行动损失会小些。\n解析：If we had acted earlier, damage would be smaller，表委婉反思。",
+      "example": "[仿题]若早点行动损失会小些。\n解析：If we had acted earlier, damage would have been smaller，表委婉反思。",
       "keywords": [
         "虚拟",
         "反思",
@@ -75,7 +75,7 @@
       "id": "YY_WY_G1_B3_U2_004",
       "name": "三种类型虚拟条件句对比",
       "definition": "现在未来过去三类虚拟条件句的时态搭配对比。",
-      "explanation": "你掌握虚拟条件句要区分类型：与现在相反用过去时加 would 原形，与未来相反可用 were to 或 should，与过去相反用 had done 加 would have done。你做题时先判断假设针对哪一时段，再选择对应的时态组合，三类别混淆。分类清晰后虚拟题就不难解。",
+      "explanation": "你掌握虚拟条件句要区分类型：与现在相反用过去时加 would 原形，与未来相反可用 were to 或 should，与过去相反用 had done 加 would have done。你做题时先判断假设针对哪一时段，再选择对应的时态组合，避免三类混淆。分类清晰后虚拟题就不难解。",
       "difficulty": 5,
       "frequency": 4,
       "typical_errors": [

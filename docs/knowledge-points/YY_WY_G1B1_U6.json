@@ -73,7 +73,7 @@
       "id": "YY_WY_G1_B1_U6_004",
       "name": "现在完成时与过去时比较",
       "definition": "现在完成时重在影响与一般过去时重在过去事件的对比。",
-      "explanation": "你写含过去事件的句子要分清两种时态：现在完成时强调动作对现在的影响或延续，一般过去时只叙述过去发生的且与现在无关的事件。比如 I have seen the river 强调我见过了，impact 巨大；I saw it yesterday 只说明昨天见过。看句子是否与现在有关来选时态。",
+      "explanation": "你写含过去事件的句子要分清两种时态：现在完成时强调动作对现在的影响或延续，一般过去时只叙述过去发生的且与现在无关的事件。比如 I have seen the river 强调我见过了，对现在影响巨大；I saw it yesterday 只说明昨天见过。看句子是否与现在有关来选时态。",
       "difficulty": 3,
       "frequency": 4,
       "typical_errors": [
@@ -126,7 +126,7 @@
       "frequency": 4,
       "typical_errors": [
         "不规则动词 see 误按其过去式 seen 重复加 ed",
-        "规则过去分词直接套用不规则形式导致可错行",
+        "规则过去分词直接套用不规则形式",
         "现在完成时漏写 have 单独保留过去分词短语"
       ],
       "example": "[仿题]他们已经离开了。\n解析：They have left，不规则 left 作过去分词。",
@@ -194,7 +194,6 @@
       "frequency": 4,
       "typical_errors": [
         "保护环境误把 protect the environment 的 the 省略掉",
-        "减少污染表达时误用 reduce 与 pollution 搭配错误",
         "倡议中把动词短语句式误用成无主语表达"
       ],
       "example": "[仿题]我们应多种树。\n解析：We should plant more trees，plant trees 表植树。",

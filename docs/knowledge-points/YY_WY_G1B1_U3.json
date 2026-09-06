@@ -130,7 +130,7 @@
       "difficulty": 2,
       "frequency": 4,
       "typical_errors": [
-        "表达和谐误把 harmony 与 harmony 的形容词形式混用",
+        "表达和谐误把 harmony 与 harmonious的形容词形式混用",
         "表示亲戚误拼 relative 为 relatetive 类似错误",
         "表达尊重 respect 时误忘记其动词与名词词性区别"
       ],
@@ -175,7 +175,7 @@
       "frequency": 3,
       "typical_errors": [
         "the elderly 表老人泛指时误加复数 s",
-        "表达晚辈时误把 teenager 与 kid 忽义等同",
+        "表达晚辈时误把 teenager 与 kid 等同",
         "尊重长辈表达时漏写 respect 后的宾语"
       ],
       "example": "[仿题]我们当尊重长辈。\n解析：We should respect the elders，用 respect 接宾语。",

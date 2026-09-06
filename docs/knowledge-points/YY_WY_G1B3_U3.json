@@ -92,9 +92,7 @@
         "不定式还原",
         "被动语态"
       ],
-      "prerequisites": [
-        "YY_WY_G1_B3_U4_001"
-      ],
+      "prerequisites": [],
       "source_version": "外研版2019"
     },
     {
@@ -196,7 +194,7 @@
       "id": "YY_WY_G1_B3_U3_009",
       "name": "科学家品质与贡献词汇",
       "definition": "描述科学家探索精神、研究态度与成果意义的关键形容词和动词。",
-      "explanation": "介绍科学家时常用brilliant杰出的、devoted献身的、curious好奇的、persistent坚持的这类形容词，搭配makeadifference产生影响、contribute对什么做贡献等词组。表达成果时用achievement成就、pioneer开辟。你积累这些词后，既能读懂人物传记，也能在写作里用deventh a lot to结构描述贡献。",
+      "explanation": "介绍科学家时常用brilliant杰出的、devoted献身的、curious好奇的、persistent坚持的这类形容词，搭配make a difference产生影响、contribute对什么做贡献等词组。表达成果时用achievement成就、pioneer开辟。你积累这些词后，既能读懂人物传记，也能在写作里用devote a lot to结构描述贡献。",
       "difficulty": 2,
       "frequency": 3,
       "typical_errors": [
@@ -243,7 +241,7 @@
       "id": "YY_WY_G1_B3_U3_011",
       "name": "非谓语与被动语态结合",
       "definition": "现在分词being加过去分词或不定式被动，表达被动进行的结构。",
-      "explanation": "当被动还伴随进行或做成分功能时，你要用非谓语的被动形式。正在进行用being加过去分词，如Thehouseistobeingreviewed；表将来或目的用tobepublished这类不定式被动。此外还可用bedone作定语name或状语强调整体的被动。你区分主动非谓语与被动的形态差异，清晰度至关重要。",
+      "explanation": "当被动还伴随进行或做成分功能时，你要用非谓语的被动形式。正在进行用being加过去分词，如The house is being reviewed；表将来或目的用to be published这类不定式被动。此外还可用过去分词done作定语或状语，强调整体的被动。你区分主动非谓语与被动的形态差异，清晰度至关重要。",
       "difficulty": 5,
       "frequency": 3,
       "typical_errors": [

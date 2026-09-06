@@ -178,7 +178,7 @@
       "difficulty": 2,
       "frequency": 3,
       "typical_errors": [
-        "habitat 与 habitat 单复数混淆",
+        "habitat 可数与不可数场景混淆（表具体栖息地可数，表生存环境统称不可数）",
         "reserve 与 preserve 形近词混用",
         "把 habitat 误当可数加 s 的错误"
       ],
@@ -270,7 +270,7 @@
       "difficulty": 2,
       "frequency": 3,
       "typical_errors": [
-        "recover 与 survive 厚度混淆",
+        "recover 与 survive 程度混淆",
         "flourish 拼写漏字母",
         "描述成效时选错了恢复程度的词"
       ],

@@ -11,7 +11,7 @@
       "typical_errors": [
         "把定语从句误当成名词性从句理解",
         "状语从句与宾语从句的功能混淆",
-        "多从句并存时快速跳跃导致目不接"
+        "多从句并存使用不当"
       ],
       "example": "[仿题]分类：He knows that the man who came is kind.\n解析：that 宾语从句内有 who 定语从句。",
       "keywords": [
@@ -262,7 +262,7 @@
       "difficulty": 2,
       "frequency": 2,
       "typical_errors": [
-        "curiosity 与 curiosity 拼写混淆",
+        "curiosity 拼写错误",
         "mysterious 与 mystery 词性混用",
         "explore the unknown 短语搭配漏词",
         "营造悬念时词汇使用不当"

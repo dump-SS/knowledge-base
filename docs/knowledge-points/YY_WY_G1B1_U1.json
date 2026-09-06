@@ -127,7 +127,6 @@
       "frequency": 3,
       "typical_errors": [
         "需表达挑战含义时误把名词 challenge 当成动词变形来用",
-        "介绍校园时把 campus 误拼成 campus 类似的错误拼写",
         "表达自信误把 confident 与名词 confidence 的拼写混淆"
       ],
       "example": "[仿题]校园里有很多同学。\n解析：There are many classmates on campus，用 classmate 表示同学。",
@@ -260,7 +259,7 @@
       "typical_errors": [
         "把 usually 与 often 的频率高低误判颠倒",
         "频度副词误放到句尾造成语序不当",
-        "倍语 always 与 never 的否定含义区分不清"
+        "背语 always 与 never 的否定含义区分不清"
       ],
       "example": "[仿题]你上学总是准时。\n解析：You are always on time，频度副词放 be 动词之后。",
       "keywords": [

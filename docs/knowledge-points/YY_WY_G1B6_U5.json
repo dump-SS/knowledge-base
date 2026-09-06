@@ -5,7 +5,7 @@
       "id": "YY_WY_G1_B6_U5_001",
       "name": "主语从句的结构与判断",
       "definition": "从句在句中作主语时，整个从句充当主语成分。",
-      "explanation": "主语从句就是主语从句。它作主语时，句首可以是 what、that、whether 引导的连接词。比如 That he will come is clear，that 引导整个主语从句。你判断时问主句的谓语动词到底是谁发出的，如果这个发出来的是整个从句，那就是主语从句。识别出来了，改错填空就有方向。",
+      "explanation": "主语从句就是整个从句充当句子的主语。它作主语时，句首可以是 what、that、whether 引导的连接词。比如 That he will come is clear，that 引导整个主语从句。你判断时问主句的谓语动词到底是谁发出的，如果这个发出来的是整个从句，那就是主语从句。识别出来了，改错填空就有方向。",
       "difficulty": 3,
       "frequency": 4,
       "typical_errors": [
@@ -187,7 +187,7 @@
       "difficulty": 2,
       "frequency": 3,
       "typical_errors": [
-        "把 imitate 与 inspire 混淆含义相反",
+        "把 imitate 与 inspire 混淆含义",
         "biomimicry 的拼写记忆错误",
         "把 wisdom 与 wise 词性混用",
         "learn from 后漏掉宾语造成残缺"

@@ -51,7 +51,7 @@
       "id": "YY_WY_G1_B3_U4_003",
       "name": "there be完全倒装句型",
       "definition": "以there加be引导、谓语动词置于主语之前的完全倒装结构。",
-      "explanation": "there be句是最典型的部分倒装，其实它是完全倒装的一种，谓语be置于主语之前，如there is a painting。there是引导词不译，真正主语是后面的名词。主语复数时be也要用复数，如there are paintings。你注意主谓一致和there的位置，这类题基本不会出错。",
+      "explanation": "there be句是最典型的完全倒装，谓语be置于主语之前，如there is a painting。there是引导词不译，真正主语是后面的名词。主语复数时be也要用复数，如there are paintings。你注意主谓一致和there的位置，这类题基本不会出错。",
       "difficulty": 3,
       "frequency": 4,
       "typical_errors": [
@@ -243,7 +243,7 @@
       "difficulty": 3,
       "frequency": 4,
       "typical_errors": [
-        "把in my view误写成in my opinion混搭使用",
+        "把in my opinion误写成in my view混搭使用",
         "I think后直接加because造成句子冗余",
         "把to me位置放错，干扰句子主干"
       ],

@@ -137,7 +137,7 @@
         "两并列部分结构不同时仍强行省略",
         "省略后语义不清仍需还原正确部分"
       ],
-      "example": "[仿题]She sings well and I (do) too.\n解析：后半省略 plays 之类的重复部分。",
+      "example": "[仿题]She sings well and I (do) too.\n解析：后半省略 sing/do 之类的重复部分。",
       "keywords": [
         "并列句",
         "省略",
@@ -202,8 +202,8 @@
     {
       "id": "YY_WY_G1_B6_U6_009",
       "name": "所有格的省略与用法",
-      "definition": "名词后的所有格常省略修饰相同的名词。",
-      "explanation": "当两个并列成分的物主对象相同时，后一个所有格的名词可以省略。比如 This pen is hers，还有一个具体情况，常见于比较句中。你看到这样的省略语部分，可以自动补全被省略的名词来理解。正确还原省略内容，阅读比较句和并列句时更准确。",
+      "definition": "名词所有格后与前文相同的名词常可省略。",
+      "explanation": "当两个并列成分的物主对象相同时，后一个所有格的名词可以省略。比如 This pen is hers，hers 后就省略了 pen；这种省略还常见于比较句中，如 Her bag is bigger than his。你看到这样的省略语部分，可以自动补全被省略的名词来理解。正确还原省略内容，阅读比较句和并列句时更准确。",
       "difficulty": 3,
       "frequency": 2,
       "typical_errors": [

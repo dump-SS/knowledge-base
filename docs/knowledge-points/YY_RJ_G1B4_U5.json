@@ -81,7 +81,7 @@
       "difficulty": 2,
       "frequency": 4,
       "typical_errors": [
-        "crop 与 crop 单复数的使用错误",
+        "crop 单复数的使用错误",
         "yield 与 harvest 含义混淆",
         "fertile 与 fertilizer 词类混用",
         "irrigate 的拼写漏字母"

@@ -127,8 +127,8 @@
       "difficulty": 2,
       "frequency": 4,
       "typical_errors": [
-        "目的地 destination 误拼成 destiantion 字母错位",
-        "游客 tourist 误把 tour 与旅游 tour 混淆词性",
+        "目的地 destination 拼错",
+        "游客 tourist 与旅游 tour 混淆",
         "行李 luggage 不可数时误加复数 s 造成错误"
       ],
       "example": "[仿题]这是一段漫长旅程。\n解析：It is a long journey，journey 表旅程。",
