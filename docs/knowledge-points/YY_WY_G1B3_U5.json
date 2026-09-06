@@ -9,7 +9,7 @@
       "difficulty": 4,
       "frequency": 4,
       "typical_errors": [
-        "把过去分词主动义的词误用，Time was等结构混乱",
+        "把现在分词与过去分词作时间状语混用，主动被动关系判断反",
         "作时间状语时忘了省略状语从句主语与be",
         "把过去分词短语与其他非谓语形式混用分不清"
       ],
@@ -177,7 +177,7 @@
       "difficulty": 3,
       "frequency": 4,
       "typical_errors": [
-        "把determination误写成determined，词性混淆",
+        "把名词 determination（决心）与形容词 determined（坚决的）词性混用",
         "overcome过去式写成overcomed，未熟记变化",
         "obstacles单复数理解不当，误丢复数后缀"
       ],

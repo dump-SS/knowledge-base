@@ -174,7 +174,7 @@
       "difficulty": 3,
       "frequency": 4,
       "typical_errors": [
-        "把smartphone漏掉拼接为smartphoneer",
+        "把 smartphone 误拼成 smartphoneer 等多余后缀形式",
         "把automate误拼成automatee漏e",
         "把AI缩写与人工智能全称混用不清"
       ],

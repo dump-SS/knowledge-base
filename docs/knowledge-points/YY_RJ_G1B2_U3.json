@@ -154,8 +154,8 @@
       "difficulty": 2,
       "frequency": 3,
       "typical_errors": [
-        "download 与 load 单复数混淆",
-        "access 后误加介词，写成 access to 主动语态",
+        "把 download（下载）与 upload（上传）方向混淆",
+        "把 access 的名词用法（access to）与动词用法（直接接宾语）混用",
         "browse 拼写漏字母"
       ],
       "example": "[仿题]填空：下载文件用 ___（download/upload）。\n解析：下载用 download",

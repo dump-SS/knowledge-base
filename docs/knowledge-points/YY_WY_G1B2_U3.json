@@ -152,7 +152,7 @@
       "frequency": 4,
       "typical_errors": [
         "score 进球时误与 goal 搭配少一宾语造成残缺",
-        "训练 train 后误接原形而应区分配 as 结构",
+        "train 后搭配用错，误接动词原形而漏掉 for 或 to",
         "practise 后误接动词原形而应接动名词"
       ],
       "example": "[仿题]他进了一个球。\n解析：He scored a goal，score 后接宾语 goal。",

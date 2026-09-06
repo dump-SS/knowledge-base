@@ -104,7 +104,7 @@
       "frequency": 3,
       "typical_errors": [
         "把 were 提前倒装后遗漏后面的主语成份",
-        "误把 does 或 did 倒装而违反虚拟倒装规则",
+        "误虚拟倒装时误把 does/did 提前，应为 were/had/should 提前",
         "if 省略又同时保留 were 造成双重冗余"
       ],
       "example": "[仿题]若换了是你你会怎样。\n解析：Were I you, how would I act，省略 if 的倒装虚拟。",

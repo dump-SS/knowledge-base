@@ -84,7 +84,7 @@
       "typical_errors": [
         "定语从句却误用 that 充当成分不够时",
         "同位语从句把 that 误写成 which",
-        "type 混合宾语从句把可省的 that 乱省"
+        "混淆宾语从句（that 可省）与同位语从句（that 不可省），省略规则用反"
       ],
       "example": "[仿题]There is no doubt ______ he will win.\n解析：填 that，no doubt 后接 that 同位语。",
       "keywords": [

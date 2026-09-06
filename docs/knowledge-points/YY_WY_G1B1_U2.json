@@ -151,7 +151,7 @@
       "typical_errors": [
         "把 native speaker 误写成复数却保留单数含义",
         "表达外语误把 foreign language 与 second language 混用",
-        "口音 accent 与语言 accent 一词多义的选义失误"
+        "把 accent（口音）与 dialect（方言）混淆，选错词"
       ],
       "example": "[仿题]她说话带美国口音。\n解析：She speaks with an American accent，用 with 引出口音。",
       "keywords": [
@@ -263,9 +263,9 @@
       "typical_errors": [
         "忽略上下文直接套用该词最常用的第一义项",
         "读句子时没让多义词在语境中自洽就贸然下结论",
-        "混淆定义词 course 与当然表达场景的差异"
+        "把 course 的'课程'义与 of course 的'当然'语气混用"
       ],
-      "example": "[仿题]course 有时指课程有时表当然。\n解析：course 多义，依语境选义，如 the course of study 表示课程。",
+      "example": "[仿题]判断 course 含义：The course of study is hard.\n解析：此处 course 表'课程'，依语境选义。",
       "keywords": [
         "一词多义",
         "语境",
